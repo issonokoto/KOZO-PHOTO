@@ -36,6 +36,8 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 追加の9ポーズは元の人物画像を参照して生成した透過素材です。生成条件は [docs/pose-generation.md](docs/pose-generation.md) に記録しています。
 
+胸元の表記は、提供された元写真に合わせて上段「徳島県」、下段「クラゲ漁業組合」とします。素材を追加・修正する際は、胸元を拡大して全ての文字を確認してください。修正条件は [docs/lettering-correction.md](docs/lettering-correction.md) に記録しています。
+
 人物画像は公開サイトから読み込むため、利用者が素材を選ぶ必要はありません。画像を差し替える場合は、assets内の同名PNGを更新してください。
 
 ## 使い方

@@ -1,10 +1,14 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261011-twelve-poses';
-const CHARACTERS = BUNDLED_POSES.map(pose => ({
-  ...pose,
-  name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
-  src: new URL(pose.src, import.meta.url).href
-}));
+import { BUNDLED_POSES } from './poses.js?v=20261011-lettering';
+const CHARACTERS = BUNDLED_POSES.map(pose => {
+  const source = new URL(pose.src, import.meta.url);
+  if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', '20261011-lettering');
+  return {
+    ...pose,
+    name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
+    src: source.href
+  };
+});
 const $ = id => document.getElementById(id);
 const stage = $('camera-stage');
 const video = $('camera-video');

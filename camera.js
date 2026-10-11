@@ -87,11 +87,43 @@ function status(message, error = false) {
   $('camera-status').textContent = message;
   $('camera-status').classList.toggle('error', error);
 }
+function layerSizeLimits(id) {
+  return { min: texts.includes(id) ? .001 : .08, max: characters.includes(id) ? 6 : 1.1 };
+}
+function moveLayer(id, x, y) {
+  const layer = layers[id];
+  if (!characters.includes(id)) {
+    layer.x = clamp(x, 0, 1); layer.y = clamp(y, 0, 1);
+    return;
+  }
+  const bounds = stage.getBoundingClientRect();
+  const ratio = bounds.width / (bounds.height || bounds.width || 1);
+  const image = layer.element;
+  const aspect = (image.naturalHeight || image.height || 1) / (image.naturalWidth || image.width || 1);
+  const angle = layer.rotation * Math.PI / 180;
+  const cosine = Math.abs(Math.cos(angle)), sine = Math.abs(Math.sin(angle));
+  const halfWidth = layer.size * (cosine + sine * aspect) / 2;
+  const halfHeight = layer.size * ratio * (sine + cosine * aspect) / 2;
+  // The center can leave the frame for close-ups. Keep a small part reachable.
+  const visibleX = Math.min(.05, halfWidth), visibleY = Math.min(.05, halfHeight);
+  layer.x = clamp(x, visibleX - halfWidth, 1 + halfWidth - visibleX);
+  layer.y = clamp(y, visibleY - halfHeight, 1 + halfHeight - visibleY);
+}
+function resizeLayer(id, size) {
+  const limits = layerSizeLimits(id);
+  const layer = layers[id];
+  layer.size = clamp(size, limits.min, limits.max);
+  moveLayer(id, layer.x, layer.y);
+}
 function renderLayers() {
   const selected = layers[state.selected];
   $('layer-size').disabled = !selected;
   $('layer-rotation').disabled = !selected;
   if (selected) {
+    const limits = layerSizeLimits(state.selected);
+    $('layer-size').min = limits.min * 100;
+    $('layer-size').max = Math.round(limits.max * 100);
+    $('layer-size').step = texts.includes(state.selected) ? .1 : 1;
     $('layer-size').value = Math.round(selected.size * 100);
     $('size-value').textContent = Math.round(selected.size * 100) + '%';
     $('layer-rotation').value = Math.round(selected.rotation);
@@ -122,6 +154,7 @@ function syncControls() {
   $('flip-layer').disabled = !state.selected;
   $('remove-character').disabled = !characters.includes(state.selected) && !texts.includes(state.selected);
   $('edit-text').hidden = !texts.includes(state.selected);
+  $('reset-layer').hidden = !characters.includes(state.selected);
   $('selected-name').textContent = state.selected === 'logo' ? '名前' : layers[state.selected]?.element.alt || '幸造さんを選んでね';
   for (const button of document.querySelectorAll('#placed-characters button, #placed-texts button')) button.setAttribute('aria-pressed', String(button.dataset.layerId === state.selected));
 }
@@ -525,11 +558,10 @@ stage.addEventListener('keydown', event => {
     selectLayer(id);
     if (event.key === 'Delete') { removeCharacter(); return; }
     if (movement) {
-      layer.x = clamp(layer.x + movement[0], 0, 1);
-      layer.y = clamp(layer.y + movement[1], 0, 1);
+      moveLayer(id, layer.x + movement[0], layer.y + movement[1]);
     } else if (event.key === '[' || event.key === ']') {
       layer.rotation += event.key === '[' ? -5 : 5;
-    } else layer.size = clamp(layer.size * (event.key === '-' ? .95 : 1.05), texts.includes(id) ? .001 : .08, 1.1);
+    } else resizeLayer(id, layer.size * (event.key === '-' ? .95 : 1.05));
     renderLayers();
 });
 stage.addEventListener('pointermove', event => {
@@ -538,14 +570,16 @@ stage.addEventListener('pointermove', event => {
   const points = [...pointers.values()];
   const a = points[0], b = points[1] || a;
   const bounds = stage.getBoundingClientRect();
+  if (!bounds.width || !bounds.height) return;
   const layer = layers[gesture.id];
-  layer.x = clamp(gesture.x + ((a.x + b.x) / 2 - gesture.cx) / bounds.width, 0, 1);
-  layer.y = clamp(gesture.y + ((a.y + b.y) / 2 - gesture.cy) / bounds.height, 0, 1);
   if (points.length > 1 && gesture.distance > 0) {
-    layer.size = clamp(gesture.size * Math.hypot(b.x - a.x, b.y - a.y) / gesture.distance, texts.includes(gesture.id) ? .001 : .08, 1.1);
+    const limits = layerSizeLimits(gesture.id);
+    layer.size = clamp(gesture.size * Math.hypot(b.x - a.x, b.y - a.y) / gesture.distance, limits.min, limits.max);
     const degrees = gesture.rotation + (Math.atan2(b.y - a.y, b.x - a.x) - gesture.angle) * 180 / Math.PI;
     layer.rotation = ((degrees + 180) % 360 + 360) % 360 - 180;
   }
+  moveLayer(gesture.id, gesture.x + ((a.x + b.x) / 2 - gesture.cx) / bounds.width,
+    gesture.y + ((a.y + b.y) / 2 - gesture.cy) / bounds.height);
   renderLayers();
 });
 for (const eventName of ['pointerup', 'pointercancel', 'lostpointercapture']) stage.addEventListener(eventName, event => {
@@ -559,7 +593,7 @@ stage.addEventListener('wheel', event => {
   event.preventDefault();
   selectLayer(id);
   if (event.shiftKey) layers[id].rotation += event.deltaY > 0 ? 5 : -5;
-  else layers[id].size = clamp(layers[id].size * (event.deltaY > 0 ? .95 : 1.05), texts.includes(id) ? .001 : .08, 1.1);
+  else resizeLayer(id, layers[id].size * (event.deltaY > 0 ? .95 : 1.05));
   renderLayers();
 }, { passive: false });
 
@@ -778,7 +812,13 @@ $('pose-files').addEventListener('change', async event => {
   finally { $('import-poses').disabled = false; }
 });
 $('import-poses').addEventListener('click', () => $('pose-files').click());
-$('layer-size').addEventListener('input', event => { const layer = layers[state.selected]; if (layer) { clearGesture(); layer.size = Number(event.target.value) / 100; renderLayers(); } });
+$('reset-layer').addEventListener('click', () => {
+  if (!characters.includes(state.selected)) return;
+  clearGesture();
+  Object.assign(layers[state.selected], { x: .5, y: .62, size: .38, rotation: 0 });
+  renderLayers();
+});
+$('layer-size').addEventListener('input', event => { if (layers[state.selected]) { clearGesture(); resizeLayer(state.selected, Number(event.target.value) / 100); renderLayers(); } });
 $('layer-rotation').addEventListener('input', event => { const layer = layers[state.selected]; if (layer) { clearGesture(); layer.rotation = Number(event.target.value); renderLayers(); } });
 window.addEventListener('pagehide', () => { if (state.photoUrl) URL.revokeObjectURL(state.photoUrl); });
 

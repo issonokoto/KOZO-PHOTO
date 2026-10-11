@@ -8,7 +8,7 @@
   <title>KOZO PHOTO｜山仲幸造さんと記念写真</title>
   <link rel="icon" href="assets/favicon.svg">
   <link rel="stylesheet" href="camera.css">
-  <script type="module" src="camera.js"></script>
+  <script type="module" src="camera.js?v=20261011-closeup"></script>
 </head>
 <body>
   <header class="camera-header"><div><h1>KOZO PHOTO</h1><p>山仲幸造さんと、記念写真。</p></div></header>
@@ -68,13 +68,14 @@
           <button id="flip-layer" class="secondary-button" type="button">左右反転</button>
           <button id="remove-character" class="secondary-button" type="button">削除</button>
         </div>
-        <div class="slider-controls"><label for="layer-size">サイズ</label><input id="layer-size" type="range" min="8" max="100" value="38"><output id="size-value">38%</output><label for="layer-rotation">回転</label><input id="layer-rotation" type="range" min="-180" max="180" value="0"><output id="rotation-value">0°</output></div>
+        <div class="slider-controls"><label for="layer-size">サイズ</label><input id="layer-size" type="range" min="8" max="600" value="38"><output id="size-value">38%</output><label for="layer-rotation">回転</label><input id="layer-rotation" type="range" min="-180" max="180" value="0"><output id="rotation-value">0°</output></div>
         <div class="logo-controls">
+          <button id="reset-layer" class="secondary-button" type="button" hidden>全身に戻す</button>
           <button id="select-logo" type="button" aria-pressed="false">名前を編集</button>
           <label class="check-row"><input id="show-logo" type="checkbox">名前を入れる</label>
           <label class="check-row"><input id="mirror-selfie" type="checkbox" checked>自撮り鏡表示</label>
         </div>
-        <p class="tool-help">プレビューで指1本で移動・2本で拡大／回転できます。</p>
+        <p class="tool-help">指1本で移動・2本で拡大／回転。幸造さんは600％まで拡大でき、画面の外へ動かして肩から上や顔だけを写せます。</p>
       </section>
     </aside>
   </main>

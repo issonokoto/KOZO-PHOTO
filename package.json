@@ -1,0 +1,1 @@
+{"name":"kozo-photo","version":"0.1.1","private":true,"type":"module","scripts":{"start":"node server.mjs","check":"node scripts/check.mjs","assets":"node scripts/install-assets.mjs","build":"node scripts/build-standalone.mjs"}}

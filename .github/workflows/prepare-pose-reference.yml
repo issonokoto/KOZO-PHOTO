@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Read public original portrait
+      - name: Read public original portraits
         run: |
-          printf 'KOZO_REFERENCE_START\n'
-          base64 -w 0 assets/001.png
-          printf '\nKOZO_REFERENCE_END\n'
+          for file in assets/002.png assets/003.png; do
+            printf 'KOZO_FILE_%s\n' "$file"
+            base64 -w 0 "$file"
+            printf '\nKOZO_FILE_END\n'
+          done

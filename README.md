@@ -17,7 +17,7 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 ## 人物画像
 
-現在、人物PNGのコミットは確認できていません。透明背景の3枚を次の場所に追加してください。`poses.js` はこの配置を読み込む設定です。
+透明背景の人物PNG3枚を同梱しています。`poses.js` は次の画像を自動で読み込む設定です。
 
 | ポーズ | リポジトリ内のパス |
 | --- | --- |
@@ -25,7 +25,7 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 | ピース | `assets/002.png` |
 | サムズアップ | `assets/003.png` |
 
-[assetsフォルダー](https://github.com/issonokoto/KOZO-PHOTO/tree/main/assets) で **Add file → Upload files** を選び、3枚を追加して **Commit changes** まで進めてください。画像がコミットされると、利用者が素材を選ぶ必要はなくなります。
+人物画像は公開サイトから読み込むため、利用者が素材を選ぶ必要はありません。画像を差し替える場合は、assets内の同名PNGを更新してください。
 
 ## 使い方
 

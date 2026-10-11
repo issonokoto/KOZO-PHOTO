@@ -1,0 +1,17 @@
+name: Prepare KOZO pose reference
+on:
+  push:
+    paths:
+      - .github/workflows/prepare-pose-reference.yml
+permissions:
+  contents: read
+jobs:
+  reference:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read public original portrait
+        run: |
+          printf 'KOZO_REFERENCE_START\n'
+          base64 -w 0 assets/001.png
+          printf '\nKOZO_REFERENCE_END\n'

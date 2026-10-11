@@ -1,14 +1,10 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js';
-const CHARACTERS = [
- {id:'smile', name:'笑顔', src:null},
- {id:'peace', name:'ピース', src:null},
- {id:'thumb', name:'サムズアップ', src:null}
-];
-for (const pose of CHARACTERS) {
-  const bundled = BUNDLED_POSES.find(item => item.id === pose.id);
-  if (bundled) pose.src = new URL(bundled.src, import.meta.url).href;
-}
+import { BUNDLED_POSES } from './poses.js?v=20261011-six-poses';
+const CHARACTERS = BUNDLED_POSES.map(pose => ({
+  ...pose,
+  name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
+  src: new URL(pose.src, import.meta.url).href
+}));
 const $ = id => document.getElementById(id);
 const stage = $('camera-stage');
 const video = $('camera-video');
@@ -161,12 +157,13 @@ function syncControls() {
 function renderCharacters() {
   const list = $('character-list');
   list.replaceChildren();
+  $('pose-count').textContent = `${CHARACTERS.length}種類`;
   for (const character of CHARACTERS) {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'character-choice';
     button.dataset.characterId = character.id;
-    button.setAttribute('aria-label', `${character.name}を追加`);
+    button.setAttribute('aria-label', `${character.name}に切り替える`);
     const image = new Image();
     if (character.src) image.src = character.src;
     else { image.src = './assets/pose-placeholder.svg'; button.disabled = true; }
@@ -793,7 +790,8 @@ $('pose-files').addEventListener('change', async event => {
     const assignments = new Map();
     for (const file of files) {
       const name = file.name;
-      const id = /サムズ|親指|thumb/i.test(name) ? 'thumb' : /ピース|peace/i.test(name) ? 'peace' : /笑顔|老紳士|smile/i.test(name) ? 'smile' : null;
+      const aliases = { smile: /笑顔|老紳士|smile|^001\.png$/i, peace: /ピース|peace|^002\.png$/i, thumb: /サムズ|親指|thumb|^003\.png$/i, wave: /手を振る|手振り|wave/i, bow: /おじぎ|お辞儀|bow/i, guide: /案内|guide/i };
+      const id = CHARACTERS.find(pose => aliases[pose.id]?.test(name) || name.toLowerCase().includes(pose.id.toLowerCase()) || name.includes(pose.name))?.id;
       if (id && !assignments.has(id)) assignments.set(id, file);
       else {
         const available = CHARACTERS.find(pose => !assignments.has(pose.id));

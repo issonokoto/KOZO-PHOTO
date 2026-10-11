@@ -5,7 +5,7 @@ import {fileURLToPath} from 'node:url';
 import {BUNDLED_POSES} from '../poses.js';
 const root=fileURLToPath(new URL('../',import.meta.url));
 let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
-let js=fs.readFileSync(path.join(root,'camera.js'),'utf8').replace("import { renderTextCanvas } from './text.js';",'').replace("import { BUNDLED_POSES } from './poses.js';",'');
+let js=fs.readFileSync(path.join(root,'camera.js'),'utf8').replace("import { renderTextCanvas } from './text.js';",'').replace(/import \{ BUNDLED_POSES \} from '\.\/poses\.js(?:\?[^']*)?';/,'');
 const poses=BUNDLED_POSES.map(pose=>({...pose,src:'data:image/png;base64,'+fs.readFileSync(path.join(root,pose.src)).toString('base64')}));
 const text=fs.readFileSync(path.join(root,'text.js'),'utf8').replaceAll('export ','');
 const css=fs.readFileSync(path.join(root,'camera.css'),'utf8');

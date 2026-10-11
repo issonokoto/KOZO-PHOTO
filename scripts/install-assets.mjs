@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {BUNDLED_POSES} from '../poses.js';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const source=path.resolve(process.argv[2]||path.join(root,'incoming'));
 const pngFiles=fs.readdirSync(source,{withFileTypes:true}).filter(f=>f.isFile()&&/\.png$/i.test(f.name)).map(f=>f.name);
@@ -17,6 +18,7 @@ const chosen=definitions.map(pose=>{
  return {...pose,bytes};
 });
 for(const pose of chosen)fs.writeFileSync(path.join(root,'assets','kozo-'+pose.id+'.png'),pose.bytes);
-const manifest=chosen.map(pose=>({id:pose.id,src:'./assets/kozo-'+pose.id+'.png'}));
+const replaced=new Set(chosen.map(pose=>pose.id));
+const manifest=[...chosen.map(pose=>({id:pose.id,name:pose.name,src:'./assets/kozo-'+pose.id+'.png'})),...BUNDLED_POSES.filter(pose=>!replaced.has(pose.id))];
 fs.writeFileSync(path.join(root,'poses.js'),'export const BUNDLED_POSES = '+JSON.stringify(manifest,null,2)+';\n');
 console.log('幸造さんの3ポーズを組み込みました。npm run build で単体版を更新できます。');

@@ -17,13 +17,18 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 ## 人物画像
 
-透明背景の人物PNG3枚を同梱しています。`poses.js` は次の画像を自動で読み込む設定です。
+人物PNG6枚を同梱しています。`poses.js` は次の画像を自動で読み込む設定です。
 
 | ポーズ | リポジトリ内のパス |
 | --- | --- |
 | 笑顔 | `assets/001.png` |
 | ピース | `assets/002.png` |
 | サムズアップ | `assets/003.png` |
+| 手を振る | `assets/kozo-wave.png` |
+| おじぎ | `assets/kozo-bow.png` |
+| 案内 | `assets/kozo-guide.png` |
+
+追加の3ポーズは元の人物画像を参照して生成した透過素材です。生成条件は [docs/pose-generation.md](docs/pose-generation.md) に記録しています。
 
 人物画像は公開サイトから読み込むため、利用者が素材を選ぶ必要はありません。画像を差し替える場合は、assets内の同名PNGを更新してください。
 
@@ -31,7 +36,7 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 1. 公開URLをスマートフォンで開きます。
 2. 「カメラを開く」で撮影するか、「写真を選ぶ」で背景を選びます。
-3. 笑顔・ピース・サムズアップを選び、人物を配置します。
+3. 6種類のポーズから選び、人物を配置します。ポーズを切り替えても配置・大きさ・回転は引き継ぎます。
 4. 指1本で移動、指2本で拡大・回転。PCではホイールで拡大縮小、Shift＋ホイールで回転できます。
 5. シャッター／「保存」で写真を保存します。対応端末では共有メニューも使えます。
 
@@ -41,7 +46,7 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 Node.jsで `npm run check` を実行すると、JavaScriptの構文と画面要素の参照を確認できます。
 
-別名のPNGを組み込む場合は、3枚を `incoming` フォルダーへ置いて `npm run assets` を実行してください。「老紳士」「ピース」「親指」などのファイル名、または `001.png`、`002.png`、`003.png` から判別し、画像と `poses.js` を更新します。
+別名のPNGで元の3ポーズを差し替える場合は、3枚を `incoming` フォルダーへ置いて `npm run assets` を実行してください。「老紳士」「ピース」「親指」などのファイル名、または `001.png`、`002.png`、`003.png` から判別し、画像と `poses.js` を更新します。追加のポーズは保持します。ポーズをさらに増やす場合はPNGを `assets` に置き、`poses.js` に `id`、`name`、`src` を追加します。
 
 `npm run build` は、人物画像を配置したあとに、オフライン利用向けの `KOZO_PHOTO.html` を生成する追加機能です。GitHub Pagesの公開には不要です。
 

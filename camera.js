@@ -1,5 +1,5 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261011-six-poses';
+import { BUNDLED_POSES } from './poses.js?v=20261011-twelve-poses';
 const CHARACTERS = BUNDLED_POSES.map(pose => ({
   ...pose,
   name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
@@ -157,6 +157,7 @@ function syncControls() {
 function renderCharacters() {
   const list = $('character-list');
   list.replaceChildren();
+  list.classList.toggle('many-poses', CHARACTERS.length > 9);
   $('pose-count').textContent = `${CHARACTERS.length}種類`;
   for (const character of CHARACTERS) {
     const button = document.createElement('button');
@@ -790,7 +791,7 @@ $('pose-files').addEventListener('change', async event => {
     const assignments = new Map();
     for (const file of files) {
       const name = file.name;
-      const aliases = { smile: /笑顔|老紳士|smile|^001\.png$/i, peace: /ピース|peace|^002\.png$/i, thumb: /サムズ|親指|thumb|^003\.png$/i, wave: /手を振る|手振り|wave/i, bow: /おじぎ|お辞儀|bow/i, guide: /案内|guide/i };
+      const aliases = { smile: /笑顔|老紳士|smile|^001\.png$/i, peace: /ピース|peace|^002\.png$/i, thumb: /サムズ|親指|thumb|^003\.png$/i, wave: /手を振る|手振り|wave/i, bow: /おじぎ|お辞儀|bow/i, guide: /案内|guide/i, cheer: /ガッツ|cheer/i, point: /指さし|指差し|point/i, welcome: /両手|歓迎|welcome/i, heart: /ハート|heart/i, salute: /敬礼|salute/i, 'arms-crossed': /腕組み|arms.crossed/i };
       const id = CHARACTERS.find(pose => aliases[pose.id]?.test(name) || name.toLowerCase().includes(pose.id.toLowerCase()) || name.includes(pose.name))?.id;
       if (id && !assignments.has(id)) assignments.set(id, file);
       else {

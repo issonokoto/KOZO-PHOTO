@@ -17,7 +17,7 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 ## 人物画像
 
-人物PNG6枚を同梱しています。`poses.js` は次の画像を自動で読み込む設定です。
+人物PNG12枚を同梱しています。`poses.js` は次の画像を自動で読み込む設定です。
 
 | ポーズ | リポジトリ内のパス |
 | --- | --- |
@@ -27,8 +27,14 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 | 手を振る | `assets/kozo-wave.png` |
 | おじぎ | `assets/kozo-bow.png` |
 | 案内 | `assets/kozo-guide.png` |
+| ガッツポーズ | `assets/kozo-cheer.png` |
+| 指さし | `assets/kozo-point.png` |
+| 両手を広げる | `assets/kozo-welcome.png` |
+| ハート | `assets/kozo-heart.png` |
+| 敬礼 | `assets/kozo-salute.png` |
+| 腕組み | `assets/kozo-arms-crossed.png` |
 
-追加の3ポーズは元の人物画像を参照して生成した透過素材です。生成条件は [docs/pose-generation.md](docs/pose-generation.md) に記録しています。
+追加の9ポーズは元の人物画像を参照して生成した透過素材です。生成条件は [docs/pose-generation.md](docs/pose-generation.md) に記録しています。
 
 人物画像は公開サイトから読み込むため、利用者が素材を選ぶ必要はありません。画像を差し替える場合は、assets内の同名PNGを更新してください。
 
@@ -36,7 +42,7 @@ GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
 1. 公開URLをスマートフォンで開きます。
 2. 「カメラを開く」で撮影するか、「写真を選ぶ」で背景を選びます。
-3. 6種類のポーズから選び、人物を配置します。ポーズを切り替えても配置・大きさ・回転は引き継ぎます。
+3. 12種類のポーズから選び、人物を配置します。ポーズを切り替えても配置・大きさ・回転は引き継ぎます。スマートフォンでは素材欄を上下にスクロールして、すべてのポーズを選べます。
 4. 指1本で移動、指2本で拡大・回転。PCではホイールで拡大縮小、Shift＋ホイールで回転できます。
 5. シャッター／「保存」で写真を保存します。対応端末では共有メニューも使えます。
 

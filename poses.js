@@ -7,4 +7,10 @@ export const BUNDLED_POSES = [
   { id: 'wave', name: '手を振る', src: './assets/kozo-wave.png' },
   { id: 'bow', name: 'おじぎ', src: './assets/kozo-bow.png' },
   { id: 'guide', name: '案内', src: './assets/kozo-guide.png' },
+  { id: 'cheer', name: 'ガッツポーズ', src: './assets/kozo-cheer.png' },
+  { id: 'point', name: '指さし', src: './assets/kozo-point.png' },
+  { id: 'welcome', name: '両手を広げる', src: './assets/kozo-welcome.png' },
+  { id: 'heart', name: 'ハート', src: './assets/kozo-heart.png' },
+  { id: 'salute', name: '敬礼', src: './assets/kozo-salute.png' },
+  { id: 'arms-crossed', name: '腕組み', src: './assets/kozo-arms-crossed.png' },
 ];

@@ -16,7 +16,7 @@ for(const file of ['pose-placeholder.svg','name.svg','favicon.svg']){
 const script='const BUNDLED_POSES = '+JSON.stringify(poses)+';\n'+text+'\n'+js;
 const check=spawnSync(process.execPath,['--input-type=module','--check'],{input:script,encoding:'utf8'});
 if(check.status!==0)throw new Error(check.stderr);
-html=html.replace('<link rel="stylesheet" href="camera.css">','<style>'+css+'</style>').replace(/<script type="module" src="camera\.js(?:\?[^\"]*)?"><\/script>/,'');
+html=html.replace(/<link rel="stylesheet" href="camera\.css(?:\?[^\"]*)?">/,'<style>'+css+'</style>').replace(/<script type="module" src="camera\.js(?:\?[^\"]*)?"><\/script>/,'');
 html=html.replace('</body>','<script type="module">'+script.replaceAll('</script','<\\/script')+'</script></body>');
 fs.writeFileSync(path.join(root,'KOZO_PHOTO.html'),html);
 console.log('KOZO_PHOTO.html を作成しました。人物素材: '+poses.length+'枚');

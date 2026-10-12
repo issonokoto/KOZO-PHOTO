@@ -34,6 +34,7 @@ let nextTextId = 1;
 let nextCharacterId = 1;
 const state = { selected: null, mode: 'camera', backgroundUrl: null, backgroundType: 'image/jpeg', backgroundSequence: 0, overlaySequence: 0, overlayLoading: false, facing: 'environment', stream: null, opening: false, captureBusy: false, captureSequence: 0, shapeSequence: 0, shapeLoading: false, sequence: 0, blob: null, photoUrl: null, fileName: '' };
 let currentPose = null;
+let lastCapturePose = null;
 let poseLayer = null;
 let poseSelectionSequence = 0;
 const POSE_PAGE_SIZE = 24;
@@ -227,11 +228,18 @@ $('clear-pose-search').addEventListener('click', () => {
   $('pose-search').value = ''; $('pose-category').value = ''; filterPoses(); $('pose-search').focus({preventScroll: true});
 });
 $('more-poses').addEventListener('click', () => { poseLimit += POSE_PAGE_SIZE; renderCharacters(); });
+function chooseRandomPose(poses, previous = currentPose) {
+  const candidates = poses.filter(pose => pose.id !== previous);
+  const choices = candidates.length ? candidates : poses;
+  return choices[Math.floor(Math.random() * choices.length)];
+}
 $('random-pose').addEventListener('click', () => {
-  const matches = filteredPoses();
-  const candidates = matches.filter(pose => pose.id !== currentPose);
-  const choices = candidates.length ? candidates : matches;
-  if (choices.length) selectPose(choices[Math.floor(Math.random() * choices.length)]);
+  const pose = chooseRandomPose(filteredPoses());
+  if (pose) selectPose(pose);
+});
+$('random-on-capture').addEventListener('change', () => {
+  updateShutterLabel();
+  status($('random-on-capture').checked ? '撮るまで衣装はお楽しみ。位置・大きさは今の幸造さんに合わせてください。' : '選んだ幸造さんと一緒に撮れます。');
 });
 function renderPlacements() {
   const list = $('placed-characters');
@@ -357,8 +365,7 @@ function setSourceMode(mode) {
   video.hidden = mode === 'image';
   $('use-camera').setAttribute('aria-pressed', String(mode === 'camera'));
   $('choose-background').setAttribute('aria-pressed', String(mode === 'image'));
-  $('capture-photo').setAttribute('aria-label', mode === 'image' ? '合成画像を作る' : '写真を撮る');
-  $('capture-photo').querySelector('span').textContent = mode === 'image' ? '完成' : '';
+  updateShutterLabel();
   $('switch-camera').textContent = mode === 'image' ? '画像を変更' : state.facing === 'user' ? '↻ アウトカメラへ' : '↻ インカメラへ';
   $('switch-camera').disabled = mode === 'camera' && !state.stream;
   $('mirror-selfie').disabled = mode === 'image';
@@ -494,6 +501,11 @@ async function openCamera(facing = state.facing, exact = false) {
 
 // One shared layer transform drives the preview and exported image. Normalize
 // positions to the stage so resizing or device rotation doesn't alter placement.
+function updateShutterLabel() {
+  const random = $('random-on-capture').checked;
+  $('capture-photo').setAttribute('aria-label', random ? 'ランダムの幸造さんと一緒に撮る' : state.mode === 'image' ? '合成画像を作る' : '写真を撮る');
+  $('capture-photo').querySelector('span').textContent = random ? 'おまかせ' : state.mode === 'image' ? '完成' : '';
+}
 function drawLayer(context, layer, width, height) {
   const image = layer.element;
   if (image.hidden) return;
@@ -519,6 +531,8 @@ async function capturePhoto() {
   if (state.photoUrl) URL.revokeObjectURL(state.photoUrl);
   state.photoUrl = null;
   state.blob = null;
+  const layout = document.querySelector('.camera-layout');
+  layout.inert = true;
   try {
     clearGesture();
     const bounds = stage.getBoundingClientRect();
@@ -541,7 +555,25 @@ async function capturePhoto() {
     if (!fromImage && state.facing === 'user' && $('mirror-selfie').checked) { context.translate(canvas.width, 0); context.scale(-1, 1); }
     context.drawImage(source, (fullWidth - sourceWidth) / 2, (fullHeight - sourceHeight) / 2, sourceWidth, sourceHeight, 0, 0, canvas.width, canvas.height);
     context.restore();
-    for (const id of [...characters, ...texts]) drawLayer(context, layers[id], canvas.width, canvas.height);
+    let randomPose = null;
+    let randomLayer = null;
+    if ($('random-on-capture').checked) {
+      if (!poseLayer || !layers[poseLayer]) throw new Error('ランダムで撮るには、幸造さんを1人配置してください。');
+      randomPose = chooseRandomPose(CHARACTERS.filter(pose => pose.src), lastCapturePose || currentPose);
+      if (!randomPose) throw new Error('素材を読み込んでから、もう一度撮影してください。');
+      status('撮った写真に、幸造さんが登場します…');
+      const image = new Image(); image.src = randomPose.src;
+      let timer;
+      try {
+        await Promise.race([image.decode(), new Promise((resolve, reject) => { timer = setTimeout(() => reject(new Error('timeout')), 12000); })]);
+      } catch { throw new Error('ランダム素材を開けませんでした。もう一度撮影してください。'); }
+      finally { clearTimeout(timer); }
+      if (sequence !== state.captureSequence) return;
+      // The user's frame was frozen at the shutter press, before image loading.
+      // Substitute only the exported Kozo layer; keep the placement preview intact.
+      randomLayer = {...layers[poseLayer], element: image};
+    }
+    for (const id of [...characters, ...texts]) drawLayer(context, id === poseLayer && randomLayer ? randomLayer : layers[id], canvas.width, canvas.height);
     drawLayer(context, layers.logo, canvas.width, canvas.height);
     drawCredit(context, canvas.width, canvas.height);
     // Paint the frozen, fully composed frame before any JPEG encoding. Keep
@@ -558,7 +590,8 @@ async function capturePhoto() {
     state.photoUrl = URL.createObjectURL(blob);
     const stamp = new Date().toISOString().replace(/[:.]/g, '-');
     state.fileName = `kozo-photo-${fromImage ? 'image' : 'camera'}-${stamp}.${outputType === 'image/png' ? 'png' : 'jpg'}`;
-    $('photo-status').textContent = `${canvas.width} × ${canvas.height}px・iPhoneでは共有メニューから写真に保存できます。`;
+    if (randomPose) lastCapturePose = randomPose.id;
+    $('photo-status').textContent = `${randomPose ? '今回の幸造さん：' + randomPose.name + ' · ' : ''}${canvas.width} × ${canvas.height}px・iPhoneでは共有メニューから写真に保存できます。`;
     const file = new File([blob], state.fileName, { type: blob.type });
     $('share-photo').hidden = !(navigator.share && navigator.canShare?.({ files: [file] }));
     $('save-photo').disabled = false;
@@ -569,6 +602,7 @@ async function capturePhoto() {
     if ($('photo-dialog').open) $('photo-status').textContent = `${message}「撮り直す」で再度お試しください。`;
     else status(message, true);
   } finally {
+    layout.inert = false;
     if (sequence === state.captureSequence) {
       state.captureBusy = false;
       $('capture-photo').disabled = !sourceReady();

@@ -276,6 +276,8 @@ button:disabled{opacity:.5}
 .check-row input{accent-color:#216a51}
 dialog{background:#fff;color:#18302c;border-color:#cbd7d0}
 dialog::backdrop{background:#18302c88}
+.photo-dialog{background:#fff;color:#18302c;border-color:#cbd7d0}
+.photo-dialog::backdrop{background:#18302c88}
 .dialog-heading h2{color:#18302c}
 .text-options select,.text-options input,.text-content-label textarea{color:#18302c;background:#fff;border-color:#cbd7d0}
 .text-preview-box{background:#e6eee9;border-color:#cbd7d0}

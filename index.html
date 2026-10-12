@@ -7,8 +7,8 @@
   <meta name="description" content="徳島県クラゲ漁業組合 組合長 山仲幸造さんと、一緒に記念写真。カメラや手持ちの写真に合成して保存できます。">
   <title>KOZO PHOTO｜山仲幸造さんと記念写真</title>
   <link rel="icon" href="assets/favicon.svg">
-  <link rel="stylesheet" href="camera.css?v=20261012-library">
-  <script type="module" src="camera.js?v=20261012-library"></script>
+  <link rel="stylesheet" href="camera.css?v=20261012-random">
+  <script type="module" src="camera.js?v=20261012-random"></script>
 </head>
 <body>
   <header class="camera-header"><div><h1>KOZO PHOTO</h1><p>山仲幸造さんと、記念写真。</p></div></header>
@@ -56,6 +56,8 @@
           <label for="pose-category">ジャンル<select id="pose-category"><option value="">すべて</option></select></label>
         </div>
         <div class="pose-results"><span id="pose-result-count" role="status" aria-live="polite"></span><button id="random-pose" type="button">おまかせで選ぶ</button></div>
+        <label class="check-row"><input id="random-on-capture" type="checkbox">撮るたびにランダム</label>
+        <p class="tool-help">全素材から撮影時に選びます。位置・大きさ・回転はそのまま。どの幸造さんが来るかは、撮ってからのお楽しみ。</p>
         <div id="character-list" class="character-list" role="group" aria-label="山仲幸造さんのポーズ"></div>
         <div id="pose-empty" class="pose-empty" hidden><p>見つかりませんでした。</p><button id="clear-pose-search" type="button">検索とジャンルを戻す</button></div>
         <button id="more-poses" class="more-poses" type="button" hidden>もっと見る</button>

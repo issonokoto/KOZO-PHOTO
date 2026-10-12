@@ -1,4 +1,4 @@
-# KOZO PHOTO
+# KOHZO PHOTO
 
 徳島県クラゲ漁業組合 組合長 山仲幸造さんと、一緒に記念写真を撮るWebアプリ。
 
@@ -62,7 +62,7 @@ Node.jsで `npm run check` を実行すると、JavaScriptの構文と画面要�
 
 別名のPNGで元の3ポーズを差し替える場合は、3枚を `incoming` フォルダーへ置いて `npm run assets` を実行してください。「老紳士」「ピース」「親指」などのファイル名、または `001.png`、`002.png`、`003.png` から判別します。追加素材とそのジャンル・タグは保持します。さらに増やす場合は透過PNGまたはWebPを `assets` に置き、`poses.js` に `id`、`name`、`category`、`tags`、`src`、一覧用の `thumbnail` を追加します。[素材の条件と読み込み](docs/material-library.md) を参照してください。
 
-`npm run build` は、人物画像を配置したあとに、オフライン利用向けの `KOZO_PHOTO.html` を生成する追加機能です。GitHub Pagesの公開には不要です。
+`npm run build` は、人物画像を配置したあとに、オフライン利用向けの `KOHZO_PHOTO.html` を生成する追加機能です。GitHub Pagesの公開には不要です。
 
 元の [dokodemo-nauru](https://github.com/issonokoto/dokodemo-nauru) のカメラ処理を基に独立させました。カメラ、写真読み込み、人物の配置、文字入れ、保存・共有に対応しています。
 

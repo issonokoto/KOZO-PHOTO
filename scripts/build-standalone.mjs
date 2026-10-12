@@ -23,5 +23,5 @@ const check=spawnSync(process.execPath,['--input-type=module','--check'],{input:
 if(check.status!==0)throw new Error(check.stderr);
 html=html.replace(/<link rel="stylesheet" href="camera\.css(?:\?[^\"]*)?">/,'<style>'+css+'</style>').replace(/<script type="module" src="camera\.js(?:\?[^\"]*)?"><\/script>/,'');
 html=html.replace('</body>','<script type="module">'+script.replaceAll('</script','<\\/script')+'</script></body>');
-fs.writeFileSync(path.join(root,'KOZO_PHOTO.html'),html);
-console.log('KOZO_PHOTO.html を作成しました。人物素材: '+poses.length+'枚');
+fs.writeFileSync(path.join(root,'KOHZO_PHOTO.html'),html);
+console.log('KOHZO_PHOTO.html を作成しました。人物素材: '+poses.length+'枚');

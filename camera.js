@@ -589,7 +589,7 @@ async function capturePhoto() {
     state.blob = blob;
     state.photoUrl = URL.createObjectURL(blob);
     const stamp = new Date().toISOString().replace(/[:.]/g, '-');
-    state.fileName = `kozo-photo-${fromImage ? 'image' : 'camera'}-${stamp}.${outputType === 'image/png' ? 'png' : 'jpg'}`;
+    state.fileName = `kohzo-photo-${fromImage ? 'image' : 'camera'}-${stamp}.${outputType === 'image/png' ? 'png' : 'jpg'}`;
     if (randomPose) lastCapturePose = randomPose.id;
     $('photo-status').textContent = `${randomPose ? '今回の幸造さん：' + randomPose.name + ' · ' : ''}${canvas.width} × ${canvas.height}px・iPhoneでは共有メニューから写真に保存できます。`;
     const file = new File([blob], state.fileName, { type: blob.type });
@@ -796,7 +796,7 @@ $('save-photo').addEventListener('click', () => {
 $('share-photo').addEventListener('click', async () => {
   if (!state.blob) return;
   try {
-    await navigator.share({ files: [new File([state.blob], state.fileName, { type: state.blob.type })], title: 'KOZO PHOTO｜山仲幸造さんと記念写真' });
+    await navigator.share({ files: [new File([state.blob], state.fileName, { type: state.blob.type })], title: 'KOHZO PHOTO｜山仲幸造さんと記念写真' });
   } catch (error) { if (error.name !== 'AbortError') $('photo-status').textContent = '共有できませんでした。「画像を保存」をお使いください。'; }
 });
 document.addEventListener('visibilitychange', () => {

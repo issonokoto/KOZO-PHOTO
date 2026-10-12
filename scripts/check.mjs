@@ -12,11 +12,17 @@ const js=fs.readFileSync(new URL('../camera.js',import.meta.url),'utf8');
 const missing=[...js.matchAll(/\$\('([^']+)'\)/g)].map(m=>m[1]).filter(id=>!html.includes('id="'+id+'"'));
 if(missing.length)throw new Error('Missing DOM elements: '+[...new Set(missing)].join(', '));
 const ids=new Set();
+function checkImage(file){
+ const bytes=fs.readFileSync(new URL('../'+file,import.meta.url));
+ const png=bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10]));
+ const webp=bytes.subarray(0,4).toString()==='RIFF'&&bytes.subarray(8,12).toString()==='WEBP';
+ if(!png&&!webp)throw new Error('Invalid image: '+file);
+}
 for(const pose of BUNDLED_POSES){
  if(ids.has(pose.id))throw new Error('Duplicate pose: '+pose.id);
  ids.add(pose.id);
- const bytes=fs.readFileSync(new URL('../'+pose.src,import.meta.url));
- if(!bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10])))throw new Error('Invalid PNG: '+pose.src);
+ checkImage(pose.src);
+ if(pose.thumbnail)checkImage(pose.thumbnail);
 }
 console.log('JavaScript構文と画面要素の参照を確認しました。');
 console.log('人物素材: '+BUNDLED_POSES.length+'ポーズを確認しました。');

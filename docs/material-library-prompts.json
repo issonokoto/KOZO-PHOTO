@@ -1,0 +1,1105 @@
+{
+  "basePrompt": "Use case: identity-preserve.\nAsset type: KOZO PHOTO camera app, one reusable transparent full-body person cutout that visitors place beside themselves in their own photo. NOT a complete scene or background.\nInput image 1 is the sole identity reference: Yamanka Kozo, the SAME friendly elderly Japanese man. Match his face, aged skin, eyes, smile, grey hair, age, and natural body proportions closely.\nPrimary request: create ONE photorealistic studio photograph of this man in the specific absurd outfit/pose described below. Surreal premise, believable real photography and physical textures, never illustration, cartoon, game render or plastic face.\nComposition: include his whole head, both hands, both feet and all props, with a little clear margin around all edges. One person only. Face looking toward camera, like joining a group photo. Keep props around his own body; don't fill the whole canvas with a landscape. Clean isolated silhouette on a GENUINELY TRANSPARENT background (alpha), including spaces between legs, fingers and props. Neutral soft daylight, sharp face, realistic fabric and elderly hands. No floor, no backdrop, no cast shadow outside the cutout. No captions, labels, watermark, added people, frame or grid.\nWardrobe: preserve his recognizable navy fishing cap unless the specific outfit calls for another headwear. For any visible pale sage green polo, its left breast embroidery MUST have exactly two navy blue lines: upper \"徳島県\", lower \"クラゲ漁業組合\". Spell the lower line exactly ク・ラ・ゲ・漁・業・組・合; ゲ is ケ with dakuten, NEVER ブ. Crisp correct Japanese lettering. Outfits which cover the polo should have plain fabric with no invented insignia or words. Avoid other text.\nSpecific cutout: ",
+  "reference": "assets/001.png",
+  "entries": [
+    {
+      "id": "jellyfish-umbrella",
+      "name": "クラゲの傘",
+      "category": "クラゲ・海",
+      "tags": [
+        "傘",
+        "雨",
+        "巨大クラゲ"
+      ],
+      "spec": "Standing upright in his original sage polo, cream pants and black shoes, holding a fantastically large translucent moon-jellyfish shaped umbrella over his head by a simple curved handle. The jellyfish bell is translucent pearl with delicate pale blue trailing tentacles around the umbrella rim, readable as a real physical clear umbrella prop photographed in daylight. Face visible, correct breast text fully visible, umbrella tilted slightly to keep space beside him. Full body and complete umbrella."
+    },
+    {
+      "id": "jellyfish-ring",
+      "name": "クラゲの浮き輪",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "クラゲの浮き輪",
+        "海水浴",
+        "浮き輪"
+      ],
+      "spec": "His original polo and cream trousers; smiling inside an enormous translucent jellyfish-shaped swim ring at his waist, with short blue jellyfish tentacles, arms relaxed outside ring. Entire ring and full body visible."
+    },
+    {
+      "id": "jellyfish-backpack",
+      "name": "クラゲを背負う",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "クラゲを背負う"
+      ],
+      "spec": "His original clothes, carrying a massive clear jellyfish-shaped backpack, bell visible above his shoulder, translucent tentacles hanging along his sides without hiding face or breast text. Cheerful full-body hiking photo pose."
+    },
+    {
+      "id": "captain-wheel",
+      "name": "船長と巨大舵輪",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "船長と巨大舵輪"
+      ],
+      "spec": "White generic ship captain uniform and cap, smiling while holding a ludicrously large polished wooden ship steering wheel upright beside him. Whole wheel and feet visible."
+    },
+    {
+      "id": "deep-diver",
+      "name": "昔の潜水服",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "昔の潜水服",
+        "潜水",
+        "ダイバー"
+      ],
+      "spec": "Realistic antique copper-helmet deep diving suit with weighted boots; holding removed copper helmet under arm, same elderly face open and smiling. No text, complete full body."
+    },
+    {
+      "id": "pearl-shell",
+      "name": "真珠の貝から登場",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "真珠の貝から登場"
+      ],
+      "spec": "Sitting smiling in a giant open pearl oyster shell prop, his original correct polo and cream trousers visible, both feet dangling over lower shell edge, one small pearl held in his hand. Only man and whole shell, no ocean."
+    },
+    {
+      "id": "seaweed-cape",
+      "name": "ワカメのマント",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "ワカメのマント"
+      ],
+      "spec": "His original clothes, with an extravagant long realistic wet dark green seaweed cape worn over his shoulders, open front showing correct breast name, one hand lightly holds cape edge. Full body."
+    },
+    {
+      "id": "anchor-carrier",
+      "name": "巨大な錨を運ぶ",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "巨大な錨を運ぶ"
+      ],
+      "spec": "Generic navy fisher coveralls with no text, black rubber boots, carrying a giant realistic silver ship anchor over one shoulder, gentle smile, entire anchor and man within margins."
+    },
+    {
+      "id": "lifeguard",
+      "name": "浮き輪だらけの監視員",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "浮き輪だらけの監視員",
+        "海水浴"
+      ],
+      "spec": "Plain red lifeguard shirt and shorts, sandals, holding three orange lifebuoys stacked around waist and shoulder, whistle at neck, playful proud smile. Full body, no writing."
+    },
+    {
+      "id": "crab-claws",
+      "name": "巨大カニばさみ",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "巨大カニばさみ"
+      ],
+      "spec": "Original correctly lettered polo and cream trousers, giant realistic red crab claw prop gloves on both hands, held to either side of torso, same warm smile, full body."
+    },
+    {
+      "id": "octopus-buddy",
+      "name": "タコと肩を組む",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "タコと肩を組む"
+      ],
+      "spec": "Original clothes, a large realistic red octopus puppet draped gently over one shoulder, tentacles around his sides, smiling to camera, breast name uncovered. Full body, isolated man and puppet."
+    },
+    {
+      "id": "fishing-net",
+      "name": "網いっぱいのクラゲ",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲ",
+        "海",
+        "網いっぱいのクラゲ"
+      ],
+      "spec": "Original clothes and black shoes, holding a huge long-handled fishing landing net beside his body, net carrying several translucent blue moon jellyfish. Correct text, net completely visible, full body."
+    },
+    {
+      "id": "astronaut",
+      "name": "宇宙服で記念写真",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙飛行士",
+        "月",
+        "SF"
+      ],
+      "spec": "Standing friendly beside an imaginary visitor, wearing a highly realistic bulky white astronaut suit and white space boots, clear bubble helmet carried under one arm so his recognizable elderly face is unobstructed. Other hand gives a small wave. Plain suit, no logos or writing. Full body vertical cutout. His calm warm smile makes this look like a genuine event souvenir photograph."
+    },
+    {
+      "id": "rocket-pack",
+      "name": "ロケットを背負う",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "ロケットを背負う"
+      ],
+      "spec": "Realistic retro astronaut jumpsuit with open collar and bare elderly face, enormous silver twin rocket backpack strapped to him, no flames, giving a peace sign. Full body, all rocket tips and boots visible."
+    },
+    {
+      "id": "ufo-ring",
+      "name": "UFOにはまる",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "UFOにはまる"
+      ],
+      "spec": "Plain silver futuristic suit, standing with a realistic polished metal miniature flying saucer encircling waist like a giant swim ring, smiling face visible, wave with one hand. Complete saucer and feet."
+    },
+    {
+      "id": "alien-headband",
+      "name": "宇宙人のアンテナ",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "宇宙人のアンテナ"
+      ],
+      "spec": "Original clothes with correct breast name, two absurd realistic glowing green rubber antennae headband instead of cap, holding a small metallic flying saucer prop in one hand, full body."
+    },
+    {
+      "id": "robot-armor",
+      "name": "幸造ロボ",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "幸造ロボ",
+        "ロボット"
+      ],
+      "spec": "Believable practical costume of brushed steel robot body armor with rivets, gloves and chunky boots, exposed real elderly face in an open collar, smiling while making a polite thumbs-up. Entire costume."
+    },
+    {
+      "id": "satellite-pack",
+      "name": "人工衛星を背負う",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "人工衛星を背負う"
+      ],
+      "spec": "Plain white space jumpsuit, wearing a small realistic satellite backpack with two blue solar panels extending sideways, hands on straps, smiling. Whole panels and full body, no scene."
+    },
+    {
+      "id": "moon-rock",
+      "name": "月の石を抱える",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "月の石を抱える"
+      ],
+      "spec": "White astronaut trousers and plain thermal jacket, holding a chest-size irregular grey moon rock, exposed face smiling, no helmet on head, full body."
+    },
+    {
+      "id": "space-cleaner",
+      "name": "宇宙の清掃員",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "宇宙の清掃員",
+        "掃除"
+      ],
+      "spec": "Realistic white spacesuit with open neck, holding a huge ordinary mop upright and a silver bucket in other hand, smiling elderly face and full feet visible. No text."
+    },
+    {
+      "id": "future-courier",
+      "name": "未来の配達員",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "未来の配達員"
+      ],
+      "spec": "Photoreal metallic silver delivery uniform, carrying a stack of three absurd futuristic shiny unmarked parcels tied to chest with straps, face open and smiling, full body."
+    },
+    {
+      "id": "hover-board",
+      "name": "空飛ぶボード",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "空飛ぶボード"
+      ],
+      "spec": "Original correctly embroidered polo and cream trousers, feet planted on a realistic chunky hovering silver board with blue underside lights, slight bent knees, arms balanced, smiling camera. Isolated board and whole man, no smoke or landscape."
+    },
+    {
+      "id": "space-botanist",
+      "name": "宇宙で家庭菜園",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "宇宙で家庭菜園",
+        "トマト",
+        "植物"
+      ],
+      "spec": "Plain white open-neck spacesuit, carrying a transparent dome plant terrarium containing a healthy small tomato plant, smiling to camera, full body with boots."
+    },
+    {
+      "id": "time-traveler",
+      "name": "時計だらけの旅人",
+      "category": "宇宙・未来",
+      "tags": [
+        "宇宙",
+        "未来",
+        "時計だらけの旅人"
+      ],
+      "spec": "Photoreal brown leather coat over plain vest and trousers, dozens of antique pocket watches dangling neatly from belt and straps, holding one oversized clock face with no legible text, elderly face smiling, whole body."
+    },
+    {
+      "id": "royal-chair",
+      "name": "組合長の玉座",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "玉座",
+        "豪華"
+      ],
+      "spec": "Sitting comfortably on a ludicrously ornate gold carved throne, wearing a photorealistic deep red velvet royal mantle over his original sage polo and cream trousers, a modest gold crown instead of his cap. Original elderly face clearly visible, friendly smile, one palm open inviting someone to stand beside the throne. Mantle lies on sides and leaves original correctly spelled polo breast embroidery visible. Whole throne, his feet, crown and hands fully within frame. Real wood, gold leaf and velvet; no scenery, no giant glow, only isolated man and chair."
+    },
+    {
+      "id": "king-scepter",
+      "name": "王冠と巨大な王笏",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "王冠と巨大な王笏"
+      ],
+      "spec": "Rich blue velvet royal robe, ornate gold crown, holding an absurdly tall gold ceremonial scepter with giant pearl orb, warm smile, full body and entire scepter. Robe plain no text."
+    },
+    {
+      "id": "knight",
+      "name": "組合長の騎士",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "組合長の騎士",
+        "騎士",
+        "きし"
+      ],
+      "spec": "Believable steel medieval knight armor, helmet carried under arm exposing the same elderly face, other hand rests on a plain shield, friendly smile, full body."
+    },
+    {
+      "id": "wizard",
+      "name": "クラゲの魔法使い",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "クラゲの魔法使い",
+        "魔法",
+        "まほう"
+      ],
+      "spec": "Realistic deep blue velvet wizard robe and tall pointed hat, holding a wooden staff topped by a clear glass jellyfish ornament, slight amused smile, entire hat staff and full body. No lettering."
+    },
+    {
+      "id": "angel-wings",
+      "name": "天使の幸造さん",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "天使の幸造さん",
+        "天使",
+        "てんし",
+        "羽"
+      ],
+      "spec": "Plain cream suit and enormous realistic white feathered angel costume wings, small thin gold halo prop above head, open palms, same elderly face, full wingspan within image. No glow backdrop."
+    },
+    {
+      "id": "samurai",
+      "name": "幸造武将",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "幸造武将",
+        "武将",
+        "侍",
+        "さむらい"
+      ],
+      "spec": "Photoreal Japanese samurai costume of dark lacquer lamellar armor, helmet under his arm to expose friendly elderly face, folded fan in other hand, full body. No weapons raised, no writing."
+    },
+    {
+      "id": "ninja",
+      "name": "忍びの組合長",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "忍びの組合長",
+        "忍者",
+        "にんじゃ"
+      ],
+      "spec": "Realistic black ninja cloth costume with hood pushed down and face fully visible, crouching lightly with one thumb up, no sword or attack, full body."
+    },
+    {
+      "id": "tengu",
+      "name": "天狗のお面",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "天狗のお面",
+        "てんぐ"
+      ],
+      "spec": "Real Japanese festival costume, plain brown robe and black boots, large red long-nose tengu mask held beside his smiling elderly face rather than worn, feather fan in other hand, full body."
+    },
+    {
+      "id": "kappa",
+      "name": "河童の組合長",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "河童の組合長",
+        "かっぱ"
+      ],
+      "spec": "Funny believable practical green kappa costume with padded turtle shell backpack and a flat green dish hat, real elderly face exposed, holding one cucumber, full body, smile."
+    },
+    {
+      "id": "monk-bells",
+      "name": "鐘を鳴らす組合長",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "鐘を鳴らす組合長"
+      ],
+      "spec": "Plain saffron robe over Japanese trousers, elderly face exposed, carrying an oversized polished brass handbell beside his torso, warm smile, complete bell and feet."
+    },
+    {
+      "id": "dragon-puppet",
+      "name": "龍を連れてきた",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "龍を連れてきた"
+      ],
+      "spec": "Photoreal red festival jacket and black trousers, holding a long ornate green-and-gold Japanese dragon puppet curled neatly around his body, friendly elderly face, whole puppet and man. No background."
+    },
+    {
+      "id": "giant-scroll",
+      "name": "巨大な巻物",
+      "category": "王様・伝説",
+      "tags": [
+        "王様",
+        "伝説",
+        "巨大な巻物"
+      ],
+      "spec": "Realistic deep navy Japanese kimono with simple sash, holding a gigantic rolled blank cream scroll under one arm, smiling to camera, full body, absolutely no characters on scroll."
+    },
+    {
+      "id": "riceball",
+      "name": "巨大おにぎり",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "巨大おにぎり",
+        "おにぎり"
+      ],
+      "spec": "Original correct polo and trousers; holding a giant photoreal triangular white rice onigiri with dark nori patch against one hip, face and breast text unobscured, full body."
+    },
+    {
+      "id": "tempura",
+      "name": "エビ天の組合長",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "エビ天の組合長",
+        "天ぷら",
+        "えび"
+      ],
+      "spec": "Believable life-size golden shrimp tempura padded costume around torso, elderly face clearly open at top, cream trousers and black shoes below, friendly wave, entire costume."
+    },
+    {
+      "id": "banana",
+      "name": "バナナの幸造さん",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "バナナの幸造さん"
+      ],
+      "spec": "Realistic practical giant yellow banana costume with open face panel showing same elderly face, hands out at sides, feet in black shoes, cheerful souvenir-photo pose, no text."
+    },
+    {
+      "id": "ramen-bowl",
+      "name": "巨大ラーメン",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "巨大ラーメン"
+      ],
+      "spec": "Plain white chef coat and tall chef hat, holding an absurdly large photoreal bowl of ramen across waist, noodles and egg realistic, face unobscured, full body."
+    },
+    {
+      "id": "watermelon",
+      "name": "スイカのヘルメット",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "スイカのヘルメット"
+      ],
+      "spec": "Original correct polo and trousers, realistic half watermelon rind worn as helmet instead of cap, holding a red watermelon slice in one hand, warm smile, full body."
+    },
+    {
+      "id": "baguette-knight",
+      "name": "バゲットの騎士",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "バゲットの騎士"
+      ],
+      "spec": "Realistic white baker apron over plain beige shirt, wielding an extremely long baguette gently upright as a staff and round bread as shield, elderly face open and smiling, full body, entire bread props."
+    },
+    {
+      "id": "pizza-stack",
+      "name": "ピザを運びすぎた",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "ピザを運びすぎた"
+      ],
+      "spec": "Plain red polo and cream pants, carrying a wildly tall stack of generic blank pizza boxes resting at one side, face fully visible, smile, full body and entire stack. No brand or writing."
+    },
+    {
+      "id": "daikon",
+      "name": "大根と記念写真",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "大根と記念写真",
+        "だいこん"
+      ],
+      "spec": "Original correct clothes, standing beside and hugging a huge realistic white daikon radish with green leaves as tall as him, face and correct breast text visible, whole man and radish."
+    },
+    {
+      "id": "icecream-hat",
+      "name": "ソフトクリーム帽",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "ソフトクリーム帽"
+      ],
+      "spec": "Original clothes with correct embroidery, a huge realistic vanilla soft-serve icecream shaped novelty hat with cone brim, smiling camera, full body. No melting mess."
+    },
+    {
+      "id": "takoyaki",
+      "name": "たこ焼きの幸造さん",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "たこ焼きの幸造さん"
+      ],
+      "spec": "Photoreal practical round takoyaki costume, tan sphere with realistic sauce drips and bonito flakes props, real elderly face exposed through top, hands and feet emerge, friendly wave, full costume."
+    },
+    {
+      "id": "sushi-tray",
+      "name": "寿司を持ってきた",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "寿司を持ってきた",
+        "すし"
+      ],
+      "spec": "Plain sushi chef dark blue jacket and trousers, holding an enormous wooden platter with photoreal giant nigiri pieces, warm elderly face open, full body and entire tray."
+    },
+    {
+      "id": "leek-bundle",
+      "name": "ネギを背負う",
+      "category": "食べ物",
+      "tags": [
+        "食べ物",
+        "ネギを背負う"
+      ],
+      "spec": "Original correct polo and cream trousers, a ridiculous huge bundle of realistic long spring onions strapped to his back, heads towering above shoulders, both hands on straps, smile, entire full body and bundle."
+    },
+    {
+      "id": "train-conductor",
+      "name": "車掌と巨大切符ばさみ",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "車掌と巨大切符ばさみ",
+        "電車",
+        "鉄道",
+        "車掌"
+      ],
+      "spec": "Realistic generic navy Japanese train conductor uniform and cap, holding an oversized brass ticket punch and blank rectangular ticket, elderly face warm smile, full body, no logos or words."
+    },
+    {
+      "id": "firefighter",
+      "name": "消防士と長すぎるホース",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "消防士と長すぎるホース",
+        "消防士",
+        "消防"
+      ],
+      "spec": "Plain realistic firefighter turnout coat trousers helmet, face open, holding a huge neatly coiled red fire hose around one shoulder, smiling to camera, full body."
+    },
+    {
+      "id": "chef-pan",
+      "name": "フライパン二刀流",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "フライパン二刀流"
+      ],
+      "spec": "Plain white chef coat and hat, holding two absurdly oversized stainless steel frying pans to either side, friendly elderly face, both entire pans and full body."
+    },
+    {
+      "id": "detective",
+      "name": "名探偵幸造",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "名探偵幸造",
+        "探偵",
+        "たんてい"
+      ],
+      "spec": "Photoreal brown tweed detective coat and deerstalker cap, holding an oversized brass magnifying glass next to chest, same face visible without optical distortion, friendly smile, full body."
+    },
+    {
+      "id": "photographer",
+      "name": "巨大カメラの写真家",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "巨大カメラの写真家",
+        "写真家",
+        "カメラ"
+      ],
+      "spec": "Plain beige photographer vest over a dark shirt, enormous vintage bellows camera on a compact tripod held beside him, elderly face open and smiling, whole body and camera."
+    },
+    {
+      "id": "traffic-cone",
+      "name": "カラーコーンの係員",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "カラーコーンの係員"
+      ],
+      "spec": "Practical bright orange traffic cone costume around his torso, head exposed with navy fishing cap, hands out with one wave, cream trousers and shoes, real aged face, full cone and man."
+    },
+    {
+      "id": "library-tower",
+      "name": "本を持ちすぎた司書",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "本を持ちすぎた司書"
+      ],
+      "spec": "Plain knitted cardigan and trousers, holding a ludicrously tall stack of hardcover books resting against one shoulder, all covers plain with no legible writing, face clear and smiling, entire stack and body."
+    },
+    {
+      "id": "office-paper",
+      "name": "書類が多すぎる組合長",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "書類が多すぎる組合長"
+      ],
+      "spec": "Original correct clothes, holding two enormous stacks of neatly tied plain white paperwork folders, one at either side of waist, face clear, breast name readable, full body. No legible paper text."
+    },
+    {
+      "id": "hotel-bellhop",
+      "name": "荷物が多すぎるベルボーイ",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "荷物が多すぎるベルボーイ"
+      ],
+      "spec": "Realistic deep red hotel bellhop uniform and small hat, holding two enormous vintage leather suitcases, same friendly elderly face open, full body and complete suitcases, no branding."
+    },
+    {
+      "id": "postman",
+      "name": "小包だらけの配達員",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "小包だらけの配達員"
+      ],
+      "spec": "Generic navy postal uniform and cap, a pyramid of unmarked brown cardboard parcels strapped to backpack, one smaller box held at hip, face open, full body, no writing."
+    },
+    {
+      "id": "weather-man",
+      "name": "天気予報の組合長",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "天気予報の組合長",
+        "天気予報"
+      ],
+      "spec": "Photoreal plain dark business suit, white shirt, holding giant three-dimensional yellow sun prop under one arm and fluffy white cloud prop under other, warm smile, full body, no backdrop."
+    },
+    {
+      "id": "construction",
+      "name": "工具が大きすぎる職人",
+      "category": "お仕事",
+      "tags": [
+        "お仕事",
+        "工具が大きすぎる職人",
+        "工事",
+        "職人"
+      ],
+      "spec": "Plain grey workwear and yellow safety helmet, holding an enormous realistic adjustable wrench upright beside him, smiling aged face, full body and whole wrench. No letters."
+    },
+    {
+      "id": "giant-rugby",
+      "name": "ラグビーボールがでかい",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "ラグビー",
+        "ボール"
+      ],
+      "spec": "Plain navy long-sleeve rugby jersey and navy tracksuit trousers with sport shoes. Fully dressed, friendly standing souvenir photo pose. Holding an absurdly enormous realistic brown leather rugby ball upright at his side, the ball almost as tall as him. His recognizable smiling elderly face unobscured, whole body and entire ball inside margins. No lettering, team logos or background."
+    },
+    {
+      "id": "ballet",
+      "name": "バレエの組合長",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "バレエの組合長",
+        "バレリーナ",
+        "ダンス"
+      ],
+      "spec": "Believable pink ballet tutu over plain cream long-sleeved shirt and tights, flat ballet slippers, friendly smiling aged face, one elegant raised arm, full body, no text."
+    },
+    {
+      "id": "yoga",
+      "name": "幸造ヨガ",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "幸造ヨガ"
+      ],
+      "spec": "Plain sage athletic shirt and grey sweatpants, realistic balanced tree yoga pose standing on one leg with hands together in front of chest, smiling elderly face, full body and feet. No lettering."
+    },
+    {
+      "id": "fencer",
+      "name": "フェンシング幸造",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "フェンシング幸造",
+        "フェンシング"
+      ],
+      "spec": "Plain white fencing uniform with padded jacket and trousers, mesh mask held under arm to expose friendly face, thin foil pointed safely down, full body."
+    },
+    {
+      "id": "bowling",
+      "name": "ボウリングの王",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "ボウリングの王"
+      ],
+      "spec": "Plain retro yellow bowling shirt and dark trousers, holding an absurd oversized glossy bowling ball beside one hip, elderly face smiling, full body. No text."
+    },
+    {
+      "id": "curling",
+      "name": "カーリングの組合長",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "カーリングの組合長"
+      ],
+      "spec": "Plain bright blue sports jacket and black pants, holding a realistic granite curling stone at waist with one hand and broom upright with other, smiling, full body and all props."
+    },
+    {
+      "id": "ski",
+      "name": "スキーの幸造さん",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "スキーの幸造さん"
+      ],
+      "spec": "Photoreal red insulated ski jacket trousers gloves, goggles on forehead so same face visible, carrying both long skis vertically beside body and poles under arm, full body, all skis complete."
+    },
+    {
+      "id": "surf",
+      "name": "サーファー幸造",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "サーファー幸造"
+      ],
+      "spec": "Photoreal plain blue wetsuit, holding a ridiculously tall cream surfboard upright beside him, face exposed and smiling, entire surfboard and full body. No beach."
+    },
+    {
+      "id": "tiny-dumbbells",
+      "name": "小さすぎる筋トレ",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "小さすぎる筋トレ"
+      ],
+      "spec": "Plain athletic tank and dark tracksuit trousers, proudly holding two comically tiny pink dumbbells in aged hands at shoulder level, original normal body proportions, warm smile, full body."
+    },
+    {
+      "id": "giant-golf",
+      "name": "ゴルフクラブがでかい",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "ゴルフクラブがでかい",
+        "ゴルフ"
+      ],
+      "spec": "Plain pastel golf shirt and beige trousers, navy fishing cap, holding an absurdly large silver golf club upright beside him, aged face friendly, complete club and full body. No breast letters on this sports shirt."
+    },
+    {
+      "id": "hobby-horse",
+      "name": "騎手の幸造さん",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "騎手の幸造さん",
+        "競馬",
+        "騎手"
+      ],
+      "spec": "Photoreal bright green jockey silks and white riding pants, black riding boots, elderly face with small riding helmet, holding a simple realistic wooden hobbyhorse between legs, smiling, full body. No horse animal or scenery."
+    },
+    {
+      "id": "giant-pingpong",
+      "name": "卓球ラケットがでかい",
+      "category": "スポーツ",
+      "tags": [
+        "スポーツ",
+        "卓球ラケットがでかい",
+        "卓球"
+      ],
+      "spec": "Plain orange sports polo and black shorts, holding a gigantic red table-tennis paddle beside body, smiling elderly face, full body and paddle, no written marks."
+    },
+    {
+      "id": "sofa",
+      "name": "ソファでくつろぐ",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "ソファでくつろぐ"
+      ],
+      "spec": "Original correct clothes, reclining casually on a small realistic emerald velvet one-person armchair with feet resting comfortably on ottoman, same aged face smiling, full chair man and ottoman isolated."
+    },
+    {
+      "id": "camping",
+      "name": "キャンプの組合長",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "キャンプの組合長"
+      ],
+      "spec": "Original correct polo and trousers, sitting on compact folding camping chair with a rolled sleeping mat strapped to backpack, holding plain metal camp cup, smile to camera, full man chair and bag."
+    },
+    {
+      "id": "laundry",
+      "name": "洗濯物を背負う",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "洗濯物を背負う"
+      ],
+      "spec": "Plain sage sweater and cream trousers, carrying an absurd huge wicker laundry basket strapped to his back overflowing with white sheets, face unobscured and smiling, full man and entire basket."
+    },
+    {
+      "id": "plant-pot",
+      "name": "植木鉢にはまる",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "植木鉢にはまる"
+      ],
+      "spec": "Original correct clothes, standing inside an enormous terracotta flower pot up to thighs with both arms casually on pot rim, feet of cream pants and black shoes emerge below, smiling, entire man and pot."
+    },
+    {
+      "id": "giant-fan",
+      "name": "扇風機を連れてきた",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "扇風機を連れてきた"
+      ],
+      "spec": "Original correct clothes, holding a huge vintage green desk fan beside his body like a pet, realistic blades protected by cage, gentle smiling face, full body and whole fan, no motion effects."
+    },
+    {
+      "id": "keys",
+      "name": "鍵を持ちすぎた",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "鍵を持ちすぎた"
+      ],
+      "spec": "Plain dark caretaker workwear, holding an enormous metal ring full of dozens of oversized brass keys beside his waist, same elderly face smiling, full man and keys."
+    },
+    {
+      "id": "slipper",
+      "name": "巨大スリッパ",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "巨大スリッパ",
+        "スリッパ"
+      ],
+      "spec": "Original correct polo and cream pants, both feet placed in one absurd oversized soft beige slipper, hands at sides, friendly aged face, full man and slipper."
+    },
+    {
+      "id": "blanket",
+      "name": "毛布の組合長",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "毛布の組合長"
+      ],
+      "spec": "Wrapped in a realistic huge fluffy cream blanket like a cape, sage polo collar visible but breast fully covered, cream trouser legs and black shoes visible, holding a plain mug, face smiling, full body."
+    },
+    {
+      "id": "backpack",
+      "name": "荷物が山盛りの旅人",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "荷物が山盛りの旅人"
+      ],
+      "spec": "Plain hiking jacket and beige trousers, wearing a gigantic hiking backpack stacked with rolled mats and pans, navy fishing cap, both hands on straps, real smiling aged face, entire pack and man."
+    },
+    {
+      "id": "step-ladder",
+      "name": "脚立で記念写真",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "脚立で記念写真"
+      ],
+      "spec": "Original correct clothes, sitting safely on the low third step of a compact aluminum step ladder with feet on lower rung, gently waving at camera, whole ladder and man with correct breast name visible."
+    },
+    {
+      "id": "upside-umbrella",
+      "name": "傘がひっくり返った",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "傘がひっくり返った"
+      ],
+      "spec": "Original correct clothes, calmly holding a realistic ordinary black umbrella turned inside out by wind above his head, warm amused smile, full umbrella and man, no rain background."
+    },
+    {
+      "id": "oversized-broom",
+      "name": "ほうきが長すぎる",
+      "category": "日常の珍場面",
+      "tags": [
+        "日常の珍場面",
+        "ほうきが長すぎる",
+        "掃除"
+      ],
+      "spec": "Plain dark green work apron over cream shirt and trousers, holding a ludicrously tall rustic broom beside him, aged smiling face, full broom and man. No letters."
+    },
+    {
+      "id": "birthday",
+      "name": "ケーキの組合長",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "ケーキの組合長",
+        "誕生日",
+        "バースデー"
+      ],
+      "spec": "Original correct clothes, holding a fantastically large three-tier birthday cake at waist on a platter, a few unlit candles, face and breast embroidery visible, full body and entire cake. No written icing."
+    },
+    {
+      "id": "party",
+      "name": "紙吹雪の幸造さん",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "紙吹雪の幸造さん",
+        "誕生日",
+        "パーティー"
+      ],
+      "spec": "Photoreal plain gold party jacket, cone party hat, holding a small confetti popper with a few colorful physical paper pieces clustered near hand, friendly face, full body and all close paper pieces. No scenery or text."
+    },
+    {
+      "id": "graduation",
+      "name": "卒業式の組合長",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "卒業式の組合長",
+        "卒業",
+        "卒業祝い"
+      ],
+      "spec": "Photoreal generic black graduation gown and mortarboard with gold tassel, holding a rolled blank diploma tied by red ribbon, same elderly face smiling warmly, full body."
+    },
+    {
+      "id": "white-tuxedo",
+      "name": "白いタキシード",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "白いタキシード",
+        "結婚式",
+        "ウェディング"
+      ],
+      "spec": "Photoreal plain white tuxedo with black bow tie, holding a huge bouquet of white roses at one side, same smiling aged face, whole body and all flowers."
+    },
+    {
+      "id": "christmas-tree",
+      "name": "クリスマスツリー幸造",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "クリスマスツリー幸造",
+        "クリスマス"
+      ],
+      "spec": "Practical enormous decorated green Christmas tree costume around his torso, real elderly face exposed through an opening near top, hands and shoes visible, friendly wave, full entire tree costume."
+    },
+    {
+      "id": "santa",
+      "name": "サンタ組合長",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "サンタ組合長",
+        "クリスマス",
+        "サンタクロース"
+      ],
+      "spec": "Photoreal red velvet Santa suit and hat, same elderly face clearly visible with only his natural grey hair, no fake beard covering face, holding a huge plain red sack of gifts, full body."
+    },
+    {
+      "id": "reindeer",
+      "name": "トナカイの組合長",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "トナカイの組合長",
+        "クリスマス",
+        "トナカイ"
+      ],
+      "spec": "Realistic practical brown reindeer costume with antler headband, open face showing same aged man, friendly smile, hands up like gentle greeting, complete antlers and feet."
+    },
+    {
+      "id": "pumpkin",
+      "name": "かぼちゃの組合長",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "かぼちゃの組合長",
+        "ハロウィン"
+      ],
+      "spec": "Believable practical large orange pumpkin costume around torso, same elderly face fully visible at top wearing small green leaf hat, hands and black shoes out, full costume, warm smile."
+    },
+    {
+      "id": "lion-dance",
+      "name": "獅子舞を持ってきた",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "獅子舞を持ってきた",
+        "お正月",
+        "新年"
+      ],
+      "spec": "Plain red Japanese festival coat and dark trousers, holding an ornate red-and-gold shishimai lion head under one arm with folded green cloth drape, exposed elderly face smiling, entire man and prop. No lettering."
+    },
+    {
+      "id": "big-bear",
+      "name": "ぬいぐるみが大きすぎる",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "ぬいぐるみが大きすぎる",
+        "ぬいぐるみ",
+        "くま"
+      ],
+      "spec": "Original correct clothes, carrying a giant realistically plush tan teddy bear at one side, bear almost as tall as him, face and correct breast name visible, full body and whole bear."
+    },
+    {
+      "id": "gift-box",
+      "name": "プレゼントが大きすぎる",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "プレゼントが大きすぎる",
+        "誕生日",
+        "贈り物"
+      ],
+      "spec": "Plain cream party jacket and trousers, carrying a huge red gift box with a gold bow beside his body, smiling aged face unobscured, full body and entire box. No text."
+    },
+    {
+      "id": "giant-medal",
+      "name": "メダルが大きすぎる",
+      "category": "お祝い・行事",
+      "tags": [
+        "お祝い",
+        "行事",
+        "メダルが大きすぎる",
+        "表彰",
+        "優勝"
+      ],
+      "spec": "Plain navy tracksuit, an absurd giant gold medal on a blue neck ribbon lying below chest, holding medal edge proudly, same aged face smiling, full body. Medal blank without letters."
+    }
+  ],
+  "tool": "built-in image_gen",
+  "repairs": [
+    {
+      "ids": [
+        "royal-chair",
+        "dragon-puppet"
+      ],
+      "method": "built-in image_gen edit",
+      "instruction": "Preserve identity, pose, clothing and props. Pull back approximately 10–12 percent to include every extremity and prop tip with transparent margin on all sides. No background or scenery."
+    },
+    {
+      "ids": [
+        "yoga",
+        "giant-golf"
+      ],
+      "method": "built-in image_gen edit",
+      "instruction": "Preserve the entire cutout and transparency. Restore only the missing navy polo embroidery at the wearer left chest: first line 徳島県; second line クラゲ漁業組合. Keep all seven lower-line characters readable and naturally following the fabric."
+    }
+  ]
+}

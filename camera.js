@@ -1,12 +1,20 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261011-lettering';
+import { BUNDLED_POSES } from './poses.js?v=20261012-library';
+const ASSET_VERSION = '20261012-library';
+function assetUrl(src) {
+  if (!src) return null;
+  const source = new URL(src, import.meta.url);
+  if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', ASSET_VERSION);
+  return source.href;
+}
 const CHARACTERS = BUNDLED_POSES.map(pose => {
-  const source = new URL(pose.src, import.meta.url);
-  if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', '20261011-lettering');
   return {
     ...pose,
     name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
-    src: source.href
+    category: pose.category || '定番',
+    tags: pose.tags || [],
+    src: assetUrl(pose.src),
+    thumbnail: assetUrl(pose.thumbnail || pose.src)
   };
 });
 const $ = id => document.getElementById(id);
@@ -28,6 +36,9 @@ const state = { selected: null, mode: 'camera', backgroundUrl: null, backgroundT
 let currentPose = null;
 let poseLayer = null;
 let poseSelectionSequence = 0;
+const POSE_PAGE_SIZE = 24;
+let poseLimit = POSE_PAGE_SIZE;
+let poseListSignature = '';
 const poseUrls = new Map();
 const pointers = new Map();
 let gesture = null;
@@ -158,19 +169,43 @@ function syncControls() {
   $('selected-name').textContent = state.selected === 'logo' ? '名前' : layers[state.selected]?.element.alt || '幸造さんを選んでね';
   for (const button of document.querySelectorAll('#placed-characters button, #placed-texts button')) button.setAttribute('aria-pressed', String(button.dataset.layerId === state.selected));
 }
+function searchKey(value) {
+  return value.normalize('NFKC').toLowerCase().replace(/[ァ-ヶ]/g, char => String.fromCharCode(char.charCodeAt(0) - 0x60));
+}
+function filteredPoses() {
+  const terms = searchKey($('pose-search').value).trim().split(/\s+/).filter(Boolean);
+  const category = $('pose-category').value;
+  return CHARACTERS.filter(pose => (!category || pose.category === category) && terms.every(term => searchKey([pose.name, pose.id, pose.category, ...pose.tags].join(' ')).includes(term)));
+}
 function renderCharacters() {
   const list = $('character-list');
-  list.replaceChildren();
   list.classList.toggle('many-poses', CHARACTERS.length > 9);
   $('pose-count').textContent = `${CHARACTERS.length}種類`;
-  for (const character of CHARACTERS) {
+  const matches = filteredPoses();
+  const visible = matches.slice(0, poseLimit);
+  $('pose-result-count').textContent = `${matches.length}種類中 ${visible.length}種類を表示`;
+  $('pose-empty').hidden = matches.length !== 0;
+  $('more-poses').hidden = visible.length >= matches.length;
+  $('more-poses').textContent = `もっと見る（あと${matches.length - visible.length}種類）`;
+  $('random-pose').disabled = matches.length === 0;
+  const signature = JSON.stringify(visible.map(pose => [pose.id, pose.src, pose.thumbnail]));
+  // Selecting a pose keeps the focused card, scroll position, and decoded thumbnails.
+  if (signature === poseListSignature) {
+    for (const button of list.children) button.setAttribute('aria-pressed', String(currentPose === button.dataset.characterId));
+    return;
+  }
+  poseListSignature = signature;
+  list.replaceChildren();
+  for (const character of visible) {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'character-choice';
     button.dataset.characterId = character.id;
     button.setAttribute('aria-label', `${character.name}に切り替える`);
     const image = new Image();
-    if (character.src) image.src = character.src;
+    image.loading = 'lazy'; image.decoding = 'async';
+    image.width = 160; image.height = 240;
+    if (character.src) image.src = character.thumbnail || character.src;
     else { image.src = './assets/pose-placeholder.svg'; button.disabled = true; }
     image.alt = '';
     const name = document.createElement('span');
@@ -181,6 +216,23 @@ function renderCharacters() {
     list.append(button);
   }
 }
+for (const category of [...new Set(CHARACTERS.map(pose => pose.category))]) {
+  const option = document.createElement('option'); option.value = category; option.textContent = category;
+  $('pose-category').append(option);
+}
+function filterPoses() { poseLimit = POSE_PAGE_SIZE; renderCharacters(); }
+$('pose-search').addEventListener('input', filterPoses);
+$('pose-category').addEventListener('change', filterPoses);
+$('clear-pose-search').addEventListener('click', () => {
+  $('pose-search').value = ''; $('pose-category').value = ''; filterPoses(); $('pose-search').focus({preventScroll: true});
+});
+$('more-poses').addEventListener('click', () => { poseLimit += POSE_PAGE_SIZE; renderCharacters(); });
+$('random-pose').addEventListener('click', () => {
+  const matches = filteredPoses();
+  const candidates = matches.filter(pose => pose.id !== currentPose);
+  const choices = candidates.length ? candidates : matches;
+  if (choices.length) selectPose(choices[Math.floor(Math.random() * choices.length)]);
+});
 function renderPlacements() {
   const list = $('placed-characters');
   list.replaceChildren();
@@ -732,6 +784,7 @@ async function selectPose(pose) {
   if (!pose.src) return;
   const selectionSequence = ++poseSelectionSequence;
   const selectedPose = pose.id;
+  status(`${pose.name}の幸造さんを準備しています。`);
   const image = new Image(); image.src = pose.src;
   try { await image.decode(); } catch { status('ポーズの画像を開けませんでした。素材を読み直してください。', true); return; }
   if (selectionSequence !== poseSelectionSequence) return;
@@ -765,7 +818,7 @@ async function rememberPose(id, file) {
 async function installPose(pose, file) {
   const {image, url} = await readLocalImage(file);
   if (poseUrls.has(pose.id)) URL.revokeObjectURL(poseUrls.get(pose.id));
-  poseUrls.set(pose.id, url); pose.src = url;
+  poseUrls.set(pose.id, url); pose.src = url; pose.thumbnail = url;
   return image;
 }
 async function restorePoses() {
@@ -796,7 +849,8 @@ $('pose-files').addEventListener('change', async event => {
     for (const file of files) {
       const name = file.name;
       const aliases = { smile: /笑顔|老紳士|smile|^001\.png$/i, peace: /ピース|peace|^002\.png$/i, thumb: /サムズ|親指|thumb|^003\.png$/i, wave: /手を振る|手振り|wave/i, bow: /おじぎ|お辞儀|bow/i, guide: /案内|guide/i, cheer: /ガッツ|cheer/i, point: /指さし|指差し|point/i, welcome: /両手|歓迎|welcome/i, heart: /ハート|heart/i, salute: /敬礼|salute/i, 'arms-crossed': /腕組み|arms.crossed/i };
-      const id = CHARACTERS.find(pose => aliases[pose.id]?.test(name) || name.toLowerCase().includes(pose.id.toLowerCase()) || name.includes(pose.name))?.id;
+      const stem = name.replace(/\.(png|webp)$/i, '').replace(/^kozo-/i, '').toLowerCase();
+      const id = CHARACTERS.find(pose => pose.id.toLowerCase() === stem)?.id || CHARACTERS.find(pose => aliases[pose.id]?.test(name) || name.toLowerCase().includes(pose.id.toLowerCase()) || name.includes(pose.name))?.id;
       if (id && !assignments.has(id)) assignments.set(id, file);
       else {
         const available = CHARACTERS.find(pose => !assignments.has(pose.id));

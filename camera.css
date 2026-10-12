@@ -251,6 +251,17 @@ button:disabled{opacity:.5}
 .character-choice img{height:126px;object-fit:contain;margin:0 0 7px}
 .character-choice span{min-height:0}
 .character-choice[aria-pressed="true"],.placed-choice[aria-pressed="true"],.placed-text-choice[aria-pressed="true"]{border-color:#216a51;background:#f0f7f3;color:#18302c}
+.pose-filters{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:8px;margin:10px 0}
+.pose-filters label{display:grid;gap:5px;font-size:11px;color:#66756d}
+.pose-filters input,.pose-filters select{width:100%;min-width:0;min-height:40px;border:1px solid #cbd7d0;border-radius:6px;background:#fff;color:#18302c;padding:8px;font:inherit;font-size:14px}
+.pose-filters input:focus-visible,.pose-filters select:focus-visible{outline:2px solid #216a51;outline-offset:2px}
+.pose-results{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:10px 0 12px;font-size:11px;color:#66756d}
+.pose-results button{font-size:11px;padding:7px 9px;border-color:#cbd7d0;color:#216a51;white-space:nowrap}
+.character-choice img{width:100%}
+.character-choice span{display:block;line-height:1.4;min-height:2.8em;overflow-wrap:anywhere}
+.more-poses{width:100%;margin-top:12px;min-height:44px;border-color:#cbd7d0;color:#216a51;font-size:13px}
+.pose-empty{text-align:center;padding:22px 4px;color:#66756d;font-size:13px}
+.pose-empty button{font-size:12px;color:#216a51}
 .import-poses{width:100%;font-size:15px;font-weight:700;border:1.5px solid #216a51;color:#216a51;margin-top:16px;padding:12px}
 .tool-help{color:#66756d;font-size:11px;line-height:1.6}
 .material-actions{margin-top:10px}
@@ -283,6 +294,7 @@ dialog::backdrop{background:#18302c88}
   .control-section{background:#fff}
   .profile-title h2{font-size:28px}.profile-title p{font-size:12px}.profile-title{margin-bottom:16px}
   .character-choice img{height:110px}.camera-placeholder{padding:16px}.camera-mark{width:38px;height:38px;margin-bottom:8px}
+  .pose-filters input,.pose-filters select{font-size:16px}
   .many-poses .character-choice img{height:78px}
   .camera-placeholder h2{font-size:20px}.camera-placeholder p{font-size:11px;max-width:240px;margin:6px 0 12px}
   .camera-placeholder .primary-button{font-size:14px;padding:12px 20px}

@@ -2,8 +2,9 @@ import {spawnSync} from 'node:child_process';
 import fs from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {BUNDLED_POSES} from '../poses.js';
+import {BUNDLED_FRAMES} from '../frames.js';
 const root=fileURLToPath(new URL('../',import.meta.url));
-for(const file of ['camera.js','text.js','poses.js','server.mjs','scripts/install-assets.mjs','scripts/build-standalone.mjs']){
+for(const file of ['camera.js','text.js','poses.js','frames.js','server.mjs','scripts/install-assets.mjs','scripts/build-standalone.mjs']){
  const result=spawnSync(process.execPath,['--check',file],{cwd:root,stdio:'inherit'});
  if(result.status!==0)process.exit(result.status||1);
 }
@@ -26,3 +27,10 @@ for(const pose of BUNDLED_POSES){
 }
 console.log('JavaScript構文と画面要素の参照を確認しました。');
 console.log('人物素材: '+BUNDLED_POSES.length+'ポーズを確認しました。');
+const frameIds=new Set();
+for(const frame of BUNDLED_FRAMES){
+ if(!frame.id||frameIds.has(frame.id))throw new Error('Invalid frame id: '+frame.id);
+ frameIds.add(frame.id);
+ checkImage(frame.src);checkImage(frame.thumbnail);
+}
+console.log('フレーム: '+BUNDLED_FRAMES.length+'種類を確認しました。');

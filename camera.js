@@ -1,10 +1,11 @@
 import { renderTextCanvas } from './text.js';
 import { BUNDLED_POSES } from './poses.js?v=20261012-library';
+import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261014-frames';
 const ASSET_VERSION = '20261012-library';
-function assetUrl(src) {
+function assetUrl(src, version = ASSET_VERSION) {
   if (!src) return null;
   const source = new URL(src, import.meta.url);
-  if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', ASSET_VERSION);
+  if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', version);
   return source.href;
 }
 const CHARACTERS = BUNDLED_POSES.map(pose => {
@@ -18,6 +19,12 @@ const CHARACTERS = BUNDLED_POSES.map(pose => {
   };
 });
 const $ = id => document.getElementById(id);
+const FRAMES = BUNDLED_FRAMES.map(frame => ({ ...frame, src: assetUrl(frame.src, '20261014-frames'), thumbnail: assetUrl(frame.thumbnail, '20261014-frames') }));
+const frameCanvas = $('frame-layer');
+let currentFrame = null;
+let frameImage = null;
+let frameLoading = false;
+let frameSelectionSequence = 0;
 const stage = $('camera-stage');
 const video = $('camera-video');
 let backgroundImage = $('background-image');
@@ -46,7 +53,7 @@ let gesture = null;
 const clamp = (n, low, high) => Math.min(high, Math.max(low, n));
 const compactTools = matchMedia('(max-width: 1100px), (pointer: coarse)');
 let openTool = null;
-const toolTitles = { materials: '素材', text: '文字', placement: '配置・名前' };
+const toolTitles = { materials: '素材', frames: 'フレーム', text: '文字', placement: '配置・名前' };
 function renderToolPanel() {
   const compact = compactTools.matches;
   if (!compact) openTool = null;
@@ -94,6 +101,73 @@ compactTools.addEventListener('change', renderToolPanel);
 new ResizeObserver(() => document.body.style.setProperty('--tool-dock-height', `${$('tool-launcher').getBoundingClientRect().height}px`)).observe($('tool-launcher'));
 renderToolPanel();
 
+function renderFramePreview() {
+  frameCanvas.hidden = !frameImage;
+  frameCanvas.dataset.frameId = currentFrame || '';
+  if (!frameImage) return;
+  const { width, height } = stage.getBoundingClientRect();
+  if (!width || !height) return;
+  const scale = Math.min(devicePixelRatio || 1, 2, 1600 / Math.max(width, height));
+  frameCanvas.width = Math.max(1, Math.round(width * scale));
+  frameCanvas.height = Math.max(1, Math.round(height * scale));
+  drawPhotoFrame(frameCanvas.getContext('2d', { colorSpace: 'srgb', colorType: 'unorm8' }), frameImage, frameCanvas.width, frameCanvas.height);
+}
+function renderFrameChoices() {
+  const list = $('frame-list');
+  if (!list.children.length) {
+    for (const frame of [{ id: '', name: '枠なし' }, ...FRAMES]) {
+      const button = document.createElement('button');
+      button.type = 'button'; button.className = 'frame-choice'; button.dataset.frameId = frame.id;
+      if (frame.thumbnail) {
+        const image = new Image(); image.src = frame.thumbnail; image.alt = ''; image.loading = 'lazy'; image.decoding = 'async';
+        button.append(image);
+      } else {
+        const preview = document.createElement('span'); preview.className = 'frame-empty-preview'; preview.textContent = '—'; preview.setAttribute('aria-hidden', 'true');
+        button.append(preview);
+      }
+      const label = document.createElement('span'); label.textContent = frame.name; button.append(label);
+      button.addEventListener('click', () => selectFrame(frame.id)); list.append(button);
+    }
+  }
+  for (const button of list.children) button.setAttribute('aria-pressed', String(button.dataset.frameId === (currentFrame || '')));
+  list.setAttribute('aria-busy', String(frameLoading));
+}
+async function selectFrame(id) {
+  const sequence = ++frameSelectionSequence;
+  if (!id) {
+    currentFrame = null; frameImage = null; frameLoading = false;
+    renderFramePreview(); renderFrameChoices(); $('frame-status').textContent = '枠なし';
+    $('capture-photo').disabled = state.captureBusy || !sourceReady();
+    return;
+  }
+  const frame = FRAMES.find(item => item.id === id);
+  if (!frame) return;
+  frameLoading = true; renderFrameChoices(); $('capture-photo').disabled = true;
+  $('frame-status').textContent = `${frame.name}を準備しています…`;
+  const image = new Image(); image.src = frame.src;
+  let timer;
+  try {
+    await Promise.race([image.decode(), new Promise((resolve, reject) => { timer = setTimeout(() => reject(new Error('timeout')), 12000); })]);
+    if (sequence !== frameSelectionSequence) return;
+    currentFrame = frame.id; frameImage = image; renderFramePreview();
+    $('frame-status').textContent = `${frame.name}を選びました。`;
+  } catch {
+    if (sequence === frameSelectionSequence) $('frame-status').textContent = 'フレームを開けませんでした。もう一度選んでください。';
+  } finally {
+    clearTimeout(timer);
+    if (sequence === frameSelectionSequence) {
+      frameLoading = false; renderFrameChoices(); $('capture-photo').disabled = state.captureBusy || !sourceReady();
+    }
+  }
+}
+$('choose-frame').addEventListener('click', () => {
+  if (compactTools.matches) {
+    openTool = 'frames'; renderToolPanel(); $('close-tools').focus({ preventScroll: true });
+  } else {
+    $('frame-section').scrollIntoView({ block: 'start' });
+    $('frame-list').querySelector('button').focus({ preventScroll: true });
+  }
+});
 
 function status(message, error = false) {
   $('camera-status').textContent = message;
@@ -325,6 +399,7 @@ function fitStage() {
   const credit = creditPlacement(ratio);
   Object.assign(creditCanvas.style, { left: `${credit.x * 100}%`, top: `${credit.y * 100}%`, width: `${credit.size * 100}%` });
   renderLayers();
+  renderFramePreview();
 }
 function creditPlacement(ratio) {
   const creditRatio = creditCanvas.height / creditCanvas.width;
@@ -356,7 +431,7 @@ function prepareCredit() {
   context.fillText(CREDIT_TEXT, 20, canvas.height / 2);
 }
 function sourceReady() {
-  return state.mode === 'image' ? !!backgroundImage.naturalWidth : !!state.stream && video.readyState >= 2;
+  return !frameLoading && (state.mode === 'image' ? !!backgroundImage.naturalWidth : !!state.stream && video.readyState >= 2);
 }
 function setSourceMode(mode) {
   state.mode = mode;
@@ -481,7 +556,7 @@ async function openCamera(facing = state.facing, exact = false) {
     await video.play();
     if (sequence !== state.sequence) return;
     $('camera-placeholder').hidden = true;
-    $('capture-photo').disabled = false;
+    $('capture-photo').disabled = !sourceReady();
     $('switch-camera').disabled = false;
     $('switch-camera').textContent = state.facing === 'user' ? '↻ アウトカメラへ' : '↻ インカメラへ';
     renderLayers();
@@ -523,6 +598,7 @@ function drawLayer(context, layer, width, height) {
 async function capturePhoto() {
   if (!sourceReady() || state.captureBusy || (state.mode === 'camera' && !video.videoWidth)) return;
   const sequence = ++state.captureSequence;
+  const capturedFrame = frameImage;
   state.captureBusy = true;
   $('capture-photo').disabled = true;
   $('save-photo').disabled = true;
@@ -575,6 +651,7 @@ async function capturePhoto() {
     }
     for (const id of [...characters, ...texts]) drawLayer(context, id === poseLayer && randomLayer ? randomLayer : layers[id], canvas.width, canvas.height);
     drawLayer(context, layers.logo, canvas.width, canvas.height);
+    drawPhotoFrame(context, capturedFrame, canvas.width, canvas.height);
     drawCredit(context, canvas.width, canvas.height);
     // Paint the frozen, fully composed frame before any JPEG encoding. Keep
     // the same canvas for preview and save, so no decode or extra copy is needed.
@@ -913,5 +990,5 @@ $('layer-size').addEventListener('input', event => { if (layers[state.selected])
 $('layer-rotation').addEventListener('input', event => { const layer = layers[state.selected]; if (layer) { clearGesture(); layer.rotation = Number(event.target.value); renderLayers(); } });
 window.addEventListener('pagehide', () => { if (state.photoUrl) URL.revokeObjectURL(state.photoUrl); });
 
-prepareCredit(); renderCharacters(); fitStage(); restorePoses();
+prepareCredit(); renderCharacters(); renderFrameChoices(); fitStage(); restorePoses();
 

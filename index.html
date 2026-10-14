@@ -7,17 +7,19 @@
   <meta name="description" content="徳島県クラゲ漁業組合 組合長 山仲幸造さんと、一緒に記念写真。カメラや手持ちの写真に合成して保存できます。">
   <title>KOHZO PHOTO｜山仲幸造さんと記念写真</title>
   <link rel="icon" href="assets/favicon.svg">
-  <link rel="stylesheet" href="camera.css?v=20261014-frames">
-  <script type="module" src="camera.js?v=20261014-frames"></script>
+  <link rel="stylesheet" href="camera.css?v=20261014-camera-ui">
+  <script type="module" src="camera.js?v=20261014-camera-ui"></script>
 </head>
 <body>
-  <header class="camera-header"><div><h1>KOHZO PHOTO</h1><p>山仲幸造さんと、記念写真。</p></div></header>
+  <header class="camera-header">
+    <div><h1>KOHZO PHOTO</h1><p>山仲幸造さんと、記念写真。</p></div>
+    <div class="source-bar" role="group" aria-label="背景を選ぶ">
+        <button id="use-camera" type="button" aria-pressed="true" aria-label="カメラで撮る">カメラ</button>
+        <button id="choose-background" type="button" aria-pressed="false">写真を選ぶ</button>
+    </div>
+  </header>
   <main class="camera-layout">
     <section class="viewfinder" aria-label="合成プレビュー">
-      <div class="source-bar" role="group" aria-label="背景を選ぶ">
-        <button id="use-camera" type="button" aria-pressed="true">カメラで撮る</button>
-        <button id="choose-background" type="button" aria-pressed="false">写真を選ぶ</button>
-      </div>
       <input id="background-file" type="file" accept="image/*" hidden>
       <input id="overlay-file" type="file" accept="image/*" hidden>
       <input id="pose-files" type="file" accept="image/png,image/webp" multiple hidden>
@@ -96,10 +98,10 @@
     </aside>
   </main>
   <nav id="tool-launcher" class="tool-launcher" aria-label="写真の編集ツール">
-    <button type="button" data-open-tool="materials" aria-controls="controls-panel" aria-expanded="false">素材</button>
+    <button type="button" data-open-tool="materials" aria-controls="controls-panel" aria-expanded="false" aria-label="人物素材を選ぶ">人物</button>
     <button type="button" data-open-tool="frames" aria-controls="controls-panel" aria-expanded="false">枠</button>
     <button type="button" data-open-tool="text" aria-controls="controls-panel" aria-expanded="false">文字</button>
-    <button type="button" data-open-tool="placement" aria-controls="controls-panel" aria-expanded="false">配置・名前</button>
+    <button type="button" data-open-tool="placement" aria-controls="controls-panel" aria-expanded="false" aria-label="配置・名前を編集">配置</button>
   </nav>
   <dialog id="text-dialog" class="text-dialog" aria-labelledby="text-title">
     <div class="dialog-heading"><h2 id="text-title">文字を追加</h2><button id="close-text" type="button" class="secondary-button">閉じる</button></div>

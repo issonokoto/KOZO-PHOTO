@@ -1,8 +1,8 @@
 export const BUNDLED_FRAMES = [
-  { id: 'tokushima-jellyfish', name: '徳島のクラゲ', src: 'assets/frames/tokushima-jellyfish.webp', thumbnail: 'assets/frames/thumbnails/tokushima-jellyfish.webp' },
-  { id: 'naruto-whirlpools', name: '鳴門の渦潮', src: 'assets/frames/naruto-whirlpools.webp', thumbnail: 'assets/frames/thumbnails/naruto-whirlpools.webp' },
-  { id: 'awa-odori', name: '阿波踊り', src: 'assets/frames/awa-odori.webp', thumbnail: 'assets/frames/thumbnails/awa-odori.webp' },
-  { id: 'sudachi', name: 'すだちとクラゲ', src: 'assets/frames/sudachi.webp', thumbnail: 'assets/frames/thumbnails/sudachi.webp' }
+  { id: 'tokushima-jellyfish', name: '徳島のクラゲ', label: 'クラゲ', src: 'assets/frames/tokushima-jellyfish.webp', thumbnail: 'assets/frames/thumbnails/tokushima-jellyfish.webp' },
+  { id: 'naruto-whirlpools', name: '鳴門の渦潮', label: '渦潮', src: 'assets/frames/naruto-whirlpools.webp', thumbnail: 'assets/frames/thumbnails/naruto-whirlpools.webp' },
+  { id: 'awa-odori', name: '阿波踊り', label: '阿波踊り', src: 'assets/frames/awa-odori.webp', thumbnail: 'assets/frames/thumbnails/awa-odori.webp' },
+  { id: 'sudachi', name: 'すだちとクラゲ', label: 'すだち', src: 'assets/frames/sudachi.webp', thumbnail: 'assets/frames/thumbnails/sudachi.webp' }
 ];
 
 // Keep each corner's proportions, and extend the connecting edges to fit the

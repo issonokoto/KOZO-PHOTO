@@ -1,6 +1,6 @@
 import { renderTextCanvas } from './text.js';
 import { BUNDLED_POSES } from './poses.js?v=20261012-library';
-import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261014-frames';
+import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261014-camera-ui';
 const ASSET_VERSION = '20261012-library';
 function assetUrl(src, version = ASSET_VERSION) {
   if (!src) return null;
@@ -51,9 +51,9 @@ const poseUrls = new Map();
 const pointers = new Map();
 let gesture = null;
 const clamp = (n, low, high) => Math.min(high, Math.max(low, n));
-const compactTools = matchMedia('(max-width: 1100px), (pointer: coarse)');
+const compactTools = matchMedia('(max-width: 1100px), (pointer: coarse), (orientation: landscape) and (max-height: 600px)');
 let openTool = null;
-const toolTitles = { materials: '素材', frames: 'フレーム', text: '文字', placement: '配置・名前' };
+const toolTitles = { materials: '人物', frames: 'フレーム', text: '文字', placement: '配置・名前' };
 function renderToolPanel() {
   const compact = compactTools.matches;
   if (!compact) openTool = null;
@@ -81,7 +81,7 @@ for (const button of $('tool-launcher').querySelectorAll('button')) button.addEv
 });
 $('close-tools').addEventListener('click', () => closeTools());
 document.addEventListener('pointerdown', event => {
-  if (openTool && !event.target.closest('#controls-panel, #tool-launcher, dialog')) closeTools();
+  if (openTool && !event.target.closest('#controls-panel, #tool-launcher, #camera-stage, dialog')) closeTools();
 });
 document.addEventListener('keydown', event => {
   if (event.key === 'Escape' && openTool && !document.querySelector('dialog[open]')) { event.preventDefault(); closeTools(); }
@@ -98,7 +98,6 @@ $('tool-sheet-head').addEventListener('pointerup', event => {
 });
 $('tool-sheet-head').addEventListener('pointercancel', () => { sheetSwipe = null; });
 compactTools.addEventListener('change', renderToolPanel);
-new ResizeObserver(() => document.body.style.setProperty('--tool-dock-height', `${$('tool-launcher').getBoundingClientRect().height}px`)).observe($('tool-launcher'));
 renderToolPanel();
 
 function renderFramePreview() {
@@ -118,6 +117,7 @@ function renderFrameChoices() {
     for (const frame of [{ id: '', name: '枠なし' }, ...FRAMES]) {
       const button = document.createElement('button');
       button.type = 'button'; button.className = 'frame-choice'; button.dataset.frameId = frame.id;
+      button.setAttribute('aria-label', frame.name);
       if (frame.thumbnail) {
         const image = new Image(); image.src = frame.thumbnail; image.alt = ''; image.loading = 'lazy'; image.decoding = 'async';
         button.append(image);
@@ -125,7 +125,7 @@ function renderFrameChoices() {
         const preview = document.createElement('span'); preview.className = 'frame-empty-preview'; preview.textContent = '—'; preview.setAttribute('aria-hidden', 'true');
         button.append(preview);
       }
-      const label = document.createElement('span'); label.textContent = frame.name; button.append(label);
+      const label = document.createElement('span'); label.textContent = frame.label || frame.name; button.append(label);
       button.addEventListener('click', () => selectFrame(frame.id)); list.append(button);
     }
   }
@@ -607,8 +607,8 @@ async function capturePhoto() {
   if (state.photoUrl) URL.revokeObjectURL(state.photoUrl);
   state.photoUrl = null;
   state.blob = null;
-  const layout = document.querySelector('.camera-layout');
-  layout.inert = true;
+  const captureControls = [document.querySelector('.camera-layout'), document.querySelector('.source-bar'), $('tool-launcher')];
+  for (const element of captureControls) element.inert = true;
   try {
     clearGesture();
     const bounds = stage.getBoundingClientRect();
@@ -679,7 +679,7 @@ async function capturePhoto() {
     if ($('photo-dialog').open) $('photo-status').textContent = `${message}「撮り直す」で再度お試しください。`;
     else status(message, true);
   } finally {
-    layout.inert = false;
+    for (const element of captureControls) element.inert = false;
     if (sequence === state.captureSequence) {
       state.captureBusy = false;
       $('capture-photo').disabled = !sourceReady();

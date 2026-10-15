@@ -4,18 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="KOHZO PHOTO">
   <meta name="description" content="徳島県クラゲ漁業組合 組合長 山仲幸造さんと、一緒に記念写真。カメラや手持ちの写真に合成して保存できます。">
   <title>KOHZO PHOTO｜山仲幸造さんと記念写真</title>
   <link rel="icon" href="assets/favicon.svg">
-  <link rel="stylesheet" href="camera.css?v=20261014-camera-ui">
-  <script type="module" src="camera.js?v=20261014-camera-ui"></script>
+  <link rel="apple-touch-icon" href="assets/app-icon-180.png">
+  <link rel="manifest" href="app.webmanifest">
+  <link rel="stylesheet" href="camera.css?v=20261015-fullscreen">
+  <script type="module" src="camera.js?v=20261015-fullscreen"></script>
 </head>
 <body>
   <header class="camera-header">
-    <div><h1>KOHZO PHOTO</h1><p>山仲幸造さんと、記念写真。</p></div>
-    <div class="source-bar" role="group" aria-label="背景を選ぶ">
+    <div class="camera-brand"><h1 aria-label="KOHZO PHOTO">KOHZO<span class="brand-photo"> PHOTO</span></h1><p>山仲幸造さんと、記念写真。</p></div>
+    <div class="header-actions">
+      <div class="source-bar" role="group" aria-label="背景を選ぶ">
         <button id="use-camera" type="button" aria-pressed="true" aria-label="カメラで撮る">カメラ</button>
         <button id="choose-background" type="button" aria-pressed="false">写真を選ぶ</button>
+      </div>
+      <button id="toggle-fullscreen" class="fullscreen-button" type="button" aria-pressed="false" aria-label="全画面にする">全画面</button>
     </div>
   </header>
   <main class="camera-layout">
@@ -103,6 +110,14 @@
     <button type="button" data-open-tool="text" aria-controls="controls-panel" aria-expanded="false">文字</button>
     <button type="button" data-open-tool="placement" aria-controls="controls-panel" aria-expanded="false" aria-label="配置・名前を編集">配置</button>
   </nav>
+  <dialog id="fullscreen-help" class="fullscreen-help" aria-labelledby="fullscreen-help-title">
+    <div class="dialog-heading"><h2 id="fullscreen-help-title">アドレスバーを隠して使う</h2><button id="close-fullscreen-help" type="button" class="secondary-button">閉じる</button></div>
+    <p>このブラウザーでは全画面に切り替えられませんでした。</p>
+    <p>アプリ内で開いている場合は、メニューからChromeやSafariなどで開き直してください。</p>
+    <p>「ホーム画面に追加」して、追加したアイコンから開く方法もあります。</p>
+    <ul><li><strong>Android：</strong>ブラウザーのメニューから「ホーム画面に追加」</li><li><strong>iPhone・iPad：</strong>Safariの共有メニューから「ホーム画面に追加」。表示される場合は「Webアプリとして開く」をオンにします。</li></ul>
+    <p class="tool-help">追加後はホーム画面のアイコンから開いてください。全画面の利用可否は端末とブラウザーによって異なります。</p>
+  </dialog>
   <dialog id="text-dialog" class="text-dialog" aria-labelledby="text-title">
     <div class="dialog-heading"><h2 id="text-title">文字を追加</h2><button id="close-text" type="button" class="secondary-button">閉じる</button></div>
     <div class="text-preview-box"><canvas id="text-preview" role="img" aria-label="文字の仕上がりプレビュー"></canvas></div>

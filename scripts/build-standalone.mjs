@@ -6,6 +6,8 @@ import {BUNDLED_POSES} from '../poses.js';
 import {BUNDLED_FRAMES} from '../frames.js';
 const root=fileURLToPath(new URL('../',import.meta.url));
 let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
+// A local single-file copy has no installable URL or external app icons.
+html=html.replace(/\s*<link rel="(?:manifest|apple-touch-icon)"[^>]*>/g,'');
 let js=fs.readFileSync(path.join(root,'camera.js'),'utf8').replace("import { renderTextCanvas } from './text.js';",'').replace(/import \{ BUNDLED_POSES \} from '\.\/poses\.js(?:\?[^']*)?';/,'');
 js=js.replace(/import \{ BUNDLED_FRAMES, drawPhotoFrame \} from '\.\/frames\.js(?:\?[^']*)?';/,'');
 function embed(file){

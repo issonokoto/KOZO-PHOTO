@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="KOHZO PHOTO">
   <meta name="description" content="徳島県クラゲ漁業組合 組合長 山仲幸造さんと、一緒に記念写真。カメラや手持ちの写真に合成して保存できます。">
   <title>KOHZO PHOTO｜山仲幸造さんと記念写真</title>
   <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNCIgZmlsbD0iIzIxNmE1MSIvPjx0ZXh0IHg9IjMyIiB5PSI0NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNDAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZmZmIj5LPC90ZXh0Pjwvc3ZnPgo=">
@@ -389,15 +391,47 @@ dialog::backdrop{background:#18302c88}
 }
 @media(prefers-reduced-motion:reduce){button{transition:none}}
 
+.camera-brand{flex:none}
+.camera-header h1{white-space:nowrap}
+.header-actions{display:flex;align-items:center;gap:12px;flex:none}
+.fullscreen-button{min-width:74px;min-height:40px;padding:7px 12px;font-size:13px;background:#fff;color:#216a51;border-color:#216a51;box-shadow:none;white-space:nowrap}
+.fullscreen-button[hidden]{display:none}
+.fullscreen-button[aria-pressed="true"]{background:#eef6f1;color:#216a51;border-color:#216a51}
+.fullscreen-help{width:min(92vw,520px);max-height:90dvh;overflow:auto;padding:20px;border:1px solid #cbd7d0;border-radius:16px;line-height:1.7}
+.fullscreen-help .dialog-heading{gap:12px}
+.fullscreen-help .dialog-heading h2{font-size:17px}
+.fullscreen-help .dialog-heading button{flex:none;min-height:40px}
+.fullscreen-help p,.fullscreen-help ul{margin:12px 0}
+.fullscreen-help ul{padding-left:1.4em}
+.fullscreen-help li+li{margin-top:8px}
+@media(max-width:1100px),(pointer:coarse),(orientation:landscape) and (max-height:600px){
+  .header-actions{gap:6px}
+  .fullscreen-button{min-width:60px;min-height:40px;padding:7px 8px;font-size:12px}
+}
+@media(max-width:480px){
+  .camera-header .brand-photo{display:none}
+  .camera-header h1{font-size:16px}
+  .header-actions{gap:5px}
+}
+@media(orientation:landscape) and (max-width:1100px),(orientation:landscape) and (pointer:coarse),(orientation:landscape) and (max-height:600px){
+  .fullscreen-button{min-height:36px}
+}
+@media(orientation:landscape) and (max-height:300px){
+  .fullscreen-button{min-height:32px;padding-top:5px;padding-bottom:5px}
+}
+
 </style>
   
 </head>
 <body>
   <header class="camera-header">
-    <div><h1>KOHZO PHOTO</h1><p>山仲幸造さんと、記念写真。</p></div>
-    <div class="source-bar" role="group" aria-label="背景を選ぶ">
+    <div class="camera-brand"><h1 aria-label="KOHZO PHOTO">KOHZO<span class="brand-photo"> PHOTO</span></h1><p>山仲幸造さんと、記念写真。</p></div>
+    <div class="header-actions">
+      <div class="source-bar" role="group" aria-label="背景を選ぶ">
         <button id="use-camera" type="button" aria-pressed="true" aria-label="カメラで撮る">カメラ</button>
         <button id="choose-background" type="button" aria-pressed="false">写真を選ぶ</button>
+      </div>
+      <button id="toggle-fullscreen" class="fullscreen-button" type="button" aria-pressed="false" aria-label="全画面にする">全画面</button>
     </div>
   </header>
   <main class="camera-layout">
@@ -485,6 +519,14 @@ dialog::backdrop{background:#18302c88}
     <button type="button" data-open-tool="text" aria-controls="controls-panel" aria-expanded="false">文字</button>
     <button type="button" data-open-tool="placement" aria-controls="controls-panel" aria-expanded="false" aria-label="配置・名前を編集">配置</button>
   </nav>
+  <dialog id="fullscreen-help" class="fullscreen-help" aria-labelledby="fullscreen-help-title">
+    <div class="dialog-heading"><h2 id="fullscreen-help-title">アドレスバーを隠して使う</h2><button id="close-fullscreen-help" type="button" class="secondary-button">閉じる</button></div>
+    <p>このブラウザーでは全画面に切り替えられませんでした。</p>
+    <p>アプリ内で開いている場合は、メニューからChromeやSafariなどで開き直してください。</p>
+    <p>「ホーム画面に追加」して、追加したアイコンから開く方法もあります。</p>
+    <ul><li><strong>Android：</strong>ブラウザーのメニューから「ホーム画面に追加」</li><li><strong>iPhone・iPad：</strong>Safariの共有メニューから「ホーム画面に追加」。表示される場合は「Webアプリとして開く」をオンにします。</li></ul>
+    <p class="tool-help">追加後はホーム画面のアイコンから開いてください。全画面の利用可否は端末とブラウザーによって異なります。</p>
+  </dialog>
   <dialog id="text-dialog" class="text-dialog" aria-labelledby="text-title">
     <div class="dialog-heading"><h2 id="text-title">文字を追加</h2><button id="close-text" type="button" class="secondary-button">閉じる</button></div>
     <div class="text-preview-box"><canvas id="text-preview" role="img" aria-label="文字の仕上がりプレビュー"></canvas></div>
@@ -709,7 +751,10 @@ document.addEventListener('pointerdown', event => {
   if (openTool && !event.target.closest('#controls-panel, #tool-launcher, #camera-stage, dialog')) closeTools();
 });
 document.addEventListener('keydown', event => {
-  if (event.key === 'Escape' && openTool && !document.querySelector('dialog[open]')) { event.preventDefault(); closeTools(); }
+  if (event.key === 'Escape' && openTool && !document.querySelector('dialog[open]')) {
+    if (!fullscreenElement()) event.preventDefault();
+    closeTools();
+  }
 });
 let sheetSwipe = null;
 $('tool-sheet-head').addEventListener('pointerdown', event => {
@@ -724,6 +769,51 @@ $('tool-sheet-head').addEventListener('pointerup', event => {
 $('tool-sheet-head').addEventListener('pointercancel', () => { sheetSwipe = null; });
 compactTools.addEventListener('change', renderToolPanel);
 renderToolPanel();
+
+// Fullscreen the document so camera overlays and modal dialogs remain available.
+const fullscreenButton = $('toggle-fullscreen');
+const appDisplayModes = [matchMedia('(display-mode: standalone)'), matchMedia('(display-mode: fullscreen)')];
+let fullscreenBusy = false;
+function fullscreenElement() {
+  return document.fullscreenElement || document.webkitFullscreenElement;
+}
+function renderFullscreenButton() {
+  const active = Boolean(fullscreenElement());
+  fullscreenButton.hidden = !active && (navigator.standalone === true || appDisplayModes.some(mode => mode.matches));
+  fullscreenButton.textContent = active ? '解除' : '全画面';
+  fullscreenButton.setAttribute('aria-pressed', String(active));
+  fullscreenButton.setAttribute('aria-label', active ? '全画面を解除' : '全画面にする');
+  fullscreenButton.disabled = fullscreenBusy;
+}
+async function toggleFullscreen() {
+  if (fullscreenBusy) return;
+  fullscreenBusy = true; renderFullscreenButton();
+  try {
+    if (fullscreenElement()) {
+      if (document.exitFullscreen) await document.exitFullscreen();
+      else await document.webkitExitFullscreen();
+    } else if (document.documentElement.requestFullscreen) {
+      // The call must stay inside the user's click, before any asynchronous work.
+      await document.documentElement.requestFullscreen({ navigationUI: 'hide' });
+    } else if (document.documentElement.webkitRequestFullscreen) {
+      await document.documentElement.webkitRequestFullscreen();
+    } else {
+      $('fullscreen-help').showModal();
+    }
+  } catch {
+    if (!fullscreenElement() && !$('fullscreen-help').open) $('fullscreen-help').showModal();
+    else if (fullscreenElement()) status('全画面を解除できませんでした。端末の戻る操作やEscキーでも解除できます。', true);
+  } finally {
+    fullscreenBusy = false; renderFullscreenButton();
+  }
+}
+fullscreenButton.addEventListener('click', toggleFullscreen);
+$('close-fullscreen-help').addEventListener('click', () => $('fullscreen-help').close());
+for (const eventName of ['fullscreenchange', 'webkitfullscreenchange']) document.addEventListener(eventName, () => {
+  renderFullscreenButton(); requestAnimationFrame(fitStage);
+});
+for (const mode of appDisplayModes) mode.addEventListener('change', renderFullscreenButton);
+renderFullscreenButton();
 
 function renderFramePreview() {
   frameCanvas.hidden = !frameImage;
@@ -1232,7 +1322,7 @@ async function capturePhoto() {
   if (state.photoUrl) URL.revokeObjectURL(state.photoUrl);
   state.photoUrl = null;
   state.blob = null;
-  const captureControls = [document.querySelector('.camera-layout'), document.querySelector('.source-bar'), $('tool-launcher')];
+  const captureControls = [document.querySelector('.camera-layout'), document.querySelector('.header-actions'), $('tool-launcher')];
   for (const element of captureControls) element.inert = true;
   try {
     clearGesture();

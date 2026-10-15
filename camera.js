@@ -84,7 +84,10 @@ document.addEventListener('pointerdown', event => {
   if (openTool && !event.target.closest('#controls-panel, #tool-launcher, #camera-stage, dialog')) closeTools();
 });
 document.addEventListener('keydown', event => {
-  if (event.key === 'Escape' && openTool && !document.querySelector('dialog[open]')) { event.preventDefault(); closeTools(); }
+  if (event.key === 'Escape' && openTool && !document.querySelector('dialog[open]')) {
+    if (!fullscreenElement()) event.preventDefault();
+    closeTools();
+  }
 });
 let sheetSwipe = null;
 $('tool-sheet-head').addEventListener('pointerdown', event => {
@@ -99,6 +102,51 @@ $('tool-sheet-head').addEventListener('pointerup', event => {
 $('tool-sheet-head').addEventListener('pointercancel', () => { sheetSwipe = null; });
 compactTools.addEventListener('change', renderToolPanel);
 renderToolPanel();
+
+// Fullscreen the document so camera overlays and modal dialogs remain available.
+const fullscreenButton = $('toggle-fullscreen');
+const appDisplayModes = [matchMedia('(display-mode: standalone)'), matchMedia('(display-mode: fullscreen)')];
+let fullscreenBusy = false;
+function fullscreenElement() {
+  return document.fullscreenElement || document.webkitFullscreenElement;
+}
+function renderFullscreenButton() {
+  const active = Boolean(fullscreenElement());
+  fullscreenButton.hidden = !active && (navigator.standalone === true || appDisplayModes.some(mode => mode.matches));
+  fullscreenButton.textContent = active ? '解除' : '全画面';
+  fullscreenButton.setAttribute('aria-pressed', String(active));
+  fullscreenButton.setAttribute('aria-label', active ? '全画面を解除' : '全画面にする');
+  fullscreenButton.disabled = fullscreenBusy;
+}
+async function toggleFullscreen() {
+  if (fullscreenBusy) return;
+  fullscreenBusy = true; renderFullscreenButton();
+  try {
+    if (fullscreenElement()) {
+      if (document.exitFullscreen) await document.exitFullscreen();
+      else await document.webkitExitFullscreen();
+    } else if (document.documentElement.requestFullscreen) {
+      // The call must stay inside the user's click, before any asynchronous work.
+      await document.documentElement.requestFullscreen({ navigationUI: 'hide' });
+    } else if (document.documentElement.webkitRequestFullscreen) {
+      await document.documentElement.webkitRequestFullscreen();
+    } else {
+      $('fullscreen-help').showModal();
+    }
+  } catch {
+    if (!fullscreenElement() && !$('fullscreen-help').open) $('fullscreen-help').showModal();
+    else if (fullscreenElement()) status('全画面を解除できませんでした。端末の戻る操作やEscキーでも解除できます。', true);
+  } finally {
+    fullscreenBusy = false; renderFullscreenButton();
+  }
+}
+fullscreenButton.addEventListener('click', toggleFullscreen);
+$('close-fullscreen-help').addEventListener('click', () => $('fullscreen-help').close());
+for (const eventName of ['fullscreenchange', 'webkitfullscreenchange']) document.addEventListener(eventName, () => {
+  renderFullscreenButton(); requestAnimationFrame(fitStage);
+});
+for (const mode of appDisplayModes) mode.addEventListener('change', renderFullscreenButton);
+renderFullscreenButton();
 
 function renderFramePreview() {
   frameCanvas.hidden = !frameImage;
@@ -607,7 +655,7 @@ async function capturePhoto() {
   if (state.photoUrl) URL.revokeObjectURL(state.photoUrl);
   state.photoUrl = null;
   state.blob = null;
-  const captureControls = [document.querySelector('.camera-layout'), document.querySelector('.source-bar'), $('tool-launcher')];
+  const captureControls = [document.querySelector('.camera-layout'), document.querySelector('.header-actions'), $('tool-launcher')];
   for (const element of captureControls) element.inert = true;
   try {
     clearGesture();

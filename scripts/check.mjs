@@ -34,3 +34,8 @@ for(const frame of BUNDLED_FRAMES){
  checkImage(frame.src);checkImage(frame.thumbnail);
 }
 console.log('フレーム: '+BUNDLED_FRAMES.length+'種類を確認しました。');
+const manifest=JSON.parse(fs.readFileSync(new URL('../app.webmanifest',import.meta.url),'utf8'));
+if(manifest.display!=='fullscreen'||manifest.scope!=='./'||manifest.start_url!=='./?launch=homescreen')throw new Error('Invalid app launch settings');
+for(const icon of manifest.icons)checkImage(icon.src);
+checkImage('assets/app-icon-180.png');
+console.log('ホーム画面からの起動設定とアイコンを確認しました。');

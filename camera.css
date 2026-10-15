@@ -380,3 +380,32 @@ dialog::backdrop{background:#18302c88}
 }
 @media(prefers-reduced-motion:reduce){button{transition:none}}
 
+.camera-brand{flex:none}
+.camera-header h1{white-space:nowrap}
+.header-actions{display:flex;align-items:center;gap:12px;flex:none}
+.fullscreen-button{min-width:74px;min-height:40px;padding:7px 12px;font-size:13px;background:#fff;color:#216a51;border-color:#216a51;box-shadow:none;white-space:nowrap}
+.fullscreen-button[hidden]{display:none}
+.fullscreen-button[aria-pressed="true"]{background:#eef6f1;color:#216a51;border-color:#216a51}
+.fullscreen-help{width:min(92vw,520px);max-height:90dvh;overflow:auto;padding:20px;border:1px solid #cbd7d0;border-radius:16px;line-height:1.7}
+.fullscreen-help .dialog-heading{gap:12px}
+.fullscreen-help .dialog-heading h2{font-size:17px}
+.fullscreen-help .dialog-heading button{flex:none;min-height:40px}
+.fullscreen-help p,.fullscreen-help ul{margin:12px 0}
+.fullscreen-help ul{padding-left:1.4em}
+.fullscreen-help li+li{margin-top:8px}
+@media(max-width:1100px),(pointer:coarse),(orientation:landscape) and (max-height:600px){
+  .header-actions{gap:6px}
+  .fullscreen-button{min-width:60px;min-height:40px;padding:7px 8px;font-size:12px}
+}
+@media(max-width:480px){
+  .camera-header .brand-photo{display:none}
+  .camera-header h1{font-size:16px}
+  .header-actions{gap:5px}
+}
+@media(orientation:landscape) and (max-width:1100px),(orientation:landscape) and (pointer:coarse),(orientation:landscape) and (max-height:600px){
+  .fullscreen-button{min-height:36px}
+}
+@media(orientation:landscape) and (max-height:300px){
+  .fullscreen-button{min-height:32px;padding-top:5px;padding-bottom:5px}
+}
+

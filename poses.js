@@ -85,6 +85,186 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "tshirt-peace",
+    "name": "Tシャツ・ピース",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "ピース"
+    ],
+    "src": "./assets/library/tshirt-peace.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-peace.webp"
+  },
+  {
+    "id": "tshirt-double-peace",
+    "name": "Tシャツ・ダブルピース",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "ダブルピース"
+    ],
+    "src": "./assets/library/tshirt-double-peace.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-double-peace.webp"
+  },
+  {
+    "id": "tshirt-thumbs-up",
+    "name": "Tシャツ・サムズアップ",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "サムズアップ"
+    ],
+    "src": "./assets/library/tshirt-thumbs-up.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-thumbs-up.webp"
+  },
+  {
+    "id": "tshirt-wave",
+    "name": "Tシャツ・手を振る",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "手を振る"
+    ],
+    "src": "./assets/library/tshirt-wave.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-wave.webp"
+  },
+  {
+    "id": "tshirt-welcome",
+    "name": "Tシャツ・両手を広げる",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "両手を広げる"
+    ],
+    "src": "./assets/library/tshirt-welcome.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-welcome.webp"
+  },
+  {
+    "id": "tshirt-point",
+    "name": "Tシャツ・横を指さす",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "横を指さす"
+    ],
+    "src": "./assets/library/tshirt-point.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-point.webp"
+  },
+  {
+    "id": "tshirt-cheer",
+    "name": "Tシャツ・ガッツポーズ",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "ガッツポーズ"
+    ],
+    "src": "./assets/library/tshirt-cheer.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-cheer.webp"
+  },
+  {
+    "id": "tshirt-heart",
+    "name": "Tシャツ・ハート",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "ハート"
+    ],
+    "src": "./assets/library/tshirt-heart.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-heart.webp"
+  },
+  {
+    "id": "tshirt-bow",
+    "name": "Tシャツ・おじぎ",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "おじぎ"
+    ],
+    "src": "./assets/library/tshirt-bow.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-bow.webp"
+  },
+  {
+    "id": "tshirt-salute",
+    "name": "Tシャツ・敬礼",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "敬礼"
+    ],
+    "src": "./assets/library/tshirt-salute.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-salute.webp"
+  },
+  {
+    "id": "tshirt-laugh",
+    "name": "Tシャツ・大笑い",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "大笑い"
+    ],
+    "src": "./assets/library/tshirt-laugh.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-laugh.webp"
+  },
+  {
+    "id": "tshirt-hands-on-hips",
+    "name": "Tシャツ・腰に手",
+    "category": "クラゲTシャツ",
+    "tags": [
+      "徳島のクラゲ",
+      "Tシャツ",
+      "Ｔシャツ",
+      "白Tシャツ",
+      "クラゲ",
+      "腰に手"
+    ],
+    "src": "./assets/library/tshirt-hands-on-hips.webp",
+    "thumbnail": "./assets/thumbnails/tshirt-hands-on-hips.webp"
+  },
+  {
     "id": "jellyfish-umbrella",
     "name": "クラゲの傘",
     "category": "クラゲ・海",

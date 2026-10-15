@@ -1,0 +1,95 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "references": [
+    "先に作成した「徳島のクラゲ」Tシャツ姿の幸造（透過PNG原本はローカル保管）",
+    "利用者提供の青いクラゲと「徳島のクラゲ」のTシャツ図案"
+  ],
+  "commonPrompt": "Use case: identity-preserve.\nAsset type: one reusable photorealistic full-body person cutout, one pose per file.\nInput image 1: sole identity, wardrobe, and photographic style reference. This is the SAME elderly Japanese man 山仲幸造 (Kozo); preserve his recognizable face, age, wrinkles, grey hair, body proportions and kind personality. Keep the exact navy fishing cap, white short-sleeve crew-neck T-shirt, beige trousers, black walking shoes and black wristwatch. Do not introduce new accessories or costumes.\nInput image 2: supporting original T-shirt artwork. Preserve this precise sky-blue hand-drawn smiling jellyfish graphic (irregular oval body, same smiling eyes and mouth, same tentacle shapes), centrally printed large on the white shirt. Immediately beneath it the EXACT black Japanese text must read \"徳島のクラゲ\". Reproduce the design and colors faithfully, with natural subtle fabric folds, no square patch, no added logos or text. Keep the entire graphic and all lettering visible in this pose.\nComposition: ONE person only, whole head, all hands and fingertips, both legs and complete shoe soles inside the image with a generous clear margin around all edges. Portrait 2:3 image, full-body front-facing group-photo cutout, face toward camera unless the pose explicitly says otherwise. Consistent neutral soft daylight and sharp detailed face and fabric. Realistic anatomy and hands, not a cartoon or plastic render.\nBackground: truly transparent alpha, including all gaps between arms, fingers and legs. The dark halo/gradient visible in some previews is NOT a scene to reproduce: no actual backdrop, floor, cast shadow outside the cutout, glow, vignette, frame or watermark. Preserve opaque detailed clothing and skin, transparent empty space.\nChange ONLY the pose and expression described next; keep the same man and the same shirt design.\nSpecific pose: ",
+  "variants": [
+    {
+      "id": "tshirt-peace",
+      "name": "Tシャツ・ピース",
+      "pose": "A cheerful smile and one V-sign beside his face with his right hand; his other arm relaxed by his side. A natural friendly commemorative-photo stance.",
+      "src": "./assets/library/tshirt-peace.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-peace.webp"
+    },
+    {
+      "id": "tshirt-double-peace",
+      "name": "Tシャツ・ダブルピース",
+      "pose": "Both hands making distinct natural V-signs at shoulder height, comfortably outside the torso, cheerful smile. Keep elbows and all fingertips visible.",
+      "src": "./assets/library/tshirt-double-peace.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-double-peace.webp"
+    },
+    {
+      "id": "tshirt-thumbs-up",
+      "name": "Tシャツ・サムズアップ",
+      "pose": "One hand giving a clear thumbs-up beside his shoulder, the other arm resting naturally by his side, broad warm confident smile.",
+      "src": "./assets/library/tshirt-thumbs-up.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-thumbs-up.webp"
+    },
+    {
+      "id": "tshirt-wave",
+      "name": "Tシャツ・手を振る",
+      "pose": "Waving hello with one open hand raised beside his head, five anatomically correct fingers, other arm relaxed, warm welcoming smile.",
+      "src": "./assets/library/tshirt-wave.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-wave.webp"
+    },
+    {
+      "id": "tshirt-welcome",
+      "name": "Tシャツ・両手を広げる",
+      "pose": "Welcoming gesture with both arms open diagonally outward at waist to chest height, both palms upward. Warm inviting smile. Keep the whole body and both hands inside frame.",
+      "src": "./assets/library/tshirt-welcome.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-welcome.webp"
+    },
+    {
+      "id": "tshirt-point",
+      "name": "Tシャツ・横を指さす",
+      "pose": "Pointing with one index finger toward the empty space beside him at shoulder height, elbow softly bent and arm fully visible; face still toward camera and smiling. Other hand relaxed. No object or symbol at the pointing destination.",
+      "src": "./assets/library/tshirt-point.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-point.webp"
+    },
+    {
+      "id": "tshirt-cheer",
+      "name": "Tシャツ・ガッツポーズ",
+      "pose": "A playful encouraging cheer pose with both softly clenched fists lifted outside the torso at shoulder height, elbows down, bright happy smile. Feet planted naturally. Realistic gentle elderly energy.",
+      "src": "./assets/library/tshirt-cheer.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-cheer.webp"
+    },
+    {
+      "id": "tshirt-heart",
+      "name": "Tシャツ・ハート",
+      "pose": "Forming a small heart shape with both hands beside his face at cheek height, not over his chest, delighted gentle smile. Anatomically plausible fingers and joined hands. Entire shirt print visible.",
+      "src": "./assets/library/tshirt-heart.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-heart.webp"
+    },
+    {
+      "id": "tshirt-bow",
+      "name": "Tシャツ・おじぎ",
+      "pose": "A modest polite bow, torso inclining forward only about 15 degrees, face lifted slightly so his eyes and warm smile remain visible under the cap. Hands together low in front of the pelvis below the shirt print; both shoes planted, entire chest graphic legible.",
+      "src": "./assets/library/tshirt-bow.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-bow.webp"
+    },
+    {
+      "id": "tshirt-salute",
+      "name": "Tシャツ・敬礼",
+      "pose": "A friendly casual salute with one hand at the outer edge of his cap brim, elbow outward, opposite arm by his side, playful warm smile. Face and shirt unobstructed.",
+      "src": "./assets/library/tshirt-salute.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-salute.webp"
+    },
+    {
+      "id": "tshirt-laugh",
+      "name": "Tシャツ・大笑い",
+      "pose": "Laughing naturally with a broad open smile and gently narrowed eyes, head very slightly tilted back, hands relaxed down outside his thighs, balanced relaxed stance. Preserve the same man's aged facial structure and realistic expression.",
+      "src": "./assets/library/tshirt-laugh.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-laugh.webp"
+    },
+    {
+      "id": "tshirt-hands-on-hips",
+      "name": "Tシャツ・腰に手",
+      "pose": "Both hands resting naturally on his hips near the outer waist, elbows out, feet comfortably apart, proud playful stance and a warm grin. Keep hands away from the central shirt print.",
+      "src": "./assets/library/tshirt-hands-on-hips.webp",
+      "thumbnail": "./assets/thumbnails/tshirt-hands-on-hips.webp"
+    }
+  ]
+}

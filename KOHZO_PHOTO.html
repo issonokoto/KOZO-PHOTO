@@ -774,8 +774,53 @@ renderToolPanel();
 const fullscreenButton = $('toggle-fullscreen');
 const appDisplayModes = [matchMedia('(display-mode: standalone)'), matchMedia('(display-mode: fullscreen)')];
 let fullscreenBusy = false;
+let fullscreenOrientationSession = null;
+const orientationFallbackMessage = 'この端末では全画面中も、スマホの回転設定に従います。';
 function fullscreenElement() {
   return document.fullscreenElement || document.webkitFullscreenElement;
+}
+function releaseFullscreenOrientation() {
+  const session = fullscreenOrientationSession;
+  if (!session) return;
+  fullscreenOrientationSession = null;
+  // Also cancel an in-flight lock request when fullscreen ends.
+  if (session.requested) {
+    try { screen.orientation.unlock(); } catch { /* The browser can also release it on exit. */ }
+  }
+  if (session.previousStatus && $('camera-status').textContent === orientationFallbackMessage) {
+    status(session.previousStatus.message, session.previousStatus.error);
+  }
+}
+function showOrientationFallback(session) {
+  if (fullscreenOrientationSession !== session || !matchMedia('(pointer: coarse)').matches) return;
+  const message = $('camera-status');
+  session.previousStatus = { message: message.textContent, error: message.classList.contains('error') };
+  status(orientationFallbackMessage);
+}
+async function syncFullscreenOrientation() {
+  // Manifest fullscreen counts, while a normal tab or standalone window keeps
+  // the device's default policy. Do not set a global manifest orientation.
+  const fullscreen = Boolean(fullscreenElement()) || appDisplayModes[1].matches;
+  if (!fullscreen || document.visibilityState !== 'visible') { releaseFullscreenOrientation(); return; }
+  if (fullscreenOrientationSession) return;
+  const session = { requested: false };
+  fullscreenOrientationSession = session;
+  const orientation = screen.orientation;
+  if (typeof orientation?.lock !== 'function' || typeof orientation?.unlock !== 'function') {
+    showOrientationFallback(session); return;
+  }
+  session.requested = true;
+  try {
+    // "any" allows both portrait and landscape instead of fixing one direction.
+    await orientation.lock('any');
+  } catch {
+    showOrientationFallback(session);
+  }
+  // A browser may resolve a request after the user has already left fullscreen.
+  // Do not release a newer fullscreen session during a quick exit/re-entry.
+  if (fullscreenOrientationSession !== session && !fullscreenOrientationSession) {
+    try { orientation.unlock(); } catch { /* No active lock remains in supported browsers. */ }
+  }
 }
 function renderFullscreenButton() {
   const active = Boolean(fullscreenElement());
@@ -810,10 +855,15 @@ async function toggleFullscreen() {
 fullscreenButton.addEventListener('click', toggleFullscreen);
 $('close-fullscreen-help').addEventListener('click', () => $('fullscreen-help').close());
 for (const eventName of ['fullscreenchange', 'webkitfullscreenchange']) document.addEventListener(eventName, () => {
-  renderFullscreenButton(); requestAnimationFrame(fitStage);
+  renderFullscreenButton(); syncFullscreenOrientation(); requestAnimationFrame(fitStage);
 });
-for (const mode of appDisplayModes) mode.addEventListener('change', renderFullscreenButton);
-renderFullscreenButton();
+for (const mode of appDisplayModes) mode.addEventListener('change', () => {
+  renderFullscreenButton(); syncFullscreenOrientation();
+});
+document.addEventListener('visibilitychange', syncFullscreenOrientation);
+window.addEventListener('pagehide', releaseFullscreenOrientation);
+window.addEventListener('pageshow', syncFullscreenOrientation);
+renderFullscreenButton(); syncFullscreenOrientation();
 
 function renderFramePreview() {
   frameCanvas.hidden = !frameImage;

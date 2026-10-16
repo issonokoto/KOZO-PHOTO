@@ -85,6 +85,791 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "pref-01-hokkaido",
+    "name": "北海道・流氷",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "北海道",
+      "ほっかいどう",
+      "流氷"
+    ],
+    "src": "./assets/library/pref-01-hokkaido.webp",
+    "thumbnail": "./assets/thumbnails/pref-01-hokkaido.webp"
+  },
+  {
+    "id": "pref-02-aomori",
+    "name": "青森・遮光器土偶",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "青森県",
+      "青森",
+      "あおもり",
+      "遮光器土偶",
+      "あおもりけん"
+    ],
+    "src": "./assets/library/pref-02-aomori.webp",
+    "thumbnail": "./assets/thumbnails/pref-02-aomori.webp"
+  },
+  {
+    "id": "pref-03-iwate",
+    "name": "岩手・南部鉄器",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "岩手県",
+      "岩手",
+      "いわて",
+      "南部鉄器",
+      "いわてけん"
+    ],
+    "src": "./assets/library/pref-03-iwate.webp",
+    "thumbnail": "./assets/thumbnails/pref-03-iwate.webp"
+  },
+  {
+    "id": "pref-04-miyagi",
+    "name": "宮城・仙台七夕",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "宮城県",
+      "宮城",
+      "みやぎ",
+      "仙台七夕",
+      "みやぎけん"
+    ],
+    "src": "./assets/library/pref-04-miyagi.webp",
+    "thumbnail": "./assets/thumbnails/pref-04-miyagi.webp"
+  },
+  {
+    "id": "pref-05-akita",
+    "name": "秋田・なまはげ",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "秋田県",
+      "秋田",
+      "あきた",
+      "なまはげ",
+      "あきたけん"
+    ],
+    "src": "./assets/library/pref-05-akita.webp",
+    "thumbnail": "./assets/thumbnails/pref-05-akita.webp"
+  },
+  {
+    "id": "pref-06-yamagata",
+    "name": "山形・紅花",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "山形県",
+      "山形",
+      "やまがた",
+      "紅花",
+      "やまがたけん"
+    ],
+    "src": "./assets/library/pref-06-yamagata.webp",
+    "thumbnail": "./assets/thumbnails/pref-06-yamagata.webp"
+  },
+  {
+    "id": "pref-07-fukushima",
+    "name": "福島・会津絵ろうそく",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "福島県",
+      "福島",
+      "ふくしま",
+      "会津絵ろうそく",
+      "ふくしまけん"
+    ],
+    "src": "./assets/library/pref-07-fukushima.webp",
+    "thumbnail": "./assets/thumbnails/pref-07-fukushima.webp"
+  },
+  {
+    "id": "pref-08-ibaraki",
+    "name": "茨城・水戸納豆",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "茨城県",
+      "茨城",
+      "いばらき",
+      "水戸納豆",
+      "いばらきけん"
+    ],
+    "src": "./assets/library/pref-08-ibaraki.webp",
+    "thumbnail": "./assets/thumbnails/pref-08-ibaraki.webp"
+  },
+  {
+    "id": "pref-09-tochigi",
+    "name": "栃木・大谷石",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "栃木県",
+      "栃木",
+      "とちぎ",
+      "大谷石",
+      "とちぎけん"
+    ],
+    "src": "./assets/library/pref-09-tochigi.webp",
+    "thumbnail": "./assets/thumbnails/pref-09-tochigi.webp"
+  },
+  {
+    "id": "pref-10-gunma",
+    "name": "群馬・高崎だるま",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "群馬県",
+      "群馬",
+      "ぐんま",
+      "高崎だるま",
+      "ぐんまけん"
+    ],
+    "src": "./assets/library/pref-10-gunma.webp",
+    "thumbnail": "./assets/thumbnails/pref-10-gunma.webp"
+  },
+  {
+    "id": "pref-11-saitama",
+    "name": "埼玉・川越の蔵造り",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "埼玉県",
+      "埼玉",
+      "さいたま",
+      "川越の蔵造り",
+      "さいたまけん"
+    ],
+    "src": "./assets/library/pref-11-saitama.webp",
+    "thumbnail": "./assets/thumbnails/pref-11-saitama.webp"
+  },
+  {
+    "id": "pref-12-chiba",
+    "name": "千葉・成田の旅客機",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "千葉県",
+      "千葉",
+      "ちば",
+      "ちばけん",
+      "成田",
+      "なりた",
+      "成田空港",
+      "旅客機",
+      "ひこうき",
+      "飛行機"
+    ],
+    "src": "./assets/library/pref-12-chiba.webp",
+    "thumbnail": "./assets/thumbnails/pref-12-chiba.webp"
+  },
+  {
+    "id": "pref-13-tokyo",
+    "name": "東京・東京タワー",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "東京都",
+      "東京",
+      "とうきょう",
+      "東京タワー",
+      "とうきょうと"
+    ],
+    "src": "./assets/library/pref-13-tokyo.webp",
+    "thumbnail": "./assets/thumbnails/pref-13-tokyo.webp"
+  },
+  {
+    "id": "pref-14-kanagawa",
+    "name": "神奈川・箱根寄木細工",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "神奈川県",
+      "神奈川",
+      "かながわ",
+      "箱根寄木細工",
+      "かながわけん"
+    ],
+    "src": "./assets/library/pref-14-kanagawa.webp",
+    "thumbnail": "./assets/thumbnails/pref-14-kanagawa.webp"
+  },
+  {
+    "id": "pref-15-niigata",
+    "name": "新潟・長岡花火",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "新潟県",
+      "新潟",
+      "にいがた",
+      "長岡花火",
+      "にいがたけん"
+    ],
+    "src": "./assets/library/pref-15-niigata.webp",
+    "thumbnail": "./assets/thumbnails/pref-15-niigata.webp"
+  },
+  {
+    "id": "pref-16-toyama",
+    "name": "富山・黒部ダム",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "富山県",
+      "富山",
+      "とやま",
+      "黒部ダム",
+      "とやまけん"
+    ],
+    "src": "./assets/library/pref-16-toyama.webp",
+    "thumbnail": "./assets/thumbnails/pref-16-toyama.webp"
+  },
+  {
+    "id": "pref-17-ishikawa",
+    "name": "石川・金沢の金箔",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "石川県",
+      "石川",
+      "いしかわ",
+      "金沢の金箔",
+      "いしかわけん"
+    ],
+    "src": "./assets/library/pref-17-ishikawa.webp",
+    "thumbnail": "./assets/thumbnails/pref-17-ishikawa.webp"
+  },
+  {
+    "id": "pref-18-fukui",
+    "name": "福井・恐竜化石",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "福井県",
+      "福井",
+      "ふくい",
+      "恐竜化石",
+      "ふくいけん"
+    ],
+    "src": "./assets/library/pref-18-fukui.webp",
+    "thumbnail": "./assets/thumbnails/pref-18-fukui.webp"
+  },
+  {
+    "id": "pref-19-yamanashi",
+    "name": "山梨・富士山",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "山梨県",
+      "山梨",
+      "やまなし",
+      "富士山",
+      "やまなしけん"
+    ],
+    "src": "./assets/library/pref-19-yamanashi.webp",
+    "thumbnail": "./assets/thumbnails/pref-19-yamanashi.webp"
+  },
+  {
+    "id": "pref-20-nagano",
+    "name": "長野・諏訪の御柱",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "長野県",
+      "長野",
+      "ながの",
+      "諏訪の御柱",
+      "ながのけん"
+    ],
+    "src": "./assets/library/pref-20-nagano.webp",
+    "thumbnail": "./assets/thumbnails/pref-20-nagano.webp"
+  },
+  {
+    "id": "pref-21-gifu",
+    "name": "岐阜・白川郷の合掌造り",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "岐阜県",
+      "岐阜",
+      "ぎふ",
+      "白川郷の合掌造り",
+      "ぎふけん"
+    ],
+    "src": "./assets/library/pref-21-gifu.webp",
+    "thumbnail": "./assets/thumbnails/pref-21-gifu.webp"
+  },
+  {
+    "id": "pref-22-shizuoka",
+    "name": "静岡・一芯二葉の茶葉",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "静岡県",
+      "静岡",
+      "しずおか",
+      "一芯二葉の茶葉",
+      "しずおかけん"
+    ],
+    "src": "./assets/library/pref-22-shizuoka.webp",
+    "thumbnail": "./assets/thumbnails/pref-22-shizuoka.webp"
+  },
+  {
+    "id": "pref-23-aichi",
+    "name": "愛知・尾張七宝",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "愛知県",
+      "愛知",
+      "あいち",
+      "尾張七宝",
+      "あいちけん"
+    ],
+    "src": "./assets/library/pref-23-aichi.webp",
+    "thumbnail": "./assets/thumbnails/pref-23-aichi.webp"
+  },
+  {
+    "id": "pref-24-mie",
+    "name": "三重・伊勢志摩の海女",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "三重県",
+      "三重",
+      "みえ",
+      "伊勢志摩の海女",
+      "みえけん"
+    ],
+    "src": "./assets/library/pref-24-mie.webp",
+    "thumbnail": "./assets/thumbnails/pref-24-mie.webp"
+  },
+  {
+    "id": "pref-25-shiga",
+    "name": "滋賀・琵琶湖",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "滋賀県",
+      "滋賀",
+      "しが",
+      "琵琶湖",
+      "しがけん"
+    ],
+    "src": "./assets/library/pref-25-shiga.webp",
+    "thumbnail": "./assets/thumbnails/pref-25-shiga.webp"
+  },
+  {
+    "id": "pref-26-kyoto",
+    "name": "京都・十二単",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "京都府",
+      "京都",
+      "きょうと",
+      "十二単",
+      "きょうとふ"
+    ],
+    "src": "./assets/library/pref-26-kyoto.webp",
+    "thumbnail": "./assets/thumbnails/pref-26-kyoto.webp"
+  },
+  {
+    "id": "pref-27-osaka",
+    "name": "大阪・漫才師",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "大阪府",
+      "大阪",
+      "おおさか",
+      "漫才師",
+      "おおさかふ"
+    ],
+    "src": "./assets/library/pref-27-osaka.webp",
+    "thumbnail": "./assets/thumbnails/pref-27-osaka.webp"
+  },
+  {
+    "id": "pref-28-hyogo",
+    "name": "兵庫・播州そろばん",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "兵庫県",
+      "兵庫",
+      "ひょうご",
+      "播州そろばん",
+      "ひょうごけん"
+    ],
+    "src": "./assets/library/pref-28-hyogo.webp",
+    "thumbnail": "./assets/thumbnails/pref-28-hyogo.webp"
+  },
+  {
+    "id": "pref-29-nara",
+    "name": "奈良・奈良墨",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "奈良県",
+      "奈良",
+      "なら",
+      "奈良墨",
+      "ならけん"
+    ],
+    "src": "./assets/library/pref-29-nara.webp",
+    "thumbnail": "./assets/thumbnails/pref-29-nara.webp"
+  },
+  {
+    "id": "pref-30-wakayama",
+    "name": "和歌山・那智の滝",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "和歌山県",
+      "和歌山",
+      "わかやま",
+      "那智の滝",
+      "わかやまけん"
+    ],
+    "src": "./assets/library/pref-30-wakayama.webp",
+    "thumbnail": "./assets/thumbnails/pref-30-wakayama.webp"
+  },
+  {
+    "id": "pref-31-tottori",
+    "name": "鳥取・砂丘",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "鳥取県",
+      "鳥取",
+      "とっとり",
+      "砂丘",
+      "とっとりけん"
+    ],
+    "src": "./assets/library/pref-31-tottori.webp",
+    "thumbnail": "./assets/thumbnails/pref-31-tottori.webp"
+  },
+  {
+    "id": "pref-32-shimane",
+    "name": "島根・出雲の大しめ縄",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "島根県",
+      "島根",
+      "しまね",
+      "出雲の大しめ縄",
+      "しまねけん"
+    ],
+    "src": "./assets/library/pref-32-shimane.webp",
+    "thumbnail": "./assets/thumbnails/pref-32-shimane.webp"
+  },
+  {
+    "id": "pref-33-okayama",
+    "name": "岡山・児島デニム",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "岡山県",
+      "岡山",
+      "おかやま",
+      "児島デニム",
+      "おかやまけん"
+    ],
+    "src": "./assets/library/pref-33-okayama.webp",
+    "thumbnail": "./assets/thumbnails/pref-33-okayama.webp"
+  },
+  {
+    "id": "pref-34-hiroshima",
+    "name": "広島・宮島の大鳥居",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "広島県",
+      "広島",
+      "ひろしま",
+      "宮島の大鳥居",
+      "ひろしまけん"
+    ],
+    "src": "./assets/library/pref-34-hiroshima.webp",
+    "thumbnail": "./assets/thumbnails/pref-34-hiroshima.webp"
+  },
+  {
+    "id": "pref-35-yamaguchi",
+    "name": "山口・錦帯橋",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "山口県",
+      "山口",
+      "やまぐち",
+      "錦帯橋",
+      "やまぐちけん"
+    ],
+    "src": "./assets/library/pref-35-yamaguchi.webp",
+    "thumbnail": "./assets/thumbnails/pref-35-yamaguchi.webp"
+  },
+  {
+    "id": "pref-37-kagawa",
+    "name": "香川・丸亀うちわ",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "香川県",
+      "香川",
+      "かがわ",
+      "丸亀うちわ",
+      "かがわけん"
+    ],
+    "src": "./assets/library/pref-37-kagawa.webp",
+    "thumbnail": "./assets/thumbnails/pref-37-kagawa.webp"
+  },
+  {
+    "id": "pref-38-ehime",
+    "name": "愛媛・伊予水引",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "愛媛県",
+      "愛媛",
+      "えひめ",
+      "伊予水引",
+      "えひめけん"
+    ],
+    "src": "./assets/library/pref-38-ehime.webp",
+    "thumbnail": "./assets/thumbnails/pref-38-ehime.webp"
+  },
+  {
+    "id": "pref-39-kochi",
+    "name": "高知・土佐和紙",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "高知県",
+      "高知",
+      "こうち",
+      "土佐和紙",
+      "こうちけん"
+    ],
+    "src": "./assets/library/pref-39-kochi.webp",
+    "thumbnail": "./assets/thumbnails/pref-39-kochi.webp"
+  },
+  {
+    "id": "pref-40-fukuoka",
+    "name": "福岡・博多こま",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "福岡県",
+      "福岡",
+      "ふくおか",
+      "博多こま",
+      "ふくおかけん"
+    ],
+    "src": "./assets/library/pref-40-fukuoka.webp",
+    "thumbnail": "./assets/thumbnails/pref-40-fukuoka.webp"
+  },
+  {
+    "id": "pref-41-saga",
+    "name": "佐賀・有田焼",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "佐賀県",
+      "佐賀",
+      "さが",
+      "有田焼",
+      "さがけん"
+    ],
+    "src": "./assets/library/pref-41-saga.webp",
+    "thumbnail": "./assets/thumbnails/pref-41-saga.webp"
+  },
+  {
+    "id": "pref-42-nagasaki",
+    "name": "長崎・長崎ハタ",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "長崎県",
+      "長崎",
+      "ながさき",
+      "長崎ハタ",
+      "ながさきけん"
+    ],
+    "src": "./assets/library/pref-42-nagasaki.webp",
+    "thumbnail": "./assets/thumbnails/pref-42-nagasaki.webp"
+  },
+  {
+    "id": "pref-43-kumamoto",
+    "name": "熊本・辛子蓮根",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "熊本県",
+      "熊本",
+      "くまもと",
+      "辛子蓮根",
+      "くまもとけん"
+    ],
+    "src": "./assets/library/pref-43-kumamoto.webp",
+    "thumbnail": "./assets/thumbnails/pref-43-kumamoto.webp"
+  },
+  {
+    "id": "pref-44-oita",
+    "name": "大分・別府の地獄蒸し",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "大分県",
+      "大分",
+      "おおいた",
+      "別府の地獄蒸し",
+      "おおいたけん"
+    ],
+    "src": "./assets/library/pref-44-oita.webp",
+    "thumbnail": "./assets/thumbnails/pref-44-oita.webp"
+  },
+  {
+    "id": "pref-45-miyazaki",
+    "name": "宮崎・鬼の洗濯板",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "宮崎県",
+      "宮崎",
+      "みやざき",
+      "鬼の洗濯板",
+      "みやざきけん"
+    ],
+    "src": "./assets/library/pref-45-miyazaki.webp",
+    "thumbnail": "./assets/thumbnails/pref-45-miyazaki.webp"
+  },
+  {
+    "id": "pref-46-kagoshima",
+    "name": "鹿児島・薩摩切子",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "鹿児島県",
+      "鹿児島",
+      "かごしま",
+      "薩摩切子",
+      "かごしまけん"
+    ],
+    "src": "./assets/library/pref-46-kagoshima.webp",
+    "thumbnail": "./assets/thumbnails/pref-46-kagoshima.webp"
+  },
+  {
+    "id": "pref-47-okinawa",
+    "name": "沖縄・サンゴ",
+    "category": "全国ご当地",
+    "tags": [
+      "都道府県",
+      "全国",
+      "ご当地",
+      "沖縄県",
+      "沖縄",
+      "おきなわ",
+      "サンゴ",
+      "おきなわけん"
+    ],
+    "src": "./assets/library/pref-47-okinawa.webp",
+    "thumbnail": "./assets/thumbnails/pref-47-okinawa.webp"
+  },
+  {
     "id": "animal-panda",
     "name": "着ぐるみ・パンダ",
     "category": "動物の着ぐるみ",

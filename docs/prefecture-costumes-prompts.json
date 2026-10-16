@@ -1,0 +1,1194 @@
+{
+  "basePrompt": "Use case: identity-preserve.\nAsset type: ONE new reusable transparent full-body photographic cutout for KOHZO PHOTO, a costume inspired by ONE Japanese prefecture. This is creative local-motif wearable design, not a claim that it is traditional everyday clothing.\nInput image 1 is ONLY the identity reference: Kozo, the SAME friendly elderly Japanese man. Closely preserve his recognizable eyes, face, grey eyebrows, fine wrinkles, grey hair, warm smile, elderly age and ordinary human proportions. Do not make a younger man or a woman. No animal face, face paint or mask hiding the face.\nCreate a convincing REAL STUDIO PHOTOGRAPH of him wearing the exact regional design below: tangible real costume fabrics, sculptural stage props, believable seams and surface textures, natural elderly hands. Playful costume but photographic realism; never cartoon, illustration, plastic doll or 3D character render.\nFull body: complete head/hair/headwear, both hands, both feet, and EVERY edge of every costume and prop must fit well INSIDE a portrait 2:3 canvas with generous transparent margin, especially above tall accessories. Exactly ONE man, smiling toward the camera as if joining a visitor's souvenir photo. Human hands and face visible. Keep the design compact around his body. Objects are wearable props attached to him or held by him: NO standalone scenery, building background, floor, landscape, terrain diorama, display pedestal, second person or animal.\nGENUINE TRANSPARENT ALPHA background with clean edges and transparent gaps between limbs and props. Soft neutral daylight. No external cast shadow, backdrop, glow, smoke in the background, gradient, border, watermark, words, logos, prefecture labels, flags with writing, or checkerboard texture.\nReplace and fully cover the original polo and trousers with the specified costume. NO chest lettering. Remove the original fishing cap unless the specific design needs it; keep his own grey hair or the specified face-revealing headwear. The man's original face is the identity invariant.\nMake this design genuinely different in its dominant silhouette, material and main motif from generic animal kigurumi, fishing gear, ramen/food trays, sushi, takoyaki, samurai/ninja, Awa Odori, blue indigo kimono, astronaut/robot, fruit-shaped round suits and giant conventional umbrellas.\nSpecific prefecture and visual design: ",
+  "reference": "assets/001.png",
+  "tool": "built-in image_gen",
+  "date": "2026-10-16",
+  "repairs": [
+    {
+      "id": "pref-10-gunma",
+      "revision": 2,
+      "tool": "built-in image_gen edit",
+      "instruction": "Use case: precise-object-edit. Image 1 is the EDIT TARGET. Preserve the exact elderly man's identity, smiling face, grey hair, both raised fists, body pose, red costume silhouette, gold side arcs, clothing, framing and genuine transparent background. Change ONLY the decoration on the front of the red daruma torso. Add a clearly recognizable traditional DARUMA DOLL FACE painted on a large warm-white oval panel at the center of the red belly: two bold simple round black eyes with white surrounds, stylized black crane-shaped curved eyebrows, and rich black curled beard/moustache motifs. This is a FLAT hand-painted folk-toy face emblem on the costume, NOT a second real person's head. Keep the man's own real face entirely unchanged above the costume. Keep the existing gold arcs at both sides outside the white face panel. No Japanese writing, kanji, words, logos, extra person or scenery. The purpose is to distinguish this red lacquered folk-toy costume unmistakably from a generic round red fruit. Full original person and both shoes in frame with comfortable transparent margin, actual alpha transparency."
+    },
+    {
+      "id": "pref-02-aomori",
+      "revision": 2,
+      "tool": "built-in image_gen edit",
+      "instruction": "Use case: precise-object-edit / identity-preserve. Image 1 is the EDIT TARGET. Preserve this exact elderly man's face, expression, pose, costume design, material, colors, hand positions, footwear and actual transparent alpha. Change ONLY framing: pull the entire same person and costume back approximately 12 percent, centered on a portrait 2:3 canvas. The uppermost decorative headpiece tip is too close to the top edge: reconstruct any tiny clipped part of that tip, and give comfortable clearly TRANSPARENT margin ABOVE it, below BOTH complete feet, and on both sides. Entire costume, both hands and all accessories must be fully inside frame. Preserve the original face and all costume surface patterns. No new text, scenery, backdrop, glow, floor, cast shadow or checkerboard pattern. Transparent alpha background."
+    },
+    {
+      "id": "pref-07-fukushima",
+      "revision": 2,
+      "tool": "built-in image_gen edit",
+      "instruction": "Use case: precise-object-edit / identity-preserve. Image 1 is the EDIT TARGET. Preserve this exact elderly man's face, expression, pose, costume design, material, colors, hand positions, footwear and actual transparent alpha. Change ONLY framing: pull the entire same person and costume back approximately 12 percent, centered on a portrait 2:3 canvas. The uppermost decorative headpiece tip is too close to the top edge: reconstruct any tiny clipped part of that tip, and give comfortable clearly TRANSPARENT margin ABOVE it, below BOTH complete feet, and on both sides. Entire costume, both hands and all accessories must be fully inside frame. Preserve the original face and all costume surface patterns. No new text, scenery, backdrop, glow, floor, cast shadow or checkerboard pattern. Transparent alpha background."
+    }
+  ],
+  "excludedPrefecture": "徳島県",
+  "existingCutouts": 168,
+  "newCutouts": 46,
+  "entries": [
+    {
+      "id": "pref-01-hokkaido",
+      "prefectureCode": "01",
+      "prefecture": "北海道",
+      "reading": "ほっかいどう",
+      "motif": "流氷",
+      "name": "北海道・流氷",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "北海道",
+        "ほっかいどう",
+        "流氷"
+      ],
+      "silhouette": "非対称の氷塊コート",
+      "palette": "氷白・淡い水色",
+      "difference": "スキー服・動物・ガラスの赤い杯とは分ける",
+      "spec": "Hokkaido DRIFT ICE inspired costume. A long asymmetrical coat made from large opaque milky-white and pale ice-blue sculpted foam ice slabs, rugged angular fractured edges, snowy matte shoulders, short transparent icicle trims at the hem. Dark navy thermal sleeves and trousers, white winter boots. His grey hair and smiling face clear above a low fractured-ice collar. One hand waves. The ice forms clothing, not a landscape or circular crystal goblet.",
+      "references": [
+        "https://www.visit-hokkaido.jp/"
+      ]
+    },
+    {
+      "id": "pref-02-aomori",
+      "prefectureCode": "02",
+      "prefecture": "青森県",
+      "reading": "あおもり",
+      "motif": "遮光器土偶",
+      "name": "青森・遮光器土偶",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "青森県",
+        "青森",
+        "あおもり",
+        "遮光器土偶",
+        "あおもりけん"
+      ],
+      "silhouette": "丸い土偶の分節スーツ",
+      "palette": "赤茶・土色",
+      "difference": "金属のロボ・武将ではなく彫り模様の土器",
+      "spec": "Aomori SHAKOKI DOGU inspired sculptural costume. Warm terracotta and sandy earthen clay-look padded armor, distinctive rounded segmented shoulders and bulging thighs, deeply incised Jomon geometric spirals, short flared hip panels. A small dogu-shaped headpiece sits HIGH ABOVE his forehead with its giant goggle motifs, leaving his actual human face totally open below it. Natural human hands, clay-brown short boots. No metal robot, sword or military helmet. Full proportions of the same man.",
+      "references": [
+        "https://aomori-tourism.com/spot/detail_56.html"
+      ]
+    },
+    {
+      "id": "pref-03-iwate",
+      "prefectureCode": "03",
+      "prefecture": "岩手県",
+      "reading": "いわて",
+      "motif": "南部鉄器",
+      "name": "岩手・南部鉄器",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "岩手県",
+        "岩手",
+        "いわて",
+        "南部鉄器",
+        "いわてけん"
+      ],
+      "silhouette": "注ぎ口と持ち手のある鉄瓶",
+      "palette": "つや消し黒",
+      "difference": "佐賀の磁器壺・鹿児島のガラス杯とは形を変える",
+      "spec": "Iwate NAMBU TETSUBIN cast-iron kettle costume. His torso wears a large squat MATTE BLACK iron-kettle-shaped stage prop, clearly visible short curved spout on one side, dense small arare studs, domed lid below his chin, and a single arched black carrying handle rising behind his shoulders without crossing his face. Charcoal sleeves and trousers, black shoes. Both bare hands confidently at the kettle sides. Physical lightweight costume with realistic iron surface, not a tea-serving tray.",
+      "references": [
+        "https://www.pref.iwate.jp/kensei/profile/1000655/1021500.html"
+      ]
+    },
+    {
+      "id": "pref-04-miyagi",
+      "prefectureCode": "04",
+      "prefecture": "宮城県",
+      "reading": "みやぎ",
+      "motif": "仙台七夕",
+      "name": "宮城・仙台七夕",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "宮城県",
+        "宮城",
+        "みやぎ",
+        "仙台七夕",
+        "みやぎけん"
+      ],
+      "silhouette": "くす玉と多色の紙の吹き流し",
+      "palette": "桃・黄・青緑",
+      "difference": "徳島の提灯・和歌山の白い滝と分ける",
+      "spec": "Miyagi SENDAI TANABATA paper-streamer costume. Two compact beautiful round flower-paper kusudama on a curved shoulder yoke, from which many straight long rectangular PAPER strips in vivid pink, sunny yellow, turquoise, violet and white fall to knee level along his SIDES. Plain plum-purple shirt and trousers underneath, cream shoes. Center front and face open, strips clearly folded cut paper with crisp edges, not flowing water or fabric ribbons. Hands opened outward in greeting. No lantern held in hand.",
+      "references": [
+        "https://tohoku-kizunamatsuri.jp/cmn/doc/sightseeing_ja.pdf"
+      ]
+    },
+    {
+      "id": "pref-05-akita",
+      "prefectureCode": "05",
+      "prefecture": "秋田県",
+      "reading": "あきた",
+      "motif": "なまはげ",
+      "name": "秋田・なまはげ",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "秋田県",
+        "秋田",
+        "あきた",
+        "なまはげ",
+        "あきたけん"
+      ],
+      "silhouette": "荒いわら蓑と角の飾り",
+      "palette": "わら金・藍・朱",
+      "difference": "天狗の長鼻面・納豆の整ったわら包みとは分ける",
+      "spec": "Akita NAMAHAGE-inspired rustic straw costume: voluminous shaggy golden rice-straw mino cape and straw skirt, rough layered irregular straw fringe covering his torso and upper legs, deep blue cloth sleeves and brown straw-look boots. A small BLUE horned oni mask with short broad nose hangs visibly at one hip, NOT worn over his face; no long tengu nose. Two tiny red decorative horns on a simple headband above his grey hair. Warm smiling elderly human face. Both hands showing friendly open palms. No weapon.",
+      "references": [
+        "https://akita-fun.jp/spots/17"
+      ]
+    },
+    {
+      "id": "pref-06-yamagata",
+      "prefectureCode": "06",
+      "prefecture": "山形県",
+      "reading": "やまがた",
+      "motif": "紅花",
+      "name": "山形・紅花",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "山形県",
+        "山形",
+        "やまがた",
+        "紅花",
+        "やまがたけん"
+      ],
+      "silhouette": "橙色の花びらの丸い襟",
+      "palette": "橙・黄・深緑",
+      "difference": "県別で大きな花の衣装はこれだけにする",
+      "spec": "Yamagata SAFFLOWER costume. A dense circular collar of fine shaggy brilliant orange and golden safflower petals radiates around his shoulders below the face, like one oversized blooming benibana flower. The flower's textured green spiky calyx forms a fitted torso bodice, deep green stem-like trousers and leaf-shaped shoe covers. Grey hair visible; no hood concealing cheeks. Both hands lifted in a cheerful small welcoming gesture. A real handcrafted botanical costume, NOT a plush animal, fruit sphere or generic printed floral kimono.",
+      "references": [
+        "https://www.pref.yamagata.jp/020077/bunkyo/bunka/bunkazai/nihonisan/yamadera-benibana_nintei.html"
+      ]
+    },
+    {
+      "id": "pref-07-fukushima",
+      "prefectureCode": "07",
+      "prefecture": "福島県",
+      "reading": "ふくしま",
+      "motif": "会津絵ろうそく",
+      "name": "福島・会津絵ろうそく",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "福島県",
+        "福島",
+        "ふくしま",
+        "会津絵ろうそく",
+        "ふくしまけん"
+      ],
+      "silhouette": "細長い白ろうそくと花絵",
+      "palette": "乳白・赤・緑",
+      "difference": "奈良墨の黒い直方体と分ける",
+      "spec": "Fukushima AIZU PAINTED CANDLE costume. A tall slender gently TAPERED ivory wax-look tunic from chest to knees, beautiful hand-painted red peony and green-leaf floral patterns, subtle wax texture and rounded candle lip at shoulders. A small orange-and-gold FABRIC flame on a thin discreet headband above his grey hair, clearly costume material. Cream sleeves and trousers, dark red slippers. Natural hands held politely in front. Not a black rectangular ink stick, cooking outfit or cake.",
+      "references": [
+        "https://www.aizukanko.com/spot/58"
+      ]
+    },
+    {
+      "id": "pref-08-ibaraki",
+      "prefectureCode": "08",
+      "prefecture": "茨城県",
+      "reading": "いばらき",
+      "motif": "水戸納豆",
+      "name": "茨城・水戸納豆",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "茨城県",
+        "茨城",
+        "いばらき",
+        "水戸納豆",
+        "いばらきけん"
+      ],
+      "silhouette": "縦長のわらづと",
+      "palette": "金茶・豆茶・若草",
+      "difference": "秋田の蓑・島根の太い縄と分ける",
+      "spec": "Ibaraki MITO NATTO straw-package costume. A clean elongated compact spindle-shaped bundle of neatly PARALLEL smooth golden straw around his torso, tied tightly at upper chest and knees with green cords. An open vertical panel on front reveals clusters of realistic small glossy brown soybeans as sewn prop shapes. Green long sleeves, cream trousers and brown shoes. His full human head above the top tie, hands outside sides, one gives thumbs up. Structured narrow straw package, never shaggy straw cloak or giant rope tassels.",
+      "references": []
+    },
+    {
+      "id": "pref-09-tochigi",
+      "prefectureCode": "09",
+      "prefecture": "栃木県",
+      "reading": "とちぎ",
+      "motif": "大谷石",
+      "name": "栃木・大谷石",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "栃木県",
+        "栃木",
+        "とちぎ",
+        "大谷石",
+        "とちぎけん"
+      ],
+      "silhouette": "石の角柱と開いたアーチ",
+      "palette": "淡い灰緑・砂色",
+      "difference": "宮崎の平行の岩層とは分ける",
+      "spec": "Tochigi OYA STONE architectural costume. A pale warm grey-green porous tuff-stone block VEST with two short square upright columns beside his torso and a simple shallow OPEN ARCH across his chest, face and neck above it. Rectilinear block seams, small brown mineral flecks and rough pitted stone texture. Moss-green sleeves, beige fitted trousers, grey boots. Bare hands rest on the side columns. The prop is attached clothing with no building or terrain base, no grey metal armor or long parallel rock strata.",
+      "references": []
+    },
+    {
+      "id": "pref-10-gunma",
+      "prefectureCode": "10",
+      "prefecture": "群馬県",
+      "reading": "ぐんま",
+      "motif": "高崎だるま",
+      "name": "群馬・高崎だるま",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "群馬県",
+        "群馬",
+        "ぐんま",
+        "高崎だるま",
+        "ぐんまけん"
+      ],
+      "silhouette": "低く丸い赤いだるま",
+      "palette": "朱赤・金・白",
+      "difference": "果物・赤い人形・普通の法被と分ける",
+      "spec": "Gunma TAKASAKI DARUMA costume. A broad low egg-shaped glossy vermilion daruma torso prop with a stable rounded flat bottom above the knees, blank gold abstract sweeping eyebrow-like decorative arcs on front, NO kanji or printed face on belly. A soft white oval collar frames his chest while his own smiling face is entirely ABOVE the costume. Burgundy sleeves, black trousers, black shoes. Both hands make small happy fists. Crafted lacquered papier-mache appearance, not a fruit, pumpkin or animal onesie.",
+      "references": [
+        "https://www.city.takasaki.gunma.jp/site/sightseeing/3052.html"
+      ]
+    },
+    {
+      "id": "pref-11-saitama",
+      "prefectureCode": "11",
+      "prefecture": "埼玉県",
+      "reading": "さいたま",
+      "motif": "川越の蔵造り",
+      "name": "埼玉・川越の蔵造り",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "埼玉県",
+        "埼玉",
+        "さいたま",
+        "川越の蔵造り",
+        "さいたまけん"
+      ],
+      "silhouette": "黒白の箱形の蔵",
+      "palette": "漆黒・白漆喰",
+      "difference": "岐阜の大きな三角の茅葺き屋根と分ける",
+      "spec": "Saitama KAWAGOE KURAZUKURI warehouse costume. His torso is a compact upright RECTANGULAR black-and-white plaster warehouse vest with thick white fireproof walls, bold black grid shutters and small dark grey tiled shallow roof eaves at shoulder height. His head is clearly above the shallow roof collar, no tower or tall triangle. Charcoal sleeves, narrow black trousers and shoes. One hand waves. A miniature wearable kura with clear box silhouette; not a full background building, thatched A-frame hut or castle.",
+      "references": []
+    },
+    {
+      "id": "pref-12-chiba",
+      "prefectureCode": "12",
+      "prefecture": "千葉県",
+      "reading": "ちば",
+      "motif": "成田の旅客機",
+      "name": "千葉・成田の旅客機",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "千葉県",
+        "千葉",
+        "ちば",
+        "ちばけん",
+        "成田",
+        "なりた",
+        "成田空港",
+        "旅客機",
+        "ひこうき",
+        "飛行機"
+      ],
+      "silhouette": "横に翼が張る白い旅客機",
+      "palette": "航空白・銀・青緑",
+      "difference": "茨城の縦長のわら包み・既存の宇宙装備と分ける",
+      "spec": "Chiba NARITA INTERNATIONAL AIRPORT passenger-aircraft inspired wearable costume. The SAME elderly man stands in a fitted TURQUOISE aviation-style zip jumpsuit and silver-grey shoes, wearing a compact WHITE AND SILVER PASSENGER JET stage prop AROUND HIS WAIST. A smooth rounded aircraft nose points slightly forward and to the viewer's left, two very broad slim swept WHITE WINGS project horizontally to both sides, small engine pods under the wings, small dark round passenger windows and an upright blue tail fin behind one hip. His entire actual head, face, grey hair, chest, bare hands and both complete legs remain clearly visible above and below the plane. Hands gently presenting the two wing tips, no steering wheel. Real photographed lightweight physical costume with aircraft metal and cloth texture. Clearly a passenger AIRPLANE, not a rocket pack, UFO ring, robot, seafarer or train-conductor uniform. No airline logos, flags, letters or brand markings. Whole nose, ALL wing tips and tail fully in frame with generous clear margin. No runway, sky or other scenery; genuine transparent alpha background.",
+      "references": [
+        "https://www.narita-airport.jp/ja/company/naa/profile/summary/"
+      ]
+    },
+    {
+      "id": "pref-13-tokyo",
+      "prefectureCode": "13",
+      "prefecture": "東京都",
+      "reading": "とうきょう",
+      "motif": "東京タワー",
+      "name": "東京・東京タワー",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "東京都",
+        "東京",
+        "とうきょう",
+        "東京タワー",
+        "とうきょうと"
+      ],
+      "silhouette": "細長い赤白の鉄骨",
+      "palette": "赤橙・白・鉄灰",
+      "difference": "普通の建物箱・鳥居の横長構造と分ける",
+      "spec": "Tokyo TOKYO TOWER wearable structural costume. A tall narrow tapered RED-ORANGE AND WHITE open STEEL LATTICE tower framework around his torso and legs, recognizable observation-deck bands at chest and hips. His head emerges above the main upper deck through an open neck space, a short slim decorative tower tip rises BEHIND his head with comfortable top margin. Dark grey fitted sleeves and trousers, black shoes, both hands raised in small friendly greetings. No labels. Narrow triangular open lattice, not a building box, torii or rocket.",
+      "references": []
+    },
+    {
+      "id": "pref-14-kanagawa",
+      "prefectureCode": "14",
+      "prefecture": "神奈川県",
+      "reading": "かながわ",
+      "motif": "箱根寄木細工",
+      "name": "神奈川・箱根寄木細工",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "神奈川県",
+        "神奈川",
+        "かながわ",
+        "箱根寄木細工",
+        "かながわけん"
+      ],
+      "silhouette": "引き出し付きの木の秘密箱",
+      "palette": "茶・蜂蜜・黒・白木",
+      "difference": "兵庫の開いたそろばん枠と分ける",
+      "spec": "Kanagawa HAKONE YOSEGI secret-puzzle-box costume. A broad horizontal polished wooden chest around the waist and lower torso, richly inlaid precise small triangles, diamonds and star tessellations in DIFFERENT NATURAL WOOD TONES, two shallow tiny drawers open asymmetrically at the sides. Short matching wooden lapel panels over a chocolate-brown work tunic, cream trousers, brown shoes. Head and both hands clear, one hand demonstrates a small sliding panel. SOLID mosaic box, not an open abacus, bamboo steamer or normal printed shirt.",
+      "references": [
+        "https://www.hakone.or.jp/yosegizaiku/about/"
+      ]
+    },
+    {
+      "id": "pref-15-niigata",
+      "prefectureCode": "15",
+      "prefecture": "新潟県",
+      "reading": "にいがた",
+      "motif": "長岡花火",
+      "name": "新潟・長岡花火",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "新潟県",
+        "新潟",
+        "にいがた",
+        "長岡花火",
+        "にいがたけん"
+      ],
+      "silhouette": "放射状の花火フレーム",
+      "palette": "夜紺・金・桃・青",
+      "difference": "宮城の縦の紙飾り・長崎の菱形凧と分ける",
+      "spec": "Niigata NAGAOKA FIREWORKS costume. A fitted midnight-navy elegant short coat and trousers, with TWO compact asymmetrically sized large radial firework BURST frames attached behind shoulders, many fine physical golden, pink and ice-blue fiber rods radiating like chrysanthemum fireworks. Tiny decorative bead lights along the rods, no actual explosions or smoke. Face forward unobscured between the bursts, one arm gently extended. Physical thin spoked starbursts, not paper streamers, wings, Christmas tree, rocket or diamond kite.",
+      "references": []
+    },
+    {
+      "id": "pref-16-toyama",
+      "prefectureCode": "16",
+      "prefecture": "富山県",
+      "reading": "とやま",
+      "motif": "黒部ダム",
+      "name": "富山・黒部ダム",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "富山県",
+        "富山",
+        "とやま",
+        "黒部ダム",
+        "とやまけん"
+      ],
+      "silhouette": "横長に湾曲するコンクリート",
+      "palette": "石灰・青・白",
+      "difference": "琵琶湖の輪郭・和歌山の長い滝と分ける",
+      "spec": "Toyama KUROBE DAM costume. A broad shallow CURVED grey concrete dam-wall stage prop strapped around his torso like a rigid waist apron, visible engineering panel joints and a neat row of short spillway slots with SHORT attached blue-and-white satin strips. His upper chest, smiling face and grey hair above the dam wall, steel-blue sleeves, charcoal trousers and boots. Bare hands present both edges of the curved wall. No valley, river, terrain platform or scenery. Solid broad curved concrete silhouette, not an open bridge or flowing waterfall cape.",
+      "references": []
+    },
+    {
+      "id": "pref-17-ishikawa",
+      "prefectureCode": "17",
+      "prefecture": "石川県",
+      "reading": "いしかわ",
+      "motif": "金沢の金箔",
+      "name": "石川・金沢の金箔",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "石川県",
+        "石川",
+        "いしかわ",
+        "金沢の金箔",
+        "いしかわけん"
+      ],
+      "silhouette": "四角い金箔の折り面",
+      "palette": "金・黒",
+      "difference": "王冠・王笏・金メダルとは分ける",
+      "spec": "Ishikawa KANAZAWA GOLD LEAF costume. A sophisticated black fitted shirt and trousers with a sculptural long asymmetrical cape of overlapping LARGE SQUARE sheets of brilliant crinkled gold leaf, crisp stepped rectangular edges and broad folded planar shoulder panels. The gold looks like very thin real hammered leaf over flexible fabric, not armor or a royal throne. Grey hair and smiling face completely visible, one bare hand opens a small square gold-leaf sheet near waist. Black shoes. No crown, sceptre, medal or all-over kimono print.",
+      "references": []
+    },
+    {
+      "id": "pref-18-fukui",
+      "prefectureCode": "18",
+      "prefecture": "福井県",
+      "reading": "ふくい",
+      "motif": "恐竜化石",
+      "name": "福井・恐竜化石",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "福井県",
+        "福井",
+        "ふくい",
+        "恐竜化石",
+        "ふくいけん"
+      ],
+      "silhouette": "骨の肋骨と節のしっぽ",
+      "palette": "骨白・炭黒",
+      "difference": "ぬいぐるみの動物・ロボ装甲と分ける",
+      "spec": "Fukui DINOSAUR FOSSIL costume. Kozo in a charcoal fitted jumpsuit with a realistic lightweight IVORY FOSSIL SKELETON stage exosuit: clear curved rib cage, spinal segments along shoulders and a short segmented bony tail curving beside one leg. He holds a compact cream dinosaur skull PROP beside his waist, never over his face. Human face and hands intact, grey hair visible, black boots. Fossil museum display materials with subtle mineral patina, not flesh, gore, a plush dinosaur, metal robot or real animal.",
+      "references": []
+    },
+    {
+      "id": "pref-19-yamanashi",
+      "prefectureCode": "19",
+      "prefecture": "山梨県",
+      "reading": "やまなし",
+      "motif": "富士山",
+      "name": "山梨・富士山",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "山梨県",
+        "山梨",
+        "やまなし",
+        "富士山",
+        "やまなしけん"
+      ],
+      "silhouette": "低く広がる雪頂の青い円錐",
+      "palette": "群青・雪白",
+      "difference": "細長い東京タワー・鳥取の波形砂丘と分ける",
+      "spec": "Yamanashi MOUNT FUJI costume. A WIDE LOW symmetrical cobalt-blue mountain-shaped cape-tunic around his torso, a crisp small white snowcap at the central upper collar and irregular white snow gullies down the shoulders. His own head rises clearly above the small summit, arms come naturally out the sides, blue fitted trousers and white shoes beneath. Friendly thumbs up. Broad smooth gently concave Fuji slopes, NOT a narrow tower, castle, volcano with lava, full landscape or sandy asymmetrical dunes. No walking pedestal.",
+      "references": []
+    },
+    {
+      "id": "pref-20-nagano",
+      "prefectureCode": "20",
+      "prefecture": "長野県",
+      "reading": "ながの",
+      "motif": "諏訪の御柱",
+      "name": "長野・諏訪の御柱",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "長野県",
+        "長野",
+        "ながの",
+        "諏訪の御柱",
+        "ながのけん"
+      ],
+      "silhouette": "一本の太い柱を斜めに担ぐ",
+      "palette": "白・赤・杉茶",
+      "difference": "長いほうき・小包を背負う姿と分ける",
+      "spec": "Nagano SUWA ONBASHIRA inspired ceremonial log carrier. A plain white cotton short work jacket and white trousers with a vivid red waist sash, brown boots and a simple white headband. One SHORT but very thick natural cedar pillar prop rests DIAGONALLY across one shoulder, ends smoothly cut, bound with heavy natural braided ropes and a few small plain white shide paper strips. He steadies the rope with both elderly hands, smiling face never hidden. Entire log inside frame. No broom bristles, weapon, backpack pile or Awa Odori gesture.",
+      "references": []
+    },
+    {
+      "id": "pref-21-gifu",
+      "prefectureCode": "21",
+      "prefecture": "岐阜県",
+      "reading": "ぎふ",
+      "motif": "白川郷の合掌造り",
+      "name": "岐阜・白川郷の合掌造り",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "岐阜県",
+        "岐阜",
+        "ぎふ",
+        "白川郷の合掌造り",
+        "ぎふけん"
+      ],
+      "silhouette": "大きな三角形の茅葺き屋根",
+      "palette": "茅茶・木茶・雪白",
+      "difference": "埼玉の箱形の瓦屋根と分ける",
+      "spec": "Gifu SHIRAKAWA-GO GASSHO-ZUKURI costume. A large steep A-FRAME golden-brown THATCHED ROOF forms the dominant mantle above and beside his shoulders, visible layered straw ridges and thick thatch edges. His own face is OPEN in a central little upper-gable window, fully visible with grey hair, not a mask. Beneath is a compact timber lattice house-shaped tunic at waist, brown sleeves, cream trousers and dark shoes. Both hands wave gently outside the roof edges. Strong tall triangular thatch silhouette, not black plaster kura, castle or straw mino cloak.",
+      "references": []
+    },
+    {
+      "id": "pref-22-shizuoka",
+      "prefectureCode": "22",
+      "prefecture": "静岡県",
+      "reading": "しずおか",
+      "motif": "一芯二葉の茶葉",
+      "name": "静岡・一芯二葉の茶葉",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "静岡県",
+        "静岡",
+        "しずおか",
+        "一芯二葉の茶葉",
+        "しずおかけん"
+      ],
+      "silhouette": "左右二枚の大きな茶の葉",
+      "palette": "茶緑・黄緑",
+      "difference": "ワカメ・ネギ束・紅花の花びらと分ける",
+      "spec": "Shizuoka GREEN TEA one-bud-two-leaves costume. Two GIANT broad fresh green tea leaves with detailed raised veins form a sharp paired shoulder-and-chest mantle, pointed leaves swept diagonally out to both sides, with one small upright tender bud behind his neck. Deep forest-green tailored jumpsuit beneath, leaf-cuffed green shoes. Grey hair and human face clear above the V of the two leaves, both hands presenting them. Real supple textile leaves, not seaweed strips, a fruit sphere, flower-petal hood or crop basket.",
+      "references": []
+    },
+    {
+      "id": "pref-23-aichi",
+      "prefectureCode": "23",
+      "prefecture": "愛知県",
+      "reading": "あいち",
+      "motif": "尾張七宝",
+      "name": "愛知・尾張七宝",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "愛知県",
+        "愛知",
+        "あいち",
+        "尾張七宝",
+        "あいちけん"
+      ],
+      "silhouette": "七宝の光沢プレートを連ねた上着",
+      "palette": "瑠璃・朱・緑・銅",
+      "difference": "藍染め布・王様の金色装飾と分ける",
+      "spec": "Aichi OWARI SHIPPO cloisonne-enamel costume. A short sculptural jacket assembled from LARGE polished curved enamel plaques linked with fine copper rims, rich cobalt-blue, emerald and vermilion jewel surfaces with delicate copper floral and geometric cells. Clearly glossy HARD ENAMEL on metal, not embroidered fabric or a printed kimono. Black inner shirt, wine-red fitted trousers, copper-brown shoes. His grey hair and face fully visible, open welcoming hands. No royal crown, weapon or porcelain vase body; the linked enameled plaques define the silhouette.",
+      "references": [
+        "https://kougeishi.kougeihin.jp/artisan/木村玲子/"
+      ]
+    },
+    {
+      "id": "pref-24-mie",
+      "prefectureCode": "24",
+      "prefecture": "三重県",
+      "reading": "みえ",
+      "motif": "伊勢志摩の海女",
+      "name": "三重・伊勢志摩の海女",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "三重県",
+        "三重",
+        "みえ",
+        "伊勢志摩の海女",
+        "みえけん"
+      ],
+      "silhouette": "白い磯着と木の浮き桶",
+      "palette": "生成り白・木茶・海青",
+      "difference": "銅の潜水服・船長服・お遍路と分ける",
+      "spec": "Mie ISE-SHIMA AMA diver inspired outfit. Authentic-looking plain white cotton isogi tunic with short wrapped skirt over modest white knee trousers, white face-revealing checked headcloth tied high, dark blue split-toe water shoes. A SMALL circular wooden floating tub with simple rope hangs at one hip; he holds old-fashioned simple round diving goggles in one hand and waves with the other. Own elderly male face visible, no fake makeup. No copper diving helmet, modern scuba tank, captain uniform, pilgrim staff or net full of jellyfish.",
+      "references": [
+        "https://www.iseshima-kanko.jp/reporter/Hachiman_kamado"
+      ]
+    },
+    {
+      "id": "pref-25-shiga",
+      "prefectureCode": "25",
+      "prefecture": "滋賀県",
+      "reading": "しが",
+      "motif": "琵琶湖",
+      "name": "滋賀・琵琶湖",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "滋賀県",
+        "滋賀",
+        "しが",
+        "琵琶湖",
+        "しがけん"
+      ],
+      "silhouette": "琵琶湖の細長く不規則な輪郭",
+      "palette": "湖青・薄金・紺",
+      "difference": "渦潮の丸い渦・ダム・白い滝と分ける",
+      "spec": "Shiga LAKE BIWA silhouette costume. A long asymmetrical flat sculptural front panel in deep translucent AZURE BLUE follows the recognizable elongated irregular Lake Biwa outline, broad northern basin and narrower southern extension, outlined with a fine warm pale-gold shoreline trim. Navy fitted sleeves and trousers, blue shoes. His full head and grey hair above the lake panel, hands on its side edges, friendly smile. Readable sculpted LAKE-SHAPED clothing, not a round spiral, teardrop vase, river scenery, dam wall or actual terrain platform.",
+      "references": []
+    },
+    {
+      "id": "pref-26-kyoto",
+      "prefectureCode": "26",
+      "prefecture": "京都府",
+      "reading": "きょうと",
+      "motif": "十二単",
+      "name": "京都・十二単",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "京都府",
+        "京都",
+        "きょうと",
+        "十二単",
+        "きょうとふ"
+      ],
+      "silhouette": "多層の長い袖と裾",
+      "palette": "薄紫・朱・若草・白",
+      "difference": "藍染め着物・阿波踊りの浴衣と分ける",
+      "spec": "Kyoto JUNIHITOE ceremonial layered-robe inspired costume on the SAME elderly MAN, not a woman. Lavish flowing silk with clearly visible MANY LAYERED collar and long sleeve edges in lilac, vermilion, pale green, peach and white, broad rectangular sleeves and gently spreading long lower layers kept completely in frame. His human male face and grey eyebrows remain untouched, small plain black court cap. Ivory footwear visible beneath hem. Hands gently open at waist. Not a simple blue kimono, short festival yukata, crown or dancer's straw hat.",
+      "references": [
+        "https://ja.kyoto.travel/event/single.php?event_id=14656"
+      ]
+    },
+    {
+      "id": "pref-27-osaka",
+      "prefectureCode": "27",
+      "prefecture": "大阪府",
+      "reading": "おおさか",
+      "motif": "漫才師",
+      "name": "大阪・漫才師",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "大阪府",
+        "大阪",
+        "おおさか",
+        "漫才師",
+        "おおさかふ"
+      ],
+      "silhouette": "派手なチェックとスタンドマイク",
+      "palette": "黄・紫・赤",
+      "difference": "白いタキシード・写真家・普通の職業制服と分ける",
+      "spec": "Osaka MANZAI COMEDIAN souvenir-photo outfit. A lively sharply tailored oversized YELLOW windowpane-check jacket, vivid purple trousers, a bright red comical bow tie, white shirt and polished two-tone black-and-white shoes. A compact vintage silver standing microphone on a slender chrome tripod beside him, entire stand fits in frame. Kozo laughing warmly, one hand lightly on the microphone and the other making a relaxed playful conversational gesture. Grey hair uncovered. Real cloth, no words, no second comedian, stage, white wedding tuxedo or camera.",
+      "references": []
+    },
+    {
+      "id": "pref-28-hyogo",
+      "prefectureCode": "28",
+      "prefecture": "兵庫県",
+      "reading": "ひょうご",
+      "motif": "播州そろばん",
+      "name": "兵庫・播州そろばん",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "兵庫県",
+        "兵庫",
+        "ひょうご",
+        "播州そろばん",
+        "ひょうごけん"
+      ],
+      "silhouette": "珠の動く開放された木枠",
+      "palette": "黒檀・飴・赤茶",
+      "difference": "神奈川の閉じた寄木箱と分ける",
+      "spec": "Hyogo BANSHU SOROBAN abacus costume. A large upright OPEN polished dark-wood abacus frame hangs from shoulders to upper thighs as a front vest, clear vertical rods and many movable amber and black wooden beads with a single dividing crossbar, exposed gaps through to a dark red work shirt underneath. Dark brown fitted trousers, black shoes. Kozo's head above the frame, one bare hand demonstrates beads and the other gives thumbs up. The entire frame in view. Not a closed mosaic chest, chalkboard, computer or flat printed pattern.",
+      "references": [
+        "https://www.city.ono.hyogo.jp/soshikikarasagasu/chiikishinkobu_sangyosozoka/gyomuannai/5/1/1672.html"
+      ]
+    },
+    {
+      "id": "pref-29-nara",
+      "prefectureCode": "29",
+      "prefecture": "奈良県",
+      "reading": "なら",
+      "motif": "奈良墨",
+      "name": "奈良・奈良墨",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "奈良県",
+        "奈良",
+        "なら",
+        "奈良墨",
+        "ならけん"
+      ],
+      "silhouette": "細長い黒い墨の直方体",
+      "palette": "墨黒・控えめな金",
+      "difference": "福島の白いろうそく・神奈川の横長の箱と分ける",
+      "spec": "Nara NARA SUMI ink-stick costume. A tall narrow straight RECTANGULAR black sculptural tunic, velvet-matte soot-black ink surface, bevelled clean edges, subtle raised botanical arabesque relief in black with a few restrained gold outlines, absolutely NO calligraphy, kanji or writing. Charcoal sleeves, fitted black trousers and black shoes, grey hair uncovered. A small flat dark inkstone rests naturally in one hand at waist, other palm welcomes. Slender solid black block silhouette, not a tapered white candle, samurai armor or wide wooden box.",
+      "references": [
+        "https://www.pref.nara.jp/secure/99392/houdousiryou.pdf"
+      ]
+    },
+    {
+      "id": "pref-30-wakayama",
+      "prefectureCode": "30",
+      "prefecture": "和歌山県",
+      "reading": "わかやま",
+      "motif": "那智の滝",
+      "name": "和歌山・那智の滝",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "和歌山県",
+        "和歌山",
+        "わかやま",
+        "那智の滝",
+        "わかやまけん"
+      ],
+      "silhouette": "一本の白い長い流れ",
+      "palette": "白・岩茶・深緑",
+      "difference": "宮城の色紙の吹き流し・富山のダムと分ける",
+      "spec": "Wakayama NACHI WATERFALL inspired wearable costume. A long central column of layered WHITE flowing silk organza and finely textured water-like satin starts below the neck and cascades nearly to ankles, with broad smooth scalloped foam crests and a few transparent attached ribbons curving to one side. Dark moss-green fitted sleeves and trousers, rugged brown cliff-like sculptural shoulders and dark boots. Kozo's entire face open above waterfall collar, natural hands outside flow. Physical fabric waterfall COAT, no actual scenery or background water, no multicolored straight paper strips or dam wall.",
+      "references": []
+    },
+    {
+      "id": "pref-31-tottori",
+      "prefectureCode": "31",
+      "prefecture": "鳥取県",
+      "reading": "とっとり",
+      "motif": "砂丘",
+      "name": "鳥取・砂丘",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "鳥取県",
+        "鳥取",
+        "とっとり",
+        "砂丘",
+        "とっとりけん"
+      ],
+      "silhouette": "波打つ非対称の砂の層",
+      "palette": "砂金・薄茶",
+      "difference": "山梨の左右対称の富士山と分ける",
+      "spec": "Tottori SAND DUNES costume. A broad asymmetrical sculptural tunic in warm golden SAND texture with smooth sweeping diagonal dune ridges, one side rising at hip and the other rolling down in soft layered crescent folds. Cream linen sleeves, tan trousers and sand-colored ankle boots, simple short cream desert scarf around neck without hiding face or head. Grey hair visible, hands showing the curved ridges. Clearly a wearable dune-shape garment, no landscape base, no sharp symmetric mountain cone, ice blocks, thatched roof or straw tassels.",
+      "references": []
+    },
+    {
+      "id": "pref-32-shimane",
+      "prefectureCode": "32",
+      "prefecture": "島根県",
+      "reading": "しまね",
+      "motif": "出雲の大しめ縄",
+      "name": "島根・出雲の大しめ縄",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "島根県",
+        "島根",
+        "しまね",
+        "出雲の大しめ縄",
+        "しまねけん"
+      ],
+      "silhouette": "太いより縄と三つの房",
+      "palette": "わら金・黒緑・白",
+      "difference": "秋田の蓑・茨城のわら包みとは編み方も形も変える",
+      "spec": "Shimane IZUMO GRAND SHIMENAWA inspired costume. ONE enormously thick beautifully BRAIDED natural golden straw rope runs horizontally across shoulders and upper chest like a large ceremonial collar, three very distinct large tapered rope tassels hanging at the front to thigh level, a few plain white shide folded paper accents. Deep black-green simple formal tunic, cream trousers and black shoes. Head and smiling human face completely above the rope, hands politely open at sides. Clear heavy twisted braid and THREE CONES, not loose shaggy mino straw, neat natto straw spindle or thin red-white mizuhiki.",
+      "references": []
+    },
+    {
+      "id": "pref-33-okayama",
+      "prefectureCode": "33",
+      "prefecture": "岡山県",
+      "reading": "おかやま",
+      "motif": "児島デニム",
+      "name": "岡山・児島デニム",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "岡山県",
+        "岡山",
+        "おかやま",
+        "児島デニム",
+        "おかやまけん"
+      ],
+      "silhouette": "大きなポケットの巨大ジーンズ",
+      "palette": "濃紺・黄土ステッチ",
+      "difference": "普通の作務衣・藍染め着物とは輪郭から変える",
+      "spec": "Okayama KOJIMA DENIM costume: comically OVERSIZED beautifully sewn dark raw-denim JEANS rise to his chest, extremely large front patch pockets and brass rivets, bold golden topstitching, broad denim suspenders over a plain ivory shirt. Very wide padded trouser legs taper into large turned-up cuffs over tan work shoes. One natural hand tucked into a gigantic front pocket, the other waving; grey hair and face clear above the high waist. The oversized jeans THEMSELVES are the silhouette, not a normal denim jacket, kimono or indigo cloth held in hand.",
+      "references": [
+        "https://www.okayama-kanko.jp/business/spot/detail_10326.html"
+      ]
+    },
+    {
+      "id": "pref-34-hiroshima",
+      "prefectureCode": "34",
+      "prefecture": "広島県",
+      "reading": "ひろしま",
+      "motif": "宮島の大鳥居",
+      "name": "広島・宮島の大鳥居",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "広島県",
+        "広島",
+        "ひろしま",
+        "宮島の大鳥居",
+        "ひろしまけん"
+      ],
+      "silhouette": "横に大きく張る朱の鳥居",
+      "palette": "朱・黒・生成り",
+      "difference": "東京タワーの細い三角鉄骨と分ける",
+      "spec": "Hiroshima MIYAJIMA GRAND TORII inspired wearable structural prop. A bold broad VERMILION torii frame with two sturdy upright side posts beside the torso, two sweeping horizontal crossbeams extending left and right at shoulder height BEHIND his head, elegant black-capped top beam and small side supporting legs. His whole human face and grey hair unobscured in the center above a cream inner tunic, black sleeves and fitted trousers, dark red shoes. Hands show welcoming palms. No labels, water or scene. Dominant wide horizontal gate silhouette, not a narrow tower or warehouse.",
+      "references": []
+    },
+    {
+      "id": "pref-35-yamaguchi",
+      "prefectureCode": "35",
+      "prefecture": "山口県",
+      "reading": "やまぐち",
+      "motif": "錦帯橋",
+      "name": "山口・錦帯橋",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "山口県",
+        "山口",
+        "やまぐち",
+        "錦帯橋",
+        "やまぐちけん"
+      ],
+      "silhouette": "五つの木のアーチ",
+      "palette": "木茶・青緑・白",
+      "difference": "富山の不透明な湾曲ダムと分ける",
+      "spec": "Yamaguchi KINTAI BRIDGE costume. A compact beautifully crafted wooden bridge model with FIVE clear repeating curved timber arches runs horizontally across the front of his waist, supported by a discreet leather harness over a dark teal collarless jacket. Exposed fine wooden struts under the arches, softly curved stepped deck. Cream trousers, brown shoes, uncovered grey hair. Kozo's hands present both bridge ends, face smiling above. Whole mini bridge fits comfortably inside frame. It is a wearable wooden stage prop, no real river, landscape, platform, solid grey dam or tower.",
+      "references": []
+    },
+    {
+      "id": "pref-37-kagawa",
+      "prefectureCode": "37",
+      "prefecture": "香川県",
+      "reading": "かがわ",
+      "motif": "丸亀うちわ",
+      "name": "香川・丸亀うちわ",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "香川県",
+        "香川",
+        "かがわ",
+        "丸亀うちわ",
+        "かがわけん"
+      ],
+      "silhouette": "竹の骨が透ける大きな平たい団扇",
+      "palette": "和紙白・竹茶・珊瑚朱",
+      "difference": "電気の扇風機・和傘・閉じた扇子とは分ける",
+      "spec": "Kagawa MARUGAME UCHIWA costume. A very LARGE FLAT OVAL traditional hand-fan panel is attached upright behind his shoulders, beautiful pale washi paper with simple soft blue brush arcs and visible delicate radial natural bamboo ribs, short bamboo handle extending downward to hip. Head and face IN FRONT of the lower central fan area completely unobscured. Coral-red simple vest, cream shirt and cropped cream trousers, brown sandals. One hand waves. Oval single-piece FAN, no electric blades, umbrella canopy, folded fan, streamer fringe or animal wings.",
+      "references": [
+        "https://www.my-kagawa.jp/feature/kagawaishikawa/traditionalcrafts"
+      ]
+    },
+    {
+      "id": "pref-38-ehime",
+      "prefectureCode": "38",
+      "prefecture": "愛媛県",
+      "reading": "えひめ",
+      "motif": "伊予水引",
+      "name": "愛媛・伊予水引",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "愛媛県",
+        "愛媛",
+        "えひめ",
+        "伊予水引",
+        "えひめけん"
+      ],
+      "silhouette": "細い紅白のひもで作る大きな結び",
+      "palette": "紅・白・淡金",
+      "difference": "島根の太いわら縄・結婚式の白タキシードと分ける",
+      "spec": "Ehime IYO MIZUHIKI craft costume. A sculptural collar and diagonal chest sash made from MANY fine glossy RED AND WHITE paper cords tied into elaborate large open flowing loop knots, airy overlapping strands and long graceful curved ends to waist, a few pale gold cord accents. Plain cream collarless waistcoat, burgundy tapered trousers and cream shoes. Grey hair and human smile completely visible, both hands gently presenting the delicate loop construction. Thin polished festive cord art, not coarse thick straw rope, a white tuxedo, wings or a gift box.",
+      "references": [
+        "https://www.city.shikokuchuo.ehime.jp/site/bunguza/"
+      ]
+    },
+    {
+      "id": "pref-39-kochi",
+      "prefectureCode": "39",
+      "prefecture": "高知県",
+      "reading": "こうち",
+      "motif": "土佐和紙",
+      "name": "高知・土佐和紙",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "高知県",
+        "高知",
+        "こうち",
+        "土佐和紙",
+        "こうちけん"
+      ],
+      "silhouette": "折り紙の白い舟",
+      "palette": "和紙白・青緑",
+      "difference": "船長の舵輪・紙の吹き流し・丸い浮き輪と分ける",
+      "spec": "Kochi TOSA WASHI creative costume. A compact GIANT ORIGAMI PAPER BOAT made of thick warm-white fiber-textured handmade washi encircles his waist, two crisp raised pointed ends and deep angular folded V-shaped hull, visible neat paper creases. Turquoise fitted shirt and trousers, dark blue shoes. Own elderly head and chest clear above the boat, hands rest lightly on folded sides. All props attached as wearable costume, no water or scenery. Clearly paper-boat geometry, not a lifebuoy, steering wheel, naval uniform, paper streamers or plush animal.",
+      "references": [
+        "https://www.pref.kochi.lg.jp/doc/2022061500266/"
+      ]
+    },
+    {
+      "id": "pref-40-fukuoka",
+      "prefectureCode": "40",
+      "prefecture": "福岡県",
+      "reading": "ふくおか",
+      "motif": "博多こま",
+      "name": "福岡・博多こま",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "福岡県",
+        "福岡",
+        "ふくおか",
+        "博多こま",
+        "ふくおかけん"
+      ],
+      "silhouette": "赤緑の帯がある独楽",
+      "palette": "赤・緑・黒・木茶",
+      "difference": "だるまの丸い卵型・食べ物の器と分ける",
+      "spec": "Fukuoka HAKATA KOMA spinning-top costume. A beautifully turned WOODEN TOP body around his torso, broad stacked circular rings at waist narrowing into a short pointed conical lower section above his knees, strong clean RED, GREEN and BLACK painted horizontal bands with natural wood showing between them. A small vertical wooden spindle detail behind his neckline, never over face. Cream sleeves and black fitted trousers with red shoes. Hands spread confidently, grey hair visible. Obvious striped spinning toy with sharply tapering lower point, not a rounded daruma, kettle or fruit suit.",
+      "references": [
+        "https://hakata-dentou-kougeikan.jp/traditional/"
+      ]
+    },
+    {
+      "id": "pref-41-saga",
+      "prefectureCode": "41",
+      "prefecture": "佐賀県",
+      "reading": "さが",
+      "motif": "有田焼",
+      "name": "佐賀・有田焼",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "佐賀県",
+        "佐賀",
+        "さが",
+        "有田焼",
+        "さがけん"
+      ],
+      "silhouette": "白磁と染付のふくらんだ壺",
+      "palette": "白磁白・呉須青",
+      "difference": "岩手の黒い鉄瓶・鹿児島の透明な切子杯と分ける",
+      "spec": "Saga ARITA PORCELAIN costume. A tall elegant opaque WHITE PORCELAIN VASE-shaped torso shell with a narrow raised rim below the neck, rounded pear-shaped lower body and short narrow foot above knees, beautiful detailed COBALT BLUE underglaze botanical scrollwork. Glossy fired ceramic look, no spout or handle. White sleeves, deep cobalt trousers and white shoes. His head and grey hair entirely above the rim, one hand placed on vase side and other gives a gentle greeting. Not cast iron, translucent red glass, a cooking bowl or ordinary kimono.",
+      "references": []
+    },
+    {
+      "id": "pref-42-nagasaki",
+      "prefectureCode": "42",
+      "prefecture": "長崎県",
+      "reading": "ながさき",
+      "motif": "長崎ハタ",
+      "name": "長崎・長崎ハタ",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "長崎県",
+        "長崎",
+        "ながさき",
+        "長崎ハタ",
+        "ながさきけん"
+      ],
+      "silhouette": "赤白青の菱形の凧",
+      "palette": "朱赤・白・紺青",
+      "difference": "新潟の放射花火・香川の楕円うちわと分ける",
+      "spec": "Nagasaki HATA traditional kite costume. A single large elongated DIAMOND-SHAPED light bamboo-and-paper kite frame attached behind his torso, clear bold geometric RED, WHITE and BLUE triangular panels, thin crossed bamboo spars and two short neat ribbon tails visible beside his calves. Face and grey hair in front of upper center, simple cream shirt, navy fitted trousers, red cloth sash, blue shoes. He holds a small wooden kite-string spool at waist. Entire kite tips inside frame. No writing, flags with emblems, radial fireworks, oval fan or flying pose.",
+      "references": [
+        "https://www.at-nagasaki.jp/spot/50246"
+      ]
+    },
+    {
+      "id": "pref-43-kumamoto",
+      "prefectureCode": "43",
+      "prefecture": "熊本県",
+      "reading": "くまもと",
+      "motif": "辛子蓮根",
+      "name": "熊本・辛子蓮根",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "熊本県",
+        "熊本",
+        "くまもと",
+        "辛子蓮根",
+        "くまもとけん"
+      ],
+      "silhouette": "穴のある黄色い蓮根の断面",
+      "palette": "辛子黄・薄茶・白",
+      "difference": "果物の丸い着ぐるみ・大根そのものと分ける",
+      "spec": "Kumamoto KARASHI RENKON costume. A broad MUSTARD-YELLOW lotus-root CROSS-SECTION stage disc surrounds his torso, realistic softly browned outer fried rim and a ring of MANY large distinct round lotus-root HOLES filled with deeper golden mustard texture. One smaller angled slice attached at a hip emphasizes sliced structure. Warm ivory sleeves, ochre trousers and brown shoes. Head and human smile clear above the perforated disc, both hands outside sides. Real food-prop surface, not a smooth fruit sphere, whole white radish, giant ramen bowl or sponge cheese.",
+      "references": []
+    },
+    {
+      "id": "pref-44-oita",
+      "prefectureCode": "44",
+      "prefecture": "大分県",
+      "reading": "おおいた",
+      "motif": "別府の地獄蒸し",
+      "name": "大分・別府の地獄蒸し",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "大分県",
+        "大分",
+        "おおいた",
+        "別府の地獄蒸し",
+        "おおいたけん"
+      ],
+      "silhouette": "三段重ねの竹の蒸籠",
+      "palette": "竹茶・雲白・温泉青",
+      "difference": "寄木の四角い箱・黒い鉄瓶と分ける",
+      "spec": "Oita BEPPU JIGOKU-MUSHI steam-cooking costume. THREE shallow round BAMBOO STEAMER baskets stacked around his torso like wide horizontal rings, visible woven bamboo sides and thin wood rims, a round bamboo lid tilted behind ONE shoulder, a few small white felt steam-cloud shapes physically attached above basket edge. Pale blue long sleeves, cream trousers and brown shoes. His own face completely open above the stack, grey hair visible, hands presenting the basket rims. No actual smoke halo, chef hat, ramen bowl, spout, puzzle-box drawers or scenery.",
+      "references": [
+        "https://www.visit-oita.jp/spots/detail/5007"
+      ]
+    },
+    {
+      "id": "pref-45-miyazaki",
+      "prefectureCode": "45",
+      "prefecture": "宮崎県",
+      "reading": "みやざき",
+      "motif": "鬼の洗濯板",
+      "name": "宮崎・鬼の洗濯板",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "宮崎県",
+        "宮崎",
+        "みやざき",
+        "鬼の洗濯板",
+        "みやざきけん"
+      ],
+      "silhouette": "斜めに走る平行な岩のうね",
+      "palette": "濃灰・砂灰・白",
+      "difference": "栃木の角柱とアーチ・山梨の山の円錐と分ける",
+      "spec": "Miyazaki ONI-NO-SENTAKUITA wave-cut rock-strata costume. A dramatic asymmetrical slate-charcoal mantle and long fitted waist panels with many BOLD PARALLEL DIAGONAL ridges of thin wave-worn stone strata, alternating dark grey and pale sandy-grey edges, all ridges aligned on a strong diagonal. The costume is a wearable lightweight rock-texture shell, not a landscape. Black sleeves and trousers, dark rock-look boots, grey hair visible. Hands open gently at sides, face clear. No squared building blocks, open arch, mountain cone, beach, water background or animal.",
+      "references": [
+        "https://www.kanko-miyazaki.jp/spot/1242"
+      ]
+    },
+    {
+      "id": "pref-46-kagoshima",
+      "prefectureCode": "46",
+      "prefecture": "鹿児島県",
+      "reading": "かごしま",
+      "motif": "薩摩切子",
+      "name": "鹿児島・薩摩切子",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "鹿児島県",
+        "鹿児島",
+        "かごしま",
+        "薩摩切子",
+        "かごしまけん"
+      ],
+      "silhouette": "赤い切子ガラスの杯",
+      "palette": "紅切子・透明・濃紅",
+      "difference": "北海道の不透明な氷塊・佐賀の白い壺と分ける",
+      "spec": "Kagoshima SATSUMA KIRIKO cut-glass costume. A brilliant RUBY-RED AND CLEAR translucent glass GOBLET-shaped torso shell, broad flared rim below the shoulders, precise repeating deeply CUT diamond and star facets with red-to-clear gradients, narrowing into a short stem-shaped waist and a circular foot panel above the knees. Burgundy fitted sleeves and trousers, dark red shoes. Grey hair and his full smiling face clear above the rim, palms out in proud presentation. Symmetrical refined transparent glass vessel, not jagged milky drift ice, opaque blue-white porcelain vase or iron kettle. No text.",
+      "references": [
+        "https://www.kagoshima-kankou.com/gourmet/souvenir/craft"
+      ]
+    },
+    {
+      "id": "pref-47-okinawa",
+      "prefectureCode": "47",
+      "prefecture": "沖縄県",
+      "reading": "おきなわ",
+      "motif": "サンゴ",
+      "name": "沖縄・サンゴ",
+      "category": "全国ご当地",
+      "tags": [
+        "都道府県",
+        "全国",
+        "ご当地",
+        "沖縄県",
+        "沖縄",
+        "おきなわ",
+        "サンゴ",
+        "おきなわけん"
+      ],
+      "silhouette": "枝分かれした珊瑚の上着",
+      "palette": "珊瑚桃・白・青緑",
+      "difference": "クラゲ・ワカメ・動物のぬいぐるみと分ける",
+      "spec": "Okinawa CORAL-inspired sculptural costume. An airy asymmetrical jacket of many organically BRANCHING pale coral-pink and creamy-white faux-coral limbs around his shoulders and waist, detailed porous coral texture, branches curve beside arms but NEVER over his face or hands. Turquoise fitted inner shirt and trousers, pale sand shoes, grey hair uncovered. Bare hands gently spread in greeting. Entire coral branch tips visible with generous margin. Physical lightweight coral-costume props, no reef scenery, fish companions, jellyfish tentacles, seaweed strips, plush animal hood or crystal ice chunks.",
+      "references": []
+    }
+  ],
+  "designRevisions": [
+    {
+      "id": "pref-12-chiba",
+      "replacedMotif": "落花生",
+      "finalMotif": "成田の旅客機",
+      "reason": "茨城の水戸納豆と縦長・薄茶色の包み形状が近く見えたため、横長の白い旅客機に変更。"
+    }
+  ]
+}

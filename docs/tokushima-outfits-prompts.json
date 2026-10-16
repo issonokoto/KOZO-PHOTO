@@ -1,0 +1,352 @@
+{
+  "basePrompt": "Use case: identity-preserve.\nAsset type: ONE reusable transparent full-body photographic cutout for the KOHZO PHOTO camera app.\nInput image 1 is the identity reference ONLY: Kozo, this same friendly elderly Japanese man. Closely preserve his recognizable face, eyes, grey eyebrows and grey hair, wrinkles, elderly age, smile and ordinary natural body proportions. Do not copy any background.\nPrimary request: dress this exact same man in the specified Tokushima-themed outfit. Fun and cheerful local-culture costume, with convincing REAL PHOTOGRAPHY, realistic fabric, elderly hands and physical props, never cartoon, illustration or 3D render.\nComposition: exactly one person, full body head to both complete feet visible, both hands and ALL props inside the frame with generous transparent margin at every edge. Front or gentle three-quarter view, recognizable smiling face looking toward the camera, as if posing beside a visitor for a souvenir photo. Portrait 2:3. Keep everything compact around his own body.\nBackground: GENUINE transparent alpha, clean isolated edges, including gaps between limbs and props. NO background scenery, backdrop, floor, external cast shadows, fog, decorative border or checkerboard texture. Soft neutral studio daylight.\nWardrobe: use the specified outfit to COVER or REPLACE the original polo. No Japanese lettering or invented logos anywhere; use shapes and colors to convey Tokushima. Keep his navy fishing cap unless different headwear is specified. Face must remain unobstructed.\nSpecific outfit and pose: ",
+  "entries": [
+    {
+      "id": "tokushima-awa-dance",
+      "name": "阿波踊り・男踊り",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波踊り",
+        "あわおどり",
+        "男踊り",
+        "祭り"
+      ],
+      "spec": "Traditional Awa Odori male dancer outfit: vivid indigo blue short yukata with white wave motifs, white obi, white shorts beneath, white tabi and straw sandals, navy-and-white twisted hachimaki instead of cap. Both arms raised in the characteristic relaxed bent Awa Odori dance gesture, knees gently bent, both feet visible, laughing warmly. No text."
+    },
+    {
+      "id": "tokushima-awa-amigasa",
+      "name": "阿波踊り・編み笠",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波踊り",
+        "女踊り",
+        "編み笠",
+        "祭り"
+      ],
+      "spec": "The same elderly MAN joyfully wears the iconic Awa Odori dancer's folded crescent woven amigasa hat, tilted high enough to fully show his own face, cream and indigo ankle-length yukata with subtle wave patterns, bright vermilion obi, white tabi and modest zori. Both arms elegantly raised, friendly smile. Keep his male elderly facial identity, do not turn him into a woman. Entire hat and sandals in frame."
+    },
+    {
+      "id": "tokushima-awa-taiko",
+      "name": "阿波踊り・太鼓",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波踊り",
+        "太鼓",
+        "鳴り物",
+        "祭り"
+      ],
+      "spec": "Awa Odori festival percussionist in an indigo happi with white wave shapes, white trousers and tabi shoes, twisted white hachimaki instead of cap. Compact real barrel festival drum hanging at waist with a shoulder strap, one wooden drumstick in each hand poised to play, smiling toward camera. Entire drum and both sticks in frame. No writing."
+    },
+    {
+      "id": "tokushima-awa-lantern",
+      "name": "阿波踊り・提灯",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波踊り",
+        "提灯",
+        "祭り",
+        "ちょうちん"
+      ],
+      "spec": "Awa Odori festival leader in a deep indigo yukata, white sash and white tabi with sandals, white-and-navy headband instead of cap, holding up a beautiful vermilion paper chochin lantern on a short handle. Lantern has a simple white stylized dancing silhouette and absolutely no lettering. Free hand welcoming, face smiling and fully visible."
+    },
+    {
+      "id": "tokushima-awa-shamisen",
+      "name": "阿波踊り・三味線",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波踊り",
+        "三味線",
+        "鳴り物"
+      ],
+      "spec": "Awa Odori musician in a deep indigo and white striped yukata, soft white obi, white tabi and sandals, navy headband instead of cap. Holding and playing a real compact shamisen diagonally across his body with a plectrum, correct three strings, instrument neck entirely inside frame. Pleasant warm smiling elderly face."
+    },
+    {
+      "id": "tokushima-awa-flute",
+      "name": "阿波踊り・篠笛",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波踊り",
+        "篠笛",
+        "笛",
+        "鳴り物"
+      ],
+      "spec": "Awa Odori musician in an indigo happi over a plain white shirt, white trousers and white tabi shoes, navy-and-white twisted headband. He holds a natural bamboo shinobue flute horizontally at upper chest level, slightly BELOW his face so his characteristic full smile remains visible, about to play. All fingers and flute ends in frame."
+    },
+    {
+      "id": "tokushima-sudachi-suit",
+      "name": "まるごとすだち",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "すだち",
+        "スダチ",
+        "柑橘",
+        "着ぐるみ"
+      ],
+      "spec": "A beautifully made comical life-size GREEN SUDACHI CITRUS costume around his torso, round deep fresh-green pebbled fruit texture, small leafy stem on top behind his shoulder, one clearly visible pale-green cut citrus slice motif on the front. His own head and navy fishing cap fully outside the costume, bare forearms emerging naturally, plain dark green sleeves underneath, cream trousers and black shoes. Two thumbs up, whole costume and limbs visible."
+    },
+    {
+      "id": "tokushima-sudachi-farmer",
+      "name": "すだち農家",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "すだち",
+        "農家",
+        "収穫",
+        "果物"
+      ],
+      "spec": "Tokushima sudachi citrus farmer in rich forest-green farm work jacket over a plain white shirt, cream work trousers, black work shoes and straw farmer hat replacing cap, holding a woven harvesting basket piled with SMALL round dark-green sudachi citrus, a few stems and leaves. A gentle cheerful welcoming pose, face unobscured. Basket compact at waist."
+    },
+    {
+      "id": "tokushima-sudachi-chef",
+      "name": "すだち料理人",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "すだち",
+        "料理人",
+        "エプロン",
+        "料理"
+      ],
+      "spec": "Cheerful sudachi-themed cook wearing a fresh-green full apron decorated ONLY with pale-green cross-sections of sudachi citrus over a plain white long-sleeve shirt, dark trousers and black shoes, navy fishing cap. Holding a small wooden tray with a cluster of small whole green sudachi and a neatly cut half showing pale yellow-green flesh, other hand gives thumbs up. No writing, full body."
+    },
+    {
+      "id": "tokushima-naruto-whirlpool",
+      "name": "鳴門のうずしお",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "鳴門",
+        "なると",
+        "渦潮",
+        "うずしお",
+        "着ぐるみ"
+      ],
+      "spec": "Spectacular playful Naruto whirlpool costume: his torso wears a sculptural circular vivid blue-and-white spiral ocean swirl made of beautifully sewn padded fabric, clearly a wearable costume prop around the body, NOT real water or scenery. Outer spiral at waist-to-shoulder height, head and smiling face completely clear above it, navy fishing cap, blue sleeves, white trousers and black shoes. Open palms presenting the spiral. Entire costume inside frame."
+    },
+    {
+      "id": "tokushima-naruto-boatman",
+      "name": "うずしお船長",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "鳴門",
+        "渦潮",
+        "船長",
+        "観潮船"
+      ],
+      "spec": "Naruto whirlpool sightseeing boat captain, crisp navy skipper jacket with simple gold buttons over plain white shirt, cream trousers, black boat shoes, navy peaked captain cap with plain gold anchor emblem replacing fishing cap. Holding a compact blue-and-white lifebuoy featuring a bold white spiral motif, other hand friendly salute. No words on the life ring or clothing, entire outfit visible."
+    },
+    {
+      "id": "tokushima-naruto-wakame",
+      "name": "鳴門わかめ",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "鳴門",
+        "わかめ",
+        "ワカメ",
+        "海藻",
+        "漁師"
+      ],
+      "spec": "Playful Naruto wakame seaweed harvest outfit: practical dark navy waterproof fisherman bib overalls and black rubber boots over a plain white shirt, navy fishing cap. Realistic glossy deep-green long wakame fronds draped as a humorous seaweed scarf over his shoulders, face and hands clear, one hand holding a compact coiled bundle of fresh wakame and the other giving thumbs up. Seaweed ends kept above shoes, no scenery."
+    },
+    {
+      "id": "tokushima-naruto-tai",
+      "name": "鳴門鯛",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "鳴門",
+        "鯛",
+        "たい",
+        "魚",
+        "着ぐるみ"
+      ],
+      "spec": "Delightfully funny wearable Naruto red sea bream costume: realistic silvery rose-pink fish-shaped padded suit oriented vertically around his torso, small side fins and scaled fabric, stylized fish head below his own chin without covering face and fish tail between knees. Kozo's elderly face and navy cap exposed above, dark blue sleeves, cream trouser legs and black shoes. He extends both hands in a proud welcoming pose. Full body, no writing."
+    },
+    {
+      "id": "tokushima-aizome-workwear",
+      "name": "阿波藍・作務衣",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波藍",
+        "藍染め",
+        "あいぞめ",
+        "作務衣"
+      ],
+      "spec": "Elegant Awa indigo artisan in a beautifully textured authentic deep indigo-dyed samue work jacket and matching loose trousers, subtle natural uneven blue dye texture, navy fishing cap, simple black shoes. Holding one folded piece of shibori indigo fabric with clear white circular tie-dye patterns in front of his waist, one hand showing the cloth toward camera. Warm gentle smile, no writing."
+    },
+    {
+      "id": "tokushima-aizome-kimono",
+      "name": "藍染めの着物",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波藍",
+        "藍染め",
+        "着物",
+        "和服"
+      ],
+      "spec": "Kozo wearing a tasteful authentic Awa indigo-dyed kimono in a rich deep blue with small white shibori wave and circle patterns, charcoal obi, white tabi and zori, grey hair visible with NO hat. One hand holding a closed small indigo fan, other hand lifted in an elegant friendly greeting. Real fabric drape, unmistakably same elderly man and warm smile."
+    },
+    {
+      "id": "tokushima-aizome-apron",
+      "name": "藍染め職人",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波藍",
+        "藍染め",
+        "職人",
+        "染物"
+      ],
+      "spec": "Awa indigo dye craftsman: long indigo work apron tied over plain white rolled-sleeve shirt, dark blue work trousers and black shoes, blue-and-white patterned tenugui tied around head replacing cap. He proudly holds a compact length of beautiful freshly dyed indigo-and-white shibori cloth spread between both hands at waist height, not covering the face. Clear natural hands, warmly smiling, all cloth inside frame."
+    },
+    {
+      "id": "tokushima-kintoki-suit",
+      "name": "なると金時",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "なると金時",
+        "鳴門金時",
+        "さつまいも",
+        "着ぐるみ"
+      ],
+      "spec": "Humorous life-size Naruto Kintoki sweet potato wearable suit, elongated plump purple-red sweet potato around the torso with convincing earthy skin texture and a large small-window cross-section of golden yellow flesh on the front. His own smiling head and navy fishing cap exposed above, cream trouser legs and black shoes below, arms naturally out the sides, both hands making small cheerful victory fists. Entire sweet-potato suit and feet in frame."
+    },
+    {
+      "id": "tokushima-kintoki-farmer",
+      "name": "なると金時の収穫",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "なると金時",
+        "鳴門金時",
+        "収穫",
+        "農家",
+        "さつまいも"
+      ],
+      "spec": "Proud Naruto Kintoki sweet potato farmer in burgundy-red work jacket over plain white shirt, tan work trousers and black work boots, straw farming hat replacing cap. Holding a rustic woven harvest basket full of several natural purple-red sweet potatoes with one cut piece revealing fluffy golden yellow flesh. A friendly relaxed full-body portrait, basket around waist, no scenery."
+    },
+    {
+      "id": "tokushima-ramen",
+      "name": "徳島ラーメン屋台",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "徳島ラーメン",
+        "らーめん",
+        "麺",
+        "グルメ"
+      ],
+      "spec": "Funny Tokushima ramen vendor outfit, indigo short-sleeved chef happi, plain black shirt and trousers, cream apron, white twisted head towel instead of cap. Holding a large but believable ramen bowl at waist height: visible brown soy pork broth, noodles, brown sliced pork belly and a single raw egg yolk on top. Other hand holding a large red ladle upright. No labels or writing, face visible smiling and full body."
+    },
+    {
+      "id": "tokushima-handa-somen",
+      "name": "半田そうめん職人",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "半田そうめん",
+        "半田素麺",
+        "そうめん",
+        "麺",
+        "グルメ"
+      ],
+      "spec": "Handa somen noodle artisan in spotless off-white traditional work jacket and trousers, indigo waist apron, white cloth headband replacing cap and black simple shoes. Holding a rectangular bamboo serving tray at waist level with a graceful looped bundle of slightly thick white somen noodles, a small ceramic dipping cup and a tiny whole green sudachi citrus. Friendly full-body portrait, no text."
+    },
+    {
+      "id": "tokushima-awa-chicken",
+      "name": "阿波尾鶏",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "阿波尾鶏",
+        "あわおどり",
+        "鶏",
+        "とり",
+        "着ぐるみ"
+      ],
+      "spec": "Playful Awaodori chicken costume with realistic soft feather-like black and warm golden brown fabric, plump torso, small folded wing sleeves, golden feather detail at shoulders and tiny red comb accessory perched on the navy fishing cap. His elderly human smiling face completely unobstructed, human hands visible and raised in the Awa dance gesture, cream trouser legs and black shoes below. Costume clearly wearable, no extra animal or person."
+    },
+    {
+      "id": "tokushima-chikuwa",
+      "name": "竹ちくわ",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "竹ちくわ",
+        "ちくわ",
+        "竹輪",
+        "小松島",
+        "グルメ"
+      ],
+      "spec": "Funny Tokushima bamboo chikuwa vendor wearing short indigo happi over plain white shirt, white waist apron, tan trousers and black shoes, navy fishing cap. Holding a comically oversize but believable whole grilled bamboo chikuwa diagonally beside his own torso, golden browned ridged fish cake tube wrapped around a visible slender green bamboo stalk, entire bamboo and chikuwa in frame. Free hand making V sign and face warmly smiling. No writing."
+    },
+    {
+      "id": "tokushima-henro",
+      "name": "徳島のお遍路さん",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "お遍路",
+        "へんろ",
+        "四国八十八ヶ所",
+        "巡礼",
+        "旅"
+      ],
+      "spec": "A cheerful Shikoku pilgrim starting the journey in Tokushima: plain white pilgrim jacket and white trousers, light straw conical sugegasa hat tilted upward to show his full smiling face, simple white satchel, wooden kongozue walking staff and black walking shoes. A small plain indigo scarf accents his neck. Gentle greeting with free hand. No printed sutras or characters on hat, clothes or bag. Entire staff and shoes within frame."
+    },
+    {
+      "id": "tokushima-oboke-raft",
+      "name": "大歩危ラフティング",
+      "category": "徳島！",
+      "tags": [
+        "徳島",
+        "とくしま",
+        "大歩危",
+        "小歩危",
+        "吉野川",
+        "ラフティング",
+        "川"
+      ],
+      "spec": "Energetic Yoshino River Oboke rafting guide: cobalt blue and black wetsuit, bright yellow life jacket secured correctly, red rafting helmet replacing fishing cap but open face and grey hair at edges clearly visible, black water shoes. Holding a compact double-ended orange-and-black paddle diagonally upright beside his own body, both paddle ends fit comfortably inside frame. Happy confident thumbs up with free hand. No boat, no water, no scenery, no text."
+    }
+  ],
+  "reference": "assets/001.png",
+  "tool": "built-in image_gen",
+  "date": "2026-10-16"
+}

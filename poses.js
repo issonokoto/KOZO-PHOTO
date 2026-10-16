@@ -85,6 +85,374 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "tokushima-awa-dance",
+    "name": "阿波踊り・男踊り",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波踊り",
+      "あわおどり",
+      "男踊り",
+      "祭り"
+    ],
+    "src": "./assets/library/tokushima-awa-dance.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-dance.webp"
+  },
+  {
+    "id": "tokushima-awa-amigasa",
+    "name": "阿波踊り・編み笠",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波踊り",
+      "女踊り",
+      "編み笠",
+      "祭り"
+    ],
+    "src": "./assets/library/tokushima-awa-amigasa.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-amigasa.webp"
+  },
+  {
+    "id": "tokushima-awa-taiko",
+    "name": "阿波踊り・太鼓",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波踊り",
+      "太鼓",
+      "鳴り物",
+      "祭り"
+    ],
+    "src": "./assets/library/tokushima-awa-taiko.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-taiko.webp"
+  },
+  {
+    "id": "tokushima-awa-lantern",
+    "name": "阿波踊り・提灯",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波踊り",
+      "提灯",
+      "祭り",
+      "ちょうちん"
+    ],
+    "src": "./assets/library/tokushima-awa-lantern.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-lantern.webp"
+  },
+  {
+    "id": "tokushima-awa-shamisen",
+    "name": "阿波踊り・三味線",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波踊り",
+      "三味線",
+      "鳴り物"
+    ],
+    "src": "./assets/library/tokushima-awa-shamisen.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-shamisen.webp"
+  },
+  {
+    "id": "tokushima-awa-flute",
+    "name": "阿波踊り・篠笛",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波踊り",
+      "篠笛",
+      "笛",
+      "鳴り物"
+    ],
+    "src": "./assets/library/tokushima-awa-flute.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-flute.webp"
+  },
+  {
+    "id": "tokushima-sudachi-suit",
+    "name": "まるごとすだち",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "すだち",
+      "スダチ",
+      "柑橘",
+      "着ぐるみ"
+    ],
+    "src": "./assets/library/tokushima-sudachi-suit.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-sudachi-suit.webp"
+  },
+  {
+    "id": "tokushima-sudachi-farmer",
+    "name": "すだち農家",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "すだち",
+      "農家",
+      "収穫",
+      "果物"
+    ],
+    "src": "./assets/library/tokushima-sudachi-farmer.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-sudachi-farmer.webp"
+  },
+  {
+    "id": "tokushima-sudachi-chef",
+    "name": "すだち料理人",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "すだち",
+      "料理人",
+      "エプロン",
+      "料理"
+    ],
+    "src": "./assets/library/tokushima-sudachi-chef.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-sudachi-chef.webp"
+  },
+  {
+    "id": "tokushima-naruto-whirlpool",
+    "name": "鳴門のうずしお",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "鳴門",
+      "なると",
+      "渦潮",
+      "うずしお",
+      "着ぐるみ"
+    ],
+    "src": "./assets/library/tokushima-naruto-whirlpool.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-whirlpool.webp"
+  },
+  {
+    "id": "tokushima-naruto-boatman",
+    "name": "うずしお船長",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "鳴門",
+      "渦潮",
+      "船長",
+      "観潮船"
+    ],
+    "src": "./assets/library/tokushima-naruto-boatman.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-boatman.webp"
+  },
+  {
+    "id": "tokushima-naruto-wakame",
+    "name": "鳴門わかめ",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "鳴門",
+      "わかめ",
+      "ワカメ",
+      "海藻",
+      "漁師"
+    ],
+    "src": "./assets/library/tokushima-naruto-wakame.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-wakame.webp"
+  },
+  {
+    "id": "tokushima-naruto-tai",
+    "name": "鳴門鯛",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "鳴門",
+      "鯛",
+      "たい",
+      "魚",
+      "着ぐるみ"
+    ],
+    "src": "./assets/library/tokushima-naruto-tai.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-tai.webp"
+  },
+  {
+    "id": "tokushima-aizome-workwear",
+    "name": "阿波藍・作務衣",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波藍",
+      "藍染め",
+      "あいぞめ",
+      "作務衣"
+    ],
+    "src": "./assets/library/tokushima-aizome-workwear.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-aizome-workwear.webp"
+  },
+  {
+    "id": "tokushima-aizome-kimono",
+    "name": "藍染めの着物",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波藍",
+      "藍染め",
+      "着物",
+      "和服"
+    ],
+    "src": "./assets/library/tokushima-aizome-kimono.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-aizome-kimono.webp"
+  },
+  {
+    "id": "tokushima-aizome-apron",
+    "name": "藍染め職人",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波藍",
+      "藍染め",
+      "職人",
+      "染物"
+    ],
+    "src": "./assets/library/tokushima-aizome-apron.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-aizome-apron.webp"
+  },
+  {
+    "id": "tokushima-kintoki-suit",
+    "name": "なると金時",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "なると金時",
+      "鳴門金時",
+      "さつまいも",
+      "着ぐるみ"
+    ],
+    "src": "./assets/library/tokushima-kintoki-suit.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-kintoki-suit.webp"
+  },
+  {
+    "id": "tokushima-kintoki-farmer",
+    "name": "なると金時の収穫",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "なると金時",
+      "鳴門金時",
+      "収穫",
+      "農家",
+      "さつまいも"
+    ],
+    "src": "./assets/library/tokushima-kintoki-farmer.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-kintoki-farmer.webp"
+  },
+  {
+    "id": "tokushima-ramen",
+    "name": "徳島ラーメン屋台",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "徳島ラーメン",
+      "らーめん",
+      "麺",
+      "グルメ"
+    ],
+    "src": "./assets/library/tokushima-ramen.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-ramen.webp"
+  },
+  {
+    "id": "tokushima-handa-somen",
+    "name": "半田そうめん職人",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "半田そうめん",
+      "半田素麺",
+      "そうめん",
+      "麺",
+      "グルメ"
+    ],
+    "src": "./assets/library/tokushima-handa-somen.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-handa-somen.webp"
+  },
+  {
+    "id": "tokushima-awa-chicken",
+    "name": "阿波尾鶏",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "阿波尾鶏",
+      "あわおどり",
+      "鶏",
+      "とり",
+      "着ぐるみ"
+    ],
+    "src": "./assets/library/tokushima-awa-chicken.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-awa-chicken.webp"
+  },
+  {
+    "id": "tokushima-chikuwa",
+    "name": "竹ちくわ",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "竹ちくわ",
+      "ちくわ",
+      "竹輪",
+      "小松島",
+      "グルメ"
+    ],
+    "src": "./assets/library/tokushima-chikuwa.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-chikuwa.webp"
+  },
+  {
+    "id": "tokushima-henro",
+    "name": "徳島のお遍路さん",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "お遍路",
+      "へんろ",
+      "四国八十八ヶ所",
+      "巡礼",
+      "旅"
+    ],
+    "src": "./assets/library/tokushima-henro.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-henro.webp"
+  },
+  {
+    "id": "tokushima-oboke-raft",
+    "name": "大歩危ラフティング",
+    "category": "徳島！",
+    "tags": [
+      "徳島",
+      "とくしま",
+      "大歩危",
+      "小歩危",
+      "吉野川",
+      "ラフティング",
+      "川"
+    ],
+    "src": "./assets/library/tokushima-oboke-raft.webp",
+    "thumbnail": "./assets/thumbnails/tokushima-oboke-raft.webp"
+  },
+  {
     "id": "tshirt-peace",
     "name": "Tシャツ・ピース",
     "category": "クラゲTシャツ",

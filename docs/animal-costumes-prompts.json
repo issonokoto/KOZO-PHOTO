@@ -1,0 +1,391 @@
+{
+  "basePrompt": "Use case: identity-preserve.\nAsset type: ONE reusable transparent full-body photographic cutout for the KOHZO PHOTO camera app, a man in an animal kigurumi costume to place beside visitors in their own photos.\nInput image 1 is an IDENTITY REFERENCE ONLY: Kozo, this exact friendly elderly Japanese man. Closely match his recognizable elderly face, eyes, grey eyebrows, grey hair, wrinkles, warm smile, age, and ordinary natural proportions.\nPrimary request: the SAME man joyfully wearing the specified generic ANIMAL KIGURUMI, an adult-sized beautifully made soft plush mascot jumpsuit, with a hood shaped like the animal's head, matching padded body, and matching animal-foot slippers. His human face remains COMPLETELY VISIBLE through a broad oval hood opening. No mask, animal muzzle, faux beard, hood fabric or cap over his face. Remove the navy cap for the animal hood; keep his own grey hair subtly visible at the opening. Do NOT turn his human face or hands into an animal. No existing branded mascot or fictional character.\nStyle: convincing REAL studio PHOTOGRAPHY of a wearable plush fabric costume, tangible seams, dense soft fur or velour, elderly natural skin and hands. Cute and funny but never illustration, cartoon, plastic face, anthropomorphic animal render, or flat printed animal T-shirt.\nFraming: exactly one person, full body with BOTH complete feet, both complete hands, ears and tail entirely inside a portrait 2:3 frame. GENEROUS clear transparent margin all around, including above tall ears and below feet. Face toward camera like a souvenir group photo. Human hands naturally emerge from the sleeves with plush paw cuffs, so his gestures are clear. Keep all props compact and attached or held around his own body.\nBackground: GENUINE transparent alpha background, including gaps between limbs, fingers and tail; crisp isolated silhouette. Soft neutral daylight. No scenery, backdrop, floor, cast shadow outside the cutout, border, captions, watermark, logos, written words or checkerboard pattern. Replace all original clothing with the costume; no original polo or chest lettering.\nSpecific animal costume and pose: ",
+  "entries": [
+    {
+      "id": "animal-panda",
+      "name": "着ぐるみ・パンダ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "パンダ",
+        "ぱんだ",
+        "熊猫"
+      ],
+      "spec": "Adorable black-and-white giant panda kigurumi: round black ears, white hood with black panda eye markings ABOVE the man's visible human face, thick black sleeves and legs, big white belly, rounded black paw slippers. He raises BOTH natural hands beside his shoulders in a cheerful double peace sign, smiling warmly."
+    },
+    {
+      "id": "animal-shiba",
+      "name": "着ぐるみ・柴犬",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "柴犬",
+        "しばいぬ",
+        "犬",
+        "いぬ",
+        "イヌ"
+      ],
+      "spec": "Warm golden-tan SHIBA INU dog kigurumi, upright triangular ears, cream cheeks on the hood surrounding the face opening, cream chest and belly, visible tightly curled plush tail behind one hip, tan paw slippers. He gives a proud thumbs up with one hand, other hand on hip. Recognizably Shiba, not a generic floppy-eared dog."
+    },
+    {
+      "id": "animal-calico-cat",
+      "name": "着ぐるみ・三毛猫",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "三毛猫",
+        "みけねこ",
+        "猫",
+        "ねこ",
+        "ネコ"
+      ],
+      "spec": "Calico CAT kigurumi with irregular white, ginger and black plush patches, triangular cat ears, small triangular plush nose on top of the open hood, curved long calico tail beside one leg, white paw slippers. He playfully lifts both human hands with relaxed curved fingers near his chest like cat paws, smiling. No whiskers painted on human skin."
+    },
+    {
+      "id": "animal-rabbit",
+      "name": "着ぐるみ・うさぎ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "うさぎ",
+        "兎",
+        "ウサギ",
+        "らびっと"
+      ],
+      "spec": "Fluffy ivory-white rabbit kigurumi, two long upright ears with soft pink inner ears fully visible with ample margin above, round tiny plush tail peeking beside a hip, pink-accented white paw slippers. Kozo gently holds both human hands together under his chin in a sweet happy pose, a broad smiling elderly face visible."
+    },
+    {
+      "id": "animal-brown-bear",
+      "name": "着ぐるみ・くま",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "くま",
+        "熊",
+        "クマ",
+        "ベア"
+      ],
+      "spec": "Cuddly warm chocolate-brown bear kigurumi, soft rounded ears, tan fabric muzzle detail sitting ABOVE his broad open-face hood opening, big cream belly patch and rounded brown paw slippers. Kozo opens both arms in a welcoming gentle bear hug pose, all fingers and arms inside frame."
+    },
+    {
+      "id": "animal-tiger",
+      "name": "着ぐるみ・とら",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "とら",
+        "虎",
+        "トラ",
+        "タイガー"
+      ],
+      "spec": "Rich golden-orange tiger plush kigurumi, bold black stripes on hood/body/tail, white cheeks and chest, round striped ears, softly curved striped tail beside one leg and matching paw slippers. Kozo lifts both hands with fingers gently curled in a playful friendly tiger roar gesture, mouth laughing naturally, no fangs on his own face."
+    },
+    {
+      "id": "animal-lion",
+      "name": "着ぐるみ・ライオン",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "ライオン",
+        "らいおん",
+        "獅子"
+      ],
+      "spec": "Golden-tan lion kigurumi with a gorgeous fluffy caramel mane forming a complete circle OUTSIDE the open-face hood, round ears above, lighter belly, visible thin tan tail ending in a fluffy caramel tuft, tan paw slippers. Kozo stands proudly with both hands on hips, warm confident smile, mane never hides his own cheeks or chin."
+    },
+    {
+      "id": "animal-penguin",
+      "name": "着ぐるみ・ペンギン",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "ペンギン",
+        "ぺんぎん",
+        "鳥",
+        "とり"
+      ],
+      "spec": "Rotund black-and-white penguin kigurumi with white belly, plush black hood with a small orange beak perched ABOVE the human face opening, black flipper-shaped sleeves with human hands emerging naturally, and comically large orange webbed-foot slippers. Arms held slightly out at sides in a cute penguin waddle pose, both feet separate and visible."
+    },
+    {
+      "id": "animal-koala",
+      "name": "着ぐるみ・コアラ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "コアラ",
+        "こあら"
+      ],
+      "spec": "Soft silver-grey koala kigurumi, very large rounded fluffy ears, dark oval koala nose ABOVE the broad human face opening, creamy belly and grey paw slippers. Kozo gently hugs one small leafy eucalyptus branch against his torso, other hand giving a friendly wave. Entire branch and ears inside frame."
+    },
+    {
+      "id": "animal-red-panda",
+      "name": "着ぐるみ・レッサーパンダ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "レッサーパンダ",
+        "れっさーぱんだ",
+        "小熊猫"
+      ],
+      "spec": "Red panda kigurumi with rust-red plush hood and upper body, round rust ears with white rims, white cheek patches surrounding the face opening, dark brown sleeves and legs, a prominent fluffy striped red-and-tan ringed tail curving BESIDE his leg, dark paw slippers. Kozo raises both open hands in a cheerful welcoming red-panda pose."
+    },
+    {
+      "id": "animal-capybara",
+      "name": "着ぐるみ・カピバラ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "カピバラ",
+        "かぴばら"
+      ],
+      "spec": "Charming capybara kigurumi in short warm tan plush, small rounded ears placed wide, broad blunt plush capybara snout detail ABOVE the human face opening, simple tan belly and wide rounded paw slippers. Cozy rounded costume silhouette. Kozo clasps his hands gently at his waist with a calm relaxed grin, a tiny generic orange citrus plush balanced on top of the hood."
+    },
+    {
+      "id": "animal-otter",
+      "name": "着ぐるみ・カワウソ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "カワウソ",
+        "かわうそ",
+        "獺"
+      ],
+      "spec": "Soft dark chocolate-brown otter kigurumi, tiny round ears, cream chin area around the human face opening and cream belly, long thick tapered otter tail curving gently beside one ankle, brown webbed-paw slippers. Kozo holds a small harmless shiny blue fish-shaped plush with both hands at his chest, grinning proudly."
+    },
+    {
+      "id": "animal-fox",
+      "name": "着ぐるみ・きつね",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "きつね",
+        "狐",
+        "キツネ"
+      ],
+      "spec": "Vivid rusty-orange fox kigurumi, large pointed ears with dark tips, cream cheeks outside the face opening and cream chest, a very large fluffy orange tail with a white tip held beside his own body with one hand, black paw slippers. His other human hand makes a V sign near his shoulder. Entire large tail and ears in frame."
+    },
+    {
+      "id": "animal-tanuki",
+      "name": "着ぐるみ・たぬき",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "たぬき",
+        "狸",
+        "タヌキ"
+      ],
+      "spec": "Japanese tanuki raccoon-dog kigurumi, rounded short ears, brown and grey mixed plush, dark eye-patch shapes on the HOOD surrounding but never crossing his human face, big pale round belly, SHORT fluffy plain brown tail without distinct raccoon rings, dark brown paw slippers. Kozo rests both hands on the rounded belly and laughs warmly. No alcohol bottle or text."
+    },
+    {
+      "id": "animal-giraffe",
+      "name": "着ぐるみ・キリン",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "キリン",
+        "きりん",
+        "麒麟"
+      ],
+      "spec": "Golden yellow giraffe kigurumi with large irregular caramel-brown spots, two soft short plush ossicones and generous side ears above the human face opening, a short upright neck-like hood silhouette without elongating the man's real neck, cream belly and dark brown hoof slippers. Kozo waves one hand high but comfortably within frame and rests the other by his hip."
+    },
+    {
+      "id": "animal-elephant",
+      "name": "着ぐるみ・ぞう",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "ぞう",
+        "象",
+        "ゾウ",
+        "エレファント"
+      ],
+      "spec": "Plush medium-grey elephant kigurumi with large soft fan ears, a short curved plush trunk ATTACHED ABOVE AND BESIDE the open-face hood so it NEVER crosses his human face, pale grey belly, tiny tail visible by one hip and oversized rounded grey foot slippers. Kozo gives a relaxed double thumbs up with natural human hands."
+    },
+    {
+      "id": "animal-gorilla",
+      "name": "着ぐるみ・ゴリラ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "ゴリラ",
+        "ごりら",
+        "猿",
+        "さる"
+      ],
+      "spec": "Funny but friendly gorilla kigurumi with dense dark charcoal faux fur, gently padded broad shoulders and chest, dark grey velour belly panel, small ears on the open hood and chunky black paw slippers. Do not change his ordinary body to muscular anatomy; it is a visibly soft costume. Kozo holds one small yellow banana at waist height and cheerfully raises a fist with his other hand. Entire banana visible."
+    },
+    {
+      "id": "animal-sheep",
+      "name": "着ぐるみ・ひつじ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "ひつじ",
+        "羊",
+        "ヒツジ",
+        "もこもこ"
+      ],
+      "spec": "Very fluffy creamy-white sheep kigurumi with thick realistic curled fleece texture, soft drooping rounded ears, little pale grey velour face area framing the man's own smiling human face, cream belly and dark grey hoof slippers. No curled ram horns. Kozo tilts his head slightly and forms a clear small heart shape with both natural hands at chest level."
+    },
+    {
+      "id": "animal-cow",
+      "name": "着ぐるみ・うし",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "うし",
+        "牛",
+        "ウシ",
+        "ホルスタイン"
+      ],
+      "spec": "Black-and-white Holstein cow kigurumi with irregular cow patches, small pale tan soft horns, wide ears with pink inner lining above the open face hood, white belly, visible thin tail ending in a black tuft and black hoof slippers. Kozo holds a small plain silver miniature milk pail in one hand and waves with his free hand, no labels or writing."
+    },
+    {
+      "id": "animal-pig",
+      "name": "着ぐるみ・ぶた",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "ぶた",
+        "豚",
+        "ブタ",
+        "ピッグ"
+      ],
+      "spec": "Soft pastel pink pig kigurumi, folded triangular ears, a small round pink plush pig snout placed ABOVE the broad hood face opening, rounded belly and small curled pink tail visible beside a hip, darker pink hoof slippers. Kozo stands with one hand on his soft belly and the other offering a thumbs up, big warm smiling face unobstructed."
+    },
+    {
+      "id": "animal-frog",
+      "name": "着ぐるみ・かえる",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "かえる",
+        "蛙",
+        "カエル",
+        "フロッグ"
+      ],
+      "spec": "Bright friendly leaf-green frog kigurumi, two big round soft frog eyes perched on top of the hood ABOVE the open human face, lighter yellow-green belly and matching green webbed-foot slippers. Kozo lifts both open palms beside his shoulders in a playful frog pose, knees only slightly bent so both complete legs and feet remain visible."
+    },
+    {
+      "id": "animal-seal",
+      "name": "着ぐるみ・アザラシ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "アザラシ",
+        "あざらし",
+        "海",
+        "海獣"
+      ],
+      "spec": "Cute ivory-white baby seal kigurumi, rounded smooth plush hood with subtle black seal eyes and small dark nose ABOVE the broad human face opening, plump white torso, short side flipper sleeves with natural hands emerging, and white flipper-shaped foot slippers. Kozo brings both open hands close together at chest level in a gentle clap pose, bright happy smile. Keep standing human legs clearly distinct, not a horizontal seal."
+    },
+    {
+      "id": "animal-shark",
+      "name": "着ぐるみ・サメ",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "サメ",
+        "さめ",
+        "鮫",
+        "海",
+        "シャーク"
+      ],
+      "spec": "Playful blue-grey shark kigurumi, open shark-mouth hood with a ring of small SOFT WHITE FABRIC triangular teeth around the broad face opening, never covering skin or eyes. White belly, small plush dorsal fin visible above one shoulder, side fin sleeves with real hands, and plush shark-tail detail curving beside a leg, blue-grey foot slippers. Kozo gives an enthusiastic double peace sign."
+    },
+    {
+      "id": "animal-kangaroo",
+      "name": "着ぐるみ・カンガルー",
+      "category": "動物の着ぐるみ",
+      "tags": [
+        "動物",
+        "どうぶつ",
+        "着ぐるみ",
+        "きぐるみ",
+        "カンガルー",
+        "かんがるー",
+        "親子"
+      ],
+      "spec": "Warm sandy-tan kangaroo kigurumi, long upright ears, cream belly with a real fabric pouch containing a tiny matching kangaroo PLUSH TOY joey, long thick plush tail curving behind and BESIDE his leg, and large tan paw slippers. Kozo gently rests one hand on the pouch rim and waves with the other, proudly smiling. The joey is clearly a stuffed toy, no extra real person or animal."
+    }
+  ],
+  "reference": "assets/001.png",
+  "tool": "built-in image_gen",
+  "date": "2026-10-16",
+  "repairs": [
+    {
+      "id": "animal-fox",
+      "revision": 2,
+      "tool": "built-in image_gen edit",
+      "instruction": "Use case: precise-object-edit / identity-preserve. Image 1 is the EDIT TARGET. Keep this exact friendly elderly man's recognizable face, expression, fox hood and full-body plush costume, pose, both hands, large fluffy orange and white tail, textures, lighting and transparent alpha. The top of a tall fox ear is too close to the upper edge. Change ONLY framing: pull the entire same man and costume back approximately 12 percent, keeping him centered on a portrait 2:3 transparent canvas. The full tips of BOTH ears, both hands, the complete tail and BOTH complete paw feet must be included, with clearly visible comfortable TRANSPARENT margin on every side, especially above the ears. Reconstruct only minimal clipped fur at ear tips if needed. Do not alter the face or costume design. No backdrop, gradient, floor, external cast shadow, glow, border, text or checkerboard texture. Actual transparent alpha background."
+    }
+  ]
+}

@@ -85,6 +85,405 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "animal-panda",
+    "name": "着ぐるみ・パンダ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "パンダ",
+      "ぱんだ",
+      "熊猫"
+    ],
+    "src": "./assets/library/animal-panda.webp",
+    "thumbnail": "./assets/thumbnails/animal-panda.webp"
+  },
+  {
+    "id": "animal-shiba",
+    "name": "着ぐるみ・柴犬",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "柴犬",
+      "しばいぬ",
+      "犬",
+      "いぬ",
+      "イヌ"
+    ],
+    "src": "./assets/library/animal-shiba.webp",
+    "thumbnail": "./assets/thumbnails/animal-shiba.webp"
+  },
+  {
+    "id": "animal-calico-cat",
+    "name": "着ぐるみ・三毛猫",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "三毛猫",
+      "みけねこ",
+      "猫",
+      "ねこ",
+      "ネコ"
+    ],
+    "src": "./assets/library/animal-calico-cat.webp",
+    "thumbnail": "./assets/thumbnails/animal-calico-cat.webp"
+  },
+  {
+    "id": "animal-rabbit",
+    "name": "着ぐるみ・うさぎ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "うさぎ",
+      "兎",
+      "ウサギ",
+      "らびっと"
+    ],
+    "src": "./assets/library/animal-rabbit.webp",
+    "thumbnail": "./assets/thumbnails/animal-rabbit.webp"
+  },
+  {
+    "id": "animal-brown-bear",
+    "name": "着ぐるみ・くま",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "くま",
+      "熊",
+      "クマ",
+      "ベア"
+    ],
+    "src": "./assets/library/animal-brown-bear.webp",
+    "thumbnail": "./assets/thumbnails/animal-brown-bear.webp"
+  },
+  {
+    "id": "animal-tiger",
+    "name": "着ぐるみ・とら",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "とら",
+      "虎",
+      "トラ",
+      "タイガー"
+    ],
+    "src": "./assets/library/animal-tiger.webp",
+    "thumbnail": "./assets/thumbnails/animal-tiger.webp"
+  },
+  {
+    "id": "animal-lion",
+    "name": "着ぐるみ・ライオン",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "ライオン",
+      "らいおん",
+      "獅子"
+    ],
+    "src": "./assets/library/animal-lion.webp",
+    "thumbnail": "./assets/thumbnails/animal-lion.webp"
+  },
+  {
+    "id": "animal-penguin",
+    "name": "着ぐるみ・ペンギン",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "ペンギン",
+      "ぺんぎん",
+      "鳥",
+      "とり"
+    ],
+    "src": "./assets/library/animal-penguin.webp",
+    "thumbnail": "./assets/thumbnails/animal-penguin.webp"
+  },
+  {
+    "id": "animal-koala",
+    "name": "着ぐるみ・コアラ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "コアラ",
+      "こあら"
+    ],
+    "src": "./assets/library/animal-koala.webp",
+    "thumbnail": "./assets/thumbnails/animal-koala.webp"
+  },
+  {
+    "id": "animal-red-panda",
+    "name": "着ぐるみ・レッサーパンダ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "レッサーパンダ",
+      "れっさーぱんだ",
+      "小熊猫"
+    ],
+    "src": "./assets/library/animal-red-panda.webp",
+    "thumbnail": "./assets/thumbnails/animal-red-panda.webp"
+  },
+  {
+    "id": "animal-capybara",
+    "name": "着ぐるみ・カピバラ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "カピバラ",
+      "かぴばら"
+    ],
+    "src": "./assets/library/animal-capybara.webp",
+    "thumbnail": "./assets/thumbnails/animal-capybara.webp"
+  },
+  {
+    "id": "animal-otter",
+    "name": "着ぐるみ・カワウソ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "カワウソ",
+      "かわうそ",
+      "獺"
+    ],
+    "src": "./assets/library/animal-otter.webp",
+    "thumbnail": "./assets/thumbnails/animal-otter.webp"
+  },
+  {
+    "id": "animal-fox",
+    "name": "着ぐるみ・きつね",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "きつね",
+      "狐",
+      "キツネ"
+    ],
+    "src": "./assets/library/animal-fox.webp",
+    "thumbnail": "./assets/thumbnails/animal-fox.webp"
+  },
+  {
+    "id": "animal-tanuki",
+    "name": "着ぐるみ・たぬき",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "たぬき",
+      "狸",
+      "タヌキ"
+    ],
+    "src": "./assets/library/animal-tanuki.webp",
+    "thumbnail": "./assets/thumbnails/animal-tanuki.webp"
+  },
+  {
+    "id": "animal-giraffe",
+    "name": "着ぐるみ・キリン",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "キリン",
+      "きりん",
+      "麒麟"
+    ],
+    "src": "./assets/library/animal-giraffe.webp",
+    "thumbnail": "./assets/thumbnails/animal-giraffe.webp"
+  },
+  {
+    "id": "animal-elephant",
+    "name": "着ぐるみ・ぞう",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "ぞう",
+      "象",
+      "ゾウ",
+      "エレファント"
+    ],
+    "src": "./assets/library/animal-elephant.webp",
+    "thumbnail": "./assets/thumbnails/animal-elephant.webp"
+  },
+  {
+    "id": "animal-gorilla",
+    "name": "着ぐるみ・ゴリラ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "ゴリラ",
+      "ごりら",
+      "猿",
+      "さる"
+    ],
+    "src": "./assets/library/animal-gorilla.webp",
+    "thumbnail": "./assets/thumbnails/animal-gorilla.webp"
+  },
+  {
+    "id": "animal-sheep",
+    "name": "着ぐるみ・ひつじ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "ひつじ",
+      "羊",
+      "ヒツジ",
+      "もこもこ"
+    ],
+    "src": "./assets/library/animal-sheep.webp",
+    "thumbnail": "./assets/thumbnails/animal-sheep.webp"
+  },
+  {
+    "id": "animal-cow",
+    "name": "着ぐるみ・うし",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "うし",
+      "牛",
+      "ウシ",
+      "ホルスタイン"
+    ],
+    "src": "./assets/library/animal-cow.webp",
+    "thumbnail": "./assets/thumbnails/animal-cow.webp"
+  },
+  {
+    "id": "animal-pig",
+    "name": "着ぐるみ・ぶた",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "ぶた",
+      "豚",
+      "ブタ",
+      "ピッグ"
+    ],
+    "src": "./assets/library/animal-pig.webp",
+    "thumbnail": "./assets/thumbnails/animal-pig.webp"
+  },
+  {
+    "id": "animal-frog",
+    "name": "着ぐるみ・かえる",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "かえる",
+      "蛙",
+      "カエル",
+      "フロッグ"
+    ],
+    "src": "./assets/library/animal-frog.webp",
+    "thumbnail": "./assets/thumbnails/animal-frog.webp"
+  },
+  {
+    "id": "animal-seal",
+    "name": "着ぐるみ・アザラシ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "アザラシ",
+      "あざらし",
+      "海",
+      "海獣"
+    ],
+    "src": "./assets/library/animal-seal.webp",
+    "thumbnail": "./assets/thumbnails/animal-seal.webp"
+  },
+  {
+    "id": "animal-shark",
+    "name": "着ぐるみ・サメ",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "サメ",
+      "さめ",
+      "鮫",
+      "海",
+      "シャーク"
+    ],
+    "src": "./assets/library/animal-shark.webp",
+    "thumbnail": "./assets/thumbnails/animal-shark.webp"
+  },
+  {
+    "id": "animal-kangaroo",
+    "name": "着ぐるみ・カンガルー",
+    "category": "動物の着ぐるみ",
+    "tags": [
+      "動物",
+      "どうぶつ",
+      "着ぐるみ",
+      "きぐるみ",
+      "カンガルー",
+      "かんがるー",
+      "親子"
+    ],
+    "src": "./assets/library/animal-kangaroo.webp",
+    "thumbnail": "./assets/thumbnails/animal-kangaroo.webp"
+  },
+  {
     "id": "tokushima-awa-dance",
     "name": "阿波踊り・男踊り",
     "category": "徳島！",

@@ -11,8 +11,8 @@
   <link rel="icon" href="assets/favicon.svg">
   <link rel="apple-touch-icon" href="assets/app-icon-180.png">
   <link rel="manifest" href="app.webmanifest">
-  <link rel="stylesheet" href="camera.css?v=20261017-save-text">
-  <script type="module" src="camera.js?v=20261017-save-text"></script>
+  <link rel="stylesheet" href="camera.css?v=20261017-native-save">
+  <script type="module" src="camera.js?v=20261017-native-save"></script>
 </head>
 <body>
   <header class="camera-header">
@@ -136,7 +136,8 @@
   <dialog id="photo-dialog" class="photo-dialog" aria-labelledby="photo-title">
     <div class="dialog-heading"><h2 id="photo-title">一緒に撮れた！</h2><button id="close-photo" type="button" class="secondary-button">閉じる</button></div>
     <canvas id="captured-photo" role="img" aria-label="山仲幸造さんとの合成写真"></canvas>
-    <div class="photo-actions"><button id="save-photo" type="button" class="primary-button">画像を保存</button><button id="share-photo" type="button" class="secondary-button">共有・写真に保存</button><button id="retake-photo" type="button" class="secondary-button">撮り直す</button></div>
+    <img id="saved-photo" alt="完成した記念写真" hidden>
+    <div class="photo-actions"><a id="save-photo" class="primary-button" aria-disabled="true" tabindex="-1">画像を保存</a><button id="share-photo" type="button" class="secondary-button">共有・写真に保存</button><button id="retake-photo" type="button" class="secondary-button">撮り直す</button></div>
     <p id="photo-status" class="status" role="status">iPhoneでは共有メニューから写真に保存できます。</p>
   </dialog>
 </body>

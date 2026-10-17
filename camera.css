@@ -420,3 +420,15 @@ dialog::backdrop{background:#18302c88}
 .text-dialog-buttons #apply-text{margin-left:auto;min-height:44px}
 .text-dialog-buttons [hidden]{display:none}
 
+#saved-photo{display:block;max-width:100%;max-height:62dvh;margin:0 auto;border-radius:12px;object-fit:contain;-webkit-touch-callout:default;user-select:auto}
+#saved-photo[hidden],#captured-photo[hidden]{display:none}
+.photo-actions a{display:inline-flex;align-items:center;justify-content:center;padding:9px 12px;border:1px solid #216a51;border-radius:10px;text-decoration:none;min-height:44px;cursor:pointer}
+#save-photo[aria-disabled="true"]{opacity:.4;pointer-events:none;cursor:default}
+@media(orientation:landscape) and (max-width:1100px),(orientation:landscape) and (pointer:coarse),(orientation:landscape) and (max-height:600px){
+  .photo-dialog #saved-photo{grid-column:1;grid-row:2;max-height:100%;max-width:100%;min-height:0;object-fit:contain;align-self:center}
+  .photo-dialog .photo-actions a{min-height:40px;padding:8px;font-size:12px}
+}
+@media(orientation:landscape) and (max-height:300px){
+  .photo-dialog .photo-actions a{min-height:34px;padding:6px 8px}
+}
+

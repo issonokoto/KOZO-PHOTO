@@ -39,7 +39,7 @@ const texts = [];
 const MAX_TEXTS = 3;
 let nextTextId = 1;
 let nextCharacterId = 1;
-const state = { selected: null, mode: 'camera', backgroundUrl: null, backgroundType: 'image/jpeg', backgroundSequence: 0, overlaySequence: 0, overlayLoading: false, facing: 'environment', stream: null, opening: false, captureBusy: false, captureSequence: 0, shapeSequence: 0, shapeLoading: false, sequence: 0, blob: null, fileName: '' };
+const state = { selected: null, mode: 'camera', backgroundUrl: null, backgroundType: 'image/jpeg', backgroundSequence: 0, overlaySequence: 0, overlayLoading: false, facing: 'environment', stream: null, opening: false, captureBusy: false, captureSequence: 0, shapeSequence: 0, shapeLoading: false, sequence: 0, blob: null, saveUrl: null, fileName: '' };
 let currentPose = null;
 let lastCapturePose = null;
 let poseLayer = null;
@@ -698,13 +698,43 @@ function drawLayer(context, layer, width, height) {
   context.drawImage(image, -drawWidth / 2, -drawHeight / 2, drawWidth, drawHeight);
   context.restore();
 }
+function clearSavedPhoto() {
+  const image = $('saved-photo'), link = $('save-photo');
+  image.onload = null; image.onerror = null; image.hidden = true; image.removeAttribute('src');
+  $('captured-photo').hidden = false;
+  link.removeAttribute('href'); link.removeAttribute('download');
+  link.setAttribute('aria-disabled', 'true'); link.tabIndex = -1;
+  if (state.saveUrl) {
+    const previousUrl = state.saveUrl;
+    state.saveUrl = null;
+    setTimeout(() => URL.revokeObjectURL(previousUrl), 120000);
+  }
+}
+function prepareSavedPhoto(blob, sequence) {
+  const url = URL.createObjectURL(blob);
+  state.saveUrl = url;
+  const image = $('saved-photo');
+  image.onload = () => {
+    if (sequence !== state.captureSequence || state.saveUrl !== url) return;
+    image.hidden = false; $('captured-photo').hidden = true;
+  };
+  image.onerror = () => {
+    if (sequence === state.captureSequence) $('photo-status').textContent = '保存用の画像を表示できませんでした。「画像を保存」または共有をお試しください。';
+  };
+  image.src = url;
+  // Prepare a real link before the tap. Chrome handles its trusted activation
+  // directly; no script-created click or asynchronous work starts the download.
+  const link = $('save-photo');
+  link.href = url; link.download = state.fileName;
+  link.setAttribute('aria-disabled', 'false'); link.tabIndex = 0;
+}
 async function capturePhoto() {
   if (!sourceReady() || state.captureBusy || (state.mode === 'camera' && !video.videoWidth)) return;
   const sequence = ++state.captureSequence;
   const capturedFrame = frameImage;
   state.captureBusy = true;
   $('capture-photo').disabled = true;
-  $('save-photo').disabled = true;
+  clearSavedPhoto();
   $('share-photo').disabled = true;
   $('share-photo').hidden = true;
   state.blob = null;
@@ -768,10 +798,14 @@ async function capturePhoto() {
     const stamp = new Date().toISOString().replace(/[:.]/g, '-');
     state.fileName = `kohzo-photo-${fromImage ? 'image' : 'camera'}-${stamp}.${outputType === 'image/png' ? 'png' : 'jpg'}`;
     if (randomPose) lastCapturePose = randomPose.id;
-    $('photo-status').textContent = `${randomPose ? '今回の幸造さん：' + randomPose.name + ' · ' : ''}${canvas.width} × ${canvas.height}px・iPhoneでは共有メニューから写真に保存できます。`;
-    const file = new File([blob], state.fileName, { type: blob.type });
-    $('share-photo').hidden = !(navigator.share && navigator.canShare?.({ files: [file] }));
-    $('save-photo').disabled = false;
+    $('photo-status').textContent = `${randomPose ? '今回の幸造さん：' + randomPose.name + ' · ' : ''}${canvas.width} × ${canvas.height}px・保存が始まらない場合は、完成画像を長押し（PCは右クリック）して保存できます。`;
+    prepareSavedPhoto(blob, sequence);
+    let canShare = false;
+    try {
+      const file = new File([blob], state.fileName, { type: blob.type });
+      canShare = Boolean(navigator.share && navigator.canShare?.({ files: [file] }));
+    } catch { /* Optional sharing must not disable image downloads. */ }
+    $('share-photo').hidden = !canShare;
     $('share-photo').disabled = false;
   } catch (error) {
     if (sequence !== state.captureSequence) return;
@@ -975,30 +1009,17 @@ $('photo-dialog').addEventListener('close', () => {
   $('capture-photo').disabled = !sourceReady();
   if (state.stream && document.visibilityState === 'visible') video.play().catch(() => status('カメラを再開できませんでした。もう一度開いてください。', true));
 });
-$('save-photo').addEventListener('click', () => {
-  if (!state.blob) return;
-  let url = null, link = null;
-  try {
-    // Each click uses the current image, including after returning from an
-    // external save/preview screen. A previous download never owns this URL.
-    url = URL.createObjectURL(state.blob);
-    link = document.createElement('a'); link.href = url; link.download = state.fileName;
-    $('photo-dialog').append(link); link.click();
-    $('photo-status').textContent = '保存を開始しました。ダウンロードをご確認ください。';
-  } catch {
-    $('photo-status').textContent = '保存を開始できませんでした。もう一度「画像を保存」を押してください。';
-  } finally {
-    link?.remove();
-    // Keep the download alive across pagehide and subsequent captures. Release
-    // its URL later, independently from the currently edited or captured image.
-    if (url) setTimeout(() => URL.revokeObjectURL(url), 120000);
+$('save-photo').addEventListener('click', event => {
+  if (!state.blob || !state.saveUrl || $('save-photo').getAttribute('aria-disabled') === 'true') {
+    event.preventDefault(); return;
   }
+  $('photo-status').textContent = 'ダウンロードをご確認ください。反応しない場合は、完成画像を長押し（PCは右クリック）して保存できます。';
 });
 $('share-photo').addEventListener('click', async () => {
   if (!state.blob) return;
   try {
     await navigator.share({ files: [new File([state.blob], state.fileName, { type: state.blob.type })], title: 'KOHZO PHOTO｜山仲幸造さんと記念写真' });
-  } catch (error) { if (error.name !== 'AbortError') $('photo-status').textContent = '共有できませんでした。「画像を保存」をお使いください。'; }
+  } catch (error) { if (error.name !== 'AbortError') $('photo-status').textContent = '共有できませんでした。「画像を保存」か、完成画像の長押し保存をお試しください。'; }
 });
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'hidden') {

@@ -11,8 +11,8 @@
   <link rel="icon" href="assets/favicon.svg">
   <link rel="apple-touch-icon" href="assets/app-icon-180.png">
   <link rel="manifest" href="app.webmanifest">
-  <link rel="stylesheet" href="camera.css?v=20261015-rotation">
-  <script type="module" src="camera.js?v=20261016-prefectures"></script>
+  <link rel="stylesheet" href="camera.css?v=20261017-save-text">
+  <script type="module" src="camera.js?v=20261017-save-text"></script>
 </head>
 <body>
   <header class="camera-header">
@@ -82,7 +82,7 @@
       <section class="control-section" data-tool-page="text">
         <div class="section-heading"><h2>文字</h2><button id="add-text" type="button" aria-label="文字を追加（最大3つ）">＋文字</button></div>
         <div id="placed-texts" class="placed-texts" role="group" aria-label="編集する文字" hidden></div>
-        <p class="tool-help">文字は最大3つ。追加した文字をタップすると編集できます。</p>
+        <p class="tool-help">文字は最大3つ。タップして編集、横の「削除」で消せます。</p>
       </section>
       <section class="control-section" data-tool-page="placement">
         <div class="section-heading"><h2>配置・名前</h2><span id="character-count">0 / 3枚</span></div>
@@ -131,7 +131,7 @@
       <label class="text-color-option">縁取りの色<input id="text-outline-color" type="color" value="#000000"></label>
     </div>
     <p id="text-message" class="status" role="status" aria-live="polite"></p>
-    <div class="text-editor-actions"><span>文字は画像3枚と別に最大3つ</span><button id="apply-text" type="button" class="primary-button">追加する</button></div>
+    <div class="text-editor-actions"><span>文字は画像3枚と別に最大3つ</span><div class="text-dialog-buttons"><button id="delete-text" type="button" class="text-delete-button" hidden>この文字を削除</button><button id="apply-text" type="button" class="primary-button">追加する</button></div></div>
   </dialog>
   <dialog id="photo-dialog" class="photo-dialog" aria-labelledby="photo-title">
     <div class="dialog-heading"><h2 id="photo-title">一緒に撮れた！</h2><button id="close-photo" type="button" class="secondary-button">閉じる</button></div>

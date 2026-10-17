@@ -409,3 +409,14 @@ dialog::backdrop{background:#18302c88}
   .fullscreen-button{min-height:32px;padding-top:5px;padding-bottom:5px}
 }
 
+.placed-texts{grid-template-columns:minmax(0,1fr)}
+.text-dialog{background:#fff;color:#18302c;border-color:#cbd7d0}
+.placed-text-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px}
+.placed-text-row .placed-text-choice{height:auto;min-height:44px;font-size:13px;padding:8px}
+.text-delete-button{min-height:44px;padding:8px 12px;background:#fff;color:#9b3333;border-color:#d8bcbc;font-size:12px;white-space:nowrap}
+.text-editor-actions{flex-wrap:wrap}
+.text-editor-actions>span{flex-basis:100%}
+.text-dialog-buttons{display:flex;flex:1;justify-content:space-between;gap:8px}
+.text-dialog-buttons #apply-text{margin-left:auto;min-height:44px}
+.text-dialog-buttons [hidden]{display:none}
+

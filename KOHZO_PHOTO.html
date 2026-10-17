@@ -420,6 +420,17 @@ dialog::backdrop{background:#18302c88}
   .fullscreen-button{min-height:32px;padding-top:5px;padding-bottom:5px}
 }
 
+.placed-texts{grid-template-columns:minmax(0,1fr)}
+.text-dialog{background:#fff;color:#18302c;border-color:#cbd7d0}
+.placed-text-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px}
+.placed-text-row .placed-text-choice{height:auto;min-height:44px;font-size:13px;padding:8px}
+.text-delete-button{min-height:44px;padding:8px 12px;background:#fff;color:#9b3333;border-color:#d8bcbc;font-size:12px;white-space:nowrap}
+.text-editor-actions{flex-wrap:wrap}
+.text-editor-actions>span{flex-basis:100%}
+.text-dialog-buttons{display:flex;flex:1;justify-content:space-between;gap:8px}
+.text-dialog-buttons #apply-text{margin-left:auto;min-height:44px}
+.text-dialog-buttons [hidden]{display:none}
+
 </style>
   
 </head>
@@ -491,7 +502,7 @@ dialog::backdrop{background:#18302c88}
       <section class="control-section" data-tool-page="text">
         <div class="section-heading"><h2>文字</h2><button id="add-text" type="button" aria-label="文字を追加（最大3つ）">＋文字</button></div>
         <div id="placed-texts" class="placed-texts" role="group" aria-label="編集する文字" hidden></div>
-        <p class="tool-help">文字は最大3つ。追加した文字をタップすると編集できます。</p>
+        <p class="tool-help">文字は最大3つ。タップして編集、横の「削除」で消せます。</p>
       </section>
       <section class="control-section" data-tool-page="placement">
         <div class="section-heading"><h2>配置・名前</h2><span id="character-count">0 / 3枚</span></div>
@@ -540,7 +551,7 @@ dialog::backdrop{background:#18302c88}
       <label class="text-color-option">縁取りの色<input id="text-outline-color" type="color" value="#000000"></label>
     </div>
     <p id="text-message" class="status" role="status" aria-live="polite"></p>
-    <div class="text-editor-actions"><span>文字は画像3枚と別に最大3つ</span><button id="apply-text" type="button" class="primary-button">追加する</button></div>
+    <div class="text-editor-actions"><span>文字は画像3枚と別に最大3つ</span><div class="text-dialog-buttons"><button id="delete-text" type="button" class="text-delete-button" hidden>この文字を削除</button><button id="apply-text" type="button" class="primary-button">追加する</button></div></div>
   </dialog>
   <dialog id="photo-dialog" class="photo-dialog" aria-labelledby="photo-title">
     <div class="dialog-heading"><h2 id="photo-title">一緒に撮れた！</h2><button id="close-photo" type="button" class="secondary-button">閉じる</button></div>
@@ -706,7 +717,7 @@ const texts = [];
 const MAX_TEXTS = 3;
 let nextTextId = 1;
 let nextCharacterId = 1;
-const state = { selected: null, mode: 'camera', backgroundUrl: null, backgroundType: 'image/jpeg', backgroundSequence: 0, overlaySequence: 0, overlayLoading: false, facing: 'environment', stream: null, opening: false, captureBusy: false, captureSequence: 0, shapeSequence: 0, shapeLoading: false, sequence: 0, blob: null, photoUrl: null, fileName: '' };
+const state = { selected: null, mode: 'camera', backgroundUrl: null, backgroundType: 'image/jpeg', backgroundSequence: 0, overlaySequence: 0, overlayLoading: false, facing: 'environment', stream: null, opening: false, captureBusy: false, captureSequence: 0, shapeSequence: 0, shapeLoading: false, sequence: 0, blob: null, fileName: '' };
 let currentPose = null;
 let lastCapturePose = null;
 let poseLayer = null;
@@ -1007,7 +1018,7 @@ function syncControls() {
   $('edit-text').hidden = !texts.includes(state.selected);
   $('reset-layer').hidden = !characters.includes(state.selected);
   $('selected-name').textContent = state.selected === 'logo' ? '名前' : layers[state.selected]?.element.alt || '幸造さんを選んでね';
-  for (const button of document.querySelectorAll('#placed-characters button, #placed-texts button')) button.setAttribute('aria-pressed', String(button.dataset.layerId === state.selected));
+  for (const button of document.querySelectorAll('#placed-characters button, #placed-texts .placed-text-choice')) button.setAttribute('aria-pressed', String(button.dataset.layerId === state.selected));
 }
 function searchKey(value) {
   return value.normalize('NFKC').toLowerCase().replace(/[ァ-ヶ]/g, char => String.fromCharCode(char.charCodeAt(0) - 0x60));
@@ -1114,9 +1125,15 @@ function renderPlacements() {
   $('add-text').disabled = texts.length >= MAX_TEXTS;
   const textList = $('placed-texts'); textList.replaceChildren(); textList.hidden = !texts.length;
   for (const [index, id] of texts.entries()) {
+    const row = document.createElement('div'); row.className = 'placed-text-row';
     const button = document.createElement('button'); button.type = 'button'; button.className = 'placed-text-choice'; button.dataset.layerId = id;
-    const name = `${index + 1} ${layers[id].text.content.replace(/\n/g, ' ')}`; button.textContent = `T ${name}`; button.title = name; button.setAttribute('aria-label', `文字${name}を選択`);
-    button.addEventListener('click', () => { selectLayer(id); openTextEditor(id); }); textList.append(button);
+    const content = layers[id].text.content.replace(/\n/g, ' ');
+    const name = `${index + 1} ${content}`; button.textContent = `T ${name}`; button.title = name; button.setAttribute('aria-label', `文字${name}を編集`);
+    button.addEventListener('click', () => { selectLayer(id); openTextEditor(id); });
+    const remove = document.createElement('button'); remove.type = 'button'; remove.className = 'text-delete-button'; remove.dataset.deleteText = id;
+    remove.textContent = '削除'; remove.setAttribute('aria-label', `文字「${content}」を削除`);
+    remove.addEventListener('click', () => deleteText(id));
+    row.append(button, remove); textList.append(row);
   }
   syncControls();
 }
@@ -1141,8 +1158,7 @@ function addCharacter(character, preparedImage = null, objectUrl = null) {
   if (openTool) closeTools(image);
   image.decode().catch(() => { if (layers[id]) status('画像を読み込めませんでした。削除して、もう一度追加してください。', true); });
 }
-function removeCharacter() {
-  const id = state.selected;
+function removeCharacter(id = state.selected) {
   const items = characters.includes(id) ? characters : texts;
   if (!items.includes(id)) return;
   clearGesture();
@@ -1151,7 +1167,7 @@ function removeCharacter() {
   layers[id].element.remove();
   if (layers[id].objectUrl) URL.revokeObjectURL(layers[id].objectUrl);
   delete layers[id];
-  selectLayer(items[Math.min(index, items.length - 1)] || characters[0] || texts[0] || ($('show-logo').checked ? 'logo' : null));
+  selectLayer(state.selected !== id ? state.selected : items[Math.min(index, items.length - 1)] || characters[0] || texts[0] || ($('show-logo').checked ? 'logo' : null));
   renderPlacements();
 }
 function fitStage() {
@@ -1369,8 +1385,6 @@ async function capturePhoto() {
   $('save-photo').disabled = true;
   $('share-photo').disabled = true;
   $('share-photo').hidden = true;
-  if (state.photoUrl) URL.revokeObjectURL(state.photoUrl);
-  state.photoUrl = null;
   state.blob = null;
   const captureControls = [document.querySelector('.camera-layout'), document.querySelector('.header-actions'), $('tool-launcher')];
   for (const element of captureControls) element.inert = true;
@@ -1429,7 +1443,6 @@ async function capturePhoto() {
     const blob = await new Promise((resolve, reject) => canvas.toBlob(result => result ? resolve(result) : reject(new Error('画像の作成に失敗しました。')), outputType, .94));
     if (sequence !== state.captureSequence) return;
     state.blob = blob;
-    state.photoUrl = URL.createObjectURL(blob);
     const stamp = new Date().toISOString().replace(/[:.]/g, '-');
     state.fileName = `kohzo-photo-${fromImage ? 'image' : 'camera'}-${stamp}.${outputType === 'image/png' ? 'png' : 'jpg'}`;
     if (randomPose) lastCapturePose = randomPose.id;
@@ -1557,7 +1570,17 @@ function openTextEditor(id = null) {
   $('text-direction').value = draft.direction || 'horizontal'; $('text-content').value = draft.content; $('text-font').value = draft.font; $('text-color').value = draft.color;
   $('text-effect').value = draft.effect; $('text-outline').checked = draft.outline; $('text-outline-color').value = draft.outlineColor;
   $('text-title').textContent = id ? '文字を編集' : '文字を追加'; $('apply-text').textContent = id ? '変更する' : '追加する';
+  $('delete-text').hidden = !id;
   $('text-dialog').showModal(); previewText();
+}
+function deleteText(id) {
+  if (!texts.includes(id)) return;
+  if ($('text-dialog').open && textEditor.target === id) $('text-dialog').close();
+  removeCharacter(id);
+  status('文字を削除しました。');
+  const next = $('placed-texts').querySelector(`[data-layer-id="${state.selected}"]`) || $('add-text');
+  if (!$('controls-panel').inert && next.getClientRects().length) next.focus({ preventScroll: true });
+  else if (compactTools.matches) $('tool-launcher').querySelector('[data-open-tool="text"]').focus({ preventScroll: true });
 }
 function fitTextSize(bitmap, maxWidth = .64, maxHeight = .4) {
   const rect = stage.getBoundingClientRect();
@@ -1593,6 +1616,7 @@ function applyText() {
 }
 $('add-text').addEventListener('click', () => openTextEditor());
 $('edit-text').addEventListener('click', () => openTextEditor(state.selected));
+$('delete-text').addEventListener('click', () => deleteText(textEditor.target));
 $('close-text').addEventListener('click', () => $('text-dialog').close());
 $('text-dialog').addEventListener('close', () => { ++textEditor.sequence; textEditor.bitmap = null; });
 for (const id of ['text-content', 'text-font', 'text-direction', 'text-color', 'text-effect', 'text-outline', 'text-outline-color']) $(id).addEventListener('input', previewText);
@@ -1606,7 +1630,7 @@ for (const [id, open] of [['background-file', openBackground], ['overlay-file', 
 $('switch-camera').addEventListener('click', () => state.mode === 'image' ? $('background-file').click() : openCamera(state.facing === 'user' ? 'environment' : 'user', true));
 $('capture-photo').addEventListener('click', capturePhoto);
 $('select-logo').addEventListener('click', () => { selectLayer('logo'); closeTools(layers.logo.element); });
-$('remove-character').addEventListener('click', removeCharacter);
+$('remove-character').addEventListener('click', () => removeCharacter());
 $('flip-layer').addEventListener('click', () => { if (state.selected) { layers[state.selected].flip = !layers[state.selected].flip; renderLayers(); } });
 $('show-logo').addEventListener('change', () => {
   if (!$('show-logo').checked && state.selected === 'logo') selectLayer(characters[0] || texts[0] || null);
@@ -1630,10 +1654,23 @@ $('photo-dialog').addEventListener('close', () => {
   if (state.stream && document.visibilityState === 'visible') video.play().catch(() => status('カメラを再開できませんでした。もう一度開いてください。', true));
 });
 $('save-photo').addEventListener('click', () => {
-  if (!state.photoUrl) return;
-  const link = document.createElement('a'); link.href = state.photoUrl; link.download = state.fileName;
-  document.body.append(link); link.click(); link.remove();
-  $('photo-status').textContent = '保存を開始しました。ダウンロードをご確認ください。';
+  if (!state.blob) return;
+  let url = null, link = null;
+  try {
+    // Each click uses the current image, including after returning from an
+    // external save/preview screen. A previous download never owns this URL.
+    url = URL.createObjectURL(state.blob);
+    link = document.createElement('a'); link.href = url; link.download = state.fileName;
+    $('photo-dialog').append(link); link.click();
+    $('photo-status').textContent = '保存を開始しました。ダウンロードをご確認ください。';
+  } catch {
+    $('photo-status').textContent = '保存を開始できませんでした。もう一度「画像を保存」を押してください。';
+  } finally {
+    link?.remove();
+    // Keep the download alive across pagehide and subsequent captures. Release
+    // its URL later, independently from the currently edited or captured image.
+    if (url) setTimeout(() => URL.revokeObjectURL(url), 120000);
+  }
 });
 $('share-photo').addEventListener('click', async () => {
   if (!state.blob) return;
@@ -1753,7 +1790,6 @@ $('reset-layer').addEventListener('click', () => {
 });
 $('layer-size').addEventListener('input', event => { if (layers[state.selected]) { clearGesture(); resizeLayer(state.selected, Number(event.target.value) / 100); renderLayers(); } });
 $('layer-rotation').addEventListener('input', event => { const layer = layers[state.selected]; if (layer) { clearGesture(); layer.rotation = Number(event.target.value); renderLayers(); } });
-window.addEventListener('pagehide', () => { if (state.photoUrl) URL.revokeObjectURL(state.photoUrl); });
 
 prepareCredit(); renderCharacters(); renderFrameChoices(); fitStage(); restorePoses();
 

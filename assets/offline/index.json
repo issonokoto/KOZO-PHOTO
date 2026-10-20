@@ -542,5 +542,85 @@
   "assets/library/normal-small-fist.webp": {
     "src": "assets/offline/normal-small-fist.webp",
     "sha256": "0b6d2b2a6ce3f29fa68d1673b92c9043d6ac40b9742fa9ae7cc219edd2638de4"
+  },
+  "assets/library/cute-cheeks.webp": {
+    "src": "assets/offline/cute-cheeks.webp",
+    "sha256": "80dea6cf4e9ba3c141a96a3fe109dff164457f3c19333bc3b01b136788eb410e"
+  },
+  "assets/library/cute-flower.webp": {
+    "src": "assets/offline/cute-flower.webp",
+    "sha256": "c80514a2c497178ecf417beb4fbf8671dafe0ea73234b3ef69b27c3b276bc154"
+  },
+  "assets/library/cute-sleep.webp": {
+    "src": "assets/offline/cute-sleep.webp",
+    "sha256": "b04e2bb086d40561feb5580efae4c9615f8667cdbb0bc239fed365a51fb75a21"
+  },
+  "assets/library/cute-cat-paws.webp": {
+    "src": "assets/offline/cute-cat-paws.webp",
+    "sha256": "1674fff293ce2472744d8d01506590e5d6f17c833b628ae5f355e40f6a0cf3b0"
+  },
+  "assets/library/cute-bunny-ears.webp": {
+    "src": "assets/offline/cute-bunny-ears.webp",
+    "sha256": "99334e3f268b300e74debe9ab56db95b83831dff845a676a947658eb07e25a17"
+  },
+  "assets/library/cute-double-finger-hearts.webp": {
+    "src": "assets/offline/cute-double-finger-hearts.webp",
+    "sha256": "32efa90140c05795f75251ab22d8168ec903578a81e746bf108d8e60f688d13e"
+  },
+  "assets/library/cute-shy-cap.webp": {
+    "src": "assets/offline/cute-shy-cap.webp",
+    "sha256": "dbca9e2dc26b021cf4f431d174021c9f7aa7ee3da66810be987dc15bd4bbc02e"
+  },
+  "assets/library/cute-fingertips.webp": {
+    "src": "assets/offline/cute-fingertips.webp",
+    "sha256": "b275370929ddf905da32e1275ca7b79d415eaa10ffc318b728140f75fbeafb68"
+  },
+  "assets/library/cute-blow-kiss.webp": {
+    "src": "assets/offline/cute-blow-kiss.webp",
+    "sha256": "af3878ae0ecea40bd7352e0cb8cbec006ebc123938da6e2611bbcb83d5fd26d4"
+  },
+  "assets/library/cute-shy-head.webp": {
+    "src": "assets/offline/cute-shy-head.webp",
+    "sha256": "0eb60298ef2d490b8d9b879adfd6348f4678dbd7890a3ce51265e348ae1e4bdf"
+  },
+  "assets/library/cute-penguin.webp": {
+    "src": "assets/offline/cute-penguin.webp",
+    "sha256": "07ce51e2febdcfe63638bbd97515c3aaee6405ef370d6b3da65c5424f06ce702"
+  },
+  "assets/library/cute-surprise.webp": {
+    "src": "assets/offline/cute-surprise.webp",
+    "sha256": "62cfe5a44c5cd173997a241a097bb55f130c9176727e560d3619f8d6fb3448a4"
+  },
+  "assets/library/pref-15-niigata.webp": {
+    "src": "assets/offline/pref-15-niigata.webp",
+    "sha256": "bb23fdb642883ab2cc29a1b6a654ce2ee56d7806f1ca443033c54f4406315ebb"
+  },
+  "assets/library/christmas-tree.webp": {
+    "src": "assets/offline/christmas-tree.webp",
+    "sha256": "cf29d5282f170514ccf08cdaae6fe5ae117e90687cf736fbfde5c3fdf8482e87"
+  },
+  "assets/library/king-scepter.webp": {
+    "src": "assets/offline/king-scepter.webp",
+    "sha256": "a649376a6cb42137efa967444e28c3866a535a344fbc55f74c6d72aaf687045c"
+  },
+  "assets/library/pearl-shell.webp": {
+    "src": "assets/offline/pearl-shell.webp",
+    "sha256": "98dd8bb2c83ce4f6d12351f36857acb856d81a04d88e043e61be6bf2dd2bdc16"
+  },
+  "assets/library/samurai.webp": {
+    "src": "assets/offline/samurai.webp",
+    "sha256": "4ab63942c9e40d6ee3d05279ce0243f524668bea74c647409fbb2153b4181dd0"
+  },
+  "assets/library/takoyaki.webp": {
+    "src": "assets/offline/takoyaki.webp",
+    "sha256": "8dac4891e55e2cb5adf57c6910f0a164546548c2b933df54f7c4aaa66ea02e61"
+  },
+  "assets/library/detective.webp": {
+    "src": "assets/offline/detective.webp",
+    "sha256": "8c9027fe8ef00b37e50c05ca87e66fe1facf6a11f072aa2058df21dc53748f32"
+  },
+  "assets/library/royal-chair.webp": {
+    "src": "assets/offline/royal-chair.webp",
+    "sha256": "177aa6ce320aa271ab9d7c24be2f7c3cd1191f3fd0246d54ea079588201d0b55"
   }
 }

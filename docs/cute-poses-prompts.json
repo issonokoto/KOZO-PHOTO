@@ -1,0 +1,185 @@
+{
+  "basePrompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: ",
+  "entries": [
+    {
+      "id": "cute-cheeks",
+      "name": "ほっぺに手を添える",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "ほっぺに手を添える"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both open palms softly cup his cheeks, fingers gently extending along sides of face, elbows pointing down. Head tilted slightly, delighted gentle smile, recognizable face fully visible."
+    },
+    {
+      "id": "cute-flower",
+      "name": "お花のポーズ",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "お花のポーズ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Make a cute flower pose: both open palms form a shallow symmetrical V directly UNDER his chin, heels of hands meet, fingers spread outward to frame chin like petals. Face unobstructed, cheerful soft smile."
+    },
+    {
+      "id": "cute-sleep",
+      "name": "おやすみポーズ",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "おやすみポーズ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both palms gently together beside his RIGHT cheek like a pillow, head tilts onto hands, eyes softly CLOSED with a peaceful smile. Stand upright with feet close, sweet sleepy expression, no actual pillow."
+    },
+    {
+      "id": "cute-cat-paws",
+      "name": "ねこの手",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "ねこの手"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both hands form loose relaxed curled paws near shoulders, wrists flexed gently downward, elbows tucked close to torso. Friendly playful smile with a slight head tilt. Real human hands only, no cat accessories."
+    },
+    {
+      "id": "cute-bunny-ears",
+      "name": "手でうさぎの耳",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "手でうさぎの耳"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both arms raised and bent so each hand is just ABOVE and beside his cap, index and middle fingers extended together upward making two long rabbit-ear gestures, other fingers folded. Cheerful gentle smile. Keep all raised hands in frame, no animal accessories."
+    },
+    {
+      "id": "cute-double-finger-hearts",
+      "name": "両手の指ハート",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "両手の指ハート"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both hands each make a clear small Korean finger-heart with thumb crossing index finger, held near the two shoulders, head softly tilted, affectionate smiling eyes. Not V signs or thumbs-up."
+    },
+    {
+      "id": "cute-shy-cap",
+      "name": "帽子をちょこん",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "帽子をちょこん"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Right hand gently pinches the FRONT EDGE of his cap brim, left hand loosely behind his back, shoulders relaxed, chin slightly dipped and warm bashful smile toward camera. Cap remains worn on head."
+    },
+    {
+      "id": "cute-fingertips",
+      "name": "もじもじ",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "もじもじ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both hands at upper abdomen, only tips of the two INDEX fingers touch together while remaining fingers curl loosely. Slightly raised shoulders, feet close, head tilted down a little while eyes smile toward camera, adorably bashful. Natural elderly posture."
+    },
+    {
+      "id": "cute-blow-kiss",
+      "name": "投げキッス",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "投げキッス"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Right fingers together lightly touch his puckered lips at start of a playful blown kiss, palm angled toward camera, left arm rests at side. Warm smiling eyes, face recognizable, no hearts or graphics."
+    },
+    {
+      "id": "cute-shy-head",
+      "name": "照れ笑い",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "照れ笑い"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Right hand gently touches the BACK of his head just behind his right ear, elbow bent outward comfortably, left arm rests at side, slightly raised shoulder and bashful broad smile looking at camera. Keep cap on."
+    },
+    {
+      "id": "cute-penguin",
+      "name": "ちょこんとペンギン",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "ちょこんとペンギン"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Stand with feet close together and knees very slightly relaxed, both arms straight down but hands angled gently outward beside hips, palms facing down like tiny penguin flippers. Shoulders softly raised, head tilted, warm playful smile. Ordinary human anatomy, no animal clothes."
+    },
+    {
+      "id": "cute-surprise",
+      "name": "あらびっくり",
+      "category": "定番",
+      "tags": [
+        "ノーマル",
+        "普段着",
+        "かわいい",
+        "可愛い",
+        "キュート",
+        "かわいい追加12",
+        "あらびっくり"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people, no props or costumes. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Pose change only: Add a sweet, charming everyday gesture, with gentle natural warmth. Preserve mature age and body proportions, never baby-like or anime. Both hands OPEN beside his cheeks with palms facing camera and fingers spread, WITHOUT touching cheeks. Brows gently lifted, mouth a small rounded O, a sweet friendly surprised expression. Keep exact same identity and age."
+    }
+  ]
+}

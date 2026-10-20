@@ -85,6 +85,198 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "cute-cheeks",
+    "name": "ほっぺに手を添える",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "ほっぺに手を添える"
+    ],
+    "src": "./assets/library/cute-cheeks.webp",
+    "thumbnail": "./assets/thumbnails/cute-cheeks.webp"
+  },
+  {
+    "id": "cute-flower",
+    "name": "お花のポーズ",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "お花のポーズ"
+    ],
+    "src": "./assets/library/cute-flower.webp",
+    "thumbnail": "./assets/thumbnails/cute-flower.webp"
+  },
+  {
+    "id": "cute-sleep",
+    "name": "おやすみポーズ",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "おやすみポーズ"
+    ],
+    "src": "./assets/library/cute-sleep.webp",
+    "thumbnail": "./assets/thumbnails/cute-sleep.webp"
+  },
+  {
+    "id": "cute-cat-paws",
+    "name": "ねこの手",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "ねこの手"
+    ],
+    "src": "./assets/library/cute-cat-paws.webp",
+    "thumbnail": "./assets/thumbnails/cute-cat-paws.webp"
+  },
+  {
+    "id": "cute-bunny-ears",
+    "name": "手でうさぎの耳",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "手でうさぎの耳"
+    ],
+    "src": "./assets/library/cute-bunny-ears.webp",
+    "thumbnail": "./assets/thumbnails/cute-bunny-ears.webp"
+  },
+  {
+    "id": "cute-double-finger-hearts",
+    "name": "両手の指ハート",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "両手の指ハート"
+    ],
+    "src": "./assets/library/cute-double-finger-hearts.webp",
+    "thumbnail": "./assets/thumbnails/cute-double-finger-hearts.webp"
+  },
+  {
+    "id": "cute-shy-cap",
+    "name": "帽子をちょこん",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "帽子をちょこん"
+    ],
+    "src": "./assets/library/cute-shy-cap.webp",
+    "thumbnail": "./assets/thumbnails/cute-shy-cap.webp"
+  },
+  {
+    "id": "cute-fingertips",
+    "name": "もじもじ",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "もじもじ"
+    ],
+    "src": "./assets/library/cute-fingertips.webp",
+    "thumbnail": "./assets/thumbnails/cute-fingertips.webp"
+  },
+  {
+    "id": "cute-blow-kiss",
+    "name": "投げキッス",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "投げキッス"
+    ],
+    "src": "./assets/library/cute-blow-kiss.webp",
+    "thumbnail": "./assets/thumbnails/cute-blow-kiss.webp"
+  },
+  {
+    "id": "cute-shy-head",
+    "name": "照れ笑い",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "照れ笑い"
+    ],
+    "src": "./assets/library/cute-shy-head.webp",
+    "thumbnail": "./assets/thumbnails/cute-shy-head.webp"
+  },
+  {
+    "id": "cute-penguin",
+    "name": "ちょこんとペンギン",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "ちょこんとペンギン"
+    ],
+    "src": "./assets/library/cute-penguin.webp",
+    "thumbnail": "./assets/thumbnails/cute-penguin.webp"
+  },
+  {
+    "id": "cute-surprise",
+    "name": "あらびっくり",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "かわいい",
+      "可愛い",
+      "キュート",
+      "かわいい追加12",
+      "あらびっくり"
+    ],
+    "src": "./assets/library/cute-surprise.webp",
+    "thumbnail": "./assets/thumbnails/cute-surprise.webp"
+  },
+  {
     "id": "normal-hands-back",
     "name": "後ろで手を組む",
     "category": "定番",

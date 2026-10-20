@@ -1,0 +1,1240 @@
+{
+  "date": "2026-10-21",
+  "tool": "built-in image_gen",
+  "reference": "assets/001.png",
+  "existingCutouts": 214,
+  "newCutouts": 100,
+  "basePrompt": "Use case: identity-preserve. Asset: ONE reusable transparent FULL BODY photographic cutout for KOHZO PHOTO camera app. Image 1 is solely the identity reference: keep this EXACT friendly elderly Japanese man's recognizable face, eye shape, smile, wrinkles, grey hair and ordinary body proportions. Same elderly Kozo, not a younger lookalike. Create a convincing REAL STUDIO PHOTOGRAPH wearing the outfit/prop below: real fabrics, seams, physical materials, natural elderly hands; playful premise, photographic realism, never cartoon or 3D render. Exactly ONE man smiling toward camera. Complete head/headwear, BOTH hands, BOTH feet and ALL props must fit inside portrait 2:3 canvas, with generous clear transparent margin on ALL FOUR sides, especially above tall headwear. One compact cutout to place beside a visitor in their photo. Actual TRANSPARENT ALPHA background, transparent gaps, no scenery, floor, shadow outside silhouette, backdrop, checkerboard, frame, watermark or captions. Replace the original polo and trousers fully with specified new costume: no embroidery, no invented lettering, no original chest text. Keep face fully exposed, no masks covering face. Soft neutral daylight, crisp face. Do not crop any accessory. Specific design: ",
+  "entries": [
+    {
+      "id": "plus100-accordion",
+      "name": "アコーディオン幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "アコーディオン幸造",
+        "アコーディオン",
+        "楽器",
+        "追加100"
+      ],
+      "spec": "Burgundy waistcoat and black trousers, playing a large red accordion with expanded bellows across his chest."
+    },
+    {
+      "id": "plus100-saxophone",
+      "name": "サックス幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "サックス幸造",
+        "サックス",
+        "ジャズ",
+        "追加100"
+      ],
+      "spec": "Midnight-blue dinner suit and bow tie, holding a polished brass tenor saxophone diagonally, mouth free to smile."
+    },
+    {
+      "id": "plus100-cello",
+      "name": "チェロと幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "チェロと幸造",
+        "チェロ",
+        "弦楽器",
+        "追加100"
+      ],
+      "spec": "Black concert tailcoat, seated on a small stool with a full wooden cello between knees, bow held to side; complete instrument and shoes."
+    },
+    {
+      "id": "plus100-marching-drum",
+      "name": "マーチング幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "マーチング幸造",
+        "行進",
+        "ドラム",
+        "追加100"
+      ],
+      "spec": "Red marching-band jacket with gold braid, small peaked cap, wearing a white marching snare on harness and holding two drumsticks."
+    },
+    {
+      "id": "plus100-dj",
+      "name": "レコードDJ幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "レコードDJ幸造",
+        "レコード",
+        "DJ",
+        "音楽",
+        "追加100"
+      ],
+      "spec": "Silver bomber jacket, black trousers, headphones around neck, holding two large black vinyl records like fans, no equipment table."
+    },
+    {
+      "id": "plus100-rock-guitar",
+      "name": "ロックギター幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "ロックギター幸造",
+        "ギター",
+        "ロック",
+        "追加100"
+      ],
+      "spec": "Black leather jacket, red scarf, jeans, holding a bright red electric guitar in an enthusiastic rock-star pose."
+    },
+    {
+      "id": "plus100-conductor",
+      "name": "オーケストラの指揮者",
+      "category": "音楽・ステージ",
+      "tags": [
+        "オーケストラの指揮者",
+        "指揮者",
+        "オーケストラ",
+        "追加100"
+      ],
+      "spec": "Formal black tailcoat and white waistcoat, raised slender conductor baton and open left hand in a graceful conducting pose."
+    },
+    {
+      "id": "plus100-opera",
+      "name": "オペラの幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "オペラの幸造",
+        "オペラ",
+        "歌手",
+        "追加100"
+      ],
+      "spec": "Deep emerald velvet opera cape over gold waistcoat, hand to chest and other arm extended with theatrical warmth, no crown."
+    },
+    {
+      "id": "plus100-magician",
+      "name": "手品師の幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "手品師の幸造",
+        "手品",
+        "マジック",
+        "追加100"
+      ],
+      "spec": "Black stage tuxedo, red satin cape, holding an empty open top hat and a fan of blank playing cards with only suit symbols."
+    },
+    {
+      "id": "plus100-ventriloquist",
+      "name": "腹話術の幸造",
+      "category": "音楽・ステージ",
+      "tags": [
+        "腹話術の幸造",
+        "腹話術",
+        "人形",
+        "追加100"
+      ],
+      "spec": "Purple plaid waistcoat and bow tie, seated with a clearly wooden toy ventriloquist puppet on one knee, puppet has painted toy face, no second real person."
+    },
+    {
+      "id": "plus100-glassblower",
+      "name": "ガラス職人の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "ガラス職人の幸造",
+        "ガラス",
+        "吹きガラス",
+        "追加100"
+      ],
+      "spec": "Charcoal work shirt, brown leather apron, gloves, holding a short blowpipe with a large blue glass bubble at its tip pointed upward beside body."
+    },
+    {
+      "id": "plus100-potter",
+      "name": "陶芸家の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "陶芸家の幸造",
+        "陶芸",
+        "陶器",
+        "追加100"
+      ],
+      "spec": "Sand-colored work smock and blue apron, holding a huge hand-thrown earthenware vase in both hands, clay on fingertips."
+    },
+    {
+      "id": "plus100-clockmaker",
+      "name": "時計職人の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "時計職人の幸造",
+        "時計",
+        "修理",
+        "追加100"
+      ],
+      "spec": "Tweed vest, rolled sleeves, magnifying loupe pushed above eye, holding an enormous brass pocketwatch with visible gears and no written numerals."
+    },
+    {
+      "id": "plus100-shoemaker",
+      "name": "靴職人の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "靴職人の幸造",
+        "靴",
+        "修理",
+        "追加100"
+      ],
+      "spec": "Denim work shirt and brown apron, holding a comically oversized leather brogue shoe in one arm and a small wooden shoe brush."
+    },
+    {
+      "id": "plus100-tailor",
+      "name": "仕立て屋の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "仕立て屋の幸造",
+        "仕立て",
+        "裁縫",
+        "追加100"
+      ],
+      "spec": "Grey pinstripe vest, measuring tape around neck, carrying a roll of red cloth under one arm and oversized closed tailor scissors in other hand."
+    },
+    {
+      "id": "plus100-beekeeper",
+      "name": "養蜂家の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "養蜂家の幸造",
+        "養蜂",
+        "はちみつ",
+        "追加100"
+      ],
+      "spec": "Cream beekeeper suit with mesh hood folded behind head leaving face uncovered, holding a wooden frame filled with honeycomb; no bees around face."
+    },
+    {
+      "id": "plus100-violin-maker",
+      "name": "バイオリン職人の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "バイオリン職人の幸造",
+        "バイオリン",
+        "弦楽器",
+        "追加100"
+      ],
+      "spec": "Beige shirt and dark brown apron, cradling an unfinished pale wooden violin and holding a small woodworking plane."
+    },
+    {
+      "id": "plus100-florist",
+      "name": "花束が大きすぎる花屋",
+      "category": "職人・ものづくり",
+      "tags": [
+        "花束が大きすぎる花屋",
+        "花屋",
+        "花束",
+        "追加100"
+      ],
+      "spec": "Olive linen apron over white shirt, carrying an enormous bouquet of sunflowers, eucalyptus and pink flowers, face clearly visible above flowers."
+    },
+    {
+      "id": "plus100-basket-weaver",
+      "name": "かご編みの幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "かご編みの幸造",
+        "かご",
+        "竹細工",
+        "追加100"
+      ],
+      "spec": "Rust cotton work jacket, holding a broad handwoven wicker basket with long unfinished reeds curving upward beside shoulder."
+    },
+    {
+      "id": "plus100-perfumer",
+      "name": "調香師の幸造",
+      "category": "職人・ものづくり",
+      "tags": [
+        "調香師の幸造",
+        "香水",
+        "調香",
+        "追加100"
+      ],
+      "spec": "White laboratory coat over plum waistcoat, holding a large faceted amber perfume bottle and a single white scent strip, no labels."
+    },
+    {
+      "id": "plus100-sunflower",
+      "name": "ひまわりの幸造",
+      "category": "自然・四季",
+      "tags": [
+        "ひまわりの幸造",
+        "ひまわり",
+        "夏",
+        "花",
+        "追加100"
+      ],
+      "spec": "Wearable giant sunflower costume: large yellow fabric petal collar surrounding exposed head, brown textured chest, green leaf sleeves and straight green trousers, human hands free."
+    },
+    {
+      "id": "plus100-maple",
+      "name": "紅葉の幸造",
+      "category": "自然・四季",
+      "tags": [
+        "紅葉の幸造",
+        "紅葉",
+        "秋",
+        "もみじ",
+        "追加100"
+      ],
+      "spec": "Rust-red coat layered with sculpted maple leaves, branching copper-red leaf shoulder pieces and matching boots, head unobscured."
+    },
+    {
+      "id": "plus100-snowflake",
+      "name": "雪の結晶の幸造",
+      "category": "自然・四季",
+      "tags": [
+        "雪の結晶の幸造",
+        "雪",
+        "冬",
+        "結晶",
+        "追加100"
+      ],
+      "spec": "White velvet winter coat with an enormous delicate six-point snowflake structure attached behind shoulders, pale blue trousers, silver boots, no floating snow."
+    },
+    {
+      "id": "plus100-raincloud",
+      "name": "雨雲を背負う幸造",
+      "category": "自然・四季",
+      "tags": [
+        "雨雲を背負う幸造",
+        "雨",
+        "梅雨",
+        "雲",
+        "追加100"
+      ],
+      "spec": "Yellow raincoat and boots, a soft grey cloud-shaped backpack above shoulders with short clear acrylic raindrop ornaments hanging beside body."
+    },
+    {
+      "id": "plus100-rainbow",
+      "name": "虹色マントの幸造",
+      "category": "自然・四季",
+      "tags": [
+        "虹色マントの幸造",
+        "虹",
+        "レインボー",
+        "追加100"
+      ],
+      "spec": "White suit, a pleated rainbow fabric semicircular cape held open from shoulders to hands, full colorful arch inside frame, no background rainbow."
+    },
+    {
+      "id": "plus100-bamboo",
+      "name": "竹林の幸造",
+      "category": "自然・四季",
+      "tags": [
+        "竹林の幸造",
+        "竹",
+        "森",
+        "追加100"
+      ],
+      "spec": "Green segmented bamboo-stalk tunic with narrow bamboo leaf shoulder accents, dark green trousers and woven sandals, compact wearable design."
+    },
+    {
+      "id": "plus100-acorn",
+      "name": "どんぐりの幸造",
+      "category": "自然・四季",
+      "tags": [
+        "どんぐりの幸造",
+        "どんぐり",
+        "秋",
+        "木の実",
+        "追加100"
+      ],
+      "spec": "Brown felt acorn body suit with ribbed tan cap-shaped collar below head, brown beret, human arms and legs in textured brown fabric, shoes visible."
+    },
+    {
+      "id": "plus100-mushroom",
+      "name": "きのこの幸造",
+      "category": "自然・四季",
+      "tags": [
+        "きのこの幸造",
+        "きのこ",
+        "秋",
+        "追加100"
+      ],
+      "spec": "Broad red mushroom-cap hat with white dots, cream tapered tunic with pleated gill collar, brown trousers and boots, smiling uncovered face below hat."
+    },
+    {
+      "id": "plus100-butterfly",
+      "name": "蝶の羽の幸造",
+      "category": "自然・四季",
+      "tags": [
+        "蝶の羽の幸造",
+        "蝶",
+        "ちょう",
+        "羽",
+        "追加100"
+      ],
+      "spec": "Charcoal fitted velvet suit and large symmetrical amber-and-black butterfly costume wings attached behind shoulders, antenna headband, human face visible."
+    },
+    {
+      "id": "plus100-firefly",
+      "name": "ホタルの幸造",
+      "category": "自然・四季",
+      "tags": [
+        "ホタルの幸造",
+        "ホタル",
+        "夏",
+        "虫",
+        "追加100"
+      ],
+      "spec": "Dark green cloth costume with folded shiny beetle wing panels, a translucent yellow-green abdomen prop attached at waist, simple antenna headband, no background glow."
+    },
+    {
+      "id": "plus100-aviator",
+      "name": "昔の飛行士の幸造",
+      "category": "レトロ・旅",
+      "tags": [
+        "昔の飛行士の幸造",
+        "飛行士",
+        "飛行機",
+        "追加100"
+      ],
+      "spec": "Brown shearling aviator jacket, cream scarf, leather flight cap with goggles above forehead, holding a large wooden model biplane close to body."
+    },
+    {
+      "id": "plus100-steam-driver",
+      "name": "蒸気機関車の機関士",
+      "category": "レトロ・旅",
+      "tags": [
+        "蒸気機関車の機関士",
+        "機関車",
+        "鉄道",
+        "機関士",
+        "追加100"
+      ],
+      "spec": "Dark blue striped overalls and matching work cap, red neckerchief, holding an antique brass oil lantern and coal shovel upright beside body."
+    },
+    {
+      "id": "plus100-retro-post",
+      "name": "昔の郵便屋さん",
+      "category": "レトロ・旅",
+      "tags": [
+        "昔の郵便屋さん",
+        "郵便",
+        "レトロ",
+        "追加100"
+      ],
+      "spec": "Navy vintage postal uniform with plain peaked cap, tan leather satchel, holding a bundle of blank envelopes tied with string; no badges or writing."
+    },
+    {
+      "id": "plus100-cinema",
+      "name": "無声映画の幸造",
+      "category": "レトロ・旅",
+      "tags": [
+        "無声映画の幸造",
+        "映画",
+        "レトロ",
+        "追加100"
+      ],
+      "spec": "Black bowler hat, charcoal vintage suit, striped waistcoat, holding a simple cane and a small film reel, own natural face with no false moustache."
+    },
+    {
+      "id": "plus100-bell-diver",
+      "name": "飛行船の探検家",
+      "category": "レトロ・旅",
+      "tags": [
+        "飛行船の探検家",
+        "飛行船",
+        "冒険",
+        "追加100"
+      ],
+      "spec": "Cream expedition jumpsuit with brown leather harness and brass goggles resting on cap, holding a large silver model airship tucked under one arm."
+    },
+    {
+      "id": "plus100-globe-traveler",
+      "name": "地球儀を抱える旅人",
+      "category": "レトロ・旅",
+      "tags": [
+        "地球儀を抱える旅人",
+        "地球儀",
+        "世界",
+        "旅行",
+        "追加100"
+      ],
+      "spec": "Khaki travel jacket and tan trousers, straw travel hat, carrying a large blue globe in both hands and compact shoulder bag; no map lettering."
+    },
+    {
+      "id": "plus100-orient-suitcase",
+      "name": "トランク旅行の幸造",
+      "category": "レトロ・旅",
+      "tags": [
+        "トランク旅行の幸造",
+        "旅行",
+        "トランク",
+        "追加100"
+      ],
+      "spec": "Camel overcoat, checked scarf, flat cap, holding a large worn brown vintage steamer suitcase with plain brass corners, no stickers or writing."
+    },
+    {
+      "id": "plus100-gondolier",
+      "name": "ゴンドラ船頭の幸造",
+      "category": "レトロ・旅",
+      "tags": [
+        "ゴンドラ船頭の幸造",
+        "船頭",
+        "旅行",
+        "ゴンドラ",
+        "追加100"
+      ],
+      "spec": "Blue-and-white striped shirt, red neck sash, flat straw hat with red band, holding a long dark wooden oar upright, no boat."
+    },
+    {
+      "id": "plus100-alpine-hiker",
+      "name": "アルプス風の山歩き",
+      "category": "レトロ・旅",
+      "tags": [
+        "アルプス風の山歩き",
+        "山",
+        "登山",
+        "旅行",
+        "追加100"
+      ],
+      "spec": "Green felt alpine hat with small feather, brown wool vest over white shirt, tan knee breeches and boots, compact wooden hiking staff."
+    },
+    {
+      "id": "plus100-desert-explorer",
+      "name": "砂漠の探検家",
+      "category": "レトロ・旅",
+      "tags": [
+        "砂漠の探検家",
+        "砂漠",
+        "冒険",
+        "追加100"
+      ],
+      "spec": "Sand linen safari outfit and pith helmet, a rolled fabric map tucked under arm, brass binoculars on neck, tan boots; no desert background."
+    },
+    {
+      "id": "plus100-rubik",
+      "name": "立体パズルの幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "立体パズルの幸造",
+        "パズル",
+        "キューブ",
+        "追加100"
+      ],
+      "spec": "Wearable large colorful cube puzzle torso with stitched square fabric panels in six bright colors, black sleeve arms, black trousers and sneakers."
+    },
+    {
+      "id": "plus100-chess",
+      "name": "チェスの幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "チェスの幸造",
+        "チェス",
+        "ゲーム",
+        "追加100"
+      ],
+      "spec": "Black-and-white checkered formal suit, carrying a large glossy wooden knight chess piece against his hip, no crown."
+    },
+    {
+      "id": "plus100-kite",
+      "name": "凧揚げの幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "凧揚げの幸造",
+        "凧",
+        "正月",
+        "遊び",
+        "追加100"
+      ],
+      "spec": "Sky-blue tracksuit, holding a diamond-shaped multicolor fabric kite on short rigid support beside shoulder and wooden string reel at waist, all kite tail inside frame."
+    },
+    {
+      "id": "plus100-bubble",
+      "name": "シャボン玉の幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "シャボン玉の幸造",
+        "シャボン玉",
+        "遊び",
+        "追加100"
+      ],
+      "spec": "Lavender dungarees over white shirt, holding a large circular bubble wand with a single iridescent soap film stretched inside it, no free-floating bubbles."
+    },
+    {
+      "id": "plus100-yoyo",
+      "name": "大きなヨーヨーの幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "大きなヨーヨーの幸造",
+        "ヨーヨー",
+        "遊び",
+        "追加100"
+      ],
+      "spec": "Orange varsity jacket and blue jeans, holding a comically oversized red yo-yo on a short string beside torso, entire yo-yo and string visible."
+    },
+    {
+      "id": "plus100-boardgame",
+      "name": "すごろくの幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "すごろくの幸造",
+        "すごろく",
+        "サイコロ",
+        "追加100"
+      ],
+      "spec": "White coat patterned with simple colored square tracks but no letters, carrying a giant soft white die with black round pips and a red game pawn."
+    },
+    {
+      "id": "plus100-toy-blocks",
+      "name": "積み木の幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "積み木の幸造",
+        "積み木",
+        "おもちゃ",
+        "追加100"
+      ],
+      "spec": "Bright blue carpenter-style overalls, carefully holding a short tower of large colorful wooden geometric blocks in both arms."
+    },
+    {
+      "id": "plus100-rubber-duck",
+      "name": "アヒルのおもちゃ幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "アヒルのおもちゃ幸造",
+        "アヒル",
+        "おもちゃ",
+        "追加100"
+      ],
+      "spec": "Yellow waterproof overalls and yellow boots, holding an enormous shiny yellow rubber duck bath toy, clearly a manufactured toy, human face visible."
+    },
+    {
+      "id": "plus100-pinwheel",
+      "name": "風車の幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "風車の幸造",
+        "風車",
+        "かざぐるま",
+        "追加100"
+      ],
+      "spec": "White cotton jacket, teal trousers, a backpack of large colorful paper pinwheels on thin rods fanning beside shoulders, all attached physical props."
+    },
+    {
+      "id": "plus100-kendama",
+      "name": "けん玉名人の幸造",
+      "category": "おもちゃ・遊び",
+      "tags": [
+        "けん玉名人の幸造",
+        "けん玉",
+        "おもちゃ",
+        "追加100"
+      ],
+      "spec": "Dark red happi-style plain cotton jacket and cream trousers, holding a giant wooden kendama with red ball seated in the large cup and attached short string."
+    },
+    {
+      "id": "plus100-croissant",
+      "name": "クロワッサンの幸造",
+      "category": "食べ物",
+      "tags": [
+        "クロワッサンの幸造",
+        "クロワッサン",
+        "パン",
+        "追加100"
+      ],
+      "spec": "Golden flaky croissant-shaped padded crescent torso costume, cream sleeves and trousers, brown baker shoes, pale chef cap and exposed head."
+    },
+    {
+      "id": "plus100-pudding",
+      "name": "プリンの幸造",
+      "category": "食べ物",
+      "tags": [
+        "プリンの幸造",
+        "プリン",
+        "お菓子",
+        "追加100"
+      ],
+      "spec": "Custard yellow fluted pudding-shaped torso suit with glossy caramel-colored shoulder collar, tiny cherry ornament on small beret, cream trousers."
+    },
+    {
+      "id": "plus100-melon-soda",
+      "name": "メロンソーダの幸造",
+      "category": "食べ物",
+      "tags": [
+        "メロンソーダの幸造",
+        "メロンソーダ",
+        "喫茶",
+        "追加100"
+      ],
+      "spec": "Clear cylindrical glass-shaped tunic with green translucent soda panels, white ice-cream shoulder accent and red cherry fascinator, human hands and legs visible."
+    },
+    {
+      "id": "plus100-taiyaki",
+      "name": "たい焼きの幸造",
+      "category": "食べ物",
+      "tags": [
+        "たい焼きの幸造",
+        "たい焼き",
+        "和菓子",
+        "追加100"
+      ],
+      "spec": "Golden-brown padded taiyaki fish pastry torso with embossed scales, face above fish back, cream sleeves and brown trousers, no animal head mask."
+    },
+    {
+      "id": "plus100-edamame",
+      "name": "枝豆の幸造",
+      "category": "食べ物",
+      "tags": [
+        "枝豆の幸造",
+        "枝豆",
+        "豆",
+        "追加100"
+      ],
+      "spec": "Bright green elongated pea-pod tunic with three rounded pea bulges, green hood framing uncovered face, green trousers and brown shoes."
+    },
+    {
+      "id": "plus100-chocolate",
+      "name": "板チョコの幸造",
+      "category": "食べ物",
+      "tags": [
+        "板チョコの幸造",
+        "チョコレート",
+        "お菓子",
+        "追加100"
+      ],
+      "spec": "Dark brown segmented chocolate-bar torso with folded silver foil and red paper wrapper around waist, no lettering, cream shirt sleeves and brown trousers."
+    },
+    {
+      "id": "plus100-popcorn",
+      "name": "ポップコーンの幸造",
+      "category": "食べ物",
+      "tags": [
+        "ポップコーンの幸造",
+        "ポップコーン",
+        "映画",
+        "追加100"
+      ],
+      "spec": "Red-and-white striped tapered popcorn bucket torso with soft ivory popcorn shapes around shoulders, face clear, red trousers and white sneakers, no writing."
+    },
+    {
+      "id": "plus100-fried-egg",
+      "name": "目玉焼きの幸造",
+      "category": "食べ物",
+      "tags": [
+        "目玉焼きの幸造",
+        "目玉焼き",
+        "朝ごはん",
+        "追加100"
+      ],
+      "spec": "White irregular oval padded torso costume with bright yellow round fabric yolk on belly, white shirt and trousers, yellow beret, no pan."
+    },
+    {
+      "id": "plus100-onion",
+      "name": "玉ねぎの幸造",
+      "category": "食べ物",
+      "tags": [
+        "玉ねぎの幸造",
+        "玉ねぎ",
+        "野菜",
+        "追加100"
+      ],
+      "spec": "Copper tan onion-bulb padded tunic with vertical translucent fabric layers and short green shoot cap above exposed face, cream trousers and brown shoes."
+    },
+    {
+      "id": "plus100-honey-toast",
+      "name": "ハニートーストの幸造",
+      "category": "食べ物",
+      "tags": [
+        "ハニートーストの幸造",
+        "トースト",
+        "パン",
+        "喫茶",
+        "追加100"
+      ],
+      "spec": "Thick square golden toast torso costume with toasted brown crust, a padded butter square and amber honey ribbon on chest, white sleeves and tan trousers."
+    },
+    {
+      "id": "plus100-baseball-catcher",
+      "name": "キャッチャー幸造",
+      "category": "スポーツ",
+      "tags": [
+        "キャッチャー幸造",
+        "野球",
+        "キャッチャー",
+        "追加100"
+      ],
+      "spec": "Navy baseball catcher chest protector and shin guards over white uniform, holding catchers mitt and face cage in hand, bare smiling face visible."
+    },
+    {
+      "id": "plus100-basketball",
+      "name": "バスケットボール幸造",
+      "category": "スポーツ",
+      "tags": [
+        "バスケットボール幸造",
+        "バスケ",
+        "バスケット",
+        "追加100"
+      ],
+      "spec": "Purple basketball jersey and shorts with no numbers or logos, white undershirt, high-top trainers, holding a large orange basketball at hip."
+    },
+    {
+      "id": "plus100-tennis",
+      "name": "テニスの幸造",
+      "category": "スポーツ",
+      "tags": [
+        "テニスの幸造",
+        "テニス",
+        "ラケット",
+        "追加100"
+      ],
+      "spec": "Classic white tennis polo and shorts, white headband, holding a wooden tennis racket with three bright yellow balls tucked in opposite arm, no text."
+    },
+    {
+      "id": "plus100-badminton",
+      "name": "バドミントン幸造",
+      "category": "スポーツ",
+      "tags": [
+        "バドミントン幸造",
+        "バドミントン",
+        "羽根",
+        "追加100"
+      ],
+      "spec": "Teal sports shirt and navy shorts, holding racket upright and an absurdly large white shuttlecock under opposite arm."
+    },
+    {
+      "id": "plus100-archery",
+      "name": "アーチェリー幸造",
+      "category": "スポーツ",
+      "tags": [
+        "アーチェリー幸造",
+        "アーチェリー",
+        "弓",
+        "追加100"
+      ],
+      "spec": "Blue archery vest, grey trousers, brown armguard, holding a recurved sporting bow upright with undrawn string, arrows stored in back quiver."
+    },
+    {
+      "id": "plus100-skateboard",
+      "name": "スケートボード幸造",
+      "category": "スポーツ",
+      "tags": [
+        "スケートボード幸造",
+        "スケボー",
+        "スケートボード",
+        "追加100"
+      ],
+      "spec": "Mustard hoodie, navy loose trousers, knee pads and blue helmet, standing holding a bright patterned skateboard vertically beside him."
+    },
+    {
+      "id": "plus100-table-referee",
+      "name": "審判の幸造",
+      "category": "スポーツ",
+      "tags": [
+        "審判の幸造",
+        "審判",
+        "スポーツ",
+        "追加100"
+      ],
+      "spec": "Black-and-white vertical striped referee shirt, black trousers, whistle on neck, one hand raised and other holding a plain yellow flag."
+    },
+    {
+      "id": "plus100-weightlifting",
+      "name": "重量挙げの幸造",
+      "category": "スポーツ",
+      "tags": [
+        "重量挙げの幸造",
+        "重量挙げ",
+        "バーベル",
+        "追加100"
+      ],
+      "spec": "Royal blue weightlifting singlet over white tee, lifting belt, holding a compact black barbell with oversized soft-looking plates at waist level."
+    },
+    {
+      "id": "plus100-ice-hockey",
+      "name": "アイスホッケー幸造",
+      "category": "スポーツ",
+      "tags": [
+        "アイスホッケー幸造",
+        "アイスホッケー",
+        "氷",
+        "追加100"
+      ],
+      "spec": "Red-and-navy padded ice hockey uniform with no numbers, gloves, helmet held under arm, upright hockey stick and complete skates."
+    },
+    {
+      "id": "plus100-cricket",
+      "name": "クリケット幸造",
+      "category": "スポーツ",
+      "tags": [
+        "クリケット幸造",
+        "クリケット",
+        "スポーツ",
+        "追加100"
+      ],
+      "spec": "Cream cricket sweater and trousers, white leg pads, holding a broad wooden cricket bat beside body and a red ball in other hand, head bare."
+    },
+    {
+      "id": "plus100-dentist",
+      "name": "歯医者さんの幸造",
+      "category": "お仕事",
+      "tags": [
+        "歯医者さんの幸造",
+        "歯医者",
+        "歯科",
+        "追加100"
+      ],
+      "spec": "Mint medical scrubs and white coat, holding a giant white tooth teaching model and large toothbrush, no mask, own face unobstructed."
+    },
+    {
+      "id": "plus100-barista",
+      "name": "バリスタ幸造",
+      "category": "お仕事",
+      "tags": [
+        "バリスタ幸造",
+        "コーヒー",
+        "カフェ",
+        "追加100"
+      ],
+      "spec": "Brown canvas apron over cream shirt, dark trousers, holding a large copper coffee kettle and a white cup and saucer."
+    },
+    {
+      "id": "plus100-baker",
+      "name": "パン職人の幸造",
+      "category": "お仕事",
+      "tags": [
+        "パン職人の幸造",
+        "パン屋",
+        "パン",
+        "職人",
+        "追加100"
+      ],
+      "spec": "White baker jacket, white soft cap, blue apron, carrying a wicker tray of various rustic round loaves and pretzels."
+    },
+    {
+      "id": "plus100-astronomer",
+      "name": "天文学者の幸造",
+      "category": "お仕事",
+      "tags": [
+        "天文学者の幸造",
+        "天文",
+        "星",
+        "望遠鏡",
+        "追加100"
+      ],
+      "spec": "Dark plum cardigan over shirt and tan trousers, holding a compact long brass telescope diagonally and a small round star-chart disc without lettering."
+    },
+    {
+      "id": "plus100-archaeologist",
+      "name": "考古学者の幸造",
+      "category": "お仕事",
+      "tags": [
+        "考古学者の幸造",
+        "考古学",
+        "発掘",
+        "追加100"
+      ],
+      "spec": "Khaki field vest, tan shirt and cargo trousers, holding a replica clay amphora and small soft dusting brush, wide brim hat."
+    },
+    {
+      "id": "plus100-train-station",
+      "name": "駅長の幸造",
+      "category": "お仕事",
+      "tags": [
+        "駅長の幸造",
+        "駅長",
+        "鉄道",
+        "駅",
+        "追加100"
+      ],
+      "spec": "Elegant navy railway stationmaster uniform with plain gold piping and peaked cap, holding a round green departure signal paddle and silver pocket watch."
+    },
+    {
+      "id": "plus100-scientist",
+      "name": "実験する幸造",
+      "category": "お仕事",
+      "tags": [
+        "実験する幸造",
+        "科学",
+        "実験",
+        "研究",
+        "追加100"
+      ],
+      "spec": "White lab coat over orange shirt, safety goggles above forehead, holding two glass flasks of blue and pink liquids with no vapour or writing."
+    },
+    {
+      "id": "plus100-gardener",
+      "name": "庭師の幸造",
+      "category": "お仕事",
+      "tags": [
+        "庭師の幸造",
+        "庭師",
+        "園芸",
+        "追加100"
+      ],
+      "spec": "Olive work vest, grey work trousers, straw hat, holding long closed garden shears upright and a small potted round topiary."
+    },
+    {
+      "id": "plus100-hairdresser",
+      "name": "美容師の幸造",
+      "category": "お仕事",
+      "tags": [
+        "美容師の幸造",
+        "美容師",
+        "はさみ",
+        "追加100"
+      ],
+      "spec": "Black short-sleeved salon smock, charcoal trousers, tool belt with combs, holding a large pink hairdryer and round hairbrush."
+    },
+    {
+      "id": "plus100-radio-host",
+      "name": "ラジオDJ幸造",
+      "category": "お仕事",
+      "tags": [
+        "ラジオDJ幸造",
+        "ラジオ",
+        "放送",
+        "マイク",
+        "追加100"
+      ],
+      "spec": "Navy blazer and orange scarf, large headphones around neck, holding a vintage silver broadcast microphone on short handheld stand and blank cue cards."
+    },
+    {
+      "id": "plus100-seahorse",
+      "name": "タツノオトシゴの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "タツノオトシゴの幸造",
+        "海",
+        "タツノオトシゴ",
+        "追加100"
+      ],
+      "spec": "Gold-and-coral seahorse-inspired wearable costume with ribbed curved tail attached beside legs and small fin shoulder pieces, exposed human face and hands."
+    },
+    {
+      "id": "plus100-nautilus",
+      "name": "オウムガイの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "オウムガイの幸造",
+        "海",
+        "オウムガイ",
+        "貝",
+        "追加100"
+      ],
+      "spec": "Cream fishermans sweater, rust trousers, carrying a giant striped spiral nautilus shell backpack visible beside shoulders, no creature face."
+    },
+    {
+      "id": "plus100-lobster",
+      "name": "伊勢エビの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "伊勢エビの幸造",
+        "海",
+        "エビ",
+        "伊勢エビ",
+        "追加100"
+      ],
+      "spec": "Rust-red lobster padded costume with segmented abdomen apron, narrow long antenna headband and small claw mitts leaving fingertips visible, human face clear."
+    },
+    {
+      "id": "plus100-starfish",
+      "name": "ヒトデの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "ヒトデの幸造",
+        "海",
+        "ヒトデ",
+        "追加100"
+      ],
+      "spec": "Orange textured five-point starfish wearable torso, head above top point, bare hands at side points and legs below, beige trousers."
+    },
+    {
+      "id": "plus100-sea-urchin",
+      "name": "ウニの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "ウニの幸造",
+        "海",
+        "ウニ",
+        "追加100"
+      ],
+      "spec": "Deep violet rounded costume covered in soft short tapered fabric spines, face above collar, hands free, dark trousers and black shoes."
+    },
+    {
+      "id": "plus100-jellyfish-lamp",
+      "name": "クラゲランプの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲランプの幸造",
+        "クラゲ",
+        "ランプ",
+        "海",
+        "追加100"
+      ],
+      "spec": "Pearl white jacket and navy trousers, holding a large clear jellyfish-shaped lantern with blue glass tentacles inside a compact brass carrying handle, no glow outside object."
+    },
+    {
+      "id": "plus100-jellyfish-raincoat",
+      "name": "クラゲレインコート幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲレインコート幸造",
+        "クラゲ",
+        "雨",
+        "合羽",
+        "追加100"
+      ],
+      "spec": "Translucent pale blue raincoat with bell-shaped clear hood behind exposed face and short jellyfish tentacle fringe at hem, navy trousers and blue rain boots."
+    },
+    {
+      "id": "plus100-jellyfish-puppet",
+      "name": "クラゲの操り人形",
+      "category": "クラゲ・海",
+      "tags": [
+        "クラゲの操り人形",
+        "クラゲ",
+        "人形",
+        "海",
+        "追加100"
+      ],
+      "spec": "Teal velvet vest over white shirt, dark trousers, holding wooden marionette crossbar with one pearl jellyfish puppet hanging at waist on clearly visible strings."
+    },
+    {
+      "id": "plus100-message-bottle",
+      "name": "ボトルメールの幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "ボトルメールの幸造",
+        "海",
+        "ボトル",
+        "手紙",
+        "追加100"
+      ],
+      "spec": "Sailor-style cream sweater and navy trousers, carrying a huge green glass bottle horizontally with a blank rolled parchment and cork inside, no lettering."
+    },
+    {
+      "id": "plus100-treasure-chest",
+      "name": "海の宝箱と幸造",
+      "category": "クラゲ・海",
+      "tags": [
+        "海の宝箱と幸造",
+        "海",
+        "宝箱",
+        "宝",
+        "追加100"
+      ],
+      "spec": "Navy nautical jacket with brass buttons, beige trousers, holding an open wooden treasure chest filled with pearl necklaces and golden coins without lettering."
+    },
+    {
+      "id": "plus100-alchemist",
+      "name": "錬金術師の幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "錬金術師の幸造",
+        "錬金術",
+        "魔法",
+        "追加100"
+      ],
+      "spec": "Deep teal hooded velvet robe with hood behind head, leather belt, holding an elaborate brass armillary sphere and amber glass potion bottle."
+    },
+    {
+      "id": "plus100-elf",
+      "name": "森のエルフ幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "森のエルフ幸造",
+        "エルフ",
+        "森",
+        "伝説",
+        "追加100"
+      ],
+      "spec": "Forest green long tunic, leaf-shaped leather shoulder armour, brown leggings and boots, subtle pointed ear prosthetics, carrying curved wooden staff with leaf finial."
+    },
+    {
+      "id": "plus100-pirate",
+      "name": "海賊船長の幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "海賊船長の幸造",
+        "海賊",
+        "船長",
+        "追加100"
+      ],
+      "spec": "Red velvet pirate long coat, black tricorn hat, white ruffled shirt, brown trousers and boots, holding a brass spyglass and treasure map with abstract lines only, no weapons."
+    },
+    {
+      "id": "plus100-jester",
+      "name": "宮廷道化師の幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "宮廷道化師の幸造",
+        "道化師",
+        "ピエロ",
+        "追加100"
+      ],
+      "spec": "Purple-and-gold diamond patterned jester tunic, soft two-point cap with small bells and curled shoes, holding a short jester baton; own face no clown paint."
+    },
+    {
+      "id": "plus100-snow-king",
+      "name": "氷の王様幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "氷の王様幸造",
+        "氷",
+        "王様",
+        "冬",
+        "追加100"
+      ],
+      "spec": "Ice-blue brocade long coat with sculpted clear crystal shoulder trim and small clear crystal crown, white trousers and boots, holding clear crystal sceptre."
+    },
+    {
+      "id": "plus100-moon-rabbit",
+      "name": "月の餅つき幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "月の餅つき幸造",
+        "月",
+        "餅つき",
+        "うさぎ",
+        "追加100"
+      ],
+      "spec": "Midnight blue kimono with small embroidered moon shapes, white short haori, holding wooden mochi mallet upright and small round golden moon prop under arm, human head."
+    },
+    {
+      "id": "plus100-phoenix",
+      "name": "不死鳥の幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "不死鳥の幸造",
+        "不死鳥",
+        "フェニックス",
+        "追加100"
+      ],
+      "spec": "Crimson and gold layered feather cape with elegant folded wing silhouette behind shoulders and long feather tails to calves, red formal trousers, no bird mask."
+    },
+    {
+      "id": "plus100-gargoyle",
+      "name": "石像の幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "石像の幸造",
+        "石像",
+        "ガーゴイル",
+        "追加100"
+      ],
+      "spec": "Realistic textured grey foam stone armour with small folded bat wings attached to back, grey boots, natural human face and hands not painted stone."
+    },
+    {
+      "id": "plus100-timekeeper",
+      "name": "砂時計の番人幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "砂時計の番人幸造",
+        "砂時計",
+        "時間",
+        "追加100"
+      ],
+      "spec": "Bronze waistcoat, dark teal long coat, black trousers, holding a huge wooden hourglass with gold sand vertically at his side, no clock faces."
+    },
+    {
+      "id": "plus100-cloud-sage",
+      "name": "雲の仙人幸造",
+      "category": "王様・伝説",
+      "tags": [
+        "雲の仙人幸造",
+        "仙人",
+        "雲",
+        "伝説",
+        "追加100"
+      ],
+      "spec": "Ivory layered flowing robe with pale grey cloud embroidery, blue sash, holding a curved wooden staff with small gourd; own grey hair and no false beard."
+    }
+  ]
+}

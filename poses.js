@@ -85,6 +85,1336 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "plus100-accordion",
+    "name": "アコーディオン幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "アコーディオン幸造",
+      "アコーディオン",
+      "楽器",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-accordion.webp",
+    "thumbnail": "./assets/thumbnails/plus100-accordion.webp"
+  },
+  {
+    "id": "plus100-saxophone",
+    "name": "サックス幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "サックス幸造",
+      "サックス",
+      "ジャズ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-saxophone.webp",
+    "thumbnail": "./assets/thumbnails/plus100-saxophone.webp"
+  },
+  {
+    "id": "plus100-cello",
+    "name": "チェロと幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "チェロと幸造",
+      "チェロ",
+      "弦楽器",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-cello.webp",
+    "thumbnail": "./assets/thumbnails/plus100-cello.webp"
+  },
+  {
+    "id": "plus100-marching-drum",
+    "name": "マーチング幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "マーチング幸造",
+      "行進",
+      "ドラム",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-marching-drum.webp",
+    "thumbnail": "./assets/thumbnails/plus100-marching-drum.webp"
+  },
+  {
+    "id": "plus100-dj",
+    "name": "レコードDJ幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "レコードDJ幸造",
+      "レコード",
+      "DJ",
+      "音楽",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-dj.webp",
+    "thumbnail": "./assets/thumbnails/plus100-dj.webp"
+  },
+  {
+    "id": "plus100-rock-guitar",
+    "name": "ロックギター幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "ロックギター幸造",
+      "ギター",
+      "ロック",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-rock-guitar.webp",
+    "thumbnail": "./assets/thumbnails/plus100-rock-guitar.webp"
+  },
+  {
+    "id": "plus100-conductor",
+    "name": "オーケストラの指揮者",
+    "category": "音楽・ステージ",
+    "tags": [
+      "オーケストラの指揮者",
+      "指揮者",
+      "オーケストラ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-conductor.webp",
+    "thumbnail": "./assets/thumbnails/plus100-conductor.webp"
+  },
+  {
+    "id": "plus100-opera",
+    "name": "オペラの幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "オペラの幸造",
+      "オペラ",
+      "歌手",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-opera.webp",
+    "thumbnail": "./assets/thumbnails/plus100-opera.webp"
+  },
+  {
+    "id": "plus100-magician",
+    "name": "手品師の幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "手品師の幸造",
+      "手品",
+      "マジック",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-magician.webp",
+    "thumbnail": "./assets/thumbnails/plus100-magician.webp"
+  },
+  {
+    "id": "plus100-ventriloquist",
+    "name": "腹話術の幸造",
+    "category": "音楽・ステージ",
+    "tags": [
+      "腹話術の幸造",
+      "腹話術",
+      "人形",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-ventriloquist.webp",
+    "thumbnail": "./assets/thumbnails/plus100-ventriloquist.webp"
+  },
+  {
+    "id": "plus100-glassblower",
+    "name": "ガラス職人の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "ガラス職人の幸造",
+      "ガラス",
+      "吹きガラス",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-glassblower.webp",
+    "thumbnail": "./assets/thumbnails/plus100-glassblower.webp"
+  },
+  {
+    "id": "plus100-potter",
+    "name": "陶芸家の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "陶芸家の幸造",
+      "陶芸",
+      "陶器",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-potter.webp",
+    "thumbnail": "./assets/thumbnails/plus100-potter.webp"
+  },
+  {
+    "id": "plus100-clockmaker",
+    "name": "時計職人の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "時計職人の幸造",
+      "時計",
+      "修理",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-clockmaker.webp",
+    "thumbnail": "./assets/thumbnails/plus100-clockmaker.webp"
+  },
+  {
+    "id": "plus100-shoemaker",
+    "name": "靴職人の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "靴職人の幸造",
+      "靴",
+      "修理",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-shoemaker.webp",
+    "thumbnail": "./assets/thumbnails/plus100-shoemaker.webp"
+  },
+  {
+    "id": "plus100-tailor",
+    "name": "仕立て屋の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "仕立て屋の幸造",
+      "仕立て",
+      "裁縫",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-tailor.webp",
+    "thumbnail": "./assets/thumbnails/plus100-tailor.webp"
+  },
+  {
+    "id": "plus100-beekeeper",
+    "name": "養蜂家の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "養蜂家の幸造",
+      "養蜂",
+      "はちみつ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-beekeeper.webp",
+    "thumbnail": "./assets/thumbnails/plus100-beekeeper.webp"
+  },
+  {
+    "id": "plus100-violin-maker",
+    "name": "バイオリン職人の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "バイオリン職人の幸造",
+      "バイオリン",
+      "弦楽器",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-violin-maker.webp",
+    "thumbnail": "./assets/thumbnails/plus100-violin-maker.webp"
+  },
+  {
+    "id": "plus100-florist",
+    "name": "花束が大きすぎる花屋",
+    "category": "職人・ものづくり",
+    "tags": [
+      "花束が大きすぎる花屋",
+      "花屋",
+      "花束",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-florist.webp",
+    "thumbnail": "./assets/thumbnails/plus100-florist.webp"
+  },
+  {
+    "id": "plus100-basket-weaver",
+    "name": "かご編みの幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "かご編みの幸造",
+      "かご",
+      "竹細工",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-basket-weaver.webp",
+    "thumbnail": "./assets/thumbnails/plus100-basket-weaver.webp"
+  },
+  {
+    "id": "plus100-perfumer",
+    "name": "調香師の幸造",
+    "category": "職人・ものづくり",
+    "tags": [
+      "調香師の幸造",
+      "香水",
+      "調香",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-perfumer.webp",
+    "thumbnail": "./assets/thumbnails/plus100-perfumer.webp"
+  },
+  {
+    "id": "plus100-sunflower",
+    "name": "ひまわりの幸造",
+    "category": "自然・四季",
+    "tags": [
+      "ひまわりの幸造",
+      "ひまわり",
+      "夏",
+      "花",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-sunflower.webp",
+    "thumbnail": "./assets/thumbnails/plus100-sunflower.webp"
+  },
+  {
+    "id": "plus100-maple",
+    "name": "紅葉の幸造",
+    "category": "自然・四季",
+    "tags": [
+      "紅葉の幸造",
+      "紅葉",
+      "秋",
+      "もみじ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-maple.webp",
+    "thumbnail": "./assets/thumbnails/plus100-maple.webp"
+  },
+  {
+    "id": "plus100-snowflake",
+    "name": "雪の結晶の幸造",
+    "category": "自然・四季",
+    "tags": [
+      "雪の結晶の幸造",
+      "雪",
+      "冬",
+      "結晶",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-snowflake.webp",
+    "thumbnail": "./assets/thumbnails/plus100-snowflake.webp"
+  },
+  {
+    "id": "plus100-raincloud",
+    "name": "雨雲を背負う幸造",
+    "category": "自然・四季",
+    "tags": [
+      "雨雲を背負う幸造",
+      "雨",
+      "梅雨",
+      "雲",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-raincloud.webp",
+    "thumbnail": "./assets/thumbnails/plus100-raincloud.webp"
+  },
+  {
+    "id": "plus100-rainbow",
+    "name": "虹色マントの幸造",
+    "category": "自然・四季",
+    "tags": [
+      "虹色マントの幸造",
+      "虹",
+      "レインボー",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-rainbow.webp",
+    "thumbnail": "./assets/thumbnails/plus100-rainbow.webp"
+  },
+  {
+    "id": "plus100-bamboo",
+    "name": "竹林の幸造",
+    "category": "自然・四季",
+    "tags": [
+      "竹林の幸造",
+      "竹",
+      "森",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-bamboo.webp",
+    "thumbnail": "./assets/thumbnails/plus100-bamboo.webp"
+  },
+  {
+    "id": "plus100-acorn",
+    "name": "どんぐりの幸造",
+    "category": "自然・四季",
+    "tags": [
+      "どんぐりの幸造",
+      "どんぐり",
+      "秋",
+      "木の実",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-acorn.webp",
+    "thumbnail": "./assets/thumbnails/plus100-acorn.webp"
+  },
+  {
+    "id": "plus100-mushroom",
+    "name": "きのこの幸造",
+    "category": "自然・四季",
+    "tags": [
+      "きのこの幸造",
+      "きのこ",
+      "秋",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-mushroom.webp",
+    "thumbnail": "./assets/thumbnails/plus100-mushroom.webp"
+  },
+  {
+    "id": "plus100-butterfly",
+    "name": "蝶の羽の幸造",
+    "category": "自然・四季",
+    "tags": [
+      "蝶の羽の幸造",
+      "蝶",
+      "ちょう",
+      "羽",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-butterfly.webp",
+    "thumbnail": "./assets/thumbnails/plus100-butterfly.webp"
+  },
+  {
+    "id": "plus100-firefly",
+    "name": "ホタルの幸造",
+    "category": "自然・四季",
+    "tags": [
+      "ホタルの幸造",
+      "ホタル",
+      "夏",
+      "虫",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-firefly.webp",
+    "thumbnail": "./assets/thumbnails/plus100-firefly.webp"
+  },
+  {
+    "id": "plus100-aviator",
+    "name": "昔の飛行士の幸造",
+    "category": "レトロ・旅",
+    "tags": [
+      "昔の飛行士の幸造",
+      "飛行士",
+      "飛行機",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-aviator.webp",
+    "thumbnail": "./assets/thumbnails/plus100-aviator.webp"
+  },
+  {
+    "id": "plus100-steam-driver",
+    "name": "蒸気機関車の機関士",
+    "category": "レトロ・旅",
+    "tags": [
+      "蒸気機関車の機関士",
+      "機関車",
+      "鉄道",
+      "機関士",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-steam-driver.webp",
+    "thumbnail": "./assets/thumbnails/plus100-steam-driver.webp"
+  },
+  {
+    "id": "plus100-retro-post",
+    "name": "昔の郵便屋さん",
+    "category": "レトロ・旅",
+    "tags": [
+      "昔の郵便屋さん",
+      "郵便",
+      "レトロ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-retro-post.webp",
+    "thumbnail": "./assets/thumbnails/plus100-retro-post.webp"
+  },
+  {
+    "id": "plus100-cinema",
+    "name": "無声映画の幸造",
+    "category": "レトロ・旅",
+    "tags": [
+      "無声映画の幸造",
+      "映画",
+      "レトロ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-cinema.webp",
+    "thumbnail": "./assets/thumbnails/plus100-cinema.webp"
+  },
+  {
+    "id": "plus100-bell-diver",
+    "name": "飛行船の探検家",
+    "category": "レトロ・旅",
+    "tags": [
+      "飛行船の探検家",
+      "飛行船",
+      "冒険",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-bell-diver.webp",
+    "thumbnail": "./assets/thumbnails/plus100-bell-diver.webp"
+  },
+  {
+    "id": "plus100-globe-traveler",
+    "name": "地球儀を抱える旅人",
+    "category": "レトロ・旅",
+    "tags": [
+      "地球儀を抱える旅人",
+      "地球儀",
+      "世界",
+      "旅行",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-globe-traveler.webp",
+    "thumbnail": "./assets/thumbnails/plus100-globe-traveler.webp"
+  },
+  {
+    "id": "plus100-orient-suitcase",
+    "name": "トランク旅行の幸造",
+    "category": "レトロ・旅",
+    "tags": [
+      "トランク旅行の幸造",
+      "旅行",
+      "トランク",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-orient-suitcase.webp",
+    "thumbnail": "./assets/thumbnails/plus100-orient-suitcase.webp"
+  },
+  {
+    "id": "plus100-gondolier",
+    "name": "ゴンドラ船頭の幸造",
+    "category": "レトロ・旅",
+    "tags": [
+      "ゴンドラ船頭の幸造",
+      "船頭",
+      "旅行",
+      "ゴンドラ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-gondolier.webp",
+    "thumbnail": "./assets/thumbnails/plus100-gondolier.webp"
+  },
+  {
+    "id": "plus100-alpine-hiker",
+    "name": "アルプス風の山歩き",
+    "category": "レトロ・旅",
+    "tags": [
+      "アルプス風の山歩き",
+      "山",
+      "登山",
+      "旅行",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-alpine-hiker.webp",
+    "thumbnail": "./assets/thumbnails/plus100-alpine-hiker.webp"
+  },
+  {
+    "id": "plus100-desert-explorer",
+    "name": "砂漠の探検家",
+    "category": "レトロ・旅",
+    "tags": [
+      "砂漠の探検家",
+      "砂漠",
+      "冒険",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-desert-explorer.webp",
+    "thumbnail": "./assets/thumbnails/plus100-desert-explorer.webp"
+  },
+  {
+    "id": "plus100-rubik",
+    "name": "立体パズルの幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "立体パズルの幸造",
+      "パズル",
+      "キューブ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-rubik.webp",
+    "thumbnail": "./assets/thumbnails/plus100-rubik.webp"
+  },
+  {
+    "id": "plus100-chess",
+    "name": "チェスの幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "チェスの幸造",
+      "チェス",
+      "ゲーム",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-chess.webp",
+    "thumbnail": "./assets/thumbnails/plus100-chess.webp"
+  },
+  {
+    "id": "plus100-kite",
+    "name": "凧揚げの幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "凧揚げの幸造",
+      "凧",
+      "正月",
+      "遊び",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-kite.webp",
+    "thumbnail": "./assets/thumbnails/plus100-kite.webp"
+  },
+  {
+    "id": "plus100-bubble",
+    "name": "シャボン玉の幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "シャボン玉の幸造",
+      "シャボン玉",
+      "遊び",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-bubble.webp",
+    "thumbnail": "./assets/thumbnails/plus100-bubble.webp"
+  },
+  {
+    "id": "plus100-yoyo",
+    "name": "大きなヨーヨーの幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "大きなヨーヨーの幸造",
+      "ヨーヨー",
+      "遊び",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-yoyo.webp",
+    "thumbnail": "./assets/thumbnails/plus100-yoyo.webp"
+  },
+  {
+    "id": "plus100-boardgame",
+    "name": "すごろくの幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "すごろくの幸造",
+      "すごろく",
+      "サイコロ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-boardgame.webp",
+    "thumbnail": "./assets/thumbnails/plus100-boardgame.webp"
+  },
+  {
+    "id": "plus100-toy-blocks",
+    "name": "積み木の幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "積み木の幸造",
+      "積み木",
+      "おもちゃ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-toy-blocks.webp",
+    "thumbnail": "./assets/thumbnails/plus100-toy-blocks.webp"
+  },
+  {
+    "id": "plus100-rubber-duck",
+    "name": "アヒルのおもちゃ幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "アヒルのおもちゃ幸造",
+      "アヒル",
+      "おもちゃ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-rubber-duck.webp",
+    "thumbnail": "./assets/thumbnails/plus100-rubber-duck.webp"
+  },
+  {
+    "id": "plus100-pinwheel",
+    "name": "風車の幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "風車の幸造",
+      "風車",
+      "かざぐるま",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-pinwheel.webp",
+    "thumbnail": "./assets/thumbnails/plus100-pinwheel.webp"
+  },
+  {
+    "id": "plus100-kendama",
+    "name": "けん玉名人の幸造",
+    "category": "おもちゃ・遊び",
+    "tags": [
+      "けん玉名人の幸造",
+      "けん玉",
+      "おもちゃ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-kendama.webp",
+    "thumbnail": "./assets/thumbnails/plus100-kendama.webp"
+  },
+  {
+    "id": "plus100-croissant",
+    "name": "クロワッサンの幸造",
+    "category": "食べ物",
+    "tags": [
+      "クロワッサンの幸造",
+      "クロワッサン",
+      "パン",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-croissant.webp",
+    "thumbnail": "./assets/thumbnails/plus100-croissant.webp"
+  },
+  {
+    "id": "plus100-pudding",
+    "name": "プリンの幸造",
+    "category": "食べ物",
+    "tags": [
+      "プリンの幸造",
+      "プリン",
+      "お菓子",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-pudding.webp",
+    "thumbnail": "./assets/thumbnails/plus100-pudding.webp"
+  },
+  {
+    "id": "plus100-melon-soda",
+    "name": "メロンソーダの幸造",
+    "category": "食べ物",
+    "tags": [
+      "メロンソーダの幸造",
+      "メロンソーダ",
+      "喫茶",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-melon-soda.webp",
+    "thumbnail": "./assets/thumbnails/plus100-melon-soda.webp"
+  },
+  {
+    "id": "plus100-taiyaki",
+    "name": "たい焼きの幸造",
+    "category": "食べ物",
+    "tags": [
+      "たい焼きの幸造",
+      "たい焼き",
+      "和菓子",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-taiyaki.webp",
+    "thumbnail": "./assets/thumbnails/plus100-taiyaki.webp"
+  },
+  {
+    "id": "plus100-edamame",
+    "name": "枝豆の幸造",
+    "category": "食べ物",
+    "tags": [
+      "枝豆の幸造",
+      "枝豆",
+      "豆",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-edamame.webp",
+    "thumbnail": "./assets/thumbnails/plus100-edamame.webp"
+  },
+  {
+    "id": "plus100-chocolate",
+    "name": "板チョコの幸造",
+    "category": "食べ物",
+    "tags": [
+      "板チョコの幸造",
+      "チョコレート",
+      "お菓子",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-chocolate.webp",
+    "thumbnail": "./assets/thumbnails/plus100-chocolate.webp"
+  },
+  {
+    "id": "plus100-popcorn",
+    "name": "ポップコーンの幸造",
+    "category": "食べ物",
+    "tags": [
+      "ポップコーンの幸造",
+      "ポップコーン",
+      "映画",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-popcorn.webp",
+    "thumbnail": "./assets/thumbnails/plus100-popcorn.webp"
+  },
+  {
+    "id": "plus100-fried-egg",
+    "name": "目玉焼きの幸造",
+    "category": "食べ物",
+    "tags": [
+      "目玉焼きの幸造",
+      "目玉焼き",
+      "朝ごはん",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-fried-egg.webp",
+    "thumbnail": "./assets/thumbnails/plus100-fried-egg.webp"
+  },
+  {
+    "id": "plus100-onion",
+    "name": "玉ねぎの幸造",
+    "category": "食べ物",
+    "tags": [
+      "玉ねぎの幸造",
+      "玉ねぎ",
+      "野菜",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-onion.webp",
+    "thumbnail": "./assets/thumbnails/plus100-onion.webp"
+  },
+  {
+    "id": "plus100-honey-toast",
+    "name": "ハニートーストの幸造",
+    "category": "食べ物",
+    "tags": [
+      "ハニートーストの幸造",
+      "トースト",
+      "パン",
+      "喫茶",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-honey-toast.webp",
+    "thumbnail": "./assets/thumbnails/plus100-honey-toast.webp"
+  },
+  {
+    "id": "plus100-baseball-catcher",
+    "name": "キャッチャー幸造",
+    "category": "スポーツ",
+    "tags": [
+      "キャッチャー幸造",
+      "野球",
+      "キャッチャー",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-baseball-catcher.webp",
+    "thumbnail": "./assets/thumbnails/plus100-baseball-catcher.webp"
+  },
+  {
+    "id": "plus100-basketball",
+    "name": "バスケットボール幸造",
+    "category": "スポーツ",
+    "tags": [
+      "バスケットボール幸造",
+      "バスケ",
+      "バスケット",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-basketball.webp",
+    "thumbnail": "./assets/thumbnails/plus100-basketball.webp"
+  },
+  {
+    "id": "plus100-tennis",
+    "name": "テニスの幸造",
+    "category": "スポーツ",
+    "tags": [
+      "テニスの幸造",
+      "テニス",
+      "ラケット",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-tennis.webp",
+    "thumbnail": "./assets/thumbnails/plus100-tennis.webp"
+  },
+  {
+    "id": "plus100-badminton",
+    "name": "バドミントン幸造",
+    "category": "スポーツ",
+    "tags": [
+      "バドミントン幸造",
+      "バドミントン",
+      "羽根",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-badminton.webp",
+    "thumbnail": "./assets/thumbnails/plus100-badminton.webp"
+  },
+  {
+    "id": "plus100-archery",
+    "name": "アーチェリー幸造",
+    "category": "スポーツ",
+    "tags": [
+      "アーチェリー幸造",
+      "アーチェリー",
+      "弓",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-archery.webp",
+    "thumbnail": "./assets/thumbnails/plus100-archery.webp"
+  },
+  {
+    "id": "plus100-skateboard",
+    "name": "スケートボード幸造",
+    "category": "スポーツ",
+    "tags": [
+      "スケートボード幸造",
+      "スケボー",
+      "スケートボード",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-skateboard.webp",
+    "thumbnail": "./assets/thumbnails/plus100-skateboard.webp"
+  },
+  {
+    "id": "plus100-table-referee",
+    "name": "審判の幸造",
+    "category": "スポーツ",
+    "tags": [
+      "審判の幸造",
+      "審判",
+      "スポーツ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-table-referee.webp",
+    "thumbnail": "./assets/thumbnails/plus100-table-referee.webp"
+  },
+  {
+    "id": "plus100-weightlifting",
+    "name": "重量挙げの幸造",
+    "category": "スポーツ",
+    "tags": [
+      "重量挙げの幸造",
+      "重量挙げ",
+      "バーベル",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-weightlifting.webp",
+    "thumbnail": "./assets/thumbnails/plus100-weightlifting.webp"
+  },
+  {
+    "id": "plus100-ice-hockey",
+    "name": "アイスホッケー幸造",
+    "category": "スポーツ",
+    "tags": [
+      "アイスホッケー幸造",
+      "アイスホッケー",
+      "氷",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-ice-hockey.webp",
+    "thumbnail": "./assets/thumbnails/plus100-ice-hockey.webp"
+  },
+  {
+    "id": "plus100-cricket",
+    "name": "クリケット幸造",
+    "category": "スポーツ",
+    "tags": [
+      "クリケット幸造",
+      "クリケット",
+      "スポーツ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-cricket.webp",
+    "thumbnail": "./assets/thumbnails/plus100-cricket.webp"
+  },
+  {
+    "id": "plus100-dentist",
+    "name": "歯医者さんの幸造",
+    "category": "お仕事",
+    "tags": [
+      "歯医者さんの幸造",
+      "歯医者",
+      "歯科",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-dentist.webp",
+    "thumbnail": "./assets/thumbnails/plus100-dentist.webp"
+  },
+  {
+    "id": "plus100-barista",
+    "name": "バリスタ幸造",
+    "category": "お仕事",
+    "tags": [
+      "バリスタ幸造",
+      "コーヒー",
+      "カフェ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-barista.webp",
+    "thumbnail": "./assets/thumbnails/plus100-barista.webp"
+  },
+  {
+    "id": "plus100-baker",
+    "name": "パン職人の幸造",
+    "category": "お仕事",
+    "tags": [
+      "パン職人の幸造",
+      "パン屋",
+      "パン",
+      "職人",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-baker.webp",
+    "thumbnail": "./assets/thumbnails/plus100-baker.webp"
+  },
+  {
+    "id": "plus100-astronomer",
+    "name": "天文学者の幸造",
+    "category": "お仕事",
+    "tags": [
+      "天文学者の幸造",
+      "天文",
+      "星",
+      "望遠鏡",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-astronomer.webp",
+    "thumbnail": "./assets/thumbnails/plus100-astronomer.webp"
+  },
+  {
+    "id": "plus100-archaeologist",
+    "name": "考古学者の幸造",
+    "category": "お仕事",
+    "tags": [
+      "考古学者の幸造",
+      "考古学",
+      "発掘",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-archaeologist.webp",
+    "thumbnail": "./assets/thumbnails/plus100-archaeologist.webp"
+  },
+  {
+    "id": "plus100-train-station",
+    "name": "駅長の幸造",
+    "category": "お仕事",
+    "tags": [
+      "駅長の幸造",
+      "駅長",
+      "鉄道",
+      "駅",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-train-station.webp",
+    "thumbnail": "./assets/thumbnails/plus100-train-station.webp"
+  },
+  {
+    "id": "plus100-scientist",
+    "name": "実験する幸造",
+    "category": "お仕事",
+    "tags": [
+      "実験する幸造",
+      "科学",
+      "実験",
+      "研究",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-scientist.webp",
+    "thumbnail": "./assets/thumbnails/plus100-scientist.webp"
+  },
+  {
+    "id": "plus100-gardener",
+    "name": "庭師の幸造",
+    "category": "お仕事",
+    "tags": [
+      "庭師の幸造",
+      "庭師",
+      "園芸",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-gardener.webp",
+    "thumbnail": "./assets/thumbnails/plus100-gardener.webp"
+  },
+  {
+    "id": "plus100-hairdresser",
+    "name": "美容師の幸造",
+    "category": "お仕事",
+    "tags": [
+      "美容師の幸造",
+      "美容師",
+      "はさみ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-hairdresser.webp",
+    "thumbnail": "./assets/thumbnails/plus100-hairdresser.webp"
+  },
+  {
+    "id": "plus100-radio-host",
+    "name": "ラジオDJ幸造",
+    "category": "お仕事",
+    "tags": [
+      "ラジオDJ幸造",
+      "ラジオ",
+      "放送",
+      "マイク",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-radio-host.webp",
+    "thumbnail": "./assets/thumbnails/plus100-radio-host.webp"
+  },
+  {
+    "id": "plus100-seahorse",
+    "name": "タツノオトシゴの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "タツノオトシゴの幸造",
+      "海",
+      "タツノオトシゴ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-seahorse.webp",
+    "thumbnail": "./assets/thumbnails/plus100-seahorse.webp"
+  },
+  {
+    "id": "plus100-nautilus",
+    "name": "オウムガイの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "オウムガイの幸造",
+      "海",
+      "オウムガイ",
+      "貝",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-nautilus.webp",
+    "thumbnail": "./assets/thumbnails/plus100-nautilus.webp"
+  },
+  {
+    "id": "plus100-lobster",
+    "name": "伊勢エビの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "伊勢エビの幸造",
+      "海",
+      "エビ",
+      "伊勢エビ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-lobster.webp",
+    "thumbnail": "./assets/thumbnails/plus100-lobster.webp"
+  },
+  {
+    "id": "plus100-starfish",
+    "name": "ヒトデの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "ヒトデの幸造",
+      "海",
+      "ヒトデ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-starfish.webp",
+    "thumbnail": "./assets/thumbnails/plus100-starfish.webp"
+  },
+  {
+    "id": "plus100-sea-urchin",
+    "name": "ウニの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "ウニの幸造",
+      "海",
+      "ウニ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-sea-urchin.webp",
+    "thumbnail": "./assets/thumbnails/plus100-sea-urchin.webp"
+  },
+  {
+    "id": "plus100-jellyfish-lamp",
+    "name": "クラゲランプの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "クラゲランプの幸造",
+      "クラゲ",
+      "ランプ",
+      "海",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-jellyfish-lamp.webp",
+    "thumbnail": "./assets/thumbnails/plus100-jellyfish-lamp.webp"
+  },
+  {
+    "id": "plus100-jellyfish-raincoat",
+    "name": "クラゲレインコート幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "クラゲレインコート幸造",
+      "クラゲ",
+      "雨",
+      "合羽",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-jellyfish-raincoat.webp",
+    "thumbnail": "./assets/thumbnails/plus100-jellyfish-raincoat.webp"
+  },
+  {
+    "id": "plus100-jellyfish-puppet",
+    "name": "クラゲの操り人形",
+    "category": "クラゲ・海",
+    "tags": [
+      "クラゲの操り人形",
+      "クラゲ",
+      "人形",
+      "海",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-jellyfish-puppet.webp",
+    "thumbnail": "./assets/thumbnails/plus100-jellyfish-puppet.webp"
+  },
+  {
+    "id": "plus100-message-bottle",
+    "name": "ボトルメールの幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "ボトルメールの幸造",
+      "海",
+      "ボトル",
+      "手紙",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-message-bottle.webp",
+    "thumbnail": "./assets/thumbnails/plus100-message-bottle.webp"
+  },
+  {
+    "id": "plus100-treasure-chest",
+    "name": "海の宝箱と幸造",
+    "category": "クラゲ・海",
+    "tags": [
+      "海の宝箱と幸造",
+      "海",
+      "宝箱",
+      "宝",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-treasure-chest.webp",
+    "thumbnail": "./assets/thumbnails/plus100-treasure-chest.webp"
+  },
+  {
+    "id": "plus100-alchemist",
+    "name": "錬金術師の幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "錬金術師の幸造",
+      "錬金術",
+      "魔法",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-alchemist.webp",
+    "thumbnail": "./assets/thumbnails/plus100-alchemist.webp"
+  },
+  {
+    "id": "plus100-elf",
+    "name": "森のエルフ幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "森のエルフ幸造",
+      "エルフ",
+      "森",
+      "伝説",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-elf.webp",
+    "thumbnail": "./assets/thumbnails/plus100-elf.webp"
+  },
+  {
+    "id": "plus100-pirate",
+    "name": "海賊船長の幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "海賊船長の幸造",
+      "海賊",
+      "船長",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-pirate.webp",
+    "thumbnail": "./assets/thumbnails/plus100-pirate.webp"
+  },
+  {
+    "id": "plus100-jester",
+    "name": "宮廷道化師の幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "宮廷道化師の幸造",
+      "道化師",
+      "ピエロ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-jester.webp",
+    "thumbnail": "./assets/thumbnails/plus100-jester.webp"
+  },
+  {
+    "id": "plus100-snow-king",
+    "name": "氷の王様幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "氷の王様幸造",
+      "氷",
+      "王様",
+      "冬",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-snow-king.webp",
+    "thumbnail": "./assets/thumbnails/plus100-snow-king.webp"
+  },
+  {
+    "id": "plus100-moon-rabbit",
+    "name": "月の餅つき幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "月の餅つき幸造",
+      "月",
+      "餅つき",
+      "うさぎ",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-moon-rabbit.webp",
+    "thumbnail": "./assets/thumbnails/plus100-moon-rabbit.webp"
+  },
+  {
+    "id": "plus100-phoenix",
+    "name": "不死鳥の幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "不死鳥の幸造",
+      "不死鳥",
+      "フェニックス",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-phoenix.webp",
+    "thumbnail": "./assets/thumbnails/plus100-phoenix.webp"
+  },
+  {
+    "id": "plus100-gargoyle",
+    "name": "石像の幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "石像の幸造",
+      "石像",
+      "ガーゴイル",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-gargoyle.webp",
+    "thumbnail": "./assets/thumbnails/plus100-gargoyle.webp"
+  },
+  {
+    "id": "plus100-timekeeper",
+    "name": "砂時計の番人幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "砂時計の番人幸造",
+      "砂時計",
+      "時間",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-timekeeper.webp",
+    "thumbnail": "./assets/thumbnails/plus100-timekeeper.webp"
+  },
+  {
+    "id": "plus100-cloud-sage",
+    "name": "雲の仙人幸造",
+    "category": "王様・伝説",
+    "tags": [
+      "雲の仙人幸造",
+      "仙人",
+      "雲",
+      "伝説",
+      "追加100"
+    ],
+    "src": "./assets/library/plus100-cloud-sage.webp",
+    "thumbnail": "./assets/thumbnails/plus100-cloud-sage.webp"
+  },
+  {
     "id": "pref-01-hokkaido",
     "name": "北海道・流氷",
     "category": "全国ご当地",

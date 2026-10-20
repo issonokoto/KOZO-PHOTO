@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen edit",
+  "repairs": [
+    {
+      "id": "plus100-archery",
+      "instruction": "Use case: precise-object-edit / identity-preserve. Image 1 is the EDIT TARGET. Preserve this EXACT elderly man's face, smile, age, body, pose, all clothing, colours, hand positions and sporting bow and arrows. Change ONLY framing: the top tip of the bow is too close to top edge. Pull the ENTIRE same man and ALL equipment back 20 percent, centered in a portrait 2:3 canvas, reconstruct any clipped accessory edge. Both complete shoes, entire head and BOTH COMPLETE equipment ends must have at least 60px clear TRANSPARENT margin from every canvas edge. Keep exact outfit and face. Genuine transparent alpha background, including gaps. No floor, backdrop, external cast shadow, glow, scenery, writing, labels or checkerboard texture."
+    },
+    {
+      "id": "plus100-weightlifting",
+      "instruction": "Use case: precise-object-edit / identity-preserve. Image 1 is the EDIT TARGET. Preserve this EXACT elderly man's face, smile, age, body, pose, all clothing, colours, hand positions and barbell and weight plates. Change ONLY framing: the rightmost end of the barbell is clipped at the right edge. Pull the ENTIRE same man and ALL equipment back 20 percent, centered in a portrait 2:3 canvas, reconstruct any clipped accessory edge. Both complete shoes, entire head and BOTH COMPLETE equipment ends must have at least 60px clear TRANSPARENT margin from every canvas edge. Keep exact outfit and face. Genuine transparent alpha background, including gaps. No floor, backdrop, external cast shadow, glow, scenery, writing, labels or checkerboard texture."
+    },
+    {
+      "id": "plus100-weightlifting",
+      "instruction": "Edit image 1 precisely. Keep the man's exact face, smile, age, blue weightlifting outfit, pose, legs and shoes unchanged. The barbell is too wide and its RIGHT silver end is cut off at image edge. Change ONLY the barbell: make it physically SHORTER and the black plates slightly SMALLER, so that both silver bar ends end well INSIDE the canvas, roughly at x=120 and x=900 in this 1024px wide image. Entire barbell max width 780px. Move the plate stacks inward toward his hands without hiding hands. BOTH silver end caps must be COMPLETE with generous clear transparent margin beyond them. Same portrait full body, unchanged natural face. Genuine TRANSPARENT alpha background and no floor or backdrop. Do not merely shrink the man while keeping a wide barbell. The barbell itself MUST be shorter."
+    },
+    {
+      "id": "plus100-starfish",
+      "instruction": "Use case: precise-object-edit, framing correction. Image 1 is the edit target. Preserve the exact elderly man's smiling face, grey hair, orange textured starfish costume with cream bumps, cream trousers, shoes, pose and colours. His fingertips are too close to BOTH side edges. Show the ENTIRE SAME man and costume SMALLER, pulled back 20 percent on a portrait 2:3 canvas so the leftmost fingertips are at least 90px from left edge and rightmost fingertips at least 90px from right edge. Include full starfish tip above his head with 80px clear margin above and complete shoes with margin below. Do not enlarge any costume or spread arms farther. Genuine transparent alpha background, clean silhouette and gaps. No scenery, floor, backdrop, checkerboard, shadow outside silhouette or writing."
+    },
+    {
+      "id": "plus100-phoenix",
+      "instruction": "Use case: precise-object-edit, framing correction. Image 1 is the edit target. Preserve the EXACT elderly man's face, smile, age, pose, clasped hands, red-and-gold feather outfit, red trousers and shoes. Change framing only: top feather tips are too close to top edge. Pull the ENTIRE same man and all feathers BACK by 15 percent, centered on portrait 2:3 canvas. Show COMPLETE top feathers with at least 70px clear TRANSPARENT space ABOVE their uppermost tip, plus margin below both shoes and at sides. Do not make the headdress taller. Same real photograph and colours, genuine transparent alpha background. No floor, backdrop, glow, shadow outside silhouette, scenery or writing."
+    }
+  ]
+}

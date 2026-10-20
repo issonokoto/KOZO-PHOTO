@@ -1,0 +1,450 @@
+{
+  "assets/001.png": {
+    "src": "assets/offline/001.webp",
+    "sha256": "31f157bbc6793d0a49b63d0cc79f7151732a17bf8428faab49aad87d27d0a477"
+  },
+  "assets/002.png": {
+    "src": "assets/offline/002.webp",
+    "sha256": "63ddaa7f9190d2412200aa1eeea61165c4162906356c525ea78d464530f3c727"
+  },
+  "assets/003.png": {
+    "src": "assets/offline/003.webp",
+    "sha256": "a6c256b6ce33833c6ded612e1dc301a676e8c3ad728c4e5246a2e9ebbc88ea57"
+  },
+  "assets/kozo-wave.png": {
+    "src": "assets/offline/kozo-wave.webp",
+    "sha256": "0c258308704a0a1d236427b3839e1953ce468257cd8de81070deaad1de904a26"
+  },
+  "assets/kozo-bow.png": {
+    "src": "assets/offline/kozo-bow.webp",
+    "sha256": "00064caaa84c50d9a171d7c8c6c2393c90f8770a2df8c64f9f9517bc2ac97224"
+  },
+  "assets/kozo-guide.png": {
+    "src": "assets/offline/kozo-guide.webp",
+    "sha256": "9b445e5030d36b7b5f4c5705dadeb9692aae2cb15a35853a9f102c4c21eb5657"
+  },
+  "assets/kozo-cheer.png": {
+    "src": "assets/offline/kozo-cheer.webp",
+    "sha256": "2be5883b3742f8701ebcaf3e578ca2930381897a73dff48cce581bdfd2ea8de0"
+  },
+  "assets/kozo-point.png": {
+    "src": "assets/offline/kozo-point.webp",
+    "sha256": "f0758aaf3579baf6cb5ec37bff0c1b35c61c3a53ad30d7ab4bd208be0de5c263"
+  },
+  "assets/kozo-welcome.png": {
+    "src": "assets/offline/kozo-welcome.webp",
+    "sha256": "97e1382d63321f7306eaad2d249c8aaa10df6caf64f729fa44fe16971cff4b16"
+  },
+  "assets/kozo-heart.png": {
+    "src": "assets/offline/kozo-heart.webp",
+    "sha256": "1e6244c365add8a5aa6cf0c4c06ef33f7dd72bf3656698117079a5c33e0cbb48"
+  },
+  "assets/kozo-salute.png": {
+    "src": "assets/offline/kozo-salute.webp",
+    "sha256": "7e16b36c12bd2c63e3d705ef9f0bad632e398b831298ebba25eaf176317b1973"
+  },
+  "assets/kozo-arms-crossed.png": {
+    "src": "assets/offline/kozo-arms-crossed.webp",
+    "sha256": "42cacf2854b38f53b2207a617560546d5de9b087ff3f1f6a38ebfc40613e1314"
+  },
+  "assets/library/plus100-accordion.webp": {
+    "src": "assets/offline/plus100-accordion.webp",
+    "sha256": "c6cd9d5af98c130b30d8d1fb4ff87996e7274947058e2437dfa17b654721f72e"
+  },
+  "assets/library/plus100-saxophone.webp": {
+    "src": "assets/offline/plus100-saxophone.webp",
+    "sha256": "b992e4dbdfe41d11ee8b887a0f36210af64b75281c8ad1cefc4d48292777d93a"
+  },
+  "assets/library/plus100-cello.webp": {
+    "src": "assets/offline/plus100-cello.webp",
+    "sha256": "ff242af9781cf5a6d0b1784c1cdb321597c4559487b930c9d571d40d885c5800"
+  },
+  "assets/library/plus100-marching-drum.webp": {
+    "src": "assets/offline/plus100-marching-drum.webp",
+    "sha256": "73d2d80db01d24c77c593482fbdde9e06efb855240cf34665f0d4bda338230e2"
+  },
+  "assets/library/plus100-dj.webp": {
+    "src": "assets/offline/plus100-dj.webp",
+    "sha256": "03f4939aa1af298572df2ec26f60ff743da46e38f48d707a391691897d0bf500"
+  },
+  "assets/library/plus100-rock-guitar.webp": {
+    "src": "assets/offline/plus100-rock-guitar.webp",
+    "sha256": "e8974680e2ac94849ca33feff3d580956aa4804fecdbd06dcf4557d3edae8c0b"
+  },
+  "assets/library/plus100-conductor.webp": {
+    "src": "assets/offline/plus100-conductor.webp",
+    "sha256": "38869d249a16524693bddfe15f2b5eccbadbbaf6204848a33270bac97727b407"
+  },
+  "assets/library/plus100-opera.webp": {
+    "src": "assets/offline/plus100-opera.webp",
+    "sha256": "2ed44255aa6f7ea6e8b8549dd1223a099fbfba8514cd0278ccb3973ec40cc2da"
+  },
+  "assets/library/plus100-magician.webp": {
+    "src": "assets/offline/plus100-magician.webp",
+    "sha256": "70be0d504f289927a0f4a0f7c54b1d9ada820924c12f335ac256d743502b45ea"
+  },
+  "assets/library/plus100-ventriloquist.webp": {
+    "src": "assets/offline/plus100-ventriloquist.webp",
+    "sha256": "0e944cafe5421b92e7033be8a3272c5444381c84bbd1ade9d2e1d0ab3a86fae3"
+  },
+  "assets/library/plus100-glassblower.webp": {
+    "src": "assets/offline/plus100-glassblower.webp",
+    "sha256": "d49012c46d1b4931b31c7845172a5e27ad748d2542afe9feb7ccadc74d064295"
+  },
+  "assets/library/plus100-potter.webp": {
+    "src": "assets/offline/plus100-potter.webp",
+    "sha256": "35810c9820e827ffd7e2ce95867c811301b13e64e6f2ce0a9f6afeb1e9fe9a97"
+  },
+  "assets/library/plus100-clockmaker.webp": {
+    "src": "assets/offline/plus100-clockmaker.webp",
+    "sha256": "260107134be9b81bdb9e840a96bd419e9672904f943e29d01eab33900f1330cb"
+  },
+  "assets/library/plus100-shoemaker.webp": {
+    "src": "assets/offline/plus100-shoemaker.webp",
+    "sha256": "e418e380c2d6e883651123cad3b5029214d63fcb4d7b0f511471e070e061393f"
+  },
+  "assets/library/plus100-tailor.webp": {
+    "src": "assets/offline/plus100-tailor.webp",
+    "sha256": "e1c707724b0489eace5b464ae266822eb7d5e99c4b55477dea915c236f1f34f5"
+  },
+  "assets/library/plus100-beekeeper.webp": {
+    "src": "assets/offline/plus100-beekeeper.webp",
+    "sha256": "1114dca651ebb0c3c4632f5866b567943b88bef76da49979dd5ba9e274402f00"
+  },
+  "assets/library/plus100-violin-maker.webp": {
+    "src": "assets/offline/plus100-violin-maker.webp",
+    "sha256": "ffb0a5d9722ac07355b99aba251df7cae629c1824366b45c7166b88785cace60"
+  },
+  "assets/library/plus100-florist.webp": {
+    "src": "assets/offline/plus100-florist.webp",
+    "sha256": "bea575c53bd3255141f8075607fe6e7fc60864a586fd706ac128cd5aeaaa8ee8"
+  },
+  "assets/library/plus100-basket-weaver.webp": {
+    "src": "assets/offline/plus100-basket-weaver.webp",
+    "sha256": "2a6106a74f8c209c6c8ce132462586503b673de2b51155a05a39120dedf2cea3"
+  },
+  "assets/library/plus100-perfumer.webp": {
+    "src": "assets/offline/plus100-perfumer.webp",
+    "sha256": "2ea12513b1048abc42993ad43e208db16a5f9dc2a4141ed50c417dfabfeb6311"
+  },
+  "assets/library/plus100-sunflower.webp": {
+    "src": "assets/offline/plus100-sunflower.webp",
+    "sha256": "5486a899c8ca5b83d94629570cd4ba081f4e7ff2cae84093bea9cad9160de2e3"
+  },
+  "assets/library/plus100-maple.webp": {
+    "src": "assets/offline/plus100-maple.webp",
+    "sha256": "2b773b9dde234f3d217951e9a23333e8feb43ed3b4a8de1b29390cb9fc8a2155"
+  },
+  "assets/library/plus100-snowflake.webp": {
+    "src": "assets/offline/plus100-snowflake.webp",
+    "sha256": "b382730adfa3e1b13b9c88e20b2695b2b7ac1f4250f73808fd75b1b5faf3ac70"
+  },
+  "assets/library/plus100-raincloud.webp": {
+    "src": "assets/offline/plus100-raincloud.webp",
+    "sha256": "d65ce70995ad20008196b8a1bff388a5214d9b5680683e16596b3fe39ed79ba6"
+  },
+  "assets/library/plus100-rainbow.webp": {
+    "src": "assets/offline/plus100-rainbow.webp",
+    "sha256": "b542f8e8fb950c8389c3eb13ff494c621ee00079a93786193c520bd3774daff0"
+  },
+  "assets/library/plus100-bamboo.webp": {
+    "src": "assets/offline/plus100-bamboo.webp",
+    "sha256": "726be86d9b275073d79523a92acee25dfde0f0c04f400c07da7e7bd64d91542f"
+  },
+  "assets/library/plus100-acorn.webp": {
+    "src": "assets/offline/plus100-acorn.webp",
+    "sha256": "19d90af308a1fd9c6edc6d431388cc38163a256f1badc3ade1f37d97e8894dec"
+  },
+  "assets/library/plus100-mushroom.webp": {
+    "src": "assets/offline/plus100-mushroom.webp",
+    "sha256": "a9eb7fb866a2cc9eedad1b0ce32d4994a3adc0cd430c1d0c3f905a2321e3c6b5"
+  },
+  "assets/library/plus100-butterfly.webp": {
+    "src": "assets/offline/plus100-butterfly.webp",
+    "sha256": "2995c67832d457fb3cb1416040e26377b0e326f8cb0ec0a32e29d81e5b8d38b0"
+  },
+  "assets/library/plus100-firefly.webp": {
+    "src": "assets/offline/plus100-firefly.webp",
+    "sha256": "c1f25fa8ce242cd9a20a6996a934c94165157f74ea34dcdddcb29d0147b72365"
+  },
+  "assets/library/plus100-aviator.webp": {
+    "src": "assets/offline/plus100-aviator.webp",
+    "sha256": "d2ccb10e8494f4c4f4086d2db59a79767ed3734338fc7d8add9babb0439f977d"
+  },
+  "assets/library/plus100-steam-driver.webp": {
+    "src": "assets/offline/plus100-steam-driver.webp",
+    "sha256": "0279886db8e00d0a096427e0b4b6a25be8f309ceec0c528bc8af4aaba895ff79"
+  },
+  "assets/library/plus100-retro-post.webp": {
+    "src": "assets/offline/plus100-retro-post.webp",
+    "sha256": "799e8c119fb8971644facbf93f533c1a76acd0f3aaadd63e353348cb76d76d0f"
+  },
+  "assets/library/plus100-cinema.webp": {
+    "src": "assets/offline/plus100-cinema.webp",
+    "sha256": "06cff5201ce42af655d6f285253ebb5b37b7955c092d4bcb57a07de97af7d807"
+  },
+  "assets/library/plus100-bell-diver.webp": {
+    "src": "assets/offline/plus100-bell-diver.webp",
+    "sha256": "97b1822b961ab8fe94ed16fb2d51ad426961402f38f4b0f0ad023f7d46a50980"
+  },
+  "assets/library/plus100-globe-traveler.webp": {
+    "src": "assets/offline/plus100-globe-traveler.webp",
+    "sha256": "7c2fa93f8d0b321e28ae1cbf0dd55ee1b54def1539bfc2af5a9d8c3a355266b2"
+  },
+  "assets/library/plus100-orient-suitcase.webp": {
+    "src": "assets/offline/plus100-orient-suitcase.webp",
+    "sha256": "1726f0899b7e3b8b5afc0030b76fe6873b344fdfc795f1e7095353bf0c11bf98"
+  },
+  "assets/library/plus100-gondolier.webp": {
+    "src": "assets/offline/plus100-gondolier.webp",
+    "sha256": "ae2e83e7e3bdd92f24fc8eb7baeb5eae1e47de128d591cb943941e88fd18b8b8"
+  },
+  "assets/library/plus100-alpine-hiker.webp": {
+    "src": "assets/offline/plus100-alpine-hiker.webp",
+    "sha256": "a8a1268f18c77ab5a3225e282be71be17a3b83c03e587cae6167cef0e6e6e03f"
+  },
+  "assets/library/plus100-desert-explorer.webp": {
+    "src": "assets/offline/plus100-desert-explorer.webp",
+    "sha256": "be2fc570730ca89b2c1247a6d3d9bd07a391a4414655591fce47238faeea8cbb"
+  },
+  "assets/library/plus100-rubik.webp": {
+    "src": "assets/offline/plus100-rubik.webp",
+    "sha256": "9f22a39e3de5075cadb629cd8091de685e962fb709cc1fc6ce53ffb73add1d4c"
+  },
+  "assets/library/plus100-chess.webp": {
+    "src": "assets/offline/plus100-chess.webp",
+    "sha256": "b41a3532d6c67e75d4daa917b90edca255e1ff31773abc42bb2bd2d1455aa234"
+  },
+  "assets/library/plus100-kite.webp": {
+    "src": "assets/offline/plus100-kite.webp",
+    "sha256": "c970280a7e59c48cf02a83aa4e730491bd594491ff2f39630c576753f9a74806"
+  },
+  "assets/library/plus100-bubble.webp": {
+    "src": "assets/offline/plus100-bubble.webp",
+    "sha256": "90c1533518c666ed5cead25f6bc304754b33d0c702c2f80bce826cf70ae04c86"
+  },
+  "assets/library/plus100-yoyo.webp": {
+    "src": "assets/offline/plus100-yoyo.webp",
+    "sha256": "505bef43d48f8d51a7d2cf5e9e807becf3b22410ee9b34ceee1fc7b10e6308be"
+  },
+  "assets/library/plus100-boardgame.webp": {
+    "src": "assets/offline/plus100-boardgame.webp",
+    "sha256": "6d391fc3917686d73baf2ad7b285cf6f328a467b16bebca792baf029af55c6d1"
+  },
+  "assets/library/plus100-toy-blocks.webp": {
+    "src": "assets/offline/plus100-toy-blocks.webp",
+    "sha256": "c4045c8fc2caaff937bd7cfab1d28d740583275fcb0fc56ed3527c49ded95dbd"
+  },
+  "assets/library/plus100-rubber-duck.webp": {
+    "src": "assets/offline/plus100-rubber-duck.webp",
+    "sha256": "d28e36403750e16cb088a9885da0dfaa8b5ef274e81de8a1ddea71904278d79a"
+  },
+  "assets/library/plus100-pinwheel.webp": {
+    "src": "assets/offline/plus100-pinwheel.webp",
+    "sha256": "ae643bd87af74a355582f7444d27c4dce6bef04486cb48b4d77d67494d205c12"
+  },
+  "assets/library/plus100-kendama.webp": {
+    "src": "assets/offline/plus100-kendama.webp",
+    "sha256": "daa3bb6bda0f0fdb41366e35bdd8c7af28a8b9bddd2d6e606df45cd6105b7850"
+  },
+  "assets/library/plus100-croissant.webp": {
+    "src": "assets/offline/plus100-croissant.webp",
+    "sha256": "49f22b23f424b069d38760cc02ed9879432f0d62abf05560d96f2007f8ca7856"
+  },
+  "assets/library/plus100-pudding.webp": {
+    "src": "assets/offline/plus100-pudding.webp",
+    "sha256": "37626909c21ed516d2f8c2bc23f0dad22bf6557922cc96727ea4239ab04bebb7"
+  },
+  "assets/library/plus100-melon-soda.webp": {
+    "src": "assets/offline/plus100-melon-soda.webp",
+    "sha256": "821ed1d0c9e500dea58ae47558aeaae1da4a9fd790c32933b21d57be18b341e6"
+  },
+  "assets/library/plus100-taiyaki.webp": {
+    "src": "assets/offline/plus100-taiyaki.webp",
+    "sha256": "b54aa977bfd9ec3417dbcff476b82ec3735122efc3bf0d75dc50e04b84f21c53"
+  },
+  "assets/library/plus100-edamame.webp": {
+    "src": "assets/offline/plus100-edamame.webp",
+    "sha256": "916dd4b021315417ec03ad2cd81624b7d704ebd0af90dea480ef69de7ea803bd"
+  },
+  "assets/library/plus100-chocolate.webp": {
+    "src": "assets/offline/plus100-chocolate.webp",
+    "sha256": "425068492db8c07b46eee034a671b9a8337d2ebaf30f4ab47f98ce4bd29b64db"
+  },
+  "assets/library/plus100-popcorn.webp": {
+    "src": "assets/offline/plus100-popcorn.webp",
+    "sha256": "b1d8a665f61b5734eede8a5c94790bf909778842fceffd0995d785c5d714fdbf"
+  },
+  "assets/library/plus100-fried-egg.webp": {
+    "src": "assets/offline/plus100-fried-egg.webp",
+    "sha256": "04cc1693e27304ec548d9546c15637e84718604dc636a600d504a8f59c9ef5dd"
+  },
+  "assets/library/plus100-onion.webp": {
+    "src": "assets/offline/plus100-onion.webp",
+    "sha256": "67258ce592760a32c6496a919f6487b553d42e7d0c2d9dd2a06cabd2f363c351"
+  },
+  "assets/library/plus100-honey-toast.webp": {
+    "src": "assets/offline/plus100-honey-toast.webp",
+    "sha256": "734b6329e049dca24e2c9440e2e9d78225674b06b1948c9cd6075201a4f727bb"
+  },
+  "assets/library/plus100-baseball-catcher.webp": {
+    "src": "assets/offline/plus100-baseball-catcher.webp",
+    "sha256": "0aff063d2d038622cee5e74045083256afb2f85583fe16e8bef3f558feaf2184"
+  },
+  "assets/library/plus100-basketball.webp": {
+    "src": "assets/offline/plus100-basketball.webp",
+    "sha256": "833ba81400022db877a253594a4fdb826c9549dcaeae24fe0029b676f144a6ce"
+  },
+  "assets/library/plus100-tennis.webp": {
+    "src": "assets/offline/plus100-tennis.webp",
+    "sha256": "4f47d53626a482bf6d6515c215712f775cd8dc1d47405da0e78da5bb9102fed0"
+  },
+  "assets/library/plus100-badminton.webp": {
+    "src": "assets/offline/plus100-badminton.webp",
+    "sha256": "428a878b74a3e2949669641ea0451461c1bd547fc06008c63bce4d4ebe0493d8"
+  },
+  "assets/library/plus100-archery.webp": {
+    "src": "assets/offline/plus100-archery.webp",
+    "sha256": "3e5fd08e753732b72ca03a4ade3ff3a29734b0870a9f77b6c27fb7733e07c99b"
+  },
+  "assets/library/plus100-skateboard.webp": {
+    "src": "assets/offline/plus100-skateboard.webp",
+    "sha256": "f124227374bc06f2ec6d72f35975dabde299aa8f6214827c5911c22e0641948e"
+  },
+  "assets/library/plus100-table-referee.webp": {
+    "src": "assets/offline/plus100-table-referee.webp",
+    "sha256": "31b71aa5e2958fd1a780ce31f6d09654e27f99744fd7e208a163ec4e63fe6beb"
+  },
+  "assets/library/plus100-weightlifting.webp": {
+    "src": "assets/offline/plus100-weightlifting.webp",
+    "sha256": "407e5cd34b48c5152cfd67b8a966558a58b3b4ac83877cb6d2db2c762f5b81fa"
+  },
+  "assets/library/plus100-ice-hockey.webp": {
+    "src": "assets/offline/plus100-ice-hockey.webp",
+    "sha256": "dae3706c6c2f88d931b64afb9525e910cf5dea13972aff93012392c4a8ebf573"
+  },
+  "assets/library/plus100-cricket.webp": {
+    "src": "assets/offline/plus100-cricket.webp",
+    "sha256": "f091f89d3a5618f8ab79beec734a0f3dd340b2b45b67412f8073ccc81e68861c"
+  },
+  "assets/library/plus100-dentist.webp": {
+    "src": "assets/offline/plus100-dentist.webp",
+    "sha256": "2d3f5e35ea92a377a6a488769aade9cef0963b9e42243b42e29042f15f084d6b"
+  },
+  "assets/library/plus100-barista.webp": {
+    "src": "assets/offline/plus100-barista.webp",
+    "sha256": "dc5ae723b9183ca8a106f23f44f3fbafc19d9ca96c5a34fb9ac67905d6019754"
+  },
+  "assets/library/plus100-baker.webp": {
+    "src": "assets/offline/plus100-baker.webp",
+    "sha256": "707b76058d97aa1b261cf6682f127bee5849b71f9c5aef340267cfc0b2a74130"
+  },
+  "assets/library/plus100-astronomer.webp": {
+    "src": "assets/offline/plus100-astronomer.webp",
+    "sha256": "cd16aa67da6f9df214573c229ccea5804faefc242218013d5d2d10eb775c7b1b"
+  },
+  "assets/library/plus100-archaeologist.webp": {
+    "src": "assets/offline/plus100-archaeologist.webp",
+    "sha256": "6f34064d6984c98cad8dcd4d6158d1db97d3f88338fad8cef1057809e4bf8bd8"
+  },
+  "assets/library/plus100-train-station.webp": {
+    "src": "assets/offline/plus100-train-station.webp",
+    "sha256": "c56cb87bd109410ed6786600683fb3047ca95e36675c0913df56f5fffa87237b"
+  },
+  "assets/library/plus100-scientist.webp": {
+    "src": "assets/offline/plus100-scientist.webp",
+    "sha256": "097a812e8a2c03ed6ab781edadae3a28cbea36c5c5d876cec9e510832d0261db"
+  },
+  "assets/library/plus100-gardener.webp": {
+    "src": "assets/offline/plus100-gardener.webp",
+    "sha256": "b400169d47ec5c658ca495092785359b123b73f9c52312a1407334debdf8604c"
+  },
+  "assets/library/plus100-hairdresser.webp": {
+    "src": "assets/offline/plus100-hairdresser.webp",
+    "sha256": "9f25065f1eaa91aae83d0b3532c7292d2cf02655cfe244eaee8a3153b084f517"
+  },
+  "assets/library/plus100-radio-host.webp": {
+    "src": "assets/offline/plus100-radio-host.webp",
+    "sha256": "b7e84af716fc455618cda6c60e20b5b8373459a6692b4a63ebd0cece3d57e32d"
+  },
+  "assets/library/plus100-seahorse.webp": {
+    "src": "assets/offline/plus100-seahorse.webp",
+    "sha256": "bc9875d4337b6a767c8e4b1f2ee4357ac9f145df36f6ed7b0cb20a6b9196267a"
+  },
+  "assets/library/plus100-nautilus.webp": {
+    "src": "assets/offline/plus100-nautilus.webp",
+    "sha256": "6b7ae1cfbea7b51d12421517151d5b44ece59bd4b3ca5fb65e96f5d7e44b0311"
+  },
+  "assets/library/plus100-lobster.webp": {
+    "src": "assets/offline/plus100-lobster.webp",
+    "sha256": "4410db5c2310d5ff99de57038ce3a4b39eb65faa9a622c9fdae3514154657e21"
+  },
+  "assets/library/plus100-starfish.webp": {
+    "src": "assets/offline/plus100-starfish.webp",
+    "sha256": "6c56ab8e4addffe4ea9c650c89eb7ac9032e6878feb89d780535dceba8c5d346"
+  },
+  "assets/library/plus100-sea-urchin.webp": {
+    "src": "assets/offline/plus100-sea-urchin.webp",
+    "sha256": "4f6e698a38031c0368d75b18a546378db03b7094d73af4f9cbd173e591a09f21"
+  },
+  "assets/library/plus100-jellyfish-lamp.webp": {
+    "src": "assets/offline/plus100-jellyfish-lamp.webp",
+    "sha256": "0405065784a277abbc6d79fb0063eb25ff990078438a9703cf297c4783332768"
+  },
+  "assets/library/plus100-jellyfish-raincoat.webp": {
+    "src": "assets/offline/plus100-jellyfish-raincoat.webp",
+    "sha256": "d6447aa15f7d95c7c50ff78b8b31b26d0e36a635a37767a0e7709675b5529910"
+  },
+  "assets/library/plus100-jellyfish-puppet.webp": {
+    "src": "assets/offline/plus100-jellyfish-puppet.webp",
+    "sha256": "03d995a4d72a3c2b1662b600efe21c22bbacce6440670b42d066f7b25ed337c7"
+  },
+  "assets/library/plus100-message-bottle.webp": {
+    "src": "assets/offline/plus100-message-bottle.webp",
+    "sha256": "87813785b29da034f47362f708f362306adb39ba0acd20b23a0b29669fa1d835"
+  },
+  "assets/library/plus100-treasure-chest.webp": {
+    "src": "assets/offline/plus100-treasure-chest.webp",
+    "sha256": "666e400e62249e091b6c51380fae0f75a73b1c54860105000afa7fb4b941f0fa"
+  },
+  "assets/library/plus100-alchemist.webp": {
+    "src": "assets/offline/plus100-alchemist.webp",
+    "sha256": "e3f6eddd2975a80510326374b74938e111668b3d4de3ff424dfadf4abcf82ebd"
+  },
+  "assets/library/plus100-elf.webp": {
+    "src": "assets/offline/plus100-elf.webp",
+    "sha256": "cf2909b49037f7c5a5de0a091bed5ec1ccfa389b49e4ed1b1e7ab66241d280d4"
+  },
+  "assets/library/plus100-pirate.webp": {
+    "src": "assets/offline/plus100-pirate.webp",
+    "sha256": "a92b9ee7779dbeb2ca6c6833ad7779cace82d5a50eeb8f21aa7f769281f86e1d"
+  },
+  "assets/library/plus100-jester.webp": {
+    "src": "assets/offline/plus100-jester.webp",
+    "sha256": "84f87eb2749daef2b89a59c4a1089da19c78e67175dc64f139df0008480b2d91"
+  },
+  "assets/library/plus100-snow-king.webp": {
+    "src": "assets/offline/plus100-snow-king.webp",
+    "sha256": "96ec47369823d95a73bbd932ffe36ae3b234ec7badf757d4536884afef3e290e"
+  },
+  "assets/library/plus100-moon-rabbit.webp": {
+    "src": "assets/offline/plus100-moon-rabbit.webp",
+    "sha256": "d50d24cf50959cae73712544c90c2a5b18fbb2d7b592e173fa2af33ee571bc4f"
+  },
+  "assets/library/plus100-phoenix.webp": {
+    "src": "assets/offline/plus100-phoenix.webp",
+    "sha256": "aa0f08a141e004998887a0eaf31467079067d17c8140e89102998f5a485b448e"
+  },
+  "assets/library/plus100-gargoyle.webp": {
+    "src": "assets/offline/plus100-gargoyle.webp",
+    "sha256": "5fcd6786b1f138ff6eec460e9b8a32cf9775d300760d67ebd10cfdf7dcb913db"
+  },
+  "assets/library/plus100-timekeeper.webp": {
+    "src": "assets/offline/plus100-timekeeper.webp",
+    "sha256": "06d7a2ef5bac171aed9ed1936b66dcb542b12811443ece55f932ec42a8f8f522"
+  },
+  "assets/library/plus100-cloud-sage.webp": {
+    "src": "assets/offline/plus100-cloud-sage.webp",
+    "sha256": "526075f50caed3b30c834c4152257a0cc85e3dd1d983ac053c7aa98b3125f5c1"
+  }
+}

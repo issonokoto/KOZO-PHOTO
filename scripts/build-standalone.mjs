@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import {spawnSync} from 'node:child_process';
+import {createHash} from 'node:crypto';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {BUNDLED_POSES} from '../poses.js';
@@ -10,7 +11,13 @@ let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 html=html.replace(/\s*<link rel="(?:manifest|apple-touch-icon)"[^>]*>/g,'');
 let js=fs.readFileSync(path.join(root,'camera.js'),'utf8').replace("import { renderTextCanvas } from './text.js';",'').replace(/import \{ BUNDLED_POSES \} from '\.\/poses\.js(?:\?[^']*)?';/,'');
 js=js.replace(/import \{ BUNDLED_FRAMES, drawPhotoFrame \} from '\.\/frames\.js(?:\?[^']*)?';/,'');
+const offlineIndex=path.join(root,'assets','offline','index.json');
+const offlineImages=fs.existsSync(offlineIndex)?JSON.parse(fs.readFileSync(offlineIndex,'utf8')):{};
 function embed(file){
+ const original=fs.readFileSync(path.join(root,file));
+ const cached=offlineImages[file.replace(/^\.\//,'')];
+ // Only reuse a compact export when it still matches the exact source image.
+ if(cached&&createHash('sha256').update(original).digest('hex')===cached.sha256&&fs.existsSync(path.join(root,cached.src)))file=cached.src;
  const mime={'.png':'image/png','.webp':'image/webp'}[path.extname(file)];
  if(!mime)throw new Error('Unsupported image: '+file);
  return 'data:'+mime+';base64,'+fs.readFileSync(path.join(root,file)).toString('base64');

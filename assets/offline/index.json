@@ -446,5 +446,101 @@
   "assets/library/plus100-cloud-sage.webp": {
     "src": "assets/offline/plus100-cloud-sage.webp",
     "sha256": "526075f50caed3b30c834c4152257a0cc85e3dd1d983ac053c7aa98b3125f5c1"
+  },
+  "assets/library/normal-hands-back.webp": {
+    "src": "assets/offline/normal-hands-back.webp",
+    "sha256": "52c736c259bcf1b4404aa521e376edc11db669a9bd1774e5000cf8860eec4d79"
+  },
+  "assets/library/normal-hands-front.webp": {
+    "src": "assets/offline/normal-hands-front.webp",
+    "sha256": "0ebc8f6502719c8070a0f0965c8ccb1416d3ff2b727a7cba68caeffced2f9529"
+  },
+  "assets/library/normal-one-hand-hip.webp": {
+    "src": "assets/offline/normal-one-hand-hip.webp",
+    "sha256": "711faffdcdb77fa3247525902fe64f840cd42eba0e099bf66b59547e15f42ba4"
+  },
+  "assets/library/normal-both-hands-hips.webp": {
+    "src": "assets/offline/normal-both-hands-hips.webp",
+    "sha256": "5c94d5a6117632d03d43d7a0e95972498dec7fb175123c836d571da4b7874c8b"
+  },
+  "assets/library/normal-double-peace.webp": {
+    "src": "assets/offline/normal-double-peace.webp",
+    "sha256": "cdc46ad8c84ca062d8e8a19ea4124c5c497358cf971897dd335bd2e2cd774006"
+  },
+  "assets/library/normal-double-thumbs.webp": {
+    "src": "assets/offline/normal-double-thumbs.webp",
+    "sha256": "f4bd1151c85ddf92ec2fd51ab6b8be5cf42f50d41a9c56b7b240d78f24b9e209"
+  },
+  "assets/library/normal-double-wave.webp": {
+    "src": "assets/offline/normal-double-wave.webp",
+    "sha256": "a65d6dd0f2961d1b91c9b90fa32a1d6ea53047aab44247e2c1afa1683c506d05"
+  },
+  "assets/library/normal-small-wave.webp": {
+    "src": "assets/offline/normal-small-wave.webp",
+    "sha256": "5ab11895db161cc08c2e840d7c694f3a8dd73dc07f1e192485268b366185a42c"
+  },
+  "assets/library/normal-finger-heart.webp": {
+    "src": "assets/offline/normal-finger-heart.webp",
+    "sha256": "f1d1a487d29c5b733ca332bda91d915343a0ca01d7d3664a112ece6a61ff0aaf"
+  },
+  "assets/library/normal-okay.webp": {
+    "src": "assets/offline/normal-okay.webp",
+    "sha256": "54fe6cb32621c605e9a2241a7946f304132274c1f5e7ac64f4438b53632a6580"
+  },
+  "assets/library/normal-thinking.webp": {
+    "src": "assets/offline/normal-thinking.webp",
+    "sha256": "1341bdaaaf741c6b9dc297d9e440bff4f8422258d6153ab306e72aff621f75b1"
+  },
+  "assets/library/normal-laugh.webp": {
+    "src": "assets/offline/normal-laugh.webp",
+    "sha256": "f2d140a26c13a4fadf0dd6f743b2cc4f027fb7b3f916ecc2a5ea5eb08e1d8893"
+  },
+  "assets/library/normal-thanks.webp": {
+    "src": "assets/offline/normal-thanks.webp",
+    "sha256": "4f1107654c6c43a7da5981d69bb3824d1583a2a4c86a8a73a49fa6b4057901ee"
+  },
+  "assets/library/normal-clap.webp": {
+    "src": "assets/offline/normal-clap.webp",
+    "sha256": "15528371cd2f22b649fa44a62cb13cf9a9cafece7e2603b8b76ba4797c1ec184"
+  },
+  "assets/library/normal-hand-chest.webp": {
+    "src": "assets/offline/normal-hand-chest.webp",
+    "sha256": "2e501f23cb7cb2e1961f6d54cdd3fb6b69e913d4d011f9bb659a08c167bc56a3"
+  },
+  "assets/library/normal-beckon.webp": {
+    "src": "assets/offline/normal-beckon.webp",
+    "sha256": "02428a68ac344290a1328730fb9a3b08ca96653c0dbdacaa87e4a3d875103dbb"
+  },
+  "assets/library/normal-small-nod.webp": {
+    "src": "assets/offline/normal-small-nod.webp",
+    "sha256": "3f0d332d66c6107643da8e0e1dbbbcac6bbe6be35fbee679e701b5305b0373ec"
+  },
+  "assets/library/normal-walking.webp": {
+    "src": "assets/offline/normal-walking.webp",
+    "sha256": "68224fa821b3826ef7d2a9155c62ed7549e0d92a293bf5a06d8dba07587d7ed0"
+  },
+  "assets/library/normal-turn-left.webp": {
+    "src": "assets/offline/normal-turn-left.webp",
+    "sha256": "53542608e515ee4e1141aff281bff990a0655b783a275277fdd1311781a027c9"
+  },
+  "assets/library/normal-turn-right.webp": {
+    "src": "assets/offline/normal-turn-right.webp",
+    "sha256": "15a81791af8ef8c7ed476aba3a4c10ed874ae2d730e1359e2e5879d44884892c"
+  },
+  "assets/library/normal-lean-left.webp": {
+    "src": "assets/offline/normal-lean-left.webp",
+    "sha256": "0090b761d4cc76dc32b3d95e46a155b67c5fe1731880f9eda659f38dd21cf295"
+  },
+  "assets/library/normal-lean-right.webp": {
+    "src": "assets/offline/normal-lean-right.webp",
+    "sha256": "77f86dd0419ff580df493fd5b0376f9386bd4f26723a3d3fe697c2a671cf3ffc"
+  },
+  "assets/library/normal-look-up.webp": {
+    "src": "assets/offline/normal-look-up.webp",
+    "sha256": "77540aa64eae07ba053a49e78802df3f2eb5af39e79cf6136a45ca96cd7cf41c"
+  },
+  "assets/library/normal-small-fist.webp": {
+    "src": "assets/offline/normal-small-fist.webp",
+    "sha256": "0b6d2b2a6ce3f29fa68d1673b92c9043d6ac40b9742fa9ae7cc219edd2638de4"
   }
 }

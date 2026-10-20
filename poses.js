@@ -85,6 +85,342 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "normal-hands-back",
+    "name": "後ろで手を組む",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "後ろで手を組む"
+    ],
+    "src": "./assets/library/normal-hands-back.webp",
+    "thumbnail": "./assets/thumbnails/normal-hands-back.webp"
+  },
+  {
+    "id": "normal-hands-front",
+    "name": "前で手を添える",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "前で手を添える"
+    ],
+    "src": "./assets/library/normal-hands-front.webp",
+    "thumbnail": "./assets/thumbnails/normal-hands-front.webp"
+  },
+  {
+    "id": "normal-one-hand-hip",
+    "name": "片手を腰に",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "片手を腰に"
+    ],
+    "src": "./assets/library/normal-one-hand-hip.webp",
+    "thumbnail": "./assets/thumbnails/normal-one-hand-hip.webp"
+  },
+  {
+    "id": "normal-both-hands-hips",
+    "name": "両手を腰に",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "両手を腰に"
+    ],
+    "src": "./assets/library/normal-both-hands-hips.webp",
+    "thumbnail": "./assets/thumbnails/normal-both-hands-hips.webp"
+  },
+  {
+    "id": "normal-double-peace",
+    "name": "両手ピース",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "両手ピース"
+    ],
+    "src": "./assets/library/normal-double-peace.webp",
+    "thumbnail": "./assets/thumbnails/normal-double-peace.webp"
+  },
+  {
+    "id": "normal-double-thumbs",
+    "name": "両手グッド",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "両手グッド"
+    ],
+    "src": "./assets/library/normal-double-thumbs.webp",
+    "thumbnail": "./assets/thumbnails/normal-double-thumbs.webp"
+  },
+  {
+    "id": "normal-double-wave",
+    "name": "両手でバイバイ",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "両手でバイバイ"
+    ],
+    "src": "./assets/library/normal-double-wave.webp",
+    "thumbnail": "./assets/thumbnails/normal-double-wave.webp"
+  },
+  {
+    "id": "normal-small-wave",
+    "name": "小さく手を振る",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "小さく手を振る"
+    ],
+    "src": "./assets/library/normal-small-wave.webp",
+    "thumbnail": "./assets/thumbnails/normal-small-wave.webp"
+  },
+  {
+    "id": "normal-finger-heart",
+    "name": "指ハート",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "指ハート"
+    ],
+    "src": "./assets/library/normal-finger-heart.webp",
+    "thumbnail": "./assets/thumbnails/normal-finger-heart.webp"
+  },
+  {
+    "id": "normal-okay",
+    "name": "オッケー",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "オッケー"
+    ],
+    "src": "./assets/library/normal-okay.webp",
+    "thumbnail": "./assets/thumbnails/normal-okay.webp"
+  },
+  {
+    "id": "normal-thinking",
+    "name": "考え中",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "考え中"
+    ],
+    "src": "./assets/library/normal-thinking.webp",
+    "thumbnail": "./assets/thumbnails/normal-thinking.webp"
+  },
+  {
+    "id": "normal-laugh",
+    "name": "口元に手を添えて笑う",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "口元に手を添えて笑う"
+    ],
+    "src": "./assets/library/normal-laugh.webp",
+    "thumbnail": "./assets/thumbnails/normal-laugh.webp"
+  },
+  {
+    "id": "normal-thanks",
+    "name": "手を合わせてありがとう",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "手を合わせてありがとう"
+    ],
+    "src": "./assets/library/normal-thanks.webp",
+    "thumbnail": "./assets/thumbnails/normal-thanks.webp"
+  },
+  {
+    "id": "normal-clap",
+    "name": "拍手",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "拍手"
+    ],
+    "src": "./assets/library/normal-clap.webp",
+    "thumbnail": "./assets/thumbnails/normal-clap.webp"
+  },
+  {
+    "id": "normal-hand-chest",
+    "name": "胸に手を添える",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "胸に手を添える"
+    ],
+    "src": "./assets/library/normal-hand-chest.webp",
+    "thumbnail": "./assets/thumbnails/normal-hand-chest.webp"
+  },
+  {
+    "id": "normal-beckon",
+    "name": "こちらへどうぞ",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "こちらへどうぞ"
+    ],
+    "src": "./assets/library/normal-beckon.webp",
+    "thumbnail": "./assets/thumbnails/normal-beckon.webp"
+  },
+  {
+    "id": "normal-small-nod",
+    "name": "軽く会釈",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "軽く会釈"
+    ],
+    "src": "./assets/library/normal-small-nod.webp",
+    "thumbnail": "./assets/thumbnails/normal-small-nod.webp"
+  },
+  {
+    "id": "normal-walking",
+    "name": "ゆっくり歩く",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "ゆっくり歩く"
+    ],
+    "src": "./assets/library/normal-walking.webp",
+    "thumbnail": "./assets/thumbnails/normal-walking.webp"
+  },
+  {
+    "id": "normal-turn-left",
+    "name": "左向きでにっこり",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "左向きでにっこり"
+    ],
+    "src": "./assets/library/normal-turn-left.webp",
+    "thumbnail": "./assets/thumbnails/normal-turn-left.webp"
+  },
+  {
+    "id": "normal-turn-right",
+    "name": "右向きでにっこり",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "右向きでにっこり"
+    ],
+    "src": "./assets/library/normal-turn-right.webp",
+    "thumbnail": "./assets/thumbnails/normal-turn-right.webp"
+  },
+  {
+    "id": "normal-lean-left",
+    "name": "左に寄り添う",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "左に寄り添う"
+    ],
+    "src": "./assets/library/normal-lean-left.webp",
+    "thumbnail": "./assets/thumbnails/normal-lean-left.webp"
+  },
+  {
+    "id": "normal-lean-right",
+    "name": "右に寄り添う",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "右に寄り添う"
+    ],
+    "src": "./assets/library/normal-lean-right.webp",
+    "thumbnail": "./assets/thumbnails/normal-lean-right.webp"
+  },
+  {
+    "id": "normal-look-up",
+    "name": "空を見上げる",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "空を見上げる"
+    ],
+    "src": "./assets/library/normal-look-up.webp",
+    "thumbnail": "./assets/thumbnails/normal-look-up.webp"
+  },
+  {
+    "id": "normal-small-fist",
+    "name": "小さく応援",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "いつもの幸造",
+      "定番追加24",
+      "小さく応援"
+    ],
+    "src": "./assets/library/normal-small-fist.webp",
+    "thumbnail": "./assets/thumbnails/normal-small-fist.webp"
+  },
+  {
     "id": "plus100-accordion",
     "name": "アコーディオン幸造",
     "category": "音楽・ステージ",

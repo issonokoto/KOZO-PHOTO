@@ -4,6 +4,8 @@
 
 GitHub Pagesの公開先: **https://issonokoto.github.io/KOZO-PHOTO/**
 
+XなどでURLを共有するときの画像・タイトル・説明を、入口のHTMLに登録しています。画像は利用者提供の「KOHZO PHOTO 一般公開」の案内を、切り抜かず1200×600の枠内に収めた `assets/share/kohzo-photo-20261021.png` です。X用のTwitter CardとOpen Graphの両方に同じ公開画像URLを指定しています。サイト側の設定と画像配信を確認しても、X側の取得・キャッシュ・実際の表示までは保証できません。
+
 ## GitHubで公開する
 
 このアプリはビルドなしで公開できます。リポジトリ直下の `index.html` が入口です。

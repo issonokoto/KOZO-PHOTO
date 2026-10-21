@@ -85,6 +85,198 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "comedy-index-up",
+    "name": "胸を張って指一本",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "胸を張って指一本"
+    ],
+    "src": "./assets/library/comedy-index-up.webp",
+    "thumbnail": "./assets/thumbnails/comedy-index-up.webp"
+  },
+  {
+    "id": "comedy-double-point",
+    "name": "両手で指さし",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "両手で指さし"
+    ],
+    "src": "./assets/library/comedy-double-point.webp",
+    "thumbnail": "./assets/thumbnails/comedy-double-point.webp"
+  },
+  {
+    "id": "comedy-chin-elbow",
+    "name": "ひじを張ってあごに手",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "ひじを張ってあごに手"
+    ],
+    "src": "./assets/library/comedy-chin-elbow.webp",
+    "thumbnail": "./assets/thumbnails/comedy-chin-elbow.webp"
+  },
+  {
+    "id": "comedy-diagonal-arms",
+    "name": "両腕ななめ下",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "両腕ななめ下"
+    ],
+    "src": "./assets/library/comedy-diagonal-arms.webp",
+    "thumbnail": "./assets/thumbnails/comedy-diagonal-arms.webp"
+  },
+  {
+    "id": "comedy-knee-fist",
+    "name": "片ひざ上げてこぶし",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "片ひざ上げてこぶし"
+    ],
+    "src": "./assets/library/comedy-knee-fist.webp",
+    "thumbnail": "./assets/thumbnails/comedy-knee-fist.webp"
+  },
+  {
+    "id": "comedy-face-frame",
+    "name": "顔の横でぱっと",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "顔の横でぱっと"
+    ],
+    "src": "./assets/library/comedy-face-frame.webp",
+    "thumbnail": "./assets/thumbnails/comedy-face-frame.webp"
+  },
+  {
+    "id": "comedy-shrug",
+    "name": "肩をすくめてとぼけ顔",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "肩をすくめてとぼけ顔"
+    ],
+    "src": "./assets/library/comedy-shrug.webp",
+    "thumbnail": "./assets/thumbnails/comedy-shrug.webp"
+  },
+  {
+    "id": "comedy-stumble",
+    "name": "おっとっと",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "おっとっと"
+    ],
+    "src": "./assets/library/comedy-stumble.webp",
+    "thumbnail": "./assets/thumbnails/comedy-stumble.webp"
+  },
+  {
+    "id": "comedy-side-point",
+    "name": "横へびしっと",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "横へびしっと"
+    ],
+    "src": "./assets/library/comedy-side-point.webp",
+    "thumbnail": "./assets/thumbnails/comedy-side-point.webp"
+  },
+  {
+    "id": "comedy-big-finish",
+    "name": "大きく決める",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "大きく決める"
+    ],
+    "src": "./assets/library/comedy-big-finish.webp",
+    "thumbnail": "./assets/thumbnails/comedy-big-finish.webp"
+  },
+  {
+    "id": "comedy-back-reaction",
+    "name": "のけぞりリアクション",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "のけぞりリアクション"
+    ],
+    "src": "./assets/library/comedy-back-reaction.webp",
+    "thumbnail": "./assets/thumbnails/comedy-back-reaction.webp"
+  },
+  {
+    "id": "comedy-belly-laugh",
+    "name": "お腹をかかえて大笑い",
+    "category": "定番",
+    "tags": [
+      "ノーマル",
+      "普段着",
+      "お笑い",
+      "決めポーズ",
+      "コミカル",
+      "お笑い追加12",
+      "お腹をかかえて大笑い"
+    ],
+    "src": "./assets/library/comedy-belly-laugh.webp",
+    "thumbnail": "./assets/thumbnails/comedy-belly-laugh.webp"
+  },
+  {
     "id": "nauru-smile",
     "name": "ナウル・笑顔",
     "category": "ナウル",

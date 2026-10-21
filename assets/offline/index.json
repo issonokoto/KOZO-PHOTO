@@ -886,5 +886,141 @@
   "assets/library/plant-pot.webp": {
     "src": "assets/offline/plant-pot.webp",
     "sha256": "3e033e56e60f1c1ad2cc87f8779b66fb14ae6f0a597581307320d73e17c07912"
+  },
+  "assets/library/tokushima-naruto-tai.webp": {
+    "src": "assets/offline/tokushima-naruto-tai.webp",
+    "sha256": "6f0b7277c51ce6ee71565657eadfb4b75ff858918c3ade0625546948b35ed2e7"
+  },
+  "assets/library/animal-elephant.webp": {
+    "src": "assets/offline/animal-elephant.webp",
+    "sha256": "af6c0744bf6da4ba319086cb2fb95401ff818ee9618594de2220fcb3d7c29399"
+  },
+  "assets/library/animal-tanuki.webp": {
+    "src": "assets/offline/animal-tanuki.webp",
+    "sha256": "a1b62a5a4df308075ea7ee062547cda21fc048c187b96f91a1da59b53cca9d41"
+  },
+  "assets/library/firefighter.webp": {
+    "src": "assets/offline/firefighter.webp",
+    "sha256": "147c19e7a20d87116d96a266f33c24bb7346006f1c63d7d707e46d7dc2b2d5e2"
+  },
+  "assets/library/animal-shark.webp": {
+    "src": "assets/offline/animal-shark.webp",
+    "sha256": "f4361c130c30f21fc4d175b39f00c6143abef465ca56fe4420e6beafe88cd761"
+  },
+  "assets/library/blanket.webp": {
+    "src": "assets/offline/blanket.webp",
+    "sha256": "f18c39433335da9a06cdc19655baa58adf4d758d732ca806375e0fd3bdfaaae0"
+  },
+  "assets/library/jellyfish-ring.webp": {
+    "src": "assets/offline/jellyfish-ring.webp",
+    "sha256": "e6ed6798b9763dbc110ec170e87d9ab8d57e3d0d83c8a408d104b2402a3d0b94"
+  },
+  "assets/library/captain-wheel.webp": {
+    "src": "assets/offline/captain-wheel.webp",
+    "sha256": "4afde94e2d4f2fc122748d8a65476e6cb7a1cb97d8b9cadee0b74038deb2e65f"
+  },
+  "assets/library/animal-gorilla.webp": {
+    "src": "assets/offline/animal-gorilla.webp",
+    "sha256": "11993a96dea40f5ee67f355cd2f45fc21424c193ed4dd397dcafb472a3e53e8b"
+  },
+  "assets/library/oversized-broom.webp": {
+    "src": "assets/offline/oversized-broom.webp",
+    "sha256": "8906bfe31e948a8ac98b75528d155f8ec7e3ed038e419361f811733632ee2911"
+  },
+  "assets/library/animal-frog.webp": {
+    "src": "assets/offline/animal-frog.webp",
+    "sha256": "54fb3414502dd9ce2a09ef2e9e09c1761f7b3377fed7afceb34eb1b30358aa39"
+  },
+  "assets/library/daikon.webp": {
+    "src": "assets/offline/daikon.webp",
+    "sha256": "7b66afad941fe418fb5f0c6de27903bc4b498e2fb815f2e74bcf7c7b873937f7"
+  },
+  "assets/library/pref-47-okinawa.webp": {
+    "src": "assets/offline/pref-47-okinawa.webp",
+    "sha256": "d80d0abbbd2e1b363054c5bd4af65cf8d85dc2f7c4c8142d9bdc0c17745013b1"
+  },
+  "assets/library/tokushima-naruto-whirlpool.webp": {
+    "src": "assets/offline/tokushima-naruto-whirlpool.webp",
+    "sha256": "21b676849e068451ab3b35f782a1280c07df08ecaeb9cf19e4cbf258d235b9f7"
+  },
+  "assets/library/party.webp": {
+    "src": "assets/offline/party.webp",
+    "sha256": "1b6f8d6cc068d94f914205902b7bbd3a476db2e9ae8035f47b4dd70d88a168fd"
+  },
+  "assets/library/animal-otter.webp": {
+    "src": "assets/offline/animal-otter.webp",
+    "sha256": "710f5beca7434c3958baf10d4c92c07d81db967dbcac138150b1cd86f1021d80"
+  },
+  "assets/library/photographer.webp": {
+    "src": "assets/offline/photographer.webp",
+    "sha256": "94e5c7a04282b1541b0f7220d911a1062712134f9dc1c04acdf78748286add04"
+  },
+  "assets/library/animal-shiba.webp": {
+    "src": "assets/offline/animal-shiba.webp",
+    "sha256": "4c6f5d7a62d0b335bd2350af043931cc6fc452bf100fd6e840b69f2dfa1ccb0c"
+  },
+  "assets/library/anchor-carrier.webp": {
+    "src": "assets/offline/anchor-carrier.webp",
+    "sha256": "40129750dde7f68017b8b3cc51d35f9ede6035b6bbb4afbeccab043d4593cb03"
+  },
+  "assets/library/pref-45-miyazaki.webp": {
+    "src": "assets/offline/pref-45-miyazaki.webp",
+    "sha256": "1da48334df1edd8653fd75174cbd71ea146d21bc6dea02073fc5cc6f8da7004f"
+  },
+  "assets/library/pref-01-hokkaido.webp": {
+    "src": "assets/offline/pref-01-hokkaido.webp",
+    "sha256": "9a74f947200c5b459b7a420c8131aa732d6321f295c77f92903f9a28fb450dc1"
+  },
+  "assets/library/tokushima-awa-taiko.webp": {
+    "src": "assets/offline/tokushima-awa-taiko.webp",
+    "sha256": "7255c5a63303e4c93465d4caa0c4ce059d1fec70dfb26e35a309f40114cb9d64"
+  },
+  "assets/library/comedy-index-up.webp": {
+    "src": "assets/offline/comedy-index-up.webp",
+    "sha256": "197f8ea2d4b3c7414755a7a6d5e889e8f63b00b8f3dc651f18364162ab681227"
+  },
+  "assets/library/comedy-double-point.webp": {
+    "src": "assets/offline/comedy-double-point.webp",
+    "sha256": "f8c484374e22dbddb9028ad38fc75ec6cbedcd6ae84085b5df51e59e9d8d9a4f"
+  },
+  "assets/library/comedy-chin-elbow.webp": {
+    "src": "assets/offline/comedy-chin-elbow.webp",
+    "sha256": "e8f2d07f46dac6bc76b27d05407cfac8af7c1ab213951697c2fde346ae754587"
+  },
+  "assets/library/comedy-diagonal-arms.webp": {
+    "src": "assets/offline/comedy-diagonal-arms.webp",
+    "sha256": "38b4c19285b5c51374c51f74b56211b21247a548915e17deda356644e867e1c0"
+  },
+  "assets/library/comedy-knee-fist.webp": {
+    "src": "assets/offline/comedy-knee-fist.webp",
+    "sha256": "c6ab9018129172385ae571c65eda2f91e10d54548f246a358d3845ec8c07070e"
+  },
+  "assets/library/comedy-face-frame.webp": {
+    "src": "assets/offline/comedy-face-frame.webp",
+    "sha256": "0d8ae4a98996ff8f9333ef4f479bff86e7dbc1dd8f8be32992dd7865280a3367"
+  },
+  "assets/library/comedy-shrug.webp": {
+    "src": "assets/offline/comedy-shrug.webp",
+    "sha256": "ee996101b4e744ab94fafe1c0b33de489af6af914b92044db4e9d892d91476bc"
+  },
+  "assets/library/comedy-stumble.webp": {
+    "src": "assets/offline/comedy-stumble.webp",
+    "sha256": "10d63b81a7e68f64be573b9c5de88ea2b4ee77a0e66115bcd9b69124afc1a908"
+  },
+  "assets/library/comedy-side-point.webp": {
+    "src": "assets/offline/comedy-side-point.webp",
+    "sha256": "ab2e418ca54d13532fc782ce9f6d1938ce37290926b876e824fe28bb9ad87f26"
+  },
+  "assets/library/comedy-big-finish.webp": {
+    "src": "assets/offline/comedy-big-finish.webp",
+    "sha256": "d7bf9cf7379ec8cac96b4128ad1b1f60af0a0c4e2073e34d8f1d386a99ee2a45"
+  },
+  "assets/library/comedy-back-reaction.webp": {
+    "src": "assets/offline/comedy-back-reaction.webp",
+    "sha256": "ace8ad61a3bd2cff21a721163f0355b1630f66db762d325f0107198330c2db5c"
+  },
+  "assets/library/comedy-belly-laugh.webp": {
+    "src": "assets/offline/comedy-belly-laugh.webp",
+    "sha256": "385b3b0bf85989ed922ed82d3bff71814d5bbfec66b27538f380c5423cfcf654"
   }
 }

@@ -1,5 +1,5 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261021-comedy12';
+import { BUNDLED_POSES } from './poses.js?v=20261022-music24';
 import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261014-camera-ui';
 const ASSET_VERSION = '20261012-library';
 function assetUrl(src, version = ASSET_VERSION) {

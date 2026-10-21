@@ -1022,5 +1022,205 @@
   "assets/library/comedy-belly-laugh.webp": {
     "src": "assets/offline/comedy-belly-laugh.webp",
     "sha256": "385b3b0bf85989ed922ed82d3bff71814d5bbfec66b27538f380c5423cfcf654"
+  },
+  "assets/library/music-lead-vocal.webp": {
+    "src": "assets/offline/music-lead-vocal.webp",
+    "sha256": "2c449de97c4b13ee9a66e9014af5683f4e307c17f6b32ae84291b2f6108c943c"
+  },
+  "assets/library/music-stand-vocal.webp": {
+    "src": "assets/offline/music-stand-vocal.webp",
+    "sha256": "0e60e9530cf0d4f320b51f1873ace9b983f4a1c5ae54024e2eee90dc7d135cf6"
+  },
+  "assets/library/music-acoustic-guitar.webp": {
+    "src": "assets/offline/music-acoustic-guitar.webp",
+    "sha256": "38223dbafc83375309362580766c79cfa92bec9fdb26a91865db9bcda74b2bf2"
+  },
+  "assets/library/music-electric-bass.webp": {
+    "src": "assets/offline/music-electric-bass.webp",
+    "sha256": "9d7345604efad421db01e4c98b53dd7613c1307aa5b9641cec73b0538a52fe2f"
+  },
+  "assets/library/music-guitar-solo.webp": {
+    "src": "assets/offline/music-guitar-solo.webp",
+    "sha256": "d0ae60fbfd7be6d121125b8722e4b6c0c9b525a83ddcda5506db9be9461f2cfb"
+  },
+  "assets/library/music-keyboard.webp": {
+    "src": "assets/offline/music-keyboard.webp",
+    "sha256": "022a9d742340aba146ea6dc98921b81f4e5ca7f06e453f6561f73d59ad83d7cc"
+  },
+  "assets/library/music-drum-kit.webp": {
+    "src": "assets/offline/music-drum-kit.webp",
+    "sha256": "e5edb986a61956892cfb64a71f5ab621c195d6734bd8c3ed2ffc9d145b3a7b61"
+  },
+  "assets/library/music-cajon.webp": {
+    "src": "assets/offline/music-cajon.webp",
+    "sha256": "220970e098fc103c201142f12a603acd560b8f40419ecdae9b08b502eb399a89"
+  },
+  "assets/library/music-tambourine.webp": {
+    "src": "assets/offline/music-tambourine.webp",
+    "sha256": "5e0f31ff342677b465d5b9f0251294c30cd32a6f08894b0d526681a9da1974e9"
+  },
+  "assets/library/music-harmonica.webp": {
+    "src": "assets/offline/music-harmonica.webp",
+    "sha256": "fb31a3236f9774b705d86a25233c7a86069a280ca7397d9acc51787dd64fb07b"
+  },
+  "assets/library/music-trumpet.webp": {
+    "src": "assets/offline/music-trumpet.webp",
+    "sha256": "c6df3101ded3c2b1541f79bea2e5d65dccb908bde2f5c2eb8bbd80e5bc1d88a7"
+  },
+  "assets/library/music-trombone.webp": {
+    "src": "assets/offline/music-trombone.webp",
+    "sha256": "e859b5c7132c0c612f43702bf313e45416403ff28f70b0fb65ed20cb2fe7b9de"
+  },
+  "assets/library/music-violin.webp": {
+    "src": "assets/offline/music-violin.webp",
+    "sha256": "6d4beeec798896573888de85fbd4dbce53442e3089be179c276e13baf06a52f7"
+  },
+  "assets/library/music-flute.webp": {
+    "src": "assets/offline/music-flute.webp",
+    "sha256": "26f56b64f5e1cdb12624995ed7b6f0a41e69ec51c59ed80f2d55a3103ea86bb9"
+  },
+  "assets/library/music-ukulele.webp": {
+    "src": "assets/offline/music-ukulele.webp",
+    "sha256": "aa06acde18b2a87a90631ed442b98d5ce77ca072ce9171bf0123e9efb7aed118"
+  },
+  "assets/library/music-keytar.webp": {
+    "src": "assets/offline/music-keytar.webp",
+    "sha256": "3c4c607ee45ca4ecf4f839c889e7390d1af93ae7e959501952d0bf69822507a6"
+  },
+  "assets/library/music-upright-bass.webp": {
+    "src": "assets/offline/music-upright-bass.webp",
+    "sha256": "8183e26a296278161b4abced23cdb9b527a5d9fe3a7ff5d08f4823c30bffebd5"
+  },
+  "assets/library/music-conga.webp": {
+    "src": "assets/offline/music-conga.webp",
+    "sha256": "ca89b7200c9a797bbe7dd94210e30a87c4a34385570bd4b85cbc8c4d6a073879"
+  },
+  "assets/library/music-bongos.webp": {
+    "src": "assets/offline/music-bongos.webp",
+    "sha256": "86adfd84e97e7ab07c1b906d36e2c9f6394ab2d331d1c082b2de1e50204f6c79"
+  },
+  "assets/library/music-maracas.webp": {
+    "src": "assets/offline/music-maracas.webp",
+    "sha256": "2fd1673bf761622bff71a32baa3acfa60c37a2ce6c9d020b2c9eda4fcd448593"
+  },
+  "assets/library/music-blues-duo.webp": {
+    "src": "assets/offline/music-blues-duo.webp",
+    "sha256": "015daeb9586bf6fdc73e8319baf28e256bcd67bf32ffa18183c0cb1b08e720c8"
+  },
+  "assets/library/music-recording.webp": {
+    "src": "assets/offline/music-recording.webp",
+    "sha256": "83ab692b9c7c45f7ab83208bc6a535385984161e12d285054512caaf64488636"
+  },
+  "assets/library/music-sound-engineer.webp": {
+    "src": "assets/offline/music-sound-engineer.webp",
+    "sha256": "01a2a4feb190f033d88781a0f617301e72dfe87c0648290065aea8f17f9ceb27"
+  },
+  "assets/library/music-roadie.webp": {
+    "src": "assets/offline/music-roadie.webp",
+    "sha256": "87bd5b04732af04785a79ed58acc9fe4340dae784671a979dc2a752951b39efd"
+  },
+  "assets/library/reindeer.webp": {
+    "src": "assets/offline/reindeer.webp",
+    "sha256": "21443a7a85af4857e1ad4ee74b78480cca5aa437e5a2723a21d03bbd76702b10"
+  },
+  "assets/library/robot-armor.webp": {
+    "src": "assets/offline/robot-armor.webp",
+    "sha256": "19627ba7d8e76ea57a8c45209bd5a5e863fe33cdc342257b63f25beeb7d6445e"
+  },
+  "assets/library/construction.webp": {
+    "src": "assets/offline/construction.webp",
+    "sha256": "eb0cfd0dba455677a13ad7834d31413601195bc1fa103a41cf035f4294b2303e"
+  },
+  "assets/library/tokushima-awa-chicken.webp": {
+    "src": "assets/offline/tokushima-awa-chicken.webp",
+    "sha256": "3253d06dbacd64d885b0939b8972005daac5ebfbe93f394f9c568736da0abf6b"
+  },
+  "assets/library/backpack.webp": {
+    "src": "assets/offline/backpack.webp",
+    "sha256": "4cf1ddb11aa3d80086a03bf6e0dcf01f0b160acd1f4dd862eea6a196a0fa6a63"
+  },
+  "assets/library/future-courier.webp": {
+    "src": "assets/offline/future-courier.webp",
+    "sha256": "c2ea6239732a8a5358a5abc99be6e6a760a62dc4db2216632d229721193e5d93"
+  },
+  "assets/library/laundry.webp": {
+    "src": "assets/offline/laundry.webp",
+    "sha256": "bede298cd58a918002a420dd91f1a402e0b7b80070320bad93c23b829495c91a"
+  },
+  "assets/library/animal-capybara.webp": {
+    "src": "assets/offline/animal-capybara.webp",
+    "sha256": "d7ce0617789c11f43b39a9e6b7df4a87b1dc1911029476c8cc1bd58deecefedb"
+  },
+  "assets/library/lion-dance.webp": {
+    "src": "assets/offline/lion-dance.webp",
+    "sha256": "1ad830ae5aad53e07dc1952215ca72d9b2ac5efd21599258d338916e782c38fd"
+  },
+  "assets/library/octopus-buddy.webp": {
+    "src": "assets/offline/octopus-buddy.webp",
+    "sha256": "706d3ab9af9f86bcf9b0a898c6988438e74e187dcf3e67bf584e47e9e3ae6dc0"
+  },
+  "assets/library/tokushima-awa-lantern.webp": {
+    "src": "assets/offline/tokushima-awa-lantern.webp",
+    "sha256": "ed019b4c4b2713e7a1310e56b9e37ee39e2da7707eca12d71fe705652979b9d9"
+  },
+  "assets/library/pref-09-tochigi.webp": {
+    "src": "assets/offline/pref-09-tochigi.webp",
+    "sha256": "cf36132ead10db54f60929cf578828e1ec6b9506ac7873cbea3f192f88f68e04"
+  },
+  "assets/library/kappa.webp": {
+    "src": "assets/offline/kappa.webp",
+    "sha256": "17f82b1e3a35db461c5e49ad6fbc40b64e1ae1b38d92f34c067cfa015dd43c75"
+  },
+  "assets/library/pref-33-okayama.webp": {
+    "src": "assets/offline/pref-33-okayama.webp",
+    "sha256": "f064366d0734f14aff2d66042abb3079af81954f4264b653685e500a06aed0e0"
+  },
+  "assets/library/satellite-pack.webp": {
+    "src": "assets/offline/satellite-pack.webp",
+    "sha256": "79d1cab764c827dad5f17acdfe196e6547838cc43e87a94d3deb08a9ed71eeda"
+  },
+  "assets/library/angel-wings.webp": {
+    "src": "assets/offline/angel-wings.webp",
+    "sha256": "597cbb74e9932a3770dbd86ef4c7cef144496a37f1dbbfd3835d83235ba141e8"
+  },
+  "assets/library/pref-17-ishikawa.webp": {
+    "src": "assets/offline/pref-17-ishikawa.webp",
+    "sha256": "c2bbf20c99e9a0a2e4aa61f5bf9a686a065cc2ea287c85c021fdfd1349d2ac85"
+  },
+  "assets/library/tokushima-awa-amigasa.webp": {
+    "src": "assets/offline/tokushima-awa-amigasa.webp",
+    "sha256": "b79c6f3d21717ebe5bc97acfaf3324d3115048b53e368fab62f783af0b31358c"
+  },
+  "assets/library/keys.webp": {
+    "src": "assets/offline/keys.webp",
+    "sha256": "9da506afa7c567a4ec043c9a73165f21d9a917db725386c96c4d0bc82f14fc55"
+  },
+  "assets/library/giant-fan.webp": {
+    "src": "assets/offline/giant-fan.webp",
+    "sha256": "0403a6c3887797db22c52881bdd6b7280d3518ca74876b08e8858a992a63d9cb"
+  },
+  "assets/library/crab-claws.webp": {
+    "src": "assets/offline/crab-claws.webp",
+    "sha256": "0c6ff585eed67212ef51e6e616a89ff36f7ad97eebc39c12e0fed4b440ac6db2"
+  },
+  "assets/library/pref-22-shizuoka.webp": {
+    "src": "assets/offline/pref-22-shizuoka.webp",
+    "sha256": "c7381ba415ee2abac58776d5639b01d53cf6aa68dae1cc7bdbc2d67469423b0f"
+  },
+  "assets/library/tokushima-awa-dance.webp": {
+    "src": "assets/offline/tokushima-awa-dance.webp",
+    "sha256": "4e62f0545953a4d979fca188bd2811fb90565d0d8fa762456bc41ad146746157"
+  },
+  "assets/library/library-tower.webp": {
+    "src": "assets/offline/library-tower.webp",
+    "sha256": "6a4bfc7fecb5329b8cec1e36ca51233815641e8ba3f47363bd7f5bf9f48ef145"
+  },
+  "assets/library/baguette-knight.webp": {
+    "src": "assets/offline/baguette-knight.webp",
+    "sha256": "acdb893848b2b5730e8153ad3c9d6442cadac317de59cd6aff06b8aef7957b82"
+  },
+  "assets/library/ninja.webp": {
+    "src": "assets/offline/ninja.webp",
+    "sha256": "4c3af3bbcfafbcf2df5aae5d5c208085b950bda2477f9655e94f2fad479dfe82"
   }
 }

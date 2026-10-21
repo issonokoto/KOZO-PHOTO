@@ -85,6 +85,392 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "music-lead-vocal",
+    "name": "ハンドマイクのボーカル",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ボーカル",
+      "歌",
+      "マイク",
+      "ハンドマイクのボーカル"
+    ],
+    "src": "./assets/library/music-lead-vocal.webp",
+    "thumbnail": "./assets/thumbnails/music-lead-vocal.webp"
+  },
+  {
+    "id": "music-stand-vocal",
+    "name": "スタンドマイクで歌う",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ボーカル",
+      "歌",
+      "マイクスタンド",
+      "スタンドマイクで歌う"
+    ],
+    "src": "./assets/library/music-stand-vocal.webp",
+    "thumbnail": "./assets/thumbnails/music-stand-vocal.webp"
+  },
+  {
+    "id": "music-acoustic-guitar",
+    "name": "アコギで弾き語り",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "アコギ",
+      "アコースティック",
+      "ギター",
+      "弾き語り",
+      "アコギで弾き語り"
+    ],
+    "src": "./assets/library/music-acoustic-guitar.webp",
+    "thumbnail": "./assets/thumbnails/music-acoustic-guitar.webp"
+  },
+  {
+    "id": "music-electric-bass",
+    "name": "エレキベース",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ベース",
+      "エレキベース",
+      "エレキベース"
+    ],
+    "src": "./assets/library/music-electric-bass.webp",
+    "thumbnail": "./assets/thumbnails/music-electric-bass.webp"
+  },
+  {
+    "id": "music-guitar-solo",
+    "name": "ギターソロの決めポーズ",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ギター",
+      "エレキギター",
+      "ソロ",
+      "ロック",
+      "ギターソロの決めポーズ"
+    ],
+    "src": "./assets/library/music-guitar-solo.webp",
+    "thumbnail": "./assets/thumbnails/music-guitar-solo.webp"
+  },
+  {
+    "id": "music-keyboard",
+    "name": "キーボードを弾く",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "キーボード",
+      "鍵盤",
+      "ピアノ",
+      "キーボードを弾く"
+    ],
+    "src": "./assets/library/music-keyboard.webp",
+    "thumbnail": "./assets/thumbnails/music-keyboard.webp"
+  },
+  {
+    "id": "music-drum-kit",
+    "name": "ドラムセット",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ドラム",
+      "ドラマー",
+      "バンド演奏",
+      "ドラムセット"
+    ],
+    "src": "./assets/library/music-drum-kit.webp",
+    "thumbnail": "./assets/thumbnails/music-drum-kit.webp"
+  },
+  {
+    "id": "music-cajon",
+    "name": "カホンをたたく",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "カホン",
+      "打楽器",
+      "アコースティック",
+      "カホンをたたく"
+    ],
+    "src": "./assets/library/music-cajon.webp",
+    "thumbnail": "./assets/thumbnails/music-cajon.webp"
+  },
+  {
+    "id": "music-tambourine",
+    "name": "タンバリンで盛り上げる",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "タンバリン",
+      "打楽器",
+      "リズム",
+      "タンバリンで盛り上げる"
+    ],
+    "src": "./assets/library/music-tambourine.webp",
+    "thumbnail": "./assets/thumbnails/music-tambourine.webp"
+  },
+  {
+    "id": "music-harmonica",
+    "name": "ハーモニカを吹く",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ハーモニカ",
+      "ブルース",
+      "ハーモニカを吹く"
+    ],
+    "src": "./assets/library/music-harmonica.webp",
+    "thumbnail": "./assets/thumbnails/music-harmonica.webp"
+  },
+  {
+    "id": "music-trumpet",
+    "name": "トランペット",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "トランペット",
+      "金管",
+      "ブラス",
+      "トランペット"
+    ],
+    "src": "./assets/library/music-trumpet.webp",
+    "thumbnail": "./assets/thumbnails/music-trumpet.webp"
+  },
+  {
+    "id": "music-trombone",
+    "name": "トロンボーン",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "トロンボーン",
+      "金管",
+      "ブラス",
+      "トロンボーン"
+    ],
+    "src": "./assets/library/music-trombone.webp",
+    "thumbnail": "./assets/thumbnails/music-trombone.webp"
+  },
+  {
+    "id": "music-violin",
+    "name": "バイオリン",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "バイオリン",
+      "弦楽器",
+      "バイオリン"
+    ],
+    "src": "./assets/library/music-violin.webp",
+    "thumbnail": "./assets/thumbnails/music-violin.webp"
+  },
+  {
+    "id": "music-flute",
+    "name": "フルート",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "フルート",
+      "管楽器",
+      "フルート"
+    ],
+    "src": "./assets/library/music-flute.webp",
+    "thumbnail": "./assets/thumbnails/music-flute.webp"
+  },
+  {
+    "id": "music-ukulele",
+    "name": "ウクレレ",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ウクレレ",
+      "弦楽器",
+      "南国",
+      "ウクレレ"
+    ],
+    "src": "./assets/library/music-ukulele.webp",
+    "thumbnail": "./assets/thumbnails/music-ukulele.webp"
+  },
+  {
+    "id": "music-keytar",
+    "name": "ショルダーキーボード",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "キーボード",
+      "ショルダーキーボード",
+      "シンセ",
+      "ショルダーキーボード"
+    ],
+    "src": "./assets/library/music-keytar.webp",
+    "thumbnail": "./assets/thumbnails/music-keytar.webp"
+  },
+  {
+    "id": "music-upright-bass",
+    "name": "ウッドベース",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ウッドベース",
+      "コントラバス",
+      "ジャズ",
+      "ウッドベース"
+    ],
+    "src": "./assets/library/music-upright-bass.webp",
+    "thumbnail": "./assets/thumbnails/music-upright-bass.webp"
+  },
+  {
+    "id": "music-conga",
+    "name": "コンガをたたく",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "コンガ",
+      "パーカッション",
+      "打楽器",
+      "コンガをたたく"
+    ],
+    "src": "./assets/library/music-conga.webp",
+    "thumbnail": "./assets/thumbnails/music-conga.webp"
+  },
+  {
+    "id": "music-bongos",
+    "name": "ボンゴでリズム",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ボンゴ",
+      "パーカッション",
+      "打楽器",
+      "ボンゴでリズム"
+    ],
+    "src": "./assets/library/music-bongos.webp",
+    "thumbnail": "./assets/thumbnails/music-bongos.webp"
+  },
+  {
+    "id": "music-maracas",
+    "name": "マラカスを振る",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "マラカス",
+      "パーカッション",
+      "リズム",
+      "マラカスを振る"
+    ],
+    "src": "./assets/library/music-maracas.webp",
+    "thumbnail": "./assets/thumbnails/music-maracas.webp"
+  },
+  {
+    "id": "music-blues-duo",
+    "name": "ギターとハーモニカ",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "ブルース",
+      "ギター",
+      "ハーモニカ",
+      "弾き語り",
+      "ギターとハーモニカ"
+    ],
+    "src": "./assets/library/music-blues-duo.webp",
+    "thumbnail": "./assets/thumbnails/music-blues-duo.webp"
+  },
+  {
+    "id": "music-recording",
+    "name": "ヘッドホンでレコーディング",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "録音",
+      "レコーディング",
+      "ボーカル",
+      "ヘッドホン",
+      "ヘッドホンでレコーディング"
+    ],
+    "src": "./assets/library/music-recording.webp",
+    "thumbnail": "./assets/thumbnails/music-recording.webp"
+  },
+  {
+    "id": "music-sound-engineer",
+    "name": "ミキサーで音づくり",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "音響",
+      "ミキサー",
+      "PA",
+      "スタッフ",
+      "ミキサーで音づくり"
+    ],
+    "src": "./assets/library/music-sound-engineer.webp",
+    "thumbnail": "./assets/thumbnails/music-sound-engineer.webp"
+  },
+  {
+    "id": "music-roadie",
+    "name": "ギターを運ぶスタッフ",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "音楽追加24",
+      "スタッフ",
+      "ローディー",
+      "ギターケース",
+      "ライブ準備",
+      "ギターを運ぶスタッフ"
+    ],
+    "src": "./assets/library/music-roadie.webp",
+    "thumbnail": "./assets/thumbnails/music-roadie.webp"
+  },
+  {
     "id": "comedy-index-up",
     "name": "胸を張って指一本",
     "category": "定番",

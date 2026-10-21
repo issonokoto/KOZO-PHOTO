@@ -1,0 +1,369 @@
+{
+  "reference": "assets/003.png",
+  "generation": "Built-in image generation; one transparent asset per call.",
+  "basePrompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. ",
+  "entries": [
+    {
+      "id": "music-lead-vocal",
+      "name": "ハンドマイクのボーカル",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ボーカル",
+        "歌",
+        "マイク",
+        "ハンドマイクのボーカル"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing in a wide relaxed live-band stance, hold a cordless black handheld microphone in right hand near mouth, left arm reaching outward to audience with open palm, joyfully singing with recognizable smiling eyes. No microphone stand."
+    },
+    {
+      "id": "music-stand-vocal",
+      "name": "スタンドマイクで歌う",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ボーカル",
+        "歌",
+        "マイクスタンド",
+        "スタンドマイクで歌う"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Stand singing into a silver microphone mounted on a slim black height-adjustable stand with complete three-leg base visible. Right hand gently grips stand near microphone, left palm open near chest. Both feet visible behind stand, enthusiastic warm expression."
+    },
+    {
+      "id": "music-acoustic-guitar",
+      "name": "アコギで弾き語り",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "アコギ",
+        "アコースティック",
+        "ギター",
+        "弾き語り",
+        "アコギで弾き語り"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing a natural wood six-string acoustic guitar with a black shoulder strap. Left fingers form a chord on fretboard, right hand strums over soundhole. Singing toward camera with cheerful mouth slightly open. No microphone or stand. Include entire guitar neck and body."
+    },
+    {
+      "id": "music-electric-bass",
+      "name": "エレキベース",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ベース",
+        "エレキベース",
+        "エレキベース"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing comfortably playing a sunburst FOUR-STRING electric bass guitar on a black strap, left hand on long fretboard, right two fingers plucking over pickups. Entire four tuning pegs and four strings coherent. Friendly focused expression, slight groove in knees. No amp."
+    },
+    {
+      "id": "music-guitar-solo",
+      "name": "ギターソロの決めポーズ",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ギター",
+        "エレキギター",
+        "ソロ",
+        "ロック",
+        "ギターソロの決めポーズ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Play a vivid red six-string solid-body electric guitar held diagonally upward on a black strap, left hand high on fretboard and right hand picking near bridge. Wide bent-knee rock solo stance, face smiling upward in delight. Guitar headstock below head height, no brand, whole shoes and guitar fit."
+    },
+    {
+      "id": "music-keyboard",
+      "name": "キーボードを弾く",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "キーボード",
+        "鍵盤",
+        "ピアノ",
+        "キーボードを弾く"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing behind one compact electronic keyboard with coherent black and white keys on a complete black X stand. Both hands play different parts of keyboard naturally, look toward camera with friendly smile. Full head, arms, both legs, both shoes, entire keyboard and X stand visible. No chair or backdrop."
+    },
+    {
+      "id": "music-drum-kit",
+      "name": "ドラムセット",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ドラム",
+        "ドラマー",
+        "バンド演奏",
+        "ドラムセット"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Seated on a small drum throne behind a compact realistic drum kit: one front bass drum, snare at left, two small toms and one floor tom, a hi-hat at his left and a single ride cymbal at right. Hold a wooden stick in each hand poised above drums. Smiling face and arms unobstructed, both trousered legs and shoes visible in gaps to sides of bass drum. All chrome supports and complete cymbals inside frame. Bass drum front plain and unlettered. One coherent kit, no giant exaggerated hardware."
+    },
+    {
+      "id": "music-cajon",
+      "name": "カホンをたたく",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "カホン",
+        "打楽器",
+        "アコースティック",
+        "カホンをたたく"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Sit astride a natural wood rectangular cajon with both knees apart and both black shoes on ground, lean slightly forward, both open hands tapping upper front striking panel in believable position. Look up smiling toward camera. Include complete cajon and both feet. No other seat."
+    },
+    {
+      "id": "music-tambourine",
+      "name": "タンバリンで盛り上げる",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "タンバリン",
+        "打楽器",
+        "リズム",
+        "タンバリンで盛り上げる"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Stand with one round wooden tambourine with metal jingles in right hand at shoulder level, left palm raised close to its rim ready to tap, lively band backing-performer stance and bright smile. No extra instruments."
+    },
+    {
+      "id": "music-harmonica",
+      "name": "ハーモニカを吹く",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ハーモニカ",
+        "ブルース",
+        "ハーモニカを吹く"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing, both hands naturally cup one small silver diatonic harmonica horizontally at lips, elbows lowered, warm focused eyes toward camera. Not a microphone. Face above mouth visible. No extra instrument."
+    },
+    {
+      "id": "music-trumpet",
+      "name": "トランペット",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "トランペット",
+        "金管",
+        "ブラス",
+        "トランペット"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing a realistic polished brass trumpet: mouthpiece at lips, three top valves beneath right-hand fingers, left hand supports central valve casing, bell points forward and slightly to viewer left. Complete instrument fits frame, smiling eyes, relaxed planted stance."
+    },
+    {
+      "id": "music-trombone",
+      "name": "トロンボーン",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "トロンボーン",
+        "金管",
+        "ブラス",
+        "トロンボーン"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing a realistic brass slide trombone angled diagonally toward picture right. Left hand supports near mouthpiece and brace, right hand holds outer slide crossbar at comfortable mid extension. Complete long U-shaped slide and bell clearly inside frame, full body unobscured, no extra tubing or fingers."
+    },
+    {
+      "id": "music-violin",
+      "name": "バイオリン",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "バイオリン",
+        "弦楽器",
+        "バイオリン"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing a natural wood violin correctly beneath LEFT jaw on left shoulder, LEFT fingers on neck, RIGHT hand holds bow at frog drawing across strings. Full bow entirely inside frame, amused gentle focused smile, complete body and feet."
+    },
+    {
+      "id": "music-flute",
+      "name": "フルート",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "フルート",
+        "管楽器",
+        "フルート"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing one shiny silver transverse concert flute held horizontally to his RIGHT side, lip plate at lips, both hands naturally on keys. Full flute to end inside frame, fingers natural, smiling eyes, upright posture."
+    },
+    {
+      "id": "music-ukulele",
+      "name": "ウクレレ",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ウクレレ",
+        "弦楽器",
+        "南国",
+        "ウクレレ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing holding a small natural mahogany FOUR-STRING ukulele at chest and upper abdomen, left hand chord on short neck, right hand strums over soundhole. Gentle swaying stance, broad sunny smile. Ordinary clothes, no tropical accessories."
+    },
+    {
+      "id": "music-keytar",
+      "name": "ショルダーキーボード",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "キーボード",
+        "ショルダーキーボード",
+        "シンセ",
+        "ショルダーキーボード"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing a red-and-black keytar on a black shoulder strap diagonally across torso, RIGHT fingers on compact black-and-white keyboard, LEFT hand grips short controller neck. Instrument is a keytar not guitar. Wide energetic stance and warm grin, full instrument fits."
+    },
+    {
+      "id": "music-upright-bass",
+      "name": "ウッドベース",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ウッドベース",
+        "コントラバス",
+        "ジャズ",
+        "ウッドベース"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing beside a large natural amber wood upright double bass, bass endpin reaches down near his shoe, LEFT hand high on fingerboard, RIGHT index finger plucks strings just below fingerboard. Entire instrument scroll, body and endpin fit the composition, man head and both shoes in frame, kind relaxed jazz smile. No bow."
+    },
+    {
+      "id": "music-conga",
+      "name": "コンガをたたく",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "コンガ",
+        "パーカッション",
+        "打楽器",
+        "コンガをたたく"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing behind a matched pair of tall wood conga drums, one hand resting on each skin head in a natural hand-drumming position, smiling brightly. Complete two drums taper to bottom with natural hardware, both shoes visible beside drums, no floating drums or extra supports."
+    },
+    {
+      "id": "music-bongos",
+      "name": "ボンゴでリズム",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ボンゴ",
+        "パーカッション",
+        "打楽器",
+        "ボンゴでリズム"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Sit on a simple black stool with a connected pair of small natural wood bongo drums between knees, both hands naturally tapping the two drum heads, feet planted apart, pleasant rhythmic smile. Full stool, legs and shoes included, do not turn bongos into tall congas."
+    },
+    {
+      "id": "music-maracas",
+      "name": "マラカスを振る",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "マラカス",
+        "パーカッション",
+        "リズム",
+        "マラカスを振る"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Stand holding one red wooden maraca in EACH hand, hands at different shoulder heights in an animated rhythm pose, gently bent knees and big cheerful grin. Two maracas total, not microphones, no text or patterns."
+    },
+    {
+      "id": "music-blues-duo",
+      "name": "ギターとハーモニカ",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "ブルース",
+        "ギター",
+        "ハーモニカ",
+        "弾き語り",
+        "ギターとハーモニカ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing playing a natural wood acoustic guitar with a black shoulder strap, LEFT hand chord and RIGHT hand strumming. A realistic slim metal harmonica neck rack around shoulders holds a small silver harmonica at lips, hands do NOT touch harmonica. One single performer multitasking, both instruments coherent, smiling eyes."
+    },
+    {
+      "id": "music-recording",
+      "name": "ヘッドホンでレコーディング",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "録音",
+        "レコーディング",
+        "ボーカル",
+        "ヘッドホン",
+        "ヘッドホンでレコーディング"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing wearing black over-ear studio headphones OVER his cap, right hand lightly touches one earcup. Sing toward a large condenser microphone in a shock mount on a slim complete stand, with one small round black pop filter between mouth and microphone. Left hand relaxed open near waist. Entire stand base and both shoes fit, no booth or walls."
+    },
+    {
+      "id": "music-sound-engineer",
+      "name": "ミキサーで音づくり",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "音響",
+        "ミキサー",
+        "PA",
+        "スタッフ",
+        "ミキサーで音づくり"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Stand behind a small realistic unbranded audio mixing console resting on a simple complete black folding stand. Right fingers adjust one slider, left hand turns a knob, black headphones hang around neck. Friendly focused smile toward camera. Complete console, stand and both shoes in frame, no extra cables or scenery."
+    },
+    {
+      "id": "music-roadie",
+      "name": "ギターを運ぶスタッフ",
+      "category": "音楽・ステージ",
+      "tags": [
+        "音楽",
+        "バンド",
+        "音楽追加24",
+        "スタッフ",
+        "ローディー",
+        "ギターケース",
+        "ライブ準備",
+        "ギターを運ぶスタッフ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body photographic character cutout for KOHZO PHOTO. Image 1 is the exact elderly Japanese man's identity, age, face, body proportions, clothes and photographic style reference. Create exactly the same recognizable man: same kind smiling face, fine wrinkles, gray hair, navy Fishing Life cap with fish embroidery, pale sage polo shirt with left breast pocket, cream trousers, black athletic shoes and black wristwatch on his LEFT wrist. Keep his ordinary everyday clothes unchanged. Preserve his precise facial likeness, do not make him younger, slimmer or cartoonish. The small navy blue embroidered text above his LEFT chest pocket (viewer right) must read exactly two lines: first line \"徳島県\", second line \"クラゲ漁業組合\". Second line seven characters ク / ラ / ゲ / 漁 / 業 / 組 / 合; the third character MUST be ゲ, never ブ. Match realistic small embroidery and fabric perspective; do not add labels. Natural realistic studio portrait, soft even neutral lighting. Exactly one man, no other people. Include only the musical instrument or audio gear specified below. Full body including entire cap and both shoes, centered within a portrait 2:3 canvas, at least 5 percent transparent breathing room on every edge; hands and feet entirely inside canvas. TRUE transparent alpha background, completely empty transparent pixels around the man. Do NOT reproduce the reference's dark/gray glow, gradient halo, floor or shadow. No backdrop, no cast shadow, no border. Keep anatomically natural hands, five fingers each. Instrument and pose:  A music/band character asset, recognizable Kozo in his SAME everyday cap, sage polo, cream trousers, black shoes and LEFT wristwatch. Exact realistic musical equipment, believable hand contact and playing posture. No artist names, trademarks, instrument branding, floating notes, graphics or lyrics. Include the ENTIRE instrument, stands, cables if specified, both shoes and head with transparent margins. Single isolated performer plus his equipment, no scenery, stage, amplifier stack, floor or cast shadows. Standing walking a small step, carry one closed black rigid electric-guitar hard case vertically by its side handle in RIGHT hand, case extending down beside right leg to just above shoes. LEFT hand gives a friendly thumbs-up near chest. Warm helpful smile, ordinary cap and polo, full case and full body in frame. No lettering or equipment pile."
+    }
+  ]
+}

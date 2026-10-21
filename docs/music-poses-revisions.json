@@ -1,0 +1,12 @@
+[
+  {
+    "id": "music-drum-kit",
+    "reason": "Show complete cymbal and hardware within transparent margins.",
+    "prompt": "Use case: identity-preserve. Image 1 is the edit target, an elderly Kozo drummer in his ordinary cap and sage polo playing a compact drum set on transparent background. Image 2 is identity/clothing reference only. Keep the same exact man and outfit and the natural wood compact drum kit, both drumsticks and both shoes. Fix the composition: ZOOM OUT and reduce the entire man AND DRUM KIT by about 20 percent so the ENTIRE LEFT CYMBAL, all cymbal stands including their tripod legs, every drum, all shoes and his cap are fully inside the image. Reconstruct the left cymbal's clipped outer edge and the stand ends. Leave a generous visible completely transparent margin of at least 50 pixels around every outermost cymbal and support. Keep portrait 2:3 format. Do not crop any hardware at either side. Actual transparent alpha, no background, floor, backdrop, glow, shadow, text or logos on drums. Preserve small shirt embroidery 徳島県 / クラゲ漁業組合. Natural believable drumming anatomy, a wooden stick in each hand."
+  },
+  {
+    "id": "music-conga",
+    "reason": "Add complete drum support stands reaching the shoe ground-contact line.",
+    "prompt": "Use case: precise-object-edit. Edit this exact transparent full-body photograph. Preserve the man's precise face, cap, sage polo and its embroidery, cream trousers, shoes, hands, pose, and both natural wood conga drum bodies. Fix ONLY the floating drums: add a realistic slim dark-metal conga stand under EACH of the TWO drums, with visible supporting ring/brackets beneath each lower black drum rim and three narrow sturdy metal legs descending to small rubber feet. BOTH conga stands must visibly reach the SAME ground-contact line as the man's shoes near bottom of image. Two stands support two drums, no floating bottoms. Keep stand geometry coherent; legs can pass naturally in front of trouser legs where needed without blocking shoes. Include entire stands and shoes in frame, generous transparent margins. No actual floor plane, scenery, cast shadows, text, branding or added instruments. Preserve TRUE alpha transparency and portrait canvas size; do not crop. Every piece of musical equipment must look physically supported."
+  }
+]

@@ -622,5 +622,269 @@
   "assets/library/royal-chair.webp": {
     "src": "assets/offline/royal-chair.webp",
     "sha256": "177aa6ce320aa271ab9d7c24be2f7c3cd1191f3fd0246d54ea079588201d0b55"
+  },
+  "assets/library/nauru-smile.webp": {
+    "src": "assets/offline/nauru-smile.webp",
+    "sha256": "7ebf60be1d8e0a749a90b0a039dd156b626912ca323bf42998a4099fbdac2f69"
+  },
+  "assets/library/nauru-peace.webp": {
+    "src": "assets/offline/nauru-peace.webp",
+    "sha256": "ac8fde56e1062eaf62fde8ee01eeca362a84f3ff4c781aa7da3f85596c741574"
+  },
+  "assets/library/nauru-double-peace.webp": {
+    "src": "assets/offline/nauru-double-peace.webp",
+    "sha256": "0289d36c91c8915e5cc9d3f61953af42ab37626353ededec8db75f89782b5bdf"
+  },
+  "assets/library/nauru-thumb.webp": {
+    "src": "assets/offline/nauru-thumb.webp",
+    "sha256": "eba2d8286f67e3f4269cdc6ad73da032f7eeb1e782f5d8cc17bf34abe3290e6a"
+  },
+  "assets/library/nauru-double-thumbs.webp": {
+    "src": "assets/offline/nauru-double-thumbs.webp",
+    "sha256": "d6db03bb2a62147171d8cedb9fae972adba5526746864170cbd4825e76c01fb0"
+  },
+  "assets/library/nauru-wave.webp": {
+    "src": "assets/offline/nauru-wave.webp",
+    "sha256": "dd3b5e5ac6fe900744d544b635c671da739a89135321df40e10b6aea47352263"
+  },
+  "assets/library/nauru-double-wave.webp": {
+    "src": "assets/offline/nauru-double-wave.webp",
+    "sha256": "883c50f2177554f2de41b626af791fe38dd5aa48054fbe571ca7b3a4f5676994"
+  },
+  "assets/library/nauru-welcome.webp": {
+    "src": "assets/offline/nauru-welcome.webp",
+    "sha256": "88371fc4e7d616ef1de146b2fb56a7483bd7833af6dabe306cdf9dda75618ac4"
+  },
+  "assets/library/nauru-guide.webp": {
+    "src": "assets/offline/nauru-guide.webp",
+    "sha256": "d5442f311d58070035153b619766ecd832aec7ed432dbe0b8b3ad435fdcaa902"
+  },
+  "assets/library/nauru-hands-hips.webp": {
+    "src": "assets/offline/nauru-hands-hips.webp",
+    "sha256": "f1270a4bfc414c5634bed348fc245202c11807f1560b50830114711e680cf2cf"
+  },
+  "assets/library/nauru-hands-back.webp": {
+    "src": "assets/offline/nauru-hands-back.webp",
+    "sha256": "4fae47f65d12b93b7ace624fe486af31a8383400d59816d94d1f25aabb8503c3"
+  },
+  "assets/library/nauru-bow.webp": {
+    "src": "assets/offline/nauru-bow.webp",
+    "sha256": "eab424fc6fc72e2a6a94faeb80cdd0caae3320ac31fd9d5ea29b3dc587a5384e"
+  },
+  "assets/library/nauru-thanks.webp": {
+    "src": "assets/offline/nauru-thanks.webp",
+    "sha256": "1ad64a1bd5e80cebd52b4c2e1f84542f35cb713faa17f142d9d179ed36f2ebd9"
+  },
+  "assets/library/nauru-cheer.webp": {
+    "src": "assets/offline/nauru-cheer.webp",
+    "sha256": "7bab2f5fb731381be1177295a66d44b6663382c6d7c8b6e99d070eeafcf96e0a"
+  },
+  "assets/library/nauru-point.webp": {
+    "src": "assets/offline/nauru-point.webp",
+    "sha256": "55ca9708fa4c6db5a01f1bd1af1c80e0709379952dcc338b475f017a83b35f4c"
+  },
+  "assets/library/nauru-heart.webp": {
+    "src": "assets/offline/nauru-heart.webp",
+    "sha256": "ce2ea3d0852b7741ff3ad76f2cdba6af066a22ae7693413a30f24ea164a80eb1"
+  },
+  "assets/library/nauru-finger-hearts.webp": {
+    "src": "assets/offline/nauru-finger-hearts.webp",
+    "sha256": "53d74f026a67eebb1f371d92d0949703c696dddb7bebf4bc10fac0aeebed8dfb"
+  },
+  "assets/library/nauru-flower.webp": {
+    "src": "assets/offline/nauru-flower.webp",
+    "sha256": "13f02e21f95e57af83a7af36ab2935a4b667731b62c835ab3a97c70c7d2fc7ed"
+  },
+  "assets/library/nauru-cheeks.webp": {
+    "src": "assets/offline/nauru-cheeks.webp",
+    "sha256": "9a550a56fcb4728d405ab93089ddb85c058e387a86670851540f235e9c75d9c2"
+  },
+  "assets/library/nauru-sleep.webp": {
+    "src": "assets/offline/nauru-sleep.webp",
+    "sha256": "74a74acec409edea9c6a1fc750249345879af403ed3fb9fccea047c154d3d732"
+  },
+  "assets/library/nauru-dance-left.webp": {
+    "src": "assets/offline/nauru-dance-left.webp",
+    "sha256": "21d525a6a057bc7479dde972e6a06e4f710d6925d06602964e2f86c388ec6df1"
+  },
+  "assets/library/nauru-dance-right.webp": {
+    "src": "assets/offline/nauru-dance-right.webp",
+    "sha256": "ccd9ea5530c6a08495f86853199698cd26a2c4eebc8fdea0997a7090f04226e3"
+  },
+  "assets/library/nauru-dance-up.webp": {
+    "src": "assets/offline/nauru-dance-up.webp",
+    "sha256": "ae50afa0e2a97aca6f2d8b427f345cda0ef930c130f1c561a0b03907cd899228"
+  },
+  "assets/library/nauru-three-quarter.webp": {
+    "src": "assets/offline/nauru-three-quarter.webp",
+    "sha256": "0dc3a202b09d12e9541d07bb9ba32f3544964385f4a0077d1234645e39cba63c"
+  },
+  "assets/library/pref-05-akita.webp": {
+    "src": "assets/offline/pref-05-akita.webp",
+    "sha256": "6bdabc61a1b449f909c14831d0eb7931de0b3f6c8ff188b0af84331384eca821"
+  },
+  "assets/library/wizard.webp": {
+    "src": "assets/offline/wizard.webp",
+    "sha256": "20eb121f3ddcbe0bc324b8ee61edcf38006b1304555657b88ccc6ade55f70862"
+  },
+  "assets/library/knight.webp": {
+    "src": "assets/offline/knight.webp",
+    "sha256": "c2724bd87c1eb913468c5cc9da7f843f3617119247dcb1cc1f302883c9296ecc"
+  },
+  "assets/library/seaweed-cape.webp": {
+    "src": "assets/offline/seaweed-cape.webp",
+    "sha256": "d100afcf34f98b4f2aba3255b5c0b6956a6081f4c3c28bd6ea9335987a2f1be0"
+  },
+  "assets/library/dragon-puppet.webp": {
+    "src": "assets/offline/dragon-puppet.webp",
+    "sha256": "a1b0550e559cc98454261cc6ce4ea09a106a539d60cbf08c377e8914d2c3847a"
+  },
+  "assets/library/pref-26-kyoto.webp": {
+    "src": "assets/offline/pref-26-kyoto.webp",
+    "sha256": "7e0c616139ebb287eb225c47122eb532613d6ae5a686a1cd7734afcdb966058c"
+  },
+  "assets/library/jellyfish-backpack.webp": {
+    "src": "assets/offline/jellyfish-backpack.webp",
+    "sha256": "bac1bdde187f282ad45560b2b6ead8ed9cd38126eb0f577303fc9e68558aa6b7"
+  },
+  "assets/library/hotel-bellhop.webp": {
+    "src": "assets/offline/hotel-bellhop.webp",
+    "sha256": "d4d9a238735570827e520feac47bb47757db63bc651390093d487efacda5c721"
+  },
+  "assets/library/jellyfish-umbrella.webp": {
+    "src": "assets/offline/jellyfish-umbrella.webp",
+    "sha256": "ac0fe3f1657017c61a62f2a9aba91667b38d5b91ed748b57a8ecc760f723c17d"
+  },
+  "assets/library/pref-06-yamagata.webp": {
+    "src": "assets/offline/pref-06-yamagata.webp",
+    "sha256": "eed25b6836f8253ac4411c98e85e57ca10e37dff424d981fb3cdaa27473e4a83"
+  },
+  "assets/library/animal-red-panda.webp": {
+    "src": "assets/offline/animal-red-panda.webp",
+    "sha256": "fa2b1480568f9e4d218f5943a12134bc7faa0682cef11ad5717bd224599bba31"
+  },
+  "assets/library/camping.webp": {
+    "src": "assets/offline/camping.webp",
+    "sha256": "eaa64729561d4f30fb7f2c90cbdf584970a5bacc9424d5fcc8d75a2c7d76e626"
+  },
+  "assets/library/deep-diver.webp": {
+    "src": "assets/offline/deep-diver.webp",
+    "sha256": "3db7f910a1c54cd2630acbe70dd92d99f0e2778ed387b38ac13fa7091e7ae33f"
+  },
+  "assets/library/time-traveler.webp": {
+    "src": "assets/offline/time-traveler.webp",
+    "sha256": "908c84647c7eed84bfcdcc321916797f156808cc37eb670f6d808e30fe7b17ed"
+  },
+  "assets/library/space-cleaner.webp": {
+    "src": "assets/offline/space-cleaner.webp",
+    "sha256": "3814ca4389a543ecb47fcdf0cd5f92c1fbbe877f38aca5dae5b16b3f07dbddc8"
+  },
+  "assets/library/tengu.webp": {
+    "src": "assets/offline/tengu.webp",
+    "sha256": "c0be1b3bb54b59d220aa3c17b65f3602bbdcf3ac72c72ef937ce540e4ef59d95"
+  },
+  "assets/library/rocket-pack.webp": {
+    "src": "assets/offline/rocket-pack.webp",
+    "sha256": "39bb72e84f5603e1cdf909f722303f5c30e33ca3a02c05864a63cca84a10002a"
+  },
+  "assets/library/giant-rugby.webp": {
+    "src": "assets/offline/giant-rugby.webp",
+    "sha256": "eee5f009c565ab908291fb85b5de44bd45690916a073317eb35420470847eef6"
+  },
+  "assets/library/animal-lion.webp": {
+    "src": "assets/offline/animal-lion.webp",
+    "sha256": "080cec967bc333e1d92e291147187e1b24fc956a1f44e79d7c0fabe9fc8b70bc"
+  },
+  "assets/library/ski.webp": {
+    "src": "assets/offline/ski.webp",
+    "sha256": "d1a020c3ec3cc6afc83d21ac2fc17385c78b6e6cd176670f1da5c38a8864846b"
+  },
+  "assets/library/ufo-ring.webp": {
+    "src": "assets/offline/ufo-ring.webp",
+    "sha256": "2d79b8cd3d57a95c98ddb75ae124d9b9ea82bd96066a370c9012d70cf83faf04"
+  },
+  "assets/library/tokushima-naruto-wakame.webp": {
+    "src": "assets/offline/tokushima-naruto-wakame.webp",
+    "sha256": "dd1af88fe9f9bd869a6974ab9944024a94fb5294e335052fd92417fbad287219"
+  },
+  "assets/library/tokushima-sudachi-suit.webp": {
+    "src": "assets/offline/tokushima-sudachi-suit.webp",
+    "sha256": "c8cf5f23812148ee5a2219f619688311788cb0c7bdf9c6ee7627abb38a01b032"
+  },
+  "assets/library/tokushima-kintoki-suit.webp": {
+    "src": "assets/offline/tokushima-kintoki-suit.webp",
+    "sha256": "d10d3815f10e1b4d5ca61e44f2497a05e933a16eb2ff339e15eddf7686c57649"
+  },
+  "assets/library/sofa.webp": {
+    "src": "assets/offline/sofa.webp",
+    "sha256": "e6656121087ef950c79770eaf1521d06ae9be5876916a61c3248259bebd06584"
+  },
+  "assets/library/pref-30-wakayama.webp": {
+    "src": "assets/offline/pref-30-wakayama.webp",
+    "sha256": "d382651bb590f6802d1870f65b7aa0a83401b14d9a132bb8397079d7f311e4c0"
+  },
+  "assets/library/tokushima-awa-shamisen.webp": {
+    "src": "assets/offline/tokushima-awa-shamisen.webp",
+    "sha256": "3ad7b8bb84cf71829440c6b07560354f5106e4daa154329fee20b79998c1d50a"
+  },
+  "assets/library/animal-koala.webp": {
+    "src": "assets/offline/animal-koala.webp",
+    "sha256": "b2673a06c80d7f6dfd17362bc6d9631424d0d3bf8780318ba548d8524a6224e9"
+  },
+  "assets/library/leek-bundle.webp": {
+    "src": "assets/offline/leek-bundle.webp",
+    "sha256": "dfa22bb4b1ce1cd8a16a1cc1a784d8a965d7cae14e4ce582bffc511262f76ad5"
+  },
+  "assets/library/tokushima-aizome-apron.webp": {
+    "src": "assets/offline/tokushima-aizome-apron.webp",
+    "sha256": "a9506952629a306ef73d6753b8aca1a0e8e9f1ef34f08df489f334d367fdb9a1"
+  },
+  "assets/library/animal-tiger.webp": {
+    "src": "assets/offline/animal-tiger.webp",
+    "sha256": "35d4a7df474ddc745bdd057ea3773f696584ff0a58084570065b6fbffa483a89"
+  },
+  "assets/library/fishing-net.webp": {
+    "src": "assets/offline/fishing-net.webp",
+    "sha256": "6cc6f3823dff371aa985e7e86a171b966e926bc483794f76806f9cf1f303531a"
+  },
+  "assets/library/animal-kangaroo.webp": {
+    "src": "assets/offline/animal-kangaroo.webp",
+    "sha256": "80119bdf1741d09b1830e6eb096df140d25bb2afaa91a6e012c405f6552598c5"
+  },
+  "assets/library/big-bear.webp": {
+    "src": "assets/offline/big-bear.webp",
+    "sha256": "1ddc1026d18a6f8f47fd98c74aea6470df38a8c4ccc4f69598398f52364e6b06"
+  },
+  "assets/library/animal-fox.webp": {
+    "src": "assets/offline/animal-fox.webp",
+    "sha256": "b556270f5e92dfd0a2dca07f3deb60b353d0829a359c43dc8841b3351d167a2d"
+  },
+  "assets/library/tempura.webp": {
+    "src": "assets/offline/tempura.webp",
+    "sha256": "41e5497b2d0c398c112ea243669a1f509e1fb88dd5967b7e6621b76e098deaa5"
+  },
+  "assets/library/tokushima-aizome-kimono.webp": {
+    "src": "assets/offline/tokushima-aizome-kimono.webp",
+    "sha256": "3c03ec49d0911982fb87e5476271c5ad69d226aa316cbaee5c404a1b7ba52900"
+  },
+  "assets/library/pref-21-gifu.webp": {
+    "src": "assets/offline/pref-21-gifu.webp",
+    "sha256": "a07712a4e029f5fcab41fa84f5b2a8aa76593d17f064d0e7a3296e03f195c600"
+  },
+  "assets/library/animal-brown-bear.webp": {
+    "src": "assets/offline/animal-brown-bear.webp",
+    "sha256": "3d06c0f141d8b25308f7c979bdccda4e047429a19f4c939e8ab0be9b8c3c6dae"
+  },
+  "assets/library/pref-38-ehime.webp": {
+    "src": "assets/offline/pref-38-ehime.webp",
+    "sha256": "da6c50ed9fb5400d3a2a52546e73fe3765cfce20c5a061a61b93c597f80a9cdb"
+  },
+  "assets/library/animal-giraffe.webp": {
+    "src": "assets/offline/animal-giraffe.webp",
+    "sha256": "4a07d749970ba748912cedaae71aa00fab421f412328d6dac910b2dd68734dc7"
+  },
+  "assets/library/plant-pot.webp": {
+    "src": "assets/offline/plant-pot.webp",
+    "sha256": "3e033e56e60f1c1ad2cc87f8779b66fb14ae6f0a597581307320d73e17c07912"
   }
 }

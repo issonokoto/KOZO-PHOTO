@@ -85,6 +85,390 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "nauru-smile",
+    "name": "ナウル・笑顔",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・笑顔"
+    ],
+    "src": "./assets/library/nauru-smile.webp",
+    "thumbnail": "./assets/thumbnails/nauru-smile.webp"
+  },
+  {
+    "id": "nauru-peace",
+    "name": "ナウル・ピース",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・ピース"
+    ],
+    "src": "./assets/library/nauru-peace.webp",
+    "thumbnail": "./assets/thumbnails/nauru-peace.webp"
+  },
+  {
+    "id": "nauru-double-peace",
+    "name": "ナウル・両手ピース",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・両手ピース"
+    ],
+    "src": "./assets/library/nauru-double-peace.webp",
+    "thumbnail": "./assets/thumbnails/nauru-double-peace.webp"
+  },
+  {
+    "id": "nauru-thumb",
+    "name": "ナウル・サムズアップ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・サムズアップ"
+    ],
+    "src": "./assets/library/nauru-thumb.webp",
+    "thumbnail": "./assets/thumbnails/nauru-thumb.webp"
+  },
+  {
+    "id": "nauru-double-thumbs",
+    "name": "ナウル・両手グッド",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・両手グッド"
+    ],
+    "src": "./assets/library/nauru-double-thumbs.webp",
+    "thumbnail": "./assets/thumbnails/nauru-double-thumbs.webp"
+  },
+  {
+    "id": "nauru-wave",
+    "name": "ナウル・手を振る",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・手を振る"
+    ],
+    "src": "./assets/library/nauru-wave.webp",
+    "thumbnail": "./assets/thumbnails/nauru-wave.webp"
+  },
+  {
+    "id": "nauru-double-wave",
+    "name": "ナウル・両手でバイバイ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・両手でバイバイ"
+    ],
+    "src": "./assets/library/nauru-double-wave.webp",
+    "thumbnail": "./assets/thumbnails/nauru-double-wave.webp"
+  },
+  {
+    "id": "nauru-welcome",
+    "name": "ナウル・両手を広げる",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・両手を広げる"
+    ],
+    "src": "./assets/library/nauru-welcome.webp",
+    "thumbnail": "./assets/thumbnails/nauru-welcome.webp"
+  },
+  {
+    "id": "nauru-guide",
+    "name": "ナウル・こちらへどうぞ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・こちらへどうぞ"
+    ],
+    "src": "./assets/library/nauru-guide.webp",
+    "thumbnail": "./assets/thumbnails/nauru-guide.webp"
+  },
+  {
+    "id": "nauru-hands-hips",
+    "name": "ナウル・腰に手",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・腰に手"
+    ],
+    "src": "./assets/library/nauru-hands-hips.webp",
+    "thumbnail": "./assets/thumbnails/nauru-hands-hips.webp"
+  },
+  {
+    "id": "nauru-hands-back",
+    "name": "ナウル・後ろで手を組む",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・後ろで手を組む"
+    ],
+    "src": "./assets/library/nauru-hands-back.webp",
+    "thumbnail": "./assets/thumbnails/nauru-hands-back.webp"
+  },
+  {
+    "id": "nauru-bow",
+    "name": "ナウル・軽くおじぎ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・軽くおじぎ"
+    ],
+    "src": "./assets/library/nauru-bow.webp",
+    "thumbnail": "./assets/thumbnails/nauru-bow.webp"
+  },
+  {
+    "id": "nauru-thanks",
+    "name": "ナウル・ありがとう",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・ありがとう"
+    ],
+    "src": "./assets/library/nauru-thanks.webp",
+    "thumbnail": "./assets/thumbnails/nauru-thanks.webp"
+  },
+  {
+    "id": "nauru-cheer",
+    "name": "ナウル・小さく応援",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・小さく応援"
+    ],
+    "src": "./assets/library/nauru-cheer.webp",
+    "thumbnail": "./assets/thumbnails/nauru-cheer.webp"
+  },
+  {
+    "id": "nauru-point",
+    "name": "ナウル・上を指さす",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・上を指さす"
+    ],
+    "src": "./assets/library/nauru-point.webp",
+    "thumbnail": "./assets/thumbnails/nauru-point.webp"
+  },
+  {
+    "id": "nauru-heart",
+    "name": "ナウル・ハート",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・ハート"
+    ],
+    "src": "./assets/library/nauru-heart.webp",
+    "thumbnail": "./assets/thumbnails/nauru-heart.webp"
+  },
+  {
+    "id": "nauru-finger-hearts",
+    "name": "ナウル・両手の指ハート",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・両手の指ハート"
+    ],
+    "src": "./assets/library/nauru-finger-hearts.webp",
+    "thumbnail": "./assets/thumbnails/nauru-finger-hearts.webp"
+  },
+  {
+    "id": "nauru-flower",
+    "name": "ナウル・お花のポーズ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・お花のポーズ"
+    ],
+    "src": "./assets/library/nauru-flower.webp",
+    "thumbnail": "./assets/thumbnails/nauru-flower.webp"
+  },
+  {
+    "id": "nauru-cheeks",
+    "name": "ナウル・ほっぺ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・ほっぺ"
+    ],
+    "src": "./assets/library/nauru-cheeks.webp",
+    "thumbnail": "./assets/thumbnails/nauru-cheeks.webp"
+  },
+  {
+    "id": "nauru-sleep",
+    "name": "ナウル・おやすみ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・おやすみ"
+    ],
+    "src": "./assets/library/nauru-sleep.webp",
+    "thumbnail": "./assets/thumbnails/nauru-sleep.webp"
+  },
+  {
+    "id": "nauru-dance-left",
+    "name": "ナウル・左へステップ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・左へステップ"
+    ],
+    "src": "./assets/library/nauru-dance-left.webp",
+    "thumbnail": "./assets/thumbnails/nauru-dance-left.webp"
+  },
+  {
+    "id": "nauru-dance-right",
+    "name": "ナウル・右へステップ",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・右へステップ"
+    ],
+    "src": "./assets/library/nauru-dance-right.webp",
+    "thumbnail": "./assets/thumbnails/nauru-dance-right.webp"
+  },
+  {
+    "id": "nauru-dance-up",
+    "name": "ナウル・楽しく踊る",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・楽しく踊る"
+    ],
+    "src": "./assets/library/nauru-dance-up.webp",
+    "thumbnail": "./assets/thumbnails/nauru-dance-up.webp"
+  },
+  {
+    "id": "nauru-three-quarter",
+    "name": "ナウル・振り向き笑顔",
+    "category": "ナウル",
+    "tags": [
+      "ナウル",
+      "なうる",
+      "Nauru",
+      "伝統衣装",
+      "腰みの",
+      "ナウル追加24",
+      "ナウル・振り向き笑顔"
+    ],
+    "src": "./assets/library/nauru-three-quarter.webp",
+    "thumbnail": "./assets/thumbnails/nauru-three-quarter.webp"
+  },
+  {
     "id": "cute-cheeks",
     "name": "ほっぺに手を添える",
     "category": "定番",

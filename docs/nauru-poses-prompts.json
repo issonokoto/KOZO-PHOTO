@@ -1,0 +1,373 @@
+{
+  "basePrompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: ",
+  "costumeReference": "G:/AI.library/images/MVHC3N3705EL7.info/ナウル共和国政府観光局（公式） on X 【速報】 「キタキタおやじ」のモデルといわれている伝統衣装の展示開始 ※諸説あります  X.jpg",
+  "entries": [
+    {
+      "id": "nauru-smile",
+      "name": "ナウル・笑顔",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・笑顔"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Stand facing camera, arms relaxed naturally at sides, feet comfortably apart, a warm familiar Kozo smile."
+    },
+    {
+      "id": "nauru-peace",
+      "name": "ナウル・ピース",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・ピース"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Right hand makes one relaxed V peace sign beside shoulder, left arm at side, warm smile."
+    },
+    {
+      "id": "nauru-double-peace",
+      "name": "ナウル・両手ピース",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・両手ピース"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both hands make clear V peace signs beside shoulders, elbows bent, cheerful smile."
+    },
+    {
+      "id": "nauru-thumb",
+      "name": "ナウル・サムズアップ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・サムズアップ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Right hand gives a clear thumbs-up at shoulder height, left arm relaxed, friendly broad smile."
+    },
+    {
+      "id": "nauru-double-thumbs",
+      "name": "ナウル・両手グッド",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・両手グッド"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both hands give thumbs up at lower chest height, elbows relaxed, confident kind smile."
+    },
+    {
+      "id": "nauru-wave",
+      "name": "ナウル・手を振る",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・手を振る"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Right hand raised beside head with open palm toward camera in a friendly wave, left arm at side."
+    },
+    {
+      "id": "nauru-double-wave",
+      "name": "ナウル・両手でバイバイ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・両手でバイバイ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both open palms raised beside head waving gently, all fingers distinct, joyful friendly smile."
+    },
+    {
+      "id": "nauru-welcome",
+      "name": "ナウル・両手を広げる",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・両手を広げる"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Arms open comfortably to either side, palms facing slightly forward and upward in a warm welcoming gesture. Entire hands in frame."
+    },
+    {
+      "id": "nauru-guide",
+      "name": "ナウル・こちらへどうぞ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・こちらへどうぞ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Right arm bends outward toward viewer left with an open upward palm presenting space beside him, left hand resting near waist, gentle smile."
+    },
+    {
+      "id": "nauru-hands-hips",
+      "name": "ナウル・腰に手",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・腰に手"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both hands rest lightly on the braided waistband at hips, elbows out naturally, smiling with relaxed confidence."
+    },
+    {
+      "id": "nauru-hands-back",
+      "name": "ナウル・後ろで手を組む",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・後ろで手を組む"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both hands loosely clasped behind lower back, relaxed shoulders, feet close together and warm gentle smile."
+    },
+    {
+      "id": "nauru-bow",
+      "name": "ナウル・軽くおじぎ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・軽くおじぎ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: A polite slight bow from waist, arms straight relaxed at sides, look kindly toward camera, feet planted naturally."
+    },
+    {
+      "id": "nauru-thanks",
+      "name": "ナウル・ありがとう",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・ありがとう"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both palms softly pressed together at center chest in an appreciative greeting, kind grateful smile, modest natural pose."
+    },
+    {
+      "id": "nauru-cheer",
+      "name": "ナウル・小さく応援",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・小さく応援"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Right hand makes a small encouraging fist beside shoulder, left arm relaxed, modest friendly smile."
+    },
+    {
+      "id": "nauru-point",
+      "name": "ナウル・上を指さす",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・上を指さす"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Right index finger points diagonally upward toward viewer left, other fingers folded naturally, head and eyes look gently up that way, pleasant smile."
+    },
+    {
+      "id": "nauru-heart",
+      "name": "ナウル・ハート",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・ハート"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both hands form one recognizable heart shape in front of upper abdomen, elbows relaxed, gentle affectionate smile. Necklace stays natural."
+    },
+    {
+      "id": "nauru-finger-hearts",
+      "name": "ナウル・両手の指ハート",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・両手の指ハート"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both hands form small Korean finger-hearts with crossed thumb and index finger near shoulders, sweet smile, head slightly tilted."
+    },
+    {
+      "id": "nauru-flower",
+      "name": "ナウル・お花のポーズ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・お花のポーズ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both open hands form a shallow V under chin with wrists touching, palms framing chin like flower petals, smiling warmly at camera."
+    },
+    {
+      "id": "nauru-cheeks",
+      "name": "ナウル・ほっぺ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・ほっぺ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both open palms gently cup his cheeks, fingers along the sides of face, head slightly tilted, a delighted kind smile with face recognizable."
+    },
+    {
+      "id": "nauru-sleep",
+      "name": "ナウル・おやすみ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・おやすみ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both palms together beside his right cheek as a pretend pillow, head resting gently on hands, eyes softly closed with a peaceful smile, feet planted."
+    },
+    {
+      "id": "nauru-dance-left",
+      "name": "ナウル・左へステップ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・左へステップ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: A gentle playful dance-like step toward viewer LEFT: left side of image receives his weight, left knee relaxed, both arms held comfortably toward viewer left at waist-to-chest height, open hands. Natural elderly movement, skirt fibers follow the motion subtly. Not a claimed specific traditional dance."
+    },
+    {
+      "id": "nauru-dance-right",
+      "name": "ナウル・右へステップ",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・右へステップ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: A gentle playful dance-like step toward viewer RIGHT: his weight clearly shifts toward the RIGHT edge of image, feet take a small side step to picture right, both arms extend comfortably toward picture RIGHT at waist-to-chest height, open hands. Opposite direction from left-step pose. Natural elderly movement, fibers sway subtly."
+    },
+    {
+      "id": "nauru-dance-up",
+      "name": "ナウル・楽しく踊る",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・楽しく踊る"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Both arms raised above shoulder height in a soft rounded open arc, hands loose and fingers natural, knees gently relaxed, cheerful smiling dance-like gesture. Feet stay on ground, all raised hands and headband tuft fully in frame."
+    },
+    {
+      "id": "nauru-three-quarter",
+      "name": "ナウル・振り向き笑顔",
+      "category": "ナウル",
+      "tags": [
+        "ナウル",
+        "なうる",
+        "Nauru",
+        "伝統衣装",
+        "腰みの",
+        "ナウル追加24",
+        "ナウル・振り向き笑顔"
+      ],
+      "prompt": "Use case: identity-preserve. Asset type: one realistic full-body transparent cutout of Kozo for a camera photo-compositing app. Image 1 is the identity reference: preserve precisely this elderly Japanese man's recognizable smiling face, fine wrinkles, gray hair, age and ordinary stocky build. Image 2 is the supplied Nauru exhibition costume reference: reproduce this specific outfit faithfully, not the mannequin's white body or the museum setting. Replace ALL his modern clothing and accessories, including cap, polo, trousers, shoes and wristwatch. Bare natural elderly male upper torso, age-appropriate soft build, no added muscles. Natural gray hair visible, no cap. Costume: narrow tan woven-fiber headband with a dark horizontal binding and a small upright straw tuft; long black cord necklace ending at mid-chest in a reddish-brown textured oval carved pendant; tan braided waist band with dark bindings and a few short black hanging feather/leaf decorations; a dense natural golden-tan dried-fiber skirt from waist to just below knees/mid-calf, fully opaque with concealed lining for modest complete coverage, never gaps exposing pelvis; ONE woven tan upper-arm band on HIS LEFT upper arm (viewer right in a frontal view), with short pale fringe, small red beads and black hanging feather decorations. Both bare feet visible. Do not add flowers, leis, flags, weapons, props, shoes, text or modern accessories. Warm natural portrait smile unless gesture specifies another expression. Respectful natural photographic portrayal, same clean realistic texture and soft studio lighting as identity reference, not cartoon or caricature. Exactly one man. Full body from headband tuft to all toes, hands and feet entirely in frame, portrait 2:3 composition with breathing room around every edge. Actual fully transparent alpha background, clean isolated edges, no glow/halo, floor, cast shadow, stand, pedestal, museum, scenery or other people. Natural anatomy, five fingers per hand and five toes per foot. Pose: Body turned 35 degrees toward viewer right, head looks gently back toward camera with recognizable warm smile, arms resting at sides, relaxed standing pose."
+    }
+  ],
+  "poseConsistencySuffix": " Image 3 is the established Kozo costume master: match its face, hair, headband, necklace, single LEFT upper-arm decoration, waistband, skirt materials and bare feet consistently while changing ONLY the pose. Use Image 1 to corroborate identity and Image 2 for exact costume details.",
+  "referenceOrder": [
+    "KOZO-PHOTO/assets/003.png",
+    "G:/AI.library/images/MVHC3N3705EL7.info/ナウル共和国政府観光局（公式） on X 【速報】 「キタキタおやじ」のモデルといわれている伝統衣装の展示開始 ※諸説あります  X.jpg",
+    "output/nauru24/originals/nauru-smile.png"
+  ],
+  "generationNotes": "nauru-smile uses the first two references and its entry prompt. All remaining entries use the three references and append poseConsistencySuffix to their entry prompt."
+}

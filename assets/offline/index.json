@@ -1222,5 +1222,13 @@
   "assets/library/ninja.webp": {
     "src": "assets/offline/ninja.webp",
     "sha256": "4c3af3bbcfafbcf2df5aae5d5c208085b950bda2477f9655e94f2fad479dfe82"
+  },
+  "assets/library/plus100-rock-guitar-amp.webp": {
+    "src": "assets/offline/plus100-rock-guitar-amp.webp",
+    "sha256": "da4153db97a454575c8af03df286c357fabd992f9f707c552fd283662d65f678"
+  },
+  "assets/library/music-guitar-solo-amp.webp": {
+    "src": "assets/offline/music-guitar-solo-amp.webp",
+    "sha256": "fdb6fac8b20bf80897cd25238285adef8f2125fdd3fceeb9e7344233c2c69836"
   }
 }

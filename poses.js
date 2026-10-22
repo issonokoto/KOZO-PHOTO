@@ -166,6 +166,24 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/music-guitar-solo.webp"
   },
   {
+    "id": "music-guitar-solo-amp",
+    "name": "ギターソロの決めポーズ（アンプ付き）",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "ギター",
+      "エレキギター",
+      "アンプ",
+      "アンプ付き",
+      "シールド",
+      "アンプ追加2",
+      "ギターソロの決めポーズ（アンプ付き）"
+    ],
+    "src": "./assets/library/music-guitar-solo-amp.webp",
+    "thumbnail": "./assets/thumbnails/music-guitar-solo-amp.webp"
+  },
+  {
     "id": "music-keyboard",
     "name": "キーボードを弾く",
     "category": "音楽・ステージ",
@@ -1652,6 +1670,24 @@ export const BUNDLED_POSES = [
     ],
     "src": "./assets/library/plus100-rock-guitar.webp",
     "thumbnail": "./assets/thumbnails/plus100-rock-guitar.webp"
+  },
+  {
+    "id": "plus100-rock-guitar-amp",
+    "name": "ロックギター幸造（アンプ付き）",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "ギター",
+      "エレキギター",
+      "アンプ",
+      "アンプ付き",
+      "シールド",
+      "アンプ追加2",
+      "ロックギター幸造（アンプ付き）"
+    ],
+    "src": "./assets/library/plus100-rock-guitar-amp.webp",
+    "thumbnail": "./assets/thumbnails/plus100-rock-guitar-amp.webp"
   },
   {
     "id": "plus100-conductor",

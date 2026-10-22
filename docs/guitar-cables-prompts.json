@@ -1,0 +1,18 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-10-22",
+  "entries": [
+    {
+      "id": "plus100-rock-guitar",
+      "name": "ロックギター幸造",
+      "prompt": "Use case: precise-object-edit. The referenced image is the exact EDIT TARGET. Keep this exact elderly man's face, expression, cap, clothing, hands, body pose, six-string red electric guitar, white pickguard, whammy bar, guitar strap, framing and existing TRUE alpha transparency unchanged. Make ONLY this equipment correction: insert ONE real instrument-cable plug fully into the existing OVAL CHROME OUTPUT JACK PLATE on the FRONT LOWER part of the red guitar body, near its lower viewer-LEFT edge below the bridge. This recessed oval metal jack plate is clearly visible in the original: use its socket, do not attach the lead to a knob, whammy bar, bridge, strap button, or guitar neck. Show the short silver plug barrel seated in the socket, then a black rubber strain relief, then one connected BLACK FLEXIBLE SHIELDED GUITAR CABLE. The continuous cable exits down from that plug, hangs in a loose believable curve beside the leg on picture LEFT, and reaches a small loose loop beside his shoes. Keep the entire cable within the transparent canvas, with visible margin around it. Far cable end can rest beside the loop with its own small disconnected plug, no amp needed. Cable thickness looks like a real approximately 5-mm rubber instrument lead, clearly legible at full size. Preserve all existing body parts and guitar details. No new people, amplifier, pedal, backdrop, ground plane, shadows, labels, logos, text or glow. Do not change colors, clothes, face, fingers, shoes or pose. Output same 1024x1536 portrait canvas and genuinely transparent background, clean cutout.",
+      "reference": "assets/library/plus100-rock-guitar.webp"
+    },
+    {
+      "id": "music-guitar-solo",
+      "name": "ギターソロの決めポーズ",
+      "prompt": "Use case: precise-object-edit. The referenced image is the exact EDIT TARGET. Keep this exact elderly man's face, expression, cap, clothing, hands, body pose, six-string red electric guitar, white pickguard, whammy bar, guitar strap, framing and existing TRUE alpha transparency unchanged. Make ONLY this equipment correction: insert ONE real instrument-cable plug fully into the existing OVAL CHROME OUTPUT JACK PLATE on the FRONT LOWER part of the red guitar body, near its lower viewer-LEFT edge below the bridge. This recessed oval metal jack plate is clearly visible in the original: use its socket, do not attach the lead to a knob, whammy bar, bridge, strap button, or guitar neck. Show the short silver plug barrel seated in the socket, then a black rubber strain relief, then one connected BLACK FLEXIBLE SHIELDED GUITAR CABLE. The continuous cable exits down from that plug, hangs in a loose believable curve beside the leg on picture LEFT, and reaches a small loose loop beside his shoes. Keep the entire cable within the transparent canvas, with visible margin around it. Far cable end can rest beside the loop with its own small disconnected plug, no amp needed. Cable thickness looks like a real approximately 5-mm rubber instrument lead, clearly legible at full size. Preserve all existing body parts and guitar details. No new people, amplifier, pedal, backdrop, ground plane, shadows, labels, logos, text or glow. Do not change colors, clothes, face, fingers, shoes or pose. Output same 1024x1536 portrait canvas and genuinely transparent background, clean cutout.",
+      "reference": "assets/library/music-guitar-solo.webp"
+    }
+  ]
+}

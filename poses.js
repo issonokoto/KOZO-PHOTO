@@ -149,6 +149,23 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/music-electric-bass.webp"
   },
   {
+    "id": "music-electric-bass-amp",
+    "name": "エレキベース（アンプ付き）",
+    "category": "音楽・ステージ",
+    "tags": [
+      "音楽",
+      "バンド",
+      "ベース",
+      "エレキベース",
+      "ベースアンプ",
+      "アンプ付き",
+      "シールド",
+      "エレキベース（アンプ付き）"
+    ],
+    "src": "./assets/library/music-electric-bass-amp.webp",
+    "thumbnail": "./assets/thumbnails/music-electric-bass-amp.webp"
+  },
+  {
     "id": "music-guitar-solo",
     "name": "ギターソロの決めポーズ",
     "category": "音楽・ステージ",

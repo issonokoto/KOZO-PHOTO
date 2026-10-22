@@ -1230,5 +1230,9 @@
   "assets/library/music-guitar-solo-amp.webp": {
     "src": "assets/offline/music-guitar-solo-amp.webp",
     "sha256": "fdb6fac8b20bf80897cd25238285adef8f2125fdd3fceeb9e7344233c2c69836"
+  },
+  "assets/library/music-electric-bass-amp.webp": {
+    "src": "assets/offline/music-electric-bass-amp.webp",
+    "sha256": "51042b18df270d24b45905e972a597e8b8913a25fd0caddeb8c66e1612539ea0"
   }
 }

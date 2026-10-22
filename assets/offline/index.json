@@ -1234,5 +1234,129 @@
   "assets/library/music-electric-bass-amp.webp": {
     "src": "assets/offline/music-electric-bass-amp.webp",
     "sha256": "51042b18df270d24b45905e972a597e8b8913a25fd0caddeb8c66e1612539ea0"
+  },
+  "assets/library/dj-normal-scratch.webp": {
+    "src": "assets/offline/dj-normal-scratch.webp",
+    "sha256": "4a1e0033774115be731229715959a846d21841512ffac866431fcc7010e27f60"
+  },
+  "assets/library/dj-normal-cue.webp": {
+    "src": "assets/offline/dj-normal-cue.webp",
+    "sha256": "2aaead7a9fc9e56c40e38b1ecfcdad04f496c5c4cb083b8ce795985951308d1f"
+  },
+  "assets/library/dj-normal-cheer.webp": {
+    "src": "assets/offline/dj-normal-cheer.webp",
+    "sha256": "0dd7a154266cda1f0a0fda7cf90f7e86f4f39cc3c0d8794e8f6a703cdc6d700c"
+  },
+  "assets/library/dj-colorful-scratch.webp": {
+    "src": "assets/offline/dj-colorful-scratch.webp",
+    "sha256": "d5955fd033968c6b38076d8c245d8a06b7ce65f6ff62a330a9e1d6d3d68e5936"
+  },
+  "assets/library/dj-colorful-point.webp": {
+    "src": "assets/offline/dj-colorful-point.webp",
+    "sha256": "dead16f86e54677473006039c02f2ce8265e4706826c9c557a93fe0aaa3aefbe"
+  },
+  "assets/library/dj-colorful-hands-up.webp": {
+    "src": "assets/offline/dj-colorful-hands-up.webp",
+    "sha256": "0ba05be7c93783173006fd9bcb3ebacabe06ed892bd88a903456f5684fd9e2ee"
+  },
+  "assets/library/pumpkin.webp": {
+    "src": "assets/offline/pumpkin.webp",
+    "sha256": "35495a465c0558873c5f01cebb830ce857d5b5f2f7c04901dab6f5cab6a6cdba"
+  },
+  "assets/library/step-ladder.webp": {
+    "src": "assets/offline/step-ladder.webp",
+    "sha256": "5e8bd11d819810fd3523da0409e82f5d71f71657026874cac89bc8355ad8fb22"
+  },
+  "assets/library/animal-sheep.webp": {
+    "src": "assets/offline/animal-sheep.webp",
+    "sha256": "a50892c4ec2beccfb2b86d10a2004f7b1a949c050c7aa63e59bba94dfddd5e49"
+  },
+  "assets/library/monk-bells.webp": {
+    "src": "assets/offline/monk-bells.webp",
+    "sha256": "e241188a07650a69a8476fd4b9fd46d2e536f7c394e11c7bc59e0af3577b9bb8"
+  },
+  "assets/library/santa.webp": {
+    "src": "assets/offline/santa.webp",
+    "sha256": "7180bfc99b0cf219a91068123d2471d6c6cf0b1c900d10be44fc4ded19451793"
+  },
+  "assets/library/tokushima-aizome-workwear.webp": {
+    "src": "assets/offline/tokushima-aizome-workwear.webp",
+    "sha256": "9f149853d652cfa16db82b5d1c0c68fff69b0c824a145e4c24fc112532805432"
+  },
+  "assets/library/pref-46-kagoshima.webp": {
+    "src": "assets/offline/pref-46-kagoshima.webp",
+    "sha256": "4b63c67870d7457407695573c5e7c2ddb61327fbeeb5f136f99e0044e5a8ce22"
+  },
+  "assets/library/pref-03-iwate.webp": {
+    "src": "assets/offline/pref-03-iwate.webp",
+    "sha256": "ecbf4b501345fc886370e0af918614f19ee7b765699d7a266ff8a209edb2cb1d"
+  },
+  "assets/library/animal-cow.webp": {
+    "src": "assets/offline/animal-cow.webp",
+    "sha256": "01c71f986e3added09725d5cd46c5042d67c2d5125978e6e61168d44c4a4e2b2"
+  },
+  "assets/library/tokushima-kintoki-farmer.webp": {
+    "src": "assets/offline/tokushima-kintoki-farmer.webp",
+    "sha256": "4d79e08f76576af0f25552dc75a89529a5db2bf509b91f29405071492e03bead"
+  },
+  "assets/library/sushi-tray.webp": {
+    "src": "assets/offline/sushi-tray.webp",
+    "sha256": "f589b9673a93d1264210a9f7129299075b52c36028cac18997a4776b007ace25"
+  },
+  "assets/library/moon-rock.webp": {
+    "src": "assets/offline/moon-rock.webp",
+    "sha256": "70a4ab7073fce5e638c56534b576e0f9715104273d5a10ce9eea431952e4bf7f"
+  },
+  "assets/library/pref-02-aomori.webp": {
+    "src": "assets/offline/pref-02-aomori.webp",
+    "sha256": "456de740d128250199ca0e2f30ba1efcc7c8354f2c20d0c539b8a50a319e7bc9"
+  },
+  "assets/library/giant-pingpong.webp": {
+    "src": "assets/offline/giant-pingpong.webp",
+    "sha256": "8af5b431595cc09b3d6c876fbabfc090dbb114c59ac6ad5159f0b500d799da10"
+  },
+  "assets/library/astronaut.webp": {
+    "src": "assets/offline/astronaut.webp",
+    "sha256": "b5bd5e7fb75ef7fac8dcaf0e1d847192d4a30f41e6d931335d0b222970e43773"
+  },
+  "assets/library/pref-13-tokyo.webp": {
+    "src": "assets/offline/pref-13-tokyo.webp",
+    "sha256": "c1c24571f5fa559e561c09e005102d21b4512cd75b6b3c7f74dda7b51dd3a60d"
+  },
+  "assets/library/lifeguard.webp": {
+    "src": "assets/offline/lifeguard.webp",
+    "sha256": "b25649c903c78fdaa696f6eafd27f9238bdef0ee6ebaadbf439441ec25bbf467"
+  },
+  "assets/library/pref-18-fukui.webp": {
+    "src": "assets/offline/pref-18-fukui.webp",
+    "sha256": "f7191da9aba7197cbc065eacf7b9c4c252bd48ccf8ae74f3362cf423d18f18a4"
+  },
+  "assets/library/animal-pig.webp": {
+    "src": "assets/offline/animal-pig.webp",
+    "sha256": "53940756a7924e716cbc55fe04d8477682fa2cb6d6e3055f7845146919f77d4a"
+  },
+  "assets/library/animal-penguin.webp": {
+    "src": "assets/offline/animal-penguin.webp",
+    "sha256": "ff4ea1e48e4f633eabf843e97de168fa80b5070345666f3b2ff1ebffd8857da3"
+  },
+  "assets/library/tokushima-chikuwa.webp": {
+    "src": "assets/offline/tokushima-chikuwa.webp",
+    "sha256": "52b10afdb3a1b255a261647c0f4b4a0f440b1cfa3ea4446d3c811a80f837b81e"
+  },
+  "assets/library/office-paper.webp": {
+    "src": "assets/offline/office-paper.webp",
+    "sha256": "1d42ca4e779c4e637664e8349fb1ae1809c1b0878400816eb1bb74ad76b9435d"
+  },
+  "assets/library/pref-32-shimane.webp": {
+    "src": "assets/offline/pref-32-shimane.webp",
+    "sha256": "3c26cd42ecd59c85eec5a8a30e0f16b40508306587fe04523b4476aab7eb401b"
+  },
+  "assets/library/hobby-horse.webp": {
+    "src": "assets/offline/hobby-horse.webp",
+    "sha256": "7b1d0519d24a6ca6da017f91d9a28fc7f001f1c4467950bf5a562ddc2cae6a65"
+  },
+  "assets/library/white-tuxedo.webp": {
+    "src": "assets/offline/white-tuxedo.webp",
+    "sha256": "53e14286a805523128370b7f409e68ef87771127c2e55541d18db58a6688734d"
   }
 }

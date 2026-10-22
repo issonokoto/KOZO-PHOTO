@@ -5864,5 +5864,107 @@ export const BUNDLED_POSES = [
     ],
     "src": "./assets/library/giant-medal.webp",
     "thumbnail": "./assets/thumbnails/giant-medal.webp"
+  },
+  {
+    "id": "dj-normal-scratch",
+    "name": "普段着DJ・スクラッチ",
+    "category": "音楽・ステージ",
+    "tags": [
+      "普段着DJ・スクラッチ",
+      "DJ",
+      "ディージェー",
+      "音楽",
+      "バンド",
+      "ターンテーブル",
+      "DJ追加6",
+      "普段着DJ"
+    ],
+    "src": "./assets/library/dj-normal-scratch.webp",
+    "thumbnail": "./assets/thumbnails/dj-normal-scratch.webp"
+  },
+  {
+    "id": "dj-normal-cue",
+    "name": "普段着DJ・片耳でキュー",
+    "category": "音楽・ステージ",
+    "tags": [
+      "普段着DJ・片耳でキュー",
+      "DJ",
+      "ディージェー",
+      "音楽",
+      "バンド",
+      "ターンテーブル",
+      "DJ追加6",
+      "普段着DJ"
+    ],
+    "src": "./assets/library/dj-normal-cue.webp",
+    "thumbnail": "./assets/thumbnails/dj-normal-cue.webp"
+  },
+  {
+    "id": "dj-normal-cheer",
+    "name": "普段着DJ・片手を上げて",
+    "category": "音楽・ステージ",
+    "tags": [
+      "普段着DJ・片手を上げて",
+      "DJ",
+      "ディージェー",
+      "音楽",
+      "バンド",
+      "ターンテーブル",
+      "DJ追加6",
+      "普段着DJ"
+    ],
+    "src": "./assets/library/dj-normal-cheer.webp",
+    "thumbnail": "./assets/thumbnails/dj-normal-cheer.webp"
+  },
+  {
+    "id": "dj-colorful-scratch",
+    "name": "カラフルDJ・スクラッチ",
+    "category": "音楽・ステージ",
+    "tags": [
+      "カラフルDJ・スクラッチ",
+      "DJ",
+      "ディージェー",
+      "音楽",
+      "バンド",
+      "ターンテーブル",
+      "DJ追加6",
+      "カラフルDJ"
+    ],
+    "src": "./assets/library/dj-colorful-scratch.webp",
+    "thumbnail": "./assets/thumbnails/dj-colorful-scratch.webp"
+  },
+  {
+    "id": "dj-colorful-point",
+    "name": "カラフルDJ・フロアを指さし",
+    "category": "音楽・ステージ",
+    "tags": [
+      "カラフルDJ・フロアを指さし",
+      "DJ",
+      "ディージェー",
+      "音楽",
+      "バンド",
+      "ターンテーブル",
+      "DJ追加6",
+      "カラフルDJ"
+    ],
+    "src": "./assets/library/dj-colorful-point.webp",
+    "thumbnail": "./assets/thumbnails/dj-colorful-point.webp"
+  },
+  {
+    "id": "dj-colorful-hands-up",
+    "name": "カラフルDJ・両手を上げて",
+    "category": "音楽・ステージ",
+    "tags": [
+      "カラフルDJ・両手を上げて",
+      "DJ",
+      "ディージェー",
+      "音楽",
+      "バンド",
+      "ターンテーブル",
+      "DJ追加6",
+      "カラフルDJ"
+    ],
+    "src": "./assets/library/dj-colorful-hands-up.webp",
+    "thumbnail": "./assets/thumbnails/dj-colorful-hands-up.webp"
   }
 ];

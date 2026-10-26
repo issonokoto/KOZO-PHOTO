@@ -1,0 +1,753 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "sources": [
+    "https://www.olympics.com.au/sports/",
+    "https://la28.org/en/games-plan/olympics.html?os=win"
+  ],
+  "entries": [
+    {
+      "id": "sports48-football",
+      "name": "サッカー・ボールに足を添えて",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "サッカー・ボールに足を添えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "サッカー",
+        "フットボール"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Royal blue short-sleeve football jersey, white shorts, blue knee socks, black studded football boots. Relaxed proud stance with one boot resting gently on a regulation black-white football, both hands on hips."
+    },
+    {
+      "id": "sports48-baseball-pitcher",
+      "name": "野球・ピッチャー",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "野球・ピッチャー",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "野球",
+        "ピッチャー",
+        "投手"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: White baseball uniform with subtle blue pinstripes, navy undershirt, navy baseball cap, belt, high navy socks and cleats. Standing in a relaxed pitcher set position, brown glove at chest with the baseball held inside the glove, face visible."
+    },
+    {
+      "id": "sports48-softball-batter",
+      "name": "ソフトボール・バッター",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "ソフトボール・バッター",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "ソフトボール",
+        "バッター",
+        "打者"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Orange softball jersey, white softball pants, orange socks, cleats, open-face navy batting helmet. Holding a normal aluminum bat with both hands in a relaxed batting-ready stance. One yellow softball on ground beside his boot. Entire bat and helmet visible."
+    },
+    {
+      "id": "sports48-volleyball",
+      "name": "バレーボール・サーブ前",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "バレーボール・サーブ前",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "バレーボール",
+        "バレー"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Red sleeveless volleyball jersey, black shorts, black knee pads and white indoor court shoes. Standing front-facing, cradling a yellow-blue volleyball in one palm at waist height and other hand lifted ready for a gentle serve."
+    },
+    {
+      "id": "sports48-beach-volleyball",
+      "name": "ビーチバレー・ボールを抱えて",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "ビーチバレー・ボールを抱えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "ビーチバレー",
+        "ビーチバレーボール"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Turquoise athletic tank top and brightly patterned board shorts, barefoot. Relaxed stance with a white-yellow-blue beach volleyball under one arm, free hand friendly thumbs-up."
+    },
+    {
+      "id": "sports48-handball",
+      "name": "ハンドボール・シュートの構え",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "ハンドボール・シュートの構え",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "ハンドボール"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Lime green short-sleeve handball jersey and black shorts, knee sleeve and indoor handball shoes. One hand holding a small regulation handball near shoulder, other arm balancing, both feet on ground in a compact throw-ready stance."
+    },
+    {
+      "id": "sports48-rugby-sevens",
+      "name": "ラグビー・パスの構え",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "ラグビー・パスの構え",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "ラグビー",
+        "7人制",
+        "セブンズ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Maroon rugby jersey and white rugby shorts, maroon knee socks and rugby boots. Both hands hold a NORMAL regulation oval rugby ball beside waist in a pass-ready stance, relaxed bend in knees."
+    },
+    {
+      "id": "sports48-field-hockey",
+      "name": "ホッケー・スティックを構えて",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "ホッケー・スティックを構えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "ホッケー",
+        "フィールドホッケー"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Yellow collared field hockey jersey, navy shorts, long yellow socks over shin guards, turf shoes. Both hands correctly hold a regulation curved field hockey stick, its flat head resting beside a small white hockey ball at feet. Entire stick visible."
+    },
+    {
+      "id": "sports48-table-tennis",
+      "name": "卓球・ラケットを構えて",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "卓球・ラケットを構えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "卓球",
+        "ピンポン"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Royal blue-red short-sleeve table tennis sports shirt, black shorts, white crew socks and court shoes. Holds one REGULATION-size table tennis paddle near torso in right hand and small white pingpong ball in open left palm. Gentle ready stance."
+    },
+    {
+      "id": "sports48-golf",
+      "name": "ゴルフ・クラブと笑顔",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "ゴルフ・クラブと笑顔",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "ゴルフ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Mint golf polo with no lettering, beige tailored golf trousers, white visor, white golf shoes, one white golf glove. Standing relaxed with a REGULATION driver held vertically by grip, driver head resting on ground beside a golf ball on a tee. Entire club visible."
+    },
+    {
+      "id": "sports48-basketball-shot",
+      "name": "バスケットボール・シュート前",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "バスケットボール・シュート前",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "バスケットボール",
+        "バスケ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Purple sleeveless basketball jersey and matching loose shorts, white compression knee sleeves, high-top basketball shoes. Both hands hold a regulation basketball near chest in a set-shot preparation stance, elbows naturally positioned and smiling at camera."
+    },
+    {
+      "id": "sports48-squash",
+      "name": "スカッシュ・ラケットとボール",
+      "category": "スポーツ",
+      "group": "球技",
+      "tags": [
+        "スカッシュ・ラケットとボール",
+        "スポーツ追加48",
+        "スポーツ",
+        "球技",
+        "スカッシュ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Coral short-sleeve squash sports shirt, charcoal shorts, white court shoes, clear sport protective goggles that show eyes. Holds a squash racket with thin strings and an elongated teardrop head in one hand, a small black squash ball in other hand."
+    },
+    {
+      "id": "sports48-sprint",
+      "name": "陸上・短距離走",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・短距離走",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "短距離",
+        "100m",
+        "スプリント"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Bright red track singlet and fitted black running shorts, lightweight red track spikes. Standing in a cheerful dynamic sprint pose with one knee slightly raised, opposite elbow forward; realistic elderly anatomy, NOT an airborne sprint."
+    },
+    {
+      "id": "sports48-marathon",
+      "name": "陸上・マラソン",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・マラソン",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "マラソン",
+        "長距離",
+        "ランニング"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: White-turquoise running singlet, navy split running shorts, breathable white running cap, colorful cushioned road running shoes, simple sports watch. Cheerful compact jogging pose, one foot on ground, no bib text."
+    },
+    {
+      "id": "sports48-relay",
+      "name": "陸上・リレーのバトン",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・リレーのバトン",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "リレー",
+        "バトン"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Navy-red track singlet and navy racing shorts, track spikes. Standing with one arm extending a single smooth gold relay baton backward, looking toward camera over shoulder with a smile. No other runner."
+    },
+    {
+      "id": "sports48-hurdles",
+      "name": "陸上・ハードルに手を添えて",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・ハードルに手を添えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "ハードル"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Yellow-black track singlet and black running shorts, track spikes. Smiling while standing beside one complete freestanding compact regulation track hurdle, a hand lightly on the top bar. Both feet planted; entire hurdle including both base feet in canvas."
+    },
+    {
+      "id": "sports48-javelin",
+      "name": "陸上・やり投げ",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・やり投げ",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "やり投げ",
+        "槍投げ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Green track singlet and fitted black athletics shorts, track shoes. Holds one regulation slim javelin vertically alongside body, bottom tip just above ground and shaft extending above head. Include ALL of the javelin with extra headroom. Relaxed presentation stance, not aimed at anyone."
+    },
+    {
+      "id": "sports48-discus",
+      "name": "陸上・円盤投げ",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・円盤投げ",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "円盤投げ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Blue-white throwing singlet and blue fitted shorts, flat-soled throwing shoes. Standing with one regulation discus displayed in one hand extended slightly outward at hip level, other hand on waist. Disc is a thick aerodynamic disk with metal rim, not a frisbee."
+    },
+    {
+      "id": "sports48-shot-put",
+      "name": "陸上・砲丸投げ",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・砲丸投げ",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "砲丸投げ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Dark green throwing singlet and black athletics shorts, flat throwing shoes. One heavy smooth metal shot held close to neck under jaw in correct shot-put preparation, elbow outward, other arm relaxed for balance, both feet planted."
+    },
+    {
+      "id": "sports48-race-walking",
+      "name": "陸上・競歩",
+      "category": "スポーツ",
+      "group": "陸上",
+      "tags": [
+        "陸上・競歩",
+        "スポーツ追加48",
+        "スポーツ",
+        "陸上",
+        "陸上",
+        "競歩",
+        "ウォーキング"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Orange-white athletics singlet and black running shorts, light racing flats. A compact recognizable race-walking pose: one straight forward leg with heel contacting ground, rear toe on ground, bent elbows swinging opposite legs, upright torso and smiling face."
+    },
+    {
+      "id": "sports48-judo",
+      "name": "柔道・帯を締めて",
+      "category": "スポーツ",
+      "group": "武道・格闘技",
+      "tags": [
+        "柔道・帯を締めて",
+        "スポーツ追加48",
+        "スポーツ",
+        "武道・格闘技",
+        "柔道",
+        "武道"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Thick woven white judogi jacket with overlapping lapels and matching loose judogi trousers, correctly tied black belt, barefoot. Standing in a relaxed judo stance with hands lightly holding belt ends and cheerful smile."
+    },
+    {
+      "id": "sports48-karate",
+      "name": "空手・正拳突き",
+      "category": "スポーツ",
+      "group": "武道・格闘技",
+      "tags": [
+        "空手・正拳突き",
+        "スポーツ追加48",
+        "スポーツ",
+        "武道・格闘技",
+        "空手",
+        "空手道",
+        "武道"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Crisp white lightweight karategi with shorter jacket sleeves and white trousers, correctly tied black belt, barefoot. Controlled front punch toward empty side with right fist at chest height, other fist pulled to hip, compact grounded front stance. Face toward camera."
+    },
+    {
+      "id": "sports48-taekwondo",
+      "name": "テコンドー・構え",
+      "category": "スポーツ",
+      "group": "武道・格闘技",
+      "tags": [
+        "テコンドー・構え",
+        "スポーツ追加48",
+        "スポーツ",
+        "武道・格闘技",
+        "テコンドー",
+        "格闘技"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: White V-neck taekwondo dobok with black collar, white trousers, black belt, blue chest protector and white forearm guards, barefoot. Friendly balanced fighting-ready stance with hands lifted, no kick, no helmet obscuring face."
+    },
+    {
+      "id": "sports48-boxing",
+      "name": "ボクシング・グローブで構えて",
+      "category": "スポーツ",
+      "group": "武道・格闘技",
+      "tags": [
+        "ボクシング・グローブで構えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "武道・格闘技",
+        "ボクシング",
+        "格闘技"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Red boxing singlet, blue boxing shorts with wide waistband, laced boxing boots and red padded boxing gloves over wrapped wrists. Relaxed orthodox boxing guard with both gloves near chest, smiling face fully visible, no headgear."
+    },
+    {
+      "id": "sports48-wrestling",
+      "name": "レスリング・構え",
+      "category": "スポーツ",
+      "group": "武道・格闘技",
+      "tags": [
+        "レスリング・構え",
+        "スポーツ追加48",
+        "スポーツ",
+        "武道・格闘技",
+        "レスリング",
+        "格闘技"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Dark blue wrestling singlet with red trim extending to mid-thigh, wrestling ankle boots and soft knee pads. Natural elderly physique, modest athletic coverage. Compact wrestling-ready half crouch with hands open in front, smiling at camera."
+    },
+    {
+      "id": "sports48-kendo",
+      "name": "剣道・防具と竹刀",
+      "category": "スポーツ",
+      "group": "武道・格闘技",
+      "tags": [
+        "剣道・防具と竹刀",
+        "スポーツ追加48",
+        "スポーツ",
+        "武道・格闘技",
+        "剣道",
+        "武道"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Indigo kendogi and pleated indigo hakama, black-red do chest armor and tare waist armor, padded kote gloves, barefoot. Men helmet removed and resting beside his feet so elderly Kozo face is clear. Holds a complete bamboo shinai vertically in a relaxed two-hand grip, not pointed at camera."
+    },
+    {
+      "id": "sports48-swimming",
+      "name": "競泳・ゴーグルと笑顔",
+      "category": "スポーツ",
+      "group": "水上競技",
+      "tags": [
+        "競泳・ゴーグルと笑顔",
+        "スポーツ追加48",
+        "スポーツ",
+        "水上競技",
+        "水泳",
+        "競泳",
+        "スイミング"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Modest dark navy knee-length competition swim jammers, blue swim cap, swimming goggles resting on FOREHEAD above eyes, bare chest with realistic elderly body, barefoot. Cheerful neutral standing pose with one thumbs-up. No water or pool."
+    },
+    {
+      "id": "sports48-water-polo",
+      "name": "水球・ボールを持って",
+      "category": "スポーツ",
+      "group": "水上競技",
+      "tags": [
+        "水球・ボールを持って",
+        "スポーツ追加48",
+        "スポーツ",
+        "水上競技",
+        "水球",
+        "ウォーターポロ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Blue water-polo cap with ear guards and tied chin straps, opaque navy fitted swim shorts extending mid-thigh, bare torso with realistic elderly body, barefoot. Holds a regulation yellow water-polo ball at shoulder with one hand, other hand on hip. No water."
+    },
+    {
+      "id": "sports48-diving",
+      "name": "飛び込み・演技前のポーズ",
+      "category": "スポーツ",
+      "group": "水上競技",
+      "tags": [
+        "飛び込み・演技前のポーズ",
+        "スポーツ追加48",
+        "スポーツ",
+        "水上競技",
+        "飛び込み",
+        "ダイビング"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Opaque blue knee-length competition swim jammers, bare torso with realistic elderly body, barefoot, short gray hair uncovered. Standing straight with feet together and arms elegantly extended above head, all hands fit with generous top padding. Pre-dive pose on ground, no diving board, no water."
+    },
+    {
+      "id": "sports48-canoe",
+      "name": "カヌー・パドルを持って",
+      "category": "スポーツ",
+      "group": "水上競技",
+      "tags": [
+        "カヌー・パドルを持って",
+        "スポーツ追加48",
+        "スポーツ",
+        "水上競技",
+        "カヌー",
+        "カヤック",
+        "パドル"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Orange kayak buoyancy vest over blue technical long-sleeve top, black paddling shorts over gray leggings, neoprene paddling shoes. Standing holding a full-length DOUBLE-BLADED kayak paddle diagonally in both hands with both blades completely visible. No boat or scenery."
+    },
+    {
+      "id": "sports48-rowing",
+      "name": "ボート・オールと笑顔",
+      "category": "スポーツ",
+      "group": "水上競技",
+      "tags": [
+        "ボート・オールと笑顔",
+        "スポーツ追加48",
+        "スポーツ",
+        "水上競技",
+        "ボート",
+        "ローイング",
+        "漕艇"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Red-white rowing unisuit extending to mid-thigh and white training shoes, white sport visor. Standing with one complete sculling oar held upright beside body, slim shaft with a broad flat blade. Oar must be entirely visible with extra padding above head, no boat or scene."
+    },
+    {
+      "id": "sports48-sailing",
+      "name": "セーリング・海の選手",
+      "category": "スポーツ",
+      "group": "水上競技",
+      "tags": [
+        "セーリング・海の選手",
+        "スポーツ追加48",
+        "スポーツ",
+        "水上競技",
+        "セーリング",
+        "ヨット"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Navy technical sailing jacket and navy salopette sailing trousers, yellow buoyancy vest, deck shoes and red sailing cap. One neatly coiled sailing rope held in gloved hand and a compact tiller extension in other, friendly upright pose. No boat, background or water."
+    },
+    {
+      "id": "sports48-road-cycling",
+      "name": "自転車・ロードレース",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "自転車・ロードレース",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "自転車",
+        "ロードレース",
+        "サイクリング"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Fitted turquoise-black cycling jersey and black padded cycling shorts, fingerless cycling gloves, road helmet with chin strap, cycling shoes. Stand beside a complete normal-size drop-handlebar road bicycle, one hand on handlebar and other on saddle. Both bicycle wheels FULLY inside canvas with generous horizontal padding; no cropped wheels. Face unobscured."
+    },
+    {
+      "id": "sports48-bmx",
+      "name": "自転車・BMX",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "自転車・BMX",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "自転車",
+        "BMX",
+        "ビーエムエックス"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Purple long-sleeve BMX jersey, black protective riding trousers, knee pads, open-face BMX helmet, riding gloves and flat pedal shoes. Standing beside a complete compact BMX bicycle with small wheels and straight handlebars, one hand on bars and cheerful thumbs-up. Both wheels and full handlebars inside canvas."
+    },
+    {
+      "id": "sports48-sport-climbing",
+      "name": "スポーツクライミング・準備OK",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "スポーツクライミング・準備OK",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "スポーツクライミング",
+        "ボルダリング",
+        "登山"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Olive fitted climbing t-shirt, rust climbing trousers, climbing shoes, properly worn climbing harness, chalk bag at waist, orange climbing helmet. Holds a neat short coil of climbing rope and one carabiner, friendly upright pose. No climbing wall or hanging loose body."
+    },
+    {
+      "id": "sports48-gymnastics",
+      "name": "体操・演技後のポーズ",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "体操・演技後のポーズ",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "体操",
+        "体操競技",
+        "床運動"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: White-red mens gymnastics sleeveless leotard tucked into fitted white gymnastics trousers, white foot coverings. Standing tall in a gymnastics finishing salute with both arms forming a high V, hands fully framed, gray hair visible. No apparatus or scenery."
+    },
+    {
+      "id": "sports48-rhythmic-gymnastics",
+      "name": "新体操・リボンのポーズ",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "新体操・リボンのポーズ",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "新体操",
+        "リボン",
+        "体操"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Elegant blue-black long-sleeve male rhythmic gymnastics performance unitard and white soft gym shoes. Holds one ribbon wand in right hand making a compact flowing curve of red ribbon in open space beside body, entire ribbon visible. Upright balanced pose with left arm extended gracefully. Ribbon physically attaches to wand."
+    },
+    {
+      "id": "sports48-trampoline",
+      "name": "トランポリン・演技の準備",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "トランポリン・演技の準備",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "トランポリン",
+        "体操"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Green-white mens gymnastics leotard and fitted white gymnastics trousers, white socks. Standing upright with both feet on the mat of a small round training trampoline, hands open at sides in a balancing pose. Complete trampoline circular frame and all short support legs fully visible. No jumping, no large environment."
+    },
+    {
+      "id": "sports48-archery",
+      "name": "アーチェリー・弓を持って",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "アーチェリー・弓を持って",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "アーチェリー",
+        "弓"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: White-purple archery polo with no lettering, black archery trousers, trainers, chest guard, forearm guard, hip quiver containing arrows. Holds one complete modern recurve bow vertically at side; not drawing or aiming. Full bow, string and limb tips inside canvas."
+    },
+    {
+      "id": "sports48-sport-shooting",
+      "name": "射撃・エアピストル",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "射撃・エアピストル",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "射撃",
+        "エアピストル",
+        "スポーツ射撃"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: White-black sport shooting polo, black straight trousers and flat sports shoes, subtle clear shooting glasses showing eyes, hearing protection cups around neck. Standing relaxed holding one precision target air pistol with wood grip in right hand, muzzle pointing down toward empty ground, trigger finger straight outside trigger. Left hand on waist. No target, no violence, no scene."
+    },
+    {
+      "id": "sports48-equestrian",
+      "name": "馬術・騎乗服でごあいさつ",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "馬術・騎乗服でごあいさつ",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "馬術",
+        "乗馬",
+        "障害馬術"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Formal navy equestrian competition jacket, white collared stock-tie shirt, white riding breeches, polished tall black riding boots, black open-face riding helmet, white gloves. Standing with a short riding crop held neatly down by side and one thumbs-up, face completely clear. No horse, no toy horse."
+    },
+    {
+      "id": "sports48-skateboarding",
+      "name": "スケートボード・ボードと笑顔",
+      "category": "スポーツ",
+      "group": "自転車・体操ほか",
+      "tags": [
+        "スケートボード・ボードと笑顔",
+        "スポーツ追加48",
+        "スポーツ",
+        "自転車・体操ほか",
+        "スケートボード",
+        "スケボー"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Orange skate t-shirt, loose charcoal skate shorts, knee and elbow pads, wrist guards, matte black open-face skate helmet, flat skate shoes. Standing with one regulation skateboard upright beside one leg, one hand holds nose of board showing deck and four properly mounted wheels, other hand peace sign."
+    },
+    {
+      "id": "sports48-snowboard",
+      "name": "スノーボード・ボードを抱えて",
+      "category": "スポーツ",
+      "group": "冬季競技",
+      "tags": [
+        "スノーボード・ボードを抱えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "冬季競技",
+        "スノーボード",
+        "スノボ",
+        "冬季"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Bright yellow snowboard jacket, dark blue insulated snow trousers, snowboard boots and gloves, burgundy beanie, goggles on forehead not eyes. Holds a complete colorful snowboard vertically beside body with bindings visible, friendly wave with free hand. No snow scene."
+    },
+    {
+      "id": "sports48-figure-skating",
+      "name": "フィギュアスケート・決めポーズ",
+      "category": "スポーツ",
+      "group": "冬季競技",
+      "tags": [
+        "フィギュアスケート・決めポーズ",
+        "スポーツ追加48",
+        "スポーツ",
+        "冬季競技",
+        "フィギュアスケート",
+        "スケート",
+        "冬季"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Elegant royal blue long-sleeve male figure skating costume with tasteful silver rhinestone accents and black fitted skating trousers, black figure skates with visible toe picks and single blades. Standing balanced with one arm lifted gracefully and other extended sideways, both skates on invisible ground. Gray hair uncovered, warm smile."
+    },
+    {
+      "id": "sports48-speed-skating",
+      "name": "スピードスケート・構え",
+      "category": "スポーツ",
+      "group": "冬季競技",
+      "tags": [
+        "スピードスケート・構え",
+        "スポーツ追加48",
+        "スポーツ",
+        "冬季競技",
+        "スピードスケート",
+        "スケート",
+        "冬季"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Fitted red-black long-track speed skating racing skinsuit with hood folded down behind neck so gray hair and Kozo face fully visible, black long-blade speed skates. Gentle compact forward lean, one arm behind back and other resting on bent knee, both blades on ground. Entire long blades visible."
+    },
+    {
+      "id": "sports48-alpine-skiing",
+      "name": "アルペンスキー・ストックと笑顔",
+      "category": "スポーツ",
+      "group": "冬季競技",
+      "tags": [
+        "アルペンスキー・ストックと笑顔",
+        "スポーツ追加48",
+        "スポーツ",
+        "冬季競技",
+        "アルペンスキー",
+        "スキー",
+        "冬季"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Blue-orange alpine ski jacket, black snow trousers, fitted ski boots correctly clipped into TWO parallel skis, black gloves, open-face ski helmet and goggles on forehead. Standing with one ski pole in each hand and relaxed smile. Both full skis including forward tips and rear tails, both entire poles in canvas. No snow or scenery."
+    },
+    {
+      "id": "sports48-curling",
+      "name": "カーリング・ブラシを構えて",
+      "category": "スポーツ",
+      "group": "冬季競技",
+      "tags": [
+        "カーリング・ブラシを構えて",
+        "スポーツ追加48",
+        "スポーツ",
+        "冬季競技",
+        "カーリング",
+        "冬季"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Red-white curling team zip jacket with no logos, black curling trousers and black curling shoes. Standing with a complete curling broom held at a diagonal, its rectangular brush head resting on ground next to one regulation gray granite curling stone with yellow handle. Full broom and stone inside frame."
+    },
+    {
+      "id": "sports48-ice-hockey",
+      "name": "アイスホッケー・スティックとパック",
+      "category": "スポーツ",
+      "group": "冬季競技",
+      "tags": [
+        "アイスホッケー・スティックとパック",
+        "スポーツ追加48",
+        "スポーツ",
+        "冬季競技",
+        "アイスホッケー",
+        "ホッケー",
+        "冬季"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout for the KOHZO PHOTO app. Image 1 is the IDENTITY reference, elderly Japanese Kozo: preserve his exact recognizable wrinkled smiling face, age, gray hair, natural elderly build and proportions. Do NOT change into a young muscular athlete. Change his clothing completely to the specified sport-specific kit, equipment and pose. Remove the pale polo, cream trousers and fishing cap unless sport specification requests a cap. Match the real materials and sensible construction of this sport. Face always unobscured and recognizable; hold any opaque helmet/mask rather than hiding face. Natural warm smile, eyes toward camera unless pose specifies otherwise. Soft neutral studio photography, crisp realistic details, natural hands and correct fingers. ENTIRE person including head, all hands and feet, and ALL equipment must fit fully inside canvas with generous real transparent padding on EVERY edge, at least 40 pixels. Centered, slightly angled frontal view. Full length, no cropping, no disconnected equipment. Equipment is ordinary regulation size, not oversized novelty props. Genuine alpha transparent background everywhere outside the silhouette and through openings; no backdrop, no floor, no stadium, no water, no snow scenery, no gray gradient, no glow, no painted checkerboard. One person only, no teammates or audience. Very subtle tight contact shadow at most. Clothing has no text, sponsor logos, brand marks, Olympic rings or medals. No captions or watermark. This is an approachable commemorative sport pose by the SAME elderly man, not a celebrity likeness.\nSport-specific outfit, equipment and pose: Dark blue-white padded ice hockey jersey and hockey pants, thick shin guards beneath blue striped knee socks, black ice hockey skates, padded gloves, open-face hockey helmet without face cage to preserve Kozo face. Holds one full hockey stick with curved blade resting next to small black puck on ground. Entire stick and both skate blades visible."
+    }
+  ]
+}

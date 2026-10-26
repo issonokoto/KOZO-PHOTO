@@ -85,6 +85,749 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "sports48-football",
+    "name": "サッカー・ボールに足を添えて",
+    "category": "スポーツ",
+    "tags": [
+      "サッカー・ボールに足を添えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "サッカー",
+      "フットボール"
+    ],
+    "src": "./assets/library/sports48-football.webp",
+    "thumbnail": "./assets/thumbnails/sports48-football.webp"
+  },
+  {
+    "id": "sports48-baseball-pitcher",
+    "name": "野球・ピッチャー",
+    "category": "スポーツ",
+    "tags": [
+      "野球・ピッチャー",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "野球",
+      "ピッチャー",
+      "投手"
+    ],
+    "src": "./assets/library/sports48-baseball-pitcher.webp",
+    "thumbnail": "./assets/thumbnails/sports48-baseball-pitcher.webp"
+  },
+  {
+    "id": "sports48-softball-batter",
+    "name": "ソフトボール・バッター",
+    "category": "スポーツ",
+    "tags": [
+      "ソフトボール・バッター",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "ソフトボール",
+      "バッター",
+      "打者"
+    ],
+    "src": "./assets/library/sports48-softball-batter.webp",
+    "thumbnail": "./assets/thumbnails/sports48-softball-batter.webp"
+  },
+  {
+    "id": "sports48-volleyball",
+    "name": "バレーボール・サーブ前",
+    "category": "スポーツ",
+    "tags": [
+      "バレーボール・サーブ前",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "バレーボール",
+      "バレー"
+    ],
+    "src": "./assets/library/sports48-volleyball.webp",
+    "thumbnail": "./assets/thumbnails/sports48-volleyball.webp"
+  },
+  {
+    "id": "sports48-beach-volleyball",
+    "name": "ビーチバレー・ボールを抱えて",
+    "category": "スポーツ",
+    "tags": [
+      "ビーチバレー・ボールを抱えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "ビーチバレー",
+      "ビーチバレーボール"
+    ],
+    "src": "./assets/library/sports48-beach-volleyball.webp",
+    "thumbnail": "./assets/thumbnails/sports48-beach-volleyball.webp"
+  },
+  {
+    "id": "sports48-handball",
+    "name": "ハンドボール・シュートの構え",
+    "category": "スポーツ",
+    "tags": [
+      "ハンドボール・シュートの構え",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "ハンドボール"
+    ],
+    "src": "./assets/library/sports48-handball.webp",
+    "thumbnail": "./assets/thumbnails/sports48-handball.webp"
+  },
+  {
+    "id": "sports48-rugby-sevens",
+    "name": "ラグビー・パスの構え",
+    "category": "スポーツ",
+    "tags": [
+      "ラグビー・パスの構え",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "ラグビー",
+      "7人制",
+      "セブンズ"
+    ],
+    "src": "./assets/library/sports48-rugby-sevens.webp",
+    "thumbnail": "./assets/thumbnails/sports48-rugby-sevens.webp"
+  },
+  {
+    "id": "sports48-field-hockey",
+    "name": "ホッケー・スティックを構えて",
+    "category": "スポーツ",
+    "tags": [
+      "ホッケー・スティックを構えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "ホッケー",
+      "フィールドホッケー"
+    ],
+    "src": "./assets/library/sports48-field-hockey.webp",
+    "thumbnail": "./assets/thumbnails/sports48-field-hockey.webp"
+  },
+  {
+    "id": "sports48-table-tennis",
+    "name": "卓球・ラケットを構えて",
+    "category": "スポーツ",
+    "tags": [
+      "卓球・ラケットを構えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "卓球",
+      "ピンポン"
+    ],
+    "src": "./assets/library/sports48-table-tennis.webp",
+    "thumbnail": "./assets/thumbnails/sports48-table-tennis.webp"
+  },
+  {
+    "id": "sports48-golf",
+    "name": "ゴルフ・クラブと笑顔",
+    "category": "スポーツ",
+    "tags": [
+      "ゴルフ・クラブと笑顔",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "ゴルフ"
+    ],
+    "src": "./assets/library/sports48-golf.webp",
+    "thumbnail": "./assets/thumbnails/sports48-golf.webp"
+  },
+  {
+    "id": "sports48-basketball-shot",
+    "name": "バスケットボール・シュート前",
+    "category": "スポーツ",
+    "tags": [
+      "バスケットボール・シュート前",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "バスケットボール",
+      "バスケ"
+    ],
+    "src": "./assets/library/sports48-basketball-shot.webp",
+    "thumbnail": "./assets/thumbnails/sports48-basketball-shot.webp"
+  },
+  {
+    "id": "sports48-squash",
+    "name": "スカッシュ・ラケットとボール",
+    "category": "スポーツ",
+    "tags": [
+      "スカッシュ・ラケットとボール",
+      "スポーツ追加48",
+      "スポーツ",
+      "球技",
+      "スカッシュ"
+    ],
+    "src": "./assets/library/sports48-squash.webp",
+    "thumbnail": "./assets/thumbnails/sports48-squash.webp"
+  },
+  {
+    "id": "sports48-sprint",
+    "name": "陸上・短距離走",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・短距離走",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "短距離",
+      "100m",
+      "スプリント"
+    ],
+    "src": "./assets/library/sports48-sprint.webp",
+    "thumbnail": "./assets/thumbnails/sports48-sprint.webp"
+  },
+  {
+    "id": "sports48-marathon",
+    "name": "陸上・マラソン",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・マラソン",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "マラソン",
+      "長距離",
+      "ランニング"
+    ],
+    "src": "./assets/library/sports48-marathon.webp",
+    "thumbnail": "./assets/thumbnails/sports48-marathon.webp"
+  },
+  {
+    "id": "sports48-relay",
+    "name": "陸上・リレーのバトン",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・リレーのバトン",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "リレー",
+      "バトン"
+    ],
+    "src": "./assets/library/sports48-relay.webp",
+    "thumbnail": "./assets/thumbnails/sports48-relay.webp"
+  },
+  {
+    "id": "sports48-hurdles",
+    "name": "陸上・ハードルに手を添えて",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・ハードルに手を添えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "ハードル"
+    ],
+    "src": "./assets/library/sports48-hurdles.webp",
+    "thumbnail": "./assets/thumbnails/sports48-hurdles.webp"
+  },
+  {
+    "id": "sports48-javelin",
+    "name": "陸上・やり投げ",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・やり投げ",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "やり投げ",
+      "槍投げ"
+    ],
+    "src": "./assets/library/sports48-javelin.webp",
+    "thumbnail": "./assets/thumbnails/sports48-javelin.webp"
+  },
+  {
+    "id": "sports48-discus",
+    "name": "陸上・円盤投げ",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・円盤投げ",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "円盤投げ"
+    ],
+    "src": "./assets/library/sports48-discus.webp",
+    "thumbnail": "./assets/thumbnails/sports48-discus.webp"
+  },
+  {
+    "id": "sports48-shot-put",
+    "name": "陸上・砲丸投げ",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・砲丸投げ",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "砲丸投げ"
+    ],
+    "src": "./assets/library/sports48-shot-put.webp",
+    "thumbnail": "./assets/thumbnails/sports48-shot-put.webp"
+  },
+  {
+    "id": "sports48-race-walking",
+    "name": "陸上・競歩",
+    "category": "スポーツ",
+    "tags": [
+      "陸上・競歩",
+      "スポーツ追加48",
+      "スポーツ",
+      "陸上",
+      "陸上",
+      "競歩",
+      "ウォーキング"
+    ],
+    "src": "./assets/library/sports48-race-walking.webp",
+    "thumbnail": "./assets/thumbnails/sports48-race-walking.webp"
+  },
+  {
+    "id": "sports48-judo",
+    "name": "柔道・帯を締めて",
+    "category": "スポーツ",
+    "tags": [
+      "柔道・帯を締めて",
+      "スポーツ追加48",
+      "スポーツ",
+      "武道・格闘技",
+      "柔道",
+      "武道"
+    ],
+    "src": "./assets/library/sports48-judo.webp",
+    "thumbnail": "./assets/thumbnails/sports48-judo.webp"
+  },
+  {
+    "id": "sports48-karate",
+    "name": "空手・正拳突き",
+    "category": "スポーツ",
+    "tags": [
+      "空手・正拳突き",
+      "スポーツ追加48",
+      "スポーツ",
+      "武道・格闘技",
+      "空手",
+      "空手道",
+      "武道"
+    ],
+    "src": "./assets/library/sports48-karate.webp",
+    "thumbnail": "./assets/thumbnails/sports48-karate.webp"
+  },
+  {
+    "id": "sports48-taekwondo",
+    "name": "テコンドー・構え",
+    "category": "スポーツ",
+    "tags": [
+      "テコンドー・構え",
+      "スポーツ追加48",
+      "スポーツ",
+      "武道・格闘技",
+      "テコンドー",
+      "格闘技"
+    ],
+    "src": "./assets/library/sports48-taekwondo.webp",
+    "thumbnail": "./assets/thumbnails/sports48-taekwondo.webp"
+  },
+  {
+    "id": "sports48-boxing",
+    "name": "ボクシング・グローブで構えて",
+    "category": "スポーツ",
+    "tags": [
+      "ボクシング・グローブで構えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "武道・格闘技",
+      "ボクシング",
+      "格闘技"
+    ],
+    "src": "./assets/library/sports48-boxing.webp",
+    "thumbnail": "./assets/thumbnails/sports48-boxing.webp"
+  },
+  {
+    "id": "sports48-wrestling",
+    "name": "レスリング・構え",
+    "category": "スポーツ",
+    "tags": [
+      "レスリング・構え",
+      "スポーツ追加48",
+      "スポーツ",
+      "武道・格闘技",
+      "レスリング",
+      "格闘技"
+    ],
+    "src": "./assets/library/sports48-wrestling.webp",
+    "thumbnail": "./assets/thumbnails/sports48-wrestling.webp"
+  },
+  {
+    "id": "sports48-kendo",
+    "name": "剣道・防具と竹刀",
+    "category": "スポーツ",
+    "tags": [
+      "剣道・防具と竹刀",
+      "スポーツ追加48",
+      "スポーツ",
+      "武道・格闘技",
+      "剣道",
+      "武道"
+    ],
+    "src": "./assets/library/sports48-kendo.webp",
+    "thumbnail": "./assets/thumbnails/sports48-kendo.webp"
+  },
+  {
+    "id": "sports48-swimming",
+    "name": "競泳・ゴーグルと笑顔",
+    "category": "スポーツ",
+    "tags": [
+      "競泳・ゴーグルと笑顔",
+      "スポーツ追加48",
+      "スポーツ",
+      "水上競技",
+      "水泳",
+      "競泳",
+      "スイミング"
+    ],
+    "src": "./assets/library/sports48-swimming.webp",
+    "thumbnail": "./assets/thumbnails/sports48-swimming.webp"
+  },
+  {
+    "id": "sports48-water-polo",
+    "name": "水球・ボールを持って",
+    "category": "スポーツ",
+    "tags": [
+      "水球・ボールを持って",
+      "スポーツ追加48",
+      "スポーツ",
+      "水上競技",
+      "水球",
+      "ウォーターポロ"
+    ],
+    "src": "./assets/library/sports48-water-polo.webp",
+    "thumbnail": "./assets/thumbnails/sports48-water-polo.webp"
+  },
+  {
+    "id": "sports48-diving",
+    "name": "飛び込み・演技前のポーズ",
+    "category": "スポーツ",
+    "tags": [
+      "飛び込み・演技前のポーズ",
+      "スポーツ追加48",
+      "スポーツ",
+      "水上競技",
+      "飛び込み",
+      "ダイビング"
+    ],
+    "src": "./assets/library/sports48-diving.webp",
+    "thumbnail": "./assets/thumbnails/sports48-diving.webp"
+  },
+  {
+    "id": "sports48-canoe",
+    "name": "カヌー・パドルを持って",
+    "category": "スポーツ",
+    "tags": [
+      "カヌー・パドルを持って",
+      "スポーツ追加48",
+      "スポーツ",
+      "水上競技",
+      "カヌー",
+      "カヤック",
+      "パドル"
+    ],
+    "src": "./assets/library/sports48-canoe.webp",
+    "thumbnail": "./assets/thumbnails/sports48-canoe.webp"
+  },
+  {
+    "id": "sports48-rowing",
+    "name": "ボート・オールと笑顔",
+    "category": "スポーツ",
+    "tags": [
+      "ボート・オールと笑顔",
+      "スポーツ追加48",
+      "スポーツ",
+      "水上競技",
+      "ボート",
+      "ローイング",
+      "漕艇"
+    ],
+    "src": "./assets/library/sports48-rowing.webp",
+    "thumbnail": "./assets/thumbnails/sports48-rowing.webp"
+  },
+  {
+    "id": "sports48-sailing",
+    "name": "セーリング・海の選手",
+    "category": "スポーツ",
+    "tags": [
+      "セーリング・海の選手",
+      "スポーツ追加48",
+      "スポーツ",
+      "水上競技",
+      "セーリング",
+      "ヨット"
+    ],
+    "src": "./assets/library/sports48-sailing.webp",
+    "thumbnail": "./assets/thumbnails/sports48-sailing.webp"
+  },
+  {
+    "id": "sports48-road-cycling",
+    "name": "自転車・ロードレース",
+    "category": "スポーツ",
+    "tags": [
+      "自転車・ロードレース",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "自転車",
+      "ロードレース",
+      "サイクリング"
+    ],
+    "src": "./assets/library/sports48-road-cycling.webp",
+    "thumbnail": "./assets/thumbnails/sports48-road-cycling.webp"
+  },
+  {
+    "id": "sports48-bmx",
+    "name": "自転車・BMX",
+    "category": "スポーツ",
+    "tags": [
+      "自転車・BMX",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "自転車",
+      "BMX",
+      "ビーエムエックス"
+    ],
+    "src": "./assets/library/sports48-bmx.webp",
+    "thumbnail": "./assets/thumbnails/sports48-bmx.webp"
+  },
+  {
+    "id": "sports48-sport-climbing",
+    "name": "スポーツクライミング・準備OK",
+    "category": "スポーツ",
+    "tags": [
+      "スポーツクライミング・準備OK",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "スポーツクライミング",
+      "ボルダリング",
+      "登山"
+    ],
+    "src": "./assets/library/sports48-sport-climbing.webp",
+    "thumbnail": "./assets/thumbnails/sports48-sport-climbing.webp"
+  },
+  {
+    "id": "sports48-gymnastics",
+    "name": "体操・演技後のポーズ",
+    "category": "スポーツ",
+    "tags": [
+      "体操・演技後のポーズ",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "体操",
+      "体操競技",
+      "床運動"
+    ],
+    "src": "./assets/library/sports48-gymnastics.webp",
+    "thumbnail": "./assets/thumbnails/sports48-gymnastics.webp"
+  },
+  {
+    "id": "sports48-rhythmic-gymnastics",
+    "name": "新体操・リボンのポーズ",
+    "category": "スポーツ",
+    "tags": [
+      "新体操・リボンのポーズ",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "新体操",
+      "リボン",
+      "体操"
+    ],
+    "src": "./assets/library/sports48-rhythmic-gymnastics.webp",
+    "thumbnail": "./assets/thumbnails/sports48-rhythmic-gymnastics.webp"
+  },
+  {
+    "id": "sports48-trampoline",
+    "name": "トランポリン・演技の準備",
+    "category": "スポーツ",
+    "tags": [
+      "トランポリン・演技の準備",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "トランポリン",
+      "体操"
+    ],
+    "src": "./assets/library/sports48-trampoline.webp",
+    "thumbnail": "./assets/thumbnails/sports48-trampoline.webp"
+  },
+  {
+    "id": "sports48-archery",
+    "name": "アーチェリー・弓を持って",
+    "category": "スポーツ",
+    "tags": [
+      "アーチェリー・弓を持って",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "アーチェリー",
+      "弓"
+    ],
+    "src": "./assets/library/sports48-archery.webp",
+    "thumbnail": "./assets/thumbnails/sports48-archery.webp"
+  },
+  {
+    "id": "sports48-sport-shooting",
+    "name": "射撃・エアピストル",
+    "category": "スポーツ",
+    "tags": [
+      "射撃・エアピストル",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "射撃",
+      "エアピストル",
+      "スポーツ射撃"
+    ],
+    "src": "./assets/library/sports48-sport-shooting.webp",
+    "thumbnail": "./assets/thumbnails/sports48-sport-shooting.webp"
+  },
+  {
+    "id": "sports48-equestrian",
+    "name": "馬術・騎乗服でごあいさつ",
+    "category": "スポーツ",
+    "tags": [
+      "馬術・騎乗服でごあいさつ",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "馬術",
+      "乗馬",
+      "障害馬術"
+    ],
+    "src": "./assets/library/sports48-equestrian.webp",
+    "thumbnail": "./assets/thumbnails/sports48-equestrian.webp"
+  },
+  {
+    "id": "sports48-skateboarding",
+    "name": "スケートボード・ボードと笑顔",
+    "category": "スポーツ",
+    "tags": [
+      "スケートボード・ボードと笑顔",
+      "スポーツ追加48",
+      "スポーツ",
+      "自転車・体操ほか",
+      "スケートボード",
+      "スケボー"
+    ],
+    "src": "./assets/library/sports48-skateboarding.webp",
+    "thumbnail": "./assets/thumbnails/sports48-skateboarding.webp"
+  },
+  {
+    "id": "sports48-snowboard",
+    "name": "スノーボード・ボードを抱えて",
+    "category": "スポーツ",
+    "tags": [
+      "スノーボード・ボードを抱えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "冬季競技",
+      "スノーボード",
+      "スノボ",
+      "冬季"
+    ],
+    "src": "./assets/library/sports48-snowboard.webp",
+    "thumbnail": "./assets/thumbnails/sports48-snowboard.webp"
+  },
+  {
+    "id": "sports48-figure-skating",
+    "name": "フィギュアスケート・決めポーズ",
+    "category": "スポーツ",
+    "tags": [
+      "フィギュアスケート・決めポーズ",
+      "スポーツ追加48",
+      "スポーツ",
+      "冬季競技",
+      "フィギュアスケート",
+      "スケート",
+      "冬季"
+    ],
+    "src": "./assets/library/sports48-figure-skating.webp",
+    "thumbnail": "./assets/thumbnails/sports48-figure-skating.webp"
+  },
+  {
+    "id": "sports48-speed-skating",
+    "name": "スピードスケート・構え",
+    "category": "スポーツ",
+    "tags": [
+      "スピードスケート・構え",
+      "スポーツ追加48",
+      "スポーツ",
+      "冬季競技",
+      "スピードスケート",
+      "スケート",
+      "冬季"
+    ],
+    "src": "./assets/library/sports48-speed-skating.webp",
+    "thumbnail": "./assets/thumbnails/sports48-speed-skating.webp"
+  },
+  {
+    "id": "sports48-alpine-skiing",
+    "name": "アルペンスキー・ストックと笑顔",
+    "category": "スポーツ",
+    "tags": [
+      "アルペンスキー・ストックと笑顔",
+      "スポーツ追加48",
+      "スポーツ",
+      "冬季競技",
+      "アルペンスキー",
+      "スキー",
+      "冬季"
+    ],
+    "src": "./assets/library/sports48-alpine-skiing.webp",
+    "thumbnail": "./assets/thumbnails/sports48-alpine-skiing.webp"
+  },
+  {
+    "id": "sports48-curling",
+    "name": "カーリング・ブラシを構えて",
+    "category": "スポーツ",
+    "tags": [
+      "カーリング・ブラシを構えて",
+      "スポーツ追加48",
+      "スポーツ",
+      "冬季競技",
+      "カーリング",
+      "冬季"
+    ],
+    "src": "./assets/library/sports48-curling.webp",
+    "thumbnail": "./assets/thumbnails/sports48-curling.webp"
+  },
+  {
+    "id": "sports48-ice-hockey",
+    "name": "アイスホッケー・スティックとパック",
+    "category": "スポーツ",
+    "tags": [
+      "アイスホッケー・スティックとパック",
+      "スポーツ追加48",
+      "スポーツ",
+      "冬季競技",
+      "アイスホッケー",
+      "ホッケー",
+      "冬季"
+    ],
+    "src": "./assets/library/sports48-ice-hockey.webp",
+    "thumbnail": "./assets/thumbnails/sports48-ice-hockey.webp"
+  },
+  {
     "id": "music-lead-vocal",
     "name": "ハンドマイクのボーカル",
     "category": "音楽・ステージ",

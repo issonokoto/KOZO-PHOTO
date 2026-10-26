@@ -1358,5 +1358,513 @@
   "assets/library/white-tuxedo.webp": {
     "src": "assets/offline/white-tuxedo.webp",
     "sha256": "53e14286a805523128370b7f409e68ef87771127c2e55541d18db58a6688734d"
+  },
+  "assets/library/sports48-football.webp": {
+    "src": "assets/offline/sports48-football.webp",
+    "sha256": "cbf167d9fa82bbd2a6f033894d26e4a784e57efb44aeabaf7af4caed6beeda96"
+  },
+  "assets/library/sports48-baseball-pitcher.webp": {
+    "src": "assets/offline/sports48-baseball-pitcher.webp",
+    "sha256": "596d727bf7718d8724421e904e220045e80f4671397d713d050a487d91be8803"
+  },
+  "assets/library/sports48-softball-batter.webp": {
+    "src": "assets/offline/sports48-softball-batter.webp",
+    "sha256": "918964ba7ccc1ec662df62b006d1ab9518255765d67e6883fdd3275f52fcccce"
+  },
+  "assets/library/sports48-volleyball.webp": {
+    "src": "assets/offline/sports48-volleyball.webp",
+    "sha256": "64d186d485c2fc2adf86dd80959152ae56edab7fe34b1208e2aa06acfa1d24a4"
+  },
+  "assets/library/sports48-beach-volleyball.webp": {
+    "src": "assets/offline/sports48-beach-volleyball.webp",
+    "sha256": "6588e3f78d46d9d82000d1b675cb8d39750ecae23ea568cd0e72c0db39234f6e"
+  },
+  "assets/library/sports48-handball.webp": {
+    "src": "assets/offline/sports48-handball.webp",
+    "sha256": "7f305aeb111c1eb351167597758807d9395ed6e7495fc802e2cd8a579b9eac1d"
+  },
+  "assets/library/sports48-squash.webp": {
+    "src": "assets/offline/sports48-squash.webp",
+    "sha256": "dfe8396769311b0e564e597e06f69f45ba0399f03c90cc166cf221b171cd0b54"
+  },
+  "assets/library/sports48-rugby-sevens.webp": {
+    "src": "assets/offline/sports48-rugby-sevens.webp",
+    "sha256": "745424efbdaa2990b8e656e9bb4bb027745fdd3a0ad5f963a512aef2ff8ee35d"
+  },
+  "assets/library/sports48-field-hockey.webp": {
+    "src": "assets/offline/sports48-field-hockey.webp",
+    "sha256": "88e3652ff7391e3b1a239a5ec20085f96f18ab567d2884e2ebb79be7e28121d4"
+  },
+  "assets/library/sports48-table-tennis.webp": {
+    "src": "assets/offline/sports48-table-tennis.webp",
+    "sha256": "95e7f83c2fcb32d0445923d4b9ecedd3e52f7d50e51090e9f123863dc13fe05f"
+  },
+  "assets/library/sports48-golf.webp": {
+    "src": "assets/offline/sports48-golf.webp",
+    "sha256": "58e1f446da3d0c652d0082d3014ed4b28c25ce439a100cebbc788bb5107a6066"
+  },
+  "assets/library/sports48-basketball-shot.webp": {
+    "src": "assets/offline/sports48-basketball-shot.webp",
+    "sha256": "ac8ab00ae3931a245e666abb02dd8fcc2df17f40b2c97954ea776c094722dda0"
+  },
+  "assets/library/sports48-sprint.webp": {
+    "src": "assets/offline/sports48-sprint.webp",
+    "sha256": "bda933b22d4d32370f941e0cfe43c8c70a49c1019b41def0c7c654b44c4c9fb6"
+  },
+  "assets/library/sports48-hurdles.webp": {
+    "src": "assets/offline/sports48-hurdles.webp",
+    "sha256": "91913c59ecfb85ca9fb7f25f5ce375feb17e170a518d144408134309317d0fd0"
+  },
+  "assets/library/sports48-shot-put.webp": {
+    "src": "assets/offline/sports48-shot-put.webp",
+    "sha256": "e42695b5e153e69984dd3ab5ea5e48030104b48f67fbdb50beacc7c0dd8a8361"
+  },
+  "assets/library/sports48-race-walking.webp": {
+    "src": "assets/offline/sports48-race-walking.webp",
+    "sha256": "9bfeca0948e46c73b8d79cc6fa8a3fcac4e7c774db0ee83e929be918d569041c"
+  },
+  "assets/library/sports48-swimming.webp": {
+    "src": "assets/offline/sports48-swimming.webp",
+    "sha256": "26bd8247e0d8e07738aaebfb2fe9b1fcc67965921e441f2c436d1b6a701a88e9"
+  },
+  "assets/library/sports48-marathon.webp": {
+    "src": "assets/offline/sports48-marathon.webp",
+    "sha256": "0f6245b5cedafa97550d14b47e897670cb1fe670c18ce8f7dcb9e34e098dad9c"
+  },
+  "assets/library/sports48-relay.webp": {
+    "src": "assets/offline/sports48-relay.webp",
+    "sha256": "36082bb6d7bf563579a19a1073a1951ef067617500b3ee86cfde8e9fe96c515e"
+  },
+  "assets/library/sports48-javelin.webp": {
+    "src": "assets/offline/sports48-javelin.webp",
+    "sha256": "10eda1899c71e7dd9d1500a2540eaba8037a7c42f0adbe208e401db0371a5919"
+  },
+  "assets/library/sports48-discus.webp": {
+    "src": "assets/offline/sports48-discus.webp",
+    "sha256": "fa57ba253f4f6fb4364b1719392b5e0b98b2147f902dcd7f6255dd736ad2e38a"
+  },
+  "assets/library/sports48-judo.webp": {
+    "src": "assets/offline/sports48-judo.webp",
+    "sha256": "387b8b64bf55af4da164dd2aa8d6410f247c179cc5074fb8d7d4fbc701d99206"
+  },
+  "assets/library/sports48-karate.webp": {
+    "src": "assets/offline/sports48-karate.webp",
+    "sha256": "4fb59ae267770023af7fbeffb1f87d3718756cab7f8a1746ecf85125ca167e75"
+  },
+  "assets/library/sports48-taekwondo.webp": {
+    "src": "assets/offline/sports48-taekwondo.webp",
+    "sha256": "088535ee4eb2fb944fa545e91fb7753acc73c37bf82e29a2da8197e7e7134a05"
+  },
+  "assets/library/sports48-boxing.webp": {
+    "src": "assets/offline/sports48-boxing.webp",
+    "sha256": "5987adb25ac78687ec08499ccfacdc9ea88ecf3186da97aa8834b34eaeee7347"
+  },
+  "assets/library/sports48-wrestling.webp": {
+    "src": "assets/offline/sports48-wrestling.webp",
+    "sha256": "cf90c23957a79e8bee3b57d3a952d8aebd2be5f0ed1a3d11726c2fe1a5171e2d"
+  },
+  "assets/library/sports48-kendo.webp": {
+    "src": "assets/offline/sports48-kendo.webp",
+    "sha256": "a0e3b733ab8af11b6e4d0a09df0ab4f5e632efa5268904234f214210212ae121"
+  },
+  "assets/library/sports48-water-polo.webp": {
+    "src": "assets/offline/sports48-water-polo.webp",
+    "sha256": "c1bb31787849855864dedbc994375b059bc403cd9c40a94cbcb5e62ecba94d5f"
+  },
+  "assets/library/sports48-diving.webp": {
+    "src": "assets/offline/sports48-diving.webp",
+    "sha256": "9641957a8414812c6d2889a6a57ae4b183a43225da242a19630b1d2f0a34cc06"
+  },
+  "assets/library/sports48-canoe.webp": {
+    "src": "assets/offline/sports48-canoe.webp",
+    "sha256": "073583ea78b875ee2a858bb7d2b9ab310e81f4d761a718766ee3b3e663c459eb"
+  },
+  "assets/library/sports48-rowing.webp": {
+    "src": "assets/offline/sports48-rowing.webp",
+    "sha256": "4bc42399c44507b6a673c78d33c6517bdd762c60ad758cd8ad2ef53e8f8375b2"
+  },
+  "assets/library/sports48-sailing.webp": {
+    "src": "assets/offline/sports48-sailing.webp",
+    "sha256": "ede0f55460efb789cd419d6f627cb6bcba468357ba88c8b026ec325f2e665446"
+  },
+  "assets/library/sports48-road-cycling.webp": {
+    "src": "assets/offline/sports48-road-cycling.webp",
+    "sha256": "f667c768598a30b19663658a1a3fa15b780e543fa953ff4efdbff6e16fbea9e7"
+  },
+  "assets/library/sports48-bmx.webp": {
+    "src": "assets/offline/sports48-bmx.webp",
+    "sha256": "b6a3be3d7a797b8785d84226c5ecbb9c9794a199cd45a08f677efef6ac52a474"
+  },
+  "assets/library/sports48-sport-climbing.webp": {
+    "src": "assets/offline/sports48-sport-climbing.webp",
+    "sha256": "01995ba6f687e25083a79a3ef7c65b888a6447379a2a8a670f6db65ceb9bf889"
+  },
+  "assets/library/sports48-gymnastics.webp": {
+    "src": "assets/offline/sports48-gymnastics.webp",
+    "sha256": "9a32f95ea2fe81adf54a50f5a0746acbffe1bb57f8ca7d7eab418069fb952131"
+  },
+  "assets/library/sports48-rhythmic-gymnastics.webp": {
+    "src": "assets/offline/sports48-rhythmic-gymnastics.webp",
+    "sha256": "0481ecac560f5be03e10fa536c58dff4143cd187d5fa159c0dd8e57e54851d5f"
+  },
+  "assets/library/sports48-sport-shooting.webp": {
+    "src": "assets/offline/sports48-sport-shooting.webp",
+    "sha256": "47d0a277b9db22f8585b8fd711ad118046f70a5cfabcecea14d476b0d629a791"
+  },
+  "assets/library/sports48-equestrian.webp": {
+    "src": "assets/offline/sports48-equestrian.webp",
+    "sha256": "e409d004dea50f3762712e6a5942d9a0e519a6f8b1c7f797aa05d1af12b36451"
+  },
+  "assets/library/sports48-skateboarding.webp": {
+    "src": "assets/offline/sports48-skateboarding.webp",
+    "sha256": "696e3bc392cf6e52e7b67c499557f4806fff773e62875eb84169902436d10093"
+  },
+  "assets/library/sports48-snowboard.webp": {
+    "src": "assets/offline/sports48-snowboard.webp",
+    "sha256": "e9bd92dd55166f3d54c755e402dadb73d8188ea4677485c3dc6384aeaf94c241"
+  },
+  "assets/library/sports48-figure-skating.webp": {
+    "src": "assets/offline/sports48-figure-skating.webp",
+    "sha256": "37a946df3c3644e660b3c5916f14d26377acca0d4d8f0516b42c420f980e4cba"
+  },
+  "assets/library/sports48-trampoline.webp": {
+    "src": "assets/offline/sports48-trampoline.webp",
+    "sha256": "58ce00cdd2c2857c3c064cef605300008e8748694db355751436e50579ffd988"
+  },
+  "assets/library/sports48-archery.webp": {
+    "src": "assets/offline/sports48-archery.webp",
+    "sha256": "3297286a901015954ee48797b49be6e9204ca14981708e2b98b9ba2c76a3fc0d"
+  },
+  "assets/library/sports48-speed-skating.webp": {
+    "src": "assets/offline/sports48-speed-skating.webp",
+    "sha256": "86259bf0014d6abad8d1b46d29b3a29389f08e2f1a888a9928192755a0608e0a"
+  },
+  "assets/library/sports48-alpine-skiing.webp": {
+    "src": "assets/offline/sports48-alpine-skiing.webp",
+    "sha256": "eca71d191cb141778b0bc291f6219e3ca506fabccf2c6348792418029e248bcb"
+  },
+  "assets/library/sports48-curling.webp": {
+    "src": "assets/offline/sports48-curling.webp",
+    "sha256": "5a5d944ab6165b20e3d0983b8f5f2be3cfc8d614b096c1462cca881bbba78c87"
+  },
+  "assets/library/sports48-ice-hockey.webp": {
+    "src": "assets/offline/sports48-ice-hockey.webp",
+    "sha256": "df4e911d674652b1e7c79ada71e33b79dca74c83b170cb10e7d19c9cb507476c"
+  },
+  "assets/library/pref-31-tottori.webp": {
+    "src": "assets/offline/pref-31-tottori.webp",
+    "sha256": "28d19e6f0b3d455b7f7ae838dc8c00dd8d1e792951495fa2678419733ef2eadc"
+  },
+  "assets/library/animal-calico-cat.webp": {
+    "src": "assets/offline/animal-calico-cat.webp",
+    "sha256": "5db857ff4c0615f8236482a44d3f53bbf9bf04733d21e67fec6b7844ee1fcdfa"
+  },
+  "assets/library/giant-scroll.webp": {
+    "src": "assets/offline/giant-scroll.webp",
+    "sha256": "a8296ca852bd595037447f0b751ae887d86cdb7d647d9289a65785a5d3189ca2"
+  },
+  "assets/library/hover-board.webp": {
+    "src": "assets/offline/hover-board.webp",
+    "sha256": "fc13ce0030fa41dbe3e3f2e099b8c5362ca99f59ededcf41bed7f0dc0ceae237"
+  },
+  "assets/library/pref-23-aichi.webp": {
+    "src": "assets/offline/pref-23-aichi.webp",
+    "sha256": "2690b55ab08548a2235e14b9b901c6902e9246aee1f1a57d8f7ea9144a418238"
+  },
+  "assets/library/tokushima-sudachi-farmer.webp": {
+    "src": "assets/offline/tokushima-sudachi-farmer.webp",
+    "sha256": "d2a0800ebfaef36808f3314ac9978651011fe99c9432e9824c496e686c76431e"
+  },
+  "assets/library/pref-37-kagawa.webp": {
+    "src": "assets/offline/pref-37-kagawa.webp",
+    "sha256": "3d2e164ef039fe81f256c3d72006a685964178659123246d04e3f352380ad84c"
+  },
+  "assets/library/space-botanist.webp": {
+    "src": "assets/offline/space-botanist.webp",
+    "sha256": "87ff6ce0dc3df93e89e0a3fced1d29933c6f3a010b8b6d5c6d97a1f9942eb6f7"
+  },
+  "assets/library/animal-panda.webp": {
+    "src": "assets/offline/animal-panda.webp",
+    "sha256": "4114d08b7e95f0da5b74b0c5051bcd95250620812a9baa36ad9f4280743f8c85"
+  },
+  "assets/library/pref-43-kumamoto.webp": {
+    "src": "assets/offline/pref-43-kumamoto.webp",
+    "sha256": "3c559710bdc792e84f7b2e03e1081f89865dadf9ebf78007314ff5f0f99a690d"
+  },
+  "assets/library/giant-golf.webp": {
+    "src": "assets/offline/giant-golf.webp",
+    "sha256": "67c13894d3af05bca754ddd9dfbe0fb6d123a49a481414c38ce903822dbae76b"
+  },
+  "assets/library/tokushima-sudachi-chef.webp": {
+    "src": "assets/offline/tokushima-sudachi-chef.webp",
+    "sha256": "386f022504aa4d0ee36730c82a948e00065112c0b5c66c140387d75e909c5151"
+  },
+  "assets/library/pref-39-kochi.webp": {
+    "src": "assets/offline/pref-39-kochi.webp",
+    "sha256": "4621c2a10144ce96efb738467599ecd8578ad877e76ccaf63ea66ebfe70d88bc"
+  },
+  "assets/library/tokushima-henro.webp": {
+    "src": "assets/offline/tokushima-henro.webp",
+    "sha256": "862a99d9ee3188bd14466cd6579abd58ed81e869e391979c8b7c91c16dd3b486"
+  },
+  "assets/library/postman.webp": {
+    "src": "assets/offline/postman.webp",
+    "sha256": "49013a0778a274d134d6c2ef5ce77ed7e882a1e21e4443aa18cb577d35971318"
+  },
+  "assets/library/traffic-cone.webp": {
+    "src": "assets/offline/traffic-cone.webp",
+    "sha256": "176daf11883ba726159f89bd5a2efde81014d55ca7498a22103991aeb367e21d"
+  },
+  "assets/library/pref-44-oita.webp": {
+    "src": "assets/offline/pref-44-oita.webp",
+    "sha256": "8ec524eb9fbc7b076f1b9275c97aeed9c2b30fff9ef99b34da03169bc53ab9cf"
+  },
+  "assets/library/birthday.webp": {
+    "src": "assets/offline/birthday.webp",
+    "sha256": "bf602c21e335973e7e99da26657f18c52e3f3783cc4f3f654c5acaf6d4339e03"
+  },
+  "assets/library/curling.webp": {
+    "src": "assets/offline/curling.webp",
+    "sha256": "f8491e403494efe0101b3ed0e3ce61dcc91c6a20285546027f9fb4666ab6a928"
+  },
+  "assets/library/tokushima-awa-flute.webp": {
+    "src": "assets/offline/tokushima-awa-flute.webp",
+    "sha256": "156c18d14db6555a96f234d70b0fcf246b5eb97bf05ff2f34867fbda9ddbd159"
+  },
+  "assets/library/pref-41-saga.webp": {
+    "src": "assets/offline/pref-41-saga.webp",
+    "sha256": "269e6b28069e655440ca5bd14d1432944b46b3d22a863e75b10c53518d150a0b"
+  },
+  "assets/library/slipper.webp": {
+    "src": "assets/offline/slipper.webp",
+    "sha256": "cdbae66933ad601ed89e48adb8f2bda186f391fc489d4a2b3214122dff27f4a0"
+  },
+  "assets/library/pizza-stack.webp": {
+    "src": "assets/offline/pizza-stack.webp",
+    "sha256": "8aa81864a12bb058db33cbe8337ddecced0a26cd80015cf8da08ee7fcbb08b55"
+  },
+  "assets/library/pref-14-kanagawa.webp": {
+    "src": "assets/offline/pref-14-kanagawa.webp",
+    "sha256": "d4b1eacd1f5d2c60c43606c3770135aaae7ee857674989976715f3c7ec633851"
+  },
+  "assets/library/weather-man.webp": {
+    "src": "assets/offline/weather-man.webp",
+    "sha256": "b2a835988d67922d4df8028b89c224f03c4e9f9ff27d68e8da04fc74c3730342"
+  },
+  "assets/library/tokushima-oboke-raft.webp": {
+    "src": "assets/offline/tokushima-oboke-raft.webp",
+    "sha256": "7980d95b19cf4c4bb44b83510b8b30994447f1cd02ca728e634d4b8bab663f06"
+  },
+  "assets/library/ballet.webp": {
+    "src": "assets/offline/ballet.webp",
+    "sha256": "b172a0d4cb02eb776a37691beb8ee35631dd08d6e27a6b79dc1d52f1a7ad0d19"
+  },
+  "assets/library/fencer.webp": {
+    "src": "assets/offline/fencer.webp",
+    "sha256": "cb452bc4ac4f201bef0ec77439096f6196285ec1ae61a7ea525aa18228175bad"
+  },
+  "assets/library/pref-04-miyagi.webp": {
+    "src": "assets/offline/pref-04-miyagi.webp",
+    "sha256": "cc6063adea044944f99148d3e2d8eb77e3c9e8e64218961aa7b36dfa70dbbc00"
+  },
+  "assets/library/riceball.webp": {
+    "src": "assets/offline/riceball.webp",
+    "sha256": "e8a61f4b764a9e6f55a1b2e9b20f822f76a702b5b1a0dd6123483615e67843fb"
+  },
+  "assets/library/pref-35-yamaguchi.webp": {
+    "src": "assets/offline/pref-35-yamaguchi.webp",
+    "sha256": "07f2168940edeb37395f5ff40934ce6d41f62a93df1dc41829820a486c0ca763"
+  },
+  "assets/library/tokushima-ramen.webp": {
+    "src": "assets/offline/tokushima-ramen.webp",
+    "sha256": "bbb54aba6f581479e56b612a3ccc7bee2d2c7456f2571389f34db5c58bac7655"
+  },
+  "assets/library/surf.webp": {
+    "src": "assets/offline/surf.webp",
+    "sha256": "3696e6424146e02cf34f6bde1b849e7a04cf9ffe9f2bf5ea0015aeebf48f197c"
+  },
+  "assets/library/chef-pan.webp": {
+    "src": "assets/offline/chef-pan.webp",
+    "sha256": "5e206f10f2e65c1f2625100d0c82e66250709ff0732c42117fa2aaaeae1debd6"
+  },
+  "assets/library/gift-box.webp": {
+    "src": "assets/offline/gift-box.webp",
+    "sha256": "bf5279a3fcc2a3f4d6c9a0fa98b34df2e38410d53812dd4d24e2370ea66320ac"
+  },
+  "assets/library/upside-umbrella.webp": {
+    "src": "assets/offline/upside-umbrella.webp",
+    "sha256": "fd5815063df231599e73d18301ba98345291d8ab680e936fc0877be002d8bb79"
+  },
+  "assets/library/giant-medal.webp": {
+    "src": "assets/offline/giant-medal.webp",
+    "sha256": "5f59d1efb8972201a6eab6fe7def80ce5a51fac160117a75c3c20032f22ae329"
+  },
+  "assets/library/pref-16-toyama.webp": {
+    "src": "assets/offline/pref-16-toyama.webp",
+    "sha256": "58545042502b98b9bd62aa0b82caf3eac13350da175e1c845f7ae18c4d87b42c"
+  },
+  "assets/library/tokushima-naruto-boatman.webp": {
+    "src": "assets/offline/tokushima-naruto-boatman.webp",
+    "sha256": "3260bccdc67c70c2869f5bd6b9b6ee9ee7f2cd07647c05bbaa445059a52f5a14"
+  },
+  "assets/library/pref-08-ibaraki.webp": {
+    "src": "assets/offline/pref-08-ibaraki.webp",
+    "sha256": "c5eeeb3eb14cca2f2c57263f546572799051fd4b90b8e16ff2ed9dfa42186fe1"
+  },
+  "assets/library/animal-rabbit.webp": {
+    "src": "assets/offline/animal-rabbit.webp",
+    "sha256": "7bf27549f87b62ee85113871e5485dbcbf1f1f9d21a5305754748db9f88fb7c8"
+  },
+  "assets/library/tokushima-handa-somen.webp": {
+    "src": "assets/offline/tokushima-handa-somen.webp",
+    "sha256": "733d7b0f7b9c320899793ea2de0a92676f850731caddccc774208cecda922238"
+  },
+  "assets/library/pref-10-gunma.webp": {
+    "src": "assets/offline/pref-10-gunma.webp",
+    "sha256": "34e06b05365d90c91e6d66d514ffdc98b8d91378e93414a0ec9ee7a9302b0aed"
+  },
+  "assets/library/alien-headband.webp": {
+    "src": "assets/offline/alien-headband.webp",
+    "sha256": "8bd74edf7fcae7c58e5d2cfaf79ced88bb28242abb5dcf16aea2251a8193b465"
+  },
+  "assets/library/pref-20-nagano.webp": {
+    "src": "assets/offline/pref-20-nagano.webp",
+    "sha256": "417c2b78f2c49c1957e4f66ba1d54c837912aeb1eb7f283f69deef72b65313f1"
+  },
+  "assets/library/bowling.webp": {
+    "src": "assets/offline/bowling.webp",
+    "sha256": "98704dc84d54c40295a1363b5f6f0f377b89951c73caac49f0fac18a92b0b804"
+  },
+  "assets/library/pref-25-shiga.webp": {
+    "src": "assets/offline/pref-25-shiga.webp",
+    "sha256": "0f1590792cdb71c237af9129634cdb273ba5821730480c31c57045e746ab379a"
+  },
+  "assets/library/watermelon.webp": {
+    "src": "assets/offline/watermelon.webp",
+    "sha256": "f777f299f107628155feb7945c0ba4e21c27bfe6ec65aa48a8ece1c69a708bab"
+  },
+  "assets/library/pref-42-nagasaki.webp": {
+    "src": "assets/offline/pref-42-nagasaki.webp",
+    "sha256": "c7f3e558f366c5f5d979733d3759bbe21df6ec3c049bd8b3ee0fb8761a10a305"
+  },
+  "assets/library/tshirt-hands-on-hips.webp": {
+    "src": "assets/offline/tshirt-hands-on-hips.webp",
+    "sha256": "324650a7ea8e0e2a3b0427dabc3d66239a4f9da6848d3b5295b692252b2f893e"
+  },
+  "assets/library/tiny-dumbbells.webp": {
+    "src": "assets/offline/tiny-dumbbells.webp",
+    "sha256": "8e0a0279af5269e5b1c9167aff61e9da97f527dcc8f069f8cc299de1a3031344"
+  },
+  "assets/library/tshirt-salute.webp": {
+    "src": "assets/offline/tshirt-salute.webp",
+    "sha256": "55da4159716abc4dbe512ec3bebb6e2874b1a3be23786a5b2427ff3ddaebda53"
+  },
+  "assets/library/banana.webp": {
+    "src": "assets/offline/banana.webp",
+    "sha256": "8e40a504140b6e30c54624c7f1f8f5d7c3d71ccf7213b7ac18c7e09a7d4e9cba"
+  },
+  "assets/library/tshirt-wave.webp": {
+    "src": "assets/offline/tshirt-wave.webp",
+    "sha256": "b644b50dea80f78cf2eb8e0bdca9c7c7280d60aae12367646b386279439e212a"
+  },
+  "assets/library/tshirt-welcome.webp": {
+    "src": "assets/offline/tshirt-welcome.webp",
+    "sha256": "68307bc6e414ea2381f502b5c9d432e279b9302b5e931b5d7ba37a2b1a6de5e4"
+  },
+  "assets/library/pref-27-osaka.webp": {
+    "src": "assets/offline/pref-27-osaka.webp",
+    "sha256": "2101137eec1f455056eaf0b81762a6ec380c49d395cd3557ff99ae36ab049482"
+  },
+  "assets/library/tshirt-cheer.webp": {
+    "src": "assets/offline/tshirt-cheer.webp",
+    "sha256": "e59f1b896983ecbff4531a664b8a19fe27bf7e040a0125ec42e4a1bf89b652f2"
+  },
+  "assets/library/tshirt-point.webp": {
+    "src": "assets/offline/tshirt-point.webp",
+    "sha256": "36cc6f9bed0cefd7c68f973d560e60a42c4a108accf1e617648fbd9fcf7fcab2"
+  },
+  "assets/library/train-conductor.webp": {
+    "src": "assets/offline/train-conductor.webp",
+    "sha256": "4c7a98af0b53e8dca22bd627f6a5d4873e7682e5b0897570879d2d99988f23fd"
+  },
+  "assets/library/tshirt-double-peace.webp": {
+    "src": "assets/offline/tshirt-double-peace.webp",
+    "sha256": "990056c3d84241480c1cbb2053330684e5bcd1843a7d62fc211625424eecdb73"
+  },
+  "assets/library/tshirt-thumbs-up.webp": {
+    "src": "assets/offline/tshirt-thumbs-up.webp",
+    "sha256": "c45be36505ed781386ef286a9ef12e42058992dee55b352fa51038f30a4981f3"
+  },
+  "assets/library/tshirt-laugh.webp": {
+    "src": "assets/offline/tshirt-laugh.webp",
+    "sha256": "403d65d1418f5c774438e2c925d2396af0d768297bbfd74692d95171b22e4be5"
+  },
+  "assets/library/tshirt-peace.webp": {
+    "src": "assets/offline/tshirt-peace.webp",
+    "sha256": "e47a27f28ab798ecbaaa162925262637478651c0e78a7eddec897933b082fb52"
+  },
+  "assets/library/ramen-bowl.webp": {
+    "src": "assets/offline/ramen-bowl.webp",
+    "sha256": "fd747b5a5af9cc529149dc409072c2b890659c4172574b83c1bbcab3cea18a86"
+  },
+  "assets/library/pref-40-fukuoka.webp": {
+    "src": "assets/offline/pref-40-fukuoka.webp",
+    "sha256": "d7809bc0139a39cde17b6c1c59eac622ae8d52b960755d1058c2d5e988dbc5c7"
+  },
+  "assets/library/graduation.webp": {
+    "src": "assets/offline/graduation.webp",
+    "sha256": "f75f6231533e227897950ab0979cdca3faac9bdf897eca3cdde1bc44550f1860"
+  },
+  "assets/library/pref-24-mie.webp": {
+    "src": "assets/offline/pref-24-mie.webp",
+    "sha256": "cc833a235c6b746a4f792291e52edfb09f01dee5a1d63cebc28a60cb53e8294f"
+  },
+  "assets/library/pref-12-chiba.webp": {
+    "src": "assets/offline/pref-12-chiba.webp",
+    "sha256": "d6014b9f341ec2cbf47634d11e60d2a221069f8666e7a1d904cac03eec113012"
+  },
+  "assets/library/tshirt-heart.webp": {
+    "src": "assets/offline/tshirt-heart.webp",
+    "sha256": "65d4c958f04778ea849d3ef5123bcbd1d9af85fa03aceab775ae8ef20717bf1d"
+  },
+  "assets/library/pref-19-yamanashi.webp": {
+    "src": "assets/offline/pref-19-yamanashi.webp",
+    "sha256": "a84f69aa2b6f9c380af5a7474d7f62c2e80079a00b43adbcbcbaef41e850cfde"
+  },
+  "assets/library/yoga.webp": {
+    "src": "assets/offline/yoga.webp",
+    "sha256": "36907ec0514efa03af55231e1c4cb01c6432d4453a34d2f607b899216668fa77"
+  },
+  "assets/library/tshirt-bow.webp": {
+    "src": "assets/offline/tshirt-bow.webp",
+    "sha256": "b91cbe9132a043a5ca4ea80ac6258c706f8afece2ff535239c26b7d223613b9f"
+  },
+  "assets/library/icecream-hat.webp": {
+    "src": "assets/offline/icecream-hat.webp",
+    "sha256": "52927cb099ad82da9e8b7a2fd34efd55bb82477802d3bb94587e381e83d41233"
+  },
+  "assets/library/pref-34-hiroshima.webp": {
+    "src": "assets/offline/pref-34-hiroshima.webp",
+    "sha256": "442b681fe4d282ce7eb13df8b079a675f620bd74a693ada442d759835db7e6f8"
+  },
+  "assets/library/pref-11-saitama.webp": {
+    "src": "assets/offline/pref-11-saitama.webp",
+    "sha256": "0f94ba3ed059938e6f4d2b189efd2e42f16dbfce77dc25a33828d6ef44d816b0"
+  },
+  "assets/library/pref-28-hyogo.webp": {
+    "src": "assets/offline/pref-28-hyogo.webp",
+    "sha256": "28e9ffcc46abf04e35424fb5f26d1c7c2c0af253f2228ec0b298665f50a61f87"
+  },
+  "assets/library/animal-seal.webp": {
+    "src": "assets/offline/animal-seal.webp",
+    "sha256": "13078d8ec9e6bec5bd2e3d96c912d286824543ae276c15f2c82449d68d2b117a"
+  },
+  "assets/library/pref-29-nara.webp": {
+    "src": "assets/offline/pref-29-nara.webp",
+    "sha256": "c46cc5b9f1b5455d20546a5239d893d2ac1e96a95577ec9692ea207f8813eb4f"
+  },
+  "assets/library/pref-07-fukushima.webp": {
+    "src": "assets/offline/pref-07-fukushima.webp",
+    "sha256": "c4895a2a51074ac8601113230a69af66f2d7cf899608f2b86d5202a04dc1c009"
   }
 }

@@ -1866,5 +1866,53 @@
   "assets/library/pref-07-fukushima.webp": {
     "src": "assets/offline/pref-07-fukushima.webp",
     "sha256": "c4895a2a51074ac8601113230a69af66f2d7cf899608f2b86d5202a04dc1c009"
+  },
+  "assets/library/zodiac12-rabbit.webp": {
+    "src": "assets/offline/zodiac12-rabbit.webp",
+    "sha256": "15e1c3789d08a41e173589f27f8e20cffb25feb15f119042a36e7e80d6fb701f"
+  },
+  "assets/library/zodiac12-dragon.webp": {
+    "src": "assets/offline/zodiac12-dragon.webp",
+    "sha256": "5562a1290c17c2f4ed4f6fa041cda3896aab08d822cf4a19fc771ee294812d79"
+  },
+  "assets/library/zodiac12-snake.webp": {
+    "src": "assets/offline/zodiac12-snake.webp",
+    "sha256": "c19e6e2ae52edb97018036e87be639eb7a77257ea0b6fc5410415ee26a25b1a4"
+  },
+  "assets/library/zodiac12-horse.webp": {
+    "src": "assets/offline/zodiac12-horse.webp",
+    "sha256": "de22fbaa5d07881173adb0863aa7b3ef7ef774e0bd79cef64f7fb51c5a1a4e0b"
+  },
+  "assets/library/zodiac12-sheep.webp": {
+    "src": "assets/offline/zodiac12-sheep.webp",
+    "sha256": "f7e8038b877d58da86cc83739eee3de59662c0726c53b3c1d26a51baf6f88309"
+  },
+  "assets/library/zodiac12-boar.webp": {
+    "src": "assets/offline/zodiac12-boar.webp",
+    "sha256": "39628b1533899dc7329daeeb2a21498e793f13a84e0427b4fdeed55660bdec06"
+  },
+  "assets/library/zodiac12-rat.webp": {
+    "src": "assets/offline/zodiac12-rat.webp",
+    "sha256": "b44d62489f66257ddcc52a4364483643216bdfc25ec7125c0c8378c87f6393d4"
+  },
+  "assets/library/zodiac12-ox.webp": {
+    "src": "assets/offline/zodiac12-ox.webp",
+    "sha256": "b33ff8d6e5fc88b1ef365db2d9bb55beee62a53589bc1a36b933f09d2dfac74c"
+  },
+  "assets/library/zodiac12-tiger.webp": {
+    "src": "assets/offline/zodiac12-tiger.webp",
+    "sha256": "81bb900a9080fc6950eb5fddf16879ae250cfe91a1a700f249b00efcb135236c"
+  },
+  "assets/library/zodiac12-monkey.webp": {
+    "src": "assets/offline/zodiac12-monkey.webp",
+    "sha256": "11278df23479ed38888246c66e4bc62402e82c60d53a5fd1df617a319ef85292"
+  },
+  "assets/library/zodiac12-rooster.webp": {
+    "src": "assets/offline/zodiac12-rooster.webp",
+    "sha256": "b8d216dc232bc6a5518adaaf98c8d31ed1ba6ec2176a0298d5ea62a941326a4d"
+  },
+  "assets/library/zodiac12-dog.webp": {
+    "src": "assets/offline/zodiac12-dog.webp",
+    "sha256": "43f21ac95fb33cf7b992536a195040e873f9f3b71d469c14389e818e564538f7"
   }
 }

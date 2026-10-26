@@ -1,0 +1,278 @@
+{
+  "mode": "built-in imagegen",
+  "references": [
+    "assets/003.png",
+    "assets/library/animal-rabbit.webp"
+  ],
+  "entries": [
+    {
+      "id": "zodiac12-rat",
+      "name": "干支・子（ねずみ）",
+      "category": "動物の着ぐるみ",
+      "sign": "子",
+      "animal": "ねずみ",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "子",
+        "ねずみ",
+        "ね",
+        "ネ",
+        "鼠",
+        "マウス"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Soft silver-gray mouse costume, cream oval belly, TWO large round ears with pink inner fur, a small pink mouse nose and embroidered whiskers ABOVE the human face opening, one slim long soft pink tail curving beside body and fully framed. One paw raised in a friendly wave, other paw resting near belly. Do not use rabbit ears."
+    },
+    {
+      "id": "zodiac12-ox",
+      "name": "干支・丑（うし）",
+      "category": "動物の着ぐるみ",
+      "sign": "丑",
+      "animal": "うし",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "丑",
+        "うし",
+        "うし",
+        "ウシ",
+        "牛",
+        "牡牛"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Cream-white ox/cow plush costume with distinct BLACK patches, small beige curved horns, soft pink muzzle above face opening, bovine ears, black hoof-shaped mittens and booties, tail with black tuft visible. Both forepaws rest together at front of round belly in a polite welcoming pose. No udder."
+    },
+    {
+      "id": "zodiac12-tiger",
+      "name": "干支・寅（とら）",
+      "category": "動物の着ぐるみ",
+      "sign": "寅",
+      "animal": "とら",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "寅",
+        "とら",
+        "とら",
+        "トラ",
+        "虎",
+        "タイガー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Golden orange tiger plush with rich black stripes, cream muzzle area above face opening and cream oval belly, rounded tiger ears, round paws and long striped tail curving at one side. Both padded paws raised at shoulder level in a cute gentle tiger-paw pose, no aggression."
+    },
+    {
+      "id": "zodiac12-rabbit",
+      "name": "干支・卯（うさぎ）",
+      "category": "動物の着ぐるみ",
+      "sign": "卯",
+      "animal": "うさぎ",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "卯",
+        "うさぎ",
+        "う",
+        "ウ",
+        "兎",
+        "ウサギ",
+        "ラビット"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Soft blush pink rabbit costume with a cream belly, TWO very long upright ears with pink inner fabric, small snout above human face and round fluffy white tail visible at hip. One padded rabbit paw held gently beside cheek and other paw extended outward in a cute greeting. Whole long ears completely inside canvas."
+    },
+    {
+      "id": "zodiac12-dragon",
+      "name": "干支・辰（たつ）",
+      "category": "動物の着ぐるみ",
+      "sign": "辰",
+      "animal": "たつ",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "辰",
+        "たつ",
+        "たつ",
+        "タツ",
+        "竜",
+        "龍",
+        "ドラゴン"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Jade green EAST ASIAN dragon plush costume, cream segmented belly, small gold antler-like horns, rounded side ears, a small snout and friendly embroidered animal eyes above the face opening, soft whiskers at the sides, soft golden dorsal spikes and a fully visible long curved dragon tail. No wings. Both padded forepaws held forward chest-high in a playful welcoming pose."
+    },
+    {
+      "id": "zodiac12-snake",
+      "name": "干支・巳（へび）",
+      "category": "動物の着ぐるみ",
+      "sign": "巳",
+      "animal": "へび",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "巳",
+        "へび",
+        "み",
+        "ミ",
+        "蛇",
+        "ヘビ",
+        "スネーク"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Fresh leaf-green SNAKE themed wearable plush suit with a cream segmented belly and a smooth rounded snake-head hood with embroidered snake eyes ABOVE the human face opening, tiny red fabric forked tongue on hood snout ABOVE face. No ears or horns. Human legs remain as two padded costume legs ending in matching plush feet so he can stand. Long soft tapered snake tail curls beside the feet and stays fully framed. Green mittened hands joined into a small rounded heart shape at chest. Wearable suit, not a real snake, not a dragon."
+    },
+    {
+      "id": "zodiac12-horse",
+      "name": "干支・午（うま）",
+      "category": "動物の着ぐるみ",
+      "sign": "午",
+      "animal": "うま",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "午",
+        "うま",
+        "うま",
+        "ウマ",
+        "馬",
+        "ホース"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Chestnut brown horse plush costume, cream belly, long soft dark brown mane on hood and back of neck, TWO upright horse ears, long horse muzzle ABOVE human face opening with light cream blaze on forehead, dark hoof-shaped mittens and booties, dark flowing fabric tail visible. One mitten raised beside temple in a friendly salute, other mitten rests at hip. No antlers."
+    },
+    {
+      "id": "zodiac12-sheep",
+      "name": "干支・未（ひつじ）",
+      "category": "動物の着ぐるみ",
+      "sign": "未",
+      "animal": "ひつじ",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "未",
+        "ひつじ",
+        "ひつじ",
+        "ヒツジ",
+        "羊",
+        "ラム"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Ivory woolly sheep mascot with dense curly fleece, cream belly, rounded light beige curled ram horns at both sides of hood, floppy sheep ears, small pale muzzle above face opening, short fluffy tail and dark brown hoof-shaped mittens and feet. Both plush forepaws gently tucked together beneath chin in a sweet shy pose."
+    },
+    {
+      "id": "zodiac12-monkey",
+      "name": "干支・申（さる）",
+      "category": "動物の着ぐるみ",
+      "sign": "申",
+      "animal": "さる",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "申",
+        "さる",
+        "さる",
+        "サル",
+        "猿",
+        "モンキー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Warm medium-brown monkey plush costume with tan oval belly, TWO round protruding monkey ears, tan animal face panel on hood above the large human face opening, long brown tail curling beside body. Tan padded mitten paws and matching plush feet. One mitten resting atop hood in a playful scratching-head pose, the other hand on round belly. Face completely visible. No gorilla muzzle."
+    },
+    {
+      "id": "zodiac12-rooster",
+      "name": "干支・酉（にわとり）",
+      "category": "動物の着ぐるみ",
+      "sign": "酉",
+      "animal": "にわとり",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "酉",
+        "にわとり",
+        "とり",
+        "トリ",
+        "鶏",
+        "ニワトリ",
+        "コケコッコー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: White fluffy ROOSTER mascot with bright RED upright comb on top of hood, short yellow beak ABOVE human face opening, small soft red wattles at sides, golden yellow padded bird feet with three soft toes each, white mitten-shaped wing forepaws and a proud fan of dark green tail feathers visible at one side. Both winged arms spread slightly in a cheerful welcome. Must look like a rooster, not a duck or penguin."
+    },
+    {
+      "id": "zodiac12-dog",
+      "name": "干支・戌（いぬ）",
+      "category": "動物の着ぐるみ",
+      "sign": "戌",
+      "animal": "いぬ",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "戌",
+        "いぬ",
+        "いぬ",
+        "イヌ",
+        "犬",
+        "ドッグ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Soft cream golden-retriever dog plush, floppy golden ears, light cream belly, black soft nose on dog muzzle ABOVE human face opening, friendly animal eyes above hood and long fluffy gently curved tail visible. Large rounded dog-paw mittens and plush dog feet. One paw raised in a friendly high-five greeting and other paw resting beside chest. No pointy Shiba ears."
+    },
+    {
+      "id": "zodiac12-boar",
+      "name": "干支・亥（いのしし）",
+      "category": "動物の着ぐるみ",
+      "sign": "亥",
+      "animal": "いのしし",
+      "tags": [
+        "干支",
+        "十二支",
+        "えと",
+        "着ぐるみ",
+        "きぐるみ",
+        "干支追加12",
+        "亥",
+        "いのしし",
+        "い",
+        "イ",
+        "猪",
+        "イノシシ",
+        "ウリボー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in a charming animal mascot kigurumi costume for a twelve-animal Japanese zodiac series. Reference image 1 is his IDENTITY: keep EXACT recognizable elderly wrinkled smiling face, age, gray hair and natural elderly build. Reference image 2 is ONLY the production style reference for the plush full-body costume, face opening and studio photography, NOT its rabbit species. Replace all original clothes and fishing cap with the specified costume. His real human face is clearly visible in a large oval opening in the FRONT of the animal head hood, surrounded by plush fabric; animal eyes, snout and ears sit ABOVE and BESIDE the face opening, never across his eyes or mouth. Maintain the same Kozo face and cheerful gentle smile. A complete premium soft plush mascot suit from hood to oversized matching plush animal feet, rounded padded belly, believable fabric seams, fluffy detailed material, charming cute proportions. The arms end in simple soft padded animal paw mittens appropriate to the species. Do not show human fingers protruding from paws. One coherent wearable costume, not an actual live animal or a face replaced by animal. Single person, standing, full body including the entire hood, all ears, horns, paws, feet and full tail completely framed with generous transparent padding at least 35 pixels on all sides. Slight three-quarter frontal view so the tail can be visible beside or behind body. True alpha transparency in background and gaps; no backdrop, no glow, no fake checkerboard, no gradient, no scenery, no floor plane. Soft neutral photographic studio lighting, natural textures. No hats from reference, no accessories unrelated to the animal, no text, zodiac lettering, logos, watermarks, existing franchise designs or additional characters. The result is a photographic cutout for compositing beside the user's photo.\nZodiac animal, costume and pose: Brown wild-boar plush costume with a tan belly, coarse soft brown fur texture, short triangular ears, broad dark brown boar snout ABOVE human face opening, TWO small ivory tusks protruding to sides of the hood snout, hoof-shaped mittens and booties, short thin tail visible. Slight forward lean, both padded forepaws planted on hips in a cheerful confident pose. Wild boar, NOT a pink domestic pig."
+    }
+  ]
+}

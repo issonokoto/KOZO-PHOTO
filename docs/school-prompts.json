@@ -1,0 +1,418 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "entries": [
+    {
+      "id": "school24-gakuran-black",
+      "name": "黒の学ラン・学生帽でごあいさつ",
+      "category": "学生服",
+      "group": "学ラン",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "学ラン",
+        "黒学ラン",
+        "詰襟",
+        "学生帽"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Classic BLACK stand-collar gakuran jacket with five brass buttons and black straight matching trousers, black leather loafers. Traditional black peaked student cap, NOT fishing cap. Right hand lightly touching student cap brim in a polite greeting, left hand holding a flat black leather student briefcase at side."
+    },
+    {
+      "id": "school24-gakuran-navy",
+      "name": "紺の学ラン・かばんと笑顔",
+      "category": "学生服",
+      "group": "学ラン",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "学ラン",
+        "紺学ラン",
+        "詰襟",
+        "通学かばん"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Deep NAVY stand-collar gakuran with dark buttons, matching navy straight trousers and black loafers, gray hair uncovered. Both hands hold one flat brown leather student briefcase by its handle at front of thighs, warm smile and feet neatly together."
+    },
+    {
+      "id": "school24-gakuran-white",
+      "name": "白の学ラン・ピース",
+      "category": "学生服",
+      "group": "学ラン",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "学ラン",
+        "白学ラン",
+        "詰襟"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Clean WHITE stand-collar gakuran jacket with brass buttons and matching white straight trousers, black loafers, uncovered gray hair. One hand making a relaxed V sign beside shoulder, other hand at side, cheerful smile."
+    },
+    {
+      "id": "school24-gakuran-gray",
+      "name": "グレーの学ラン・敬礼",
+      "category": "学生服",
+      "group": "学ラン",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "学ラン",
+        "グレー学ラン",
+        "詰襟",
+        "敬礼"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Charcoal gray stand-collar gakuran jacket with silver buttons, matching straight trousers and black lace-up school shoes. Short gray hair visible. Right hand in a friendly school greeting salute beside temple, left hand relaxed at side."
+    },
+    {
+      "id": "school24-gakuran-coat",
+      "name": "冬の学ラン・マフラーとコート",
+      "category": "学生服",
+      "group": "学ラン",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "学ラン",
+        "冬服",
+        "学ラン",
+        "コート",
+        "マフラー"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Black gakuran and straight black trousers underneath an OPEN knee-length dark navy wool student overcoat, burgundy wool scarf and black leather loafers. Gray hair uncovered. One hand gently holding scarf near collar, other hand carrying a black leather book bag by handle. No hat."
+    },
+    {
+      "id": "school24-gakuran-cheer",
+      "name": "応援団風・長めの学ラン",
+      "category": "学生服",
+      "group": "学ラン",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "学ラン",
+        "応援団",
+        "学ラン",
+        "長ラン"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Long BLACK stand-collar gakuran coat ending at mid-thigh with brass buttons, ordinary black straight trousers, black lace-up shoes, plain white cloth hachimaki headband over gray hair. Cheerful school cheering pose with both fists gently raised near shoulders, feet planted. No intimidating expression, no writing or insignia."
+    },
+    {
+      "id": "school24-blazer-navy",
+      "name": "紺ブレザー・赤ネクタイ",
+      "category": "学生服",
+      "group": "ブレザー",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "ブレザー",
+        "ブレザー",
+        "紺",
+        "ネクタイ",
+        "リュック"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Classic NAVY single-breasted school blazer, white shirt, neat red striped necktie, gray straight school slacks, black loafers. Navy school backpack on BOTH shoulders, both hands lightly holding shoulder straps, friendly upright stance. Gray hair visible."
+    },
+    {
+      "id": "school24-blazer-gray",
+      "name": "グレーブレザー・チェックのベスト",
+      "category": "学生服",
+      "group": "ブレザー",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "ブレザー",
+        "ブレザー",
+        "グレー",
+        "ベスト"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Light GRAY school blazer over white collared shirt and green-gray fine-check knit vest, plain dark green necktie, charcoal straight trousers, black loafers. One friendly thumbs-up, free hand resting naturally at side, warm smile."
+    },
+    {
+      "id": "school24-blazer-burgundy",
+      "name": "えんじブレザー・腕組み",
+      "category": "学生服",
+      "group": "ブレザー",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "ブレザー",
+        "ブレザー",
+        "えんじ",
+        "ベスト"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: BURGUNDY school blazer over white shirt, cream knit vest and navy necktie, navy straight trousers, brown loafers. Relaxed folded arms at chest and cheerful confident smile, gray hair uncovered."
+    },
+    {
+      "id": "school24-blazer-green",
+      "name": "緑ブレザー・チェックのスカート",
+      "category": "学生服",
+      "group": "ブレザー",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "ブレザー",
+        "ブレザー",
+        "緑",
+        "チェック",
+        "スカート"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Dark FOREST GREEN school blazer, cream collared blouse, neat dark red ribbon bow, calf-length navy-green tartan pleated skirt, opaque black knee socks and brown loafers. Holding two plain closed textbooks against chest with both hands, friendly gentle smile. SAME elderly male face and body, no wig."
+    },
+    {
+      "id": "school24-blazer-beige",
+      "name": "ベージュブレザー・肩かけかばん",
+      "category": "学生服",
+      "group": "ブレザー",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "ブレザー",
+        "ブレザー",
+        "ベージュ",
+        "ダブル"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: BEIGE double-breasted school blazer, white shirt, navy striped necktie, brown-gray checked straight trousers, brown loafers. Brown school shoulder bag worn crossbody, free hand making a friendly small wave at shoulder height, other hand lightly holding bag strap."
+    },
+    {
+      "id": "school24-blazer-ribbon",
+      "name": "紺ブレザー・リボンとハート",
+      "category": "学生服",
+      "group": "ブレザー",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "ブレザー",
+        "ブレザー",
+        "リボン",
+        "スカート",
+        "ハート"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: NAVY school blazer over white blouse and cream knit vest, dusty pink ribbon bow, calf-length gray pleated check skirt, opaque black tights and black loafers. Both human hands make a small heart at chest, recognizable smiling elderly male Kozo with natural gray hair, no wig."
+    },
+    {
+      "id": "school24-sailor-navy",
+      "name": "紺セーラー服・赤いスカーフ",
+      "category": "学生服",
+      "group": "セーラー服",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "セーラー服",
+        "セーラー服",
+        "紺",
+        "赤スカーフ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Classic long-sleeve NAVY sailor uniform blouse with broad square navy sailor collar edged by three white stripes, bright red scarf tied at front, matching navy pleated skirt extending below knees, white calf socks and black loafers. One friendly wave and other hand resting at side. Same elderly male Kozo, natural gray hair, no wig."
+    },
+    {
+      "id": "school24-sailor-white",
+      "name": "白セーラー服・青いリボン",
+      "category": "学生服",
+      "group": "セーラー服",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "セーラー服",
+        "セーラー服",
+        "白",
+        "青リボン"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: WHITE long-sleeve sailor blouse with navy square sailor collar edged with white stripes and a neat royal blue neck bow, ankle-length navy pleated skirt, opaque navy socks and black loafers. Both hands hold one plain closed textbook at waist, relaxed upright posture and warm smile. Same elderly male face, natural gray hair."
+    },
+    {
+      "id": "school24-sailor-black",
+      "name": "黒セーラー服・緑のスカーフ",
+      "category": "学生服",
+      "group": "セーラー服",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "セーラー服",
+        "セーラー服",
+        "黒",
+        "緑スカーフ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: BLACK sailor blouse with white triple collar stripes and a deep green scarf tied at front, charcoal below-knee pleated skirt, opaque black tights, black loafers. Flat dark brown leather school briefcase in one hand by side, other hand making a relaxed V sign at shoulder. No wig, same elderly Kozo."
+    },
+    {
+      "id": "school24-sailor-blue",
+      "name": "水色セーラー服・ほっぺに手",
+      "category": "学生服",
+      "group": "セーラー服",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "セーラー服",
+        "セーラー服",
+        "水色",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Powder BLUE long-sleeve sailor blouse with a white square sailor collar edged by thin navy stripes, white neck ribbon, calf-length gray check pleated skirt, white calf socks and brown loafers. One hand gently rests beside cheek and other arm relaxed at side, sweet warm smile. Same elderly male face, no wig."
+    },
+    {
+      "id": "school24-sailor-trousers",
+      "name": "夏のセーラー服・パンツスタイル",
+      "category": "学生服",
+      "group": "セーラー服",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "セーラー服",
+        "セーラー服",
+        "夏服",
+        "ズボン"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Light GRAY short-sleeve sailor-collar school shirt with broad navy square collar and slim navy neckerchief, navy straight trousers and black loafers. Hands resting behind back, slight friendly forward lean. Gray hair uncovered, elderly Kozo identity preserved. School sailor style, not naval military."
+    },
+    {
+      "id": "school24-sailor-retro",
+      "name": "レトロなセーラー服・長いスカート",
+      "category": "学生服",
+      "group": "セーラー服",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "セーラー服",
+        "セーラー服",
+        "レトロ",
+        "クリーム"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Warm CREAM sailor blouse with navy square sailor collar, burgundy neck scarf and ankle-length navy pleated skirt, opaque cream socks and brown lace-up shoes. Carry a small vintage brown leather school case with both hands in front, slight head tilt and smile. Same elderly man, no wig."
+    },
+    {
+      "id": "school24-summer-shirt",
+      "name": "夏服・白シャツとネクタイ",
+      "category": "学生服",
+      "group": "夏服・レトロ",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "夏服・レトロ",
+        "夏服",
+        "半袖",
+        "シャツ",
+        "ネクタイ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Crisp WHITE short-sleeve collared school shirt tucked into navy straight trousers, neat red necktie and black belt, white socks and black loafers. Arms loosely behind back, friendly upright relaxed pose, gray hair visible. No blazer or vest."
+    },
+    {
+      "id": "school24-summer-polo",
+      "name": "夏服・紺ポロシャツ",
+      "category": "学生服",
+      "group": "夏服・レトロ",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "夏服・レトロ",
+        "夏服",
+        "ポロシャツ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Plain NAVY short-sleeve school polo with white collar piping and no chest embroidery, light gray straight school trousers, white socks and black loafers. Holding a plain canvas school tote by handle in left hand and a friendly right-hand wave. No cap, no original pale polo."
+    },
+    {
+      "id": "school24-summer-vest",
+      "name": "夏服・ベストとスカート",
+      "category": "学生服",
+      "group": "夏服・レトロ",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "夏服・レトロ",
+        "夏服",
+        "ベスト",
+        "スカート"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: WHITE short-sleeve collared blouse underneath a light gray V-neck knit school vest, slim navy ribbon tie, below-knee navy-gray check pleated skirt, opaque black knee socks and black loafers. Both hands hold a plain notebook in front of torso, gentle smile. Same elderly male Kozo, no wig."
+    },
+    {
+      "id": "school24-cardigan",
+      "name": "カーディガン・チェックのズボン",
+      "category": "学生服",
+      "group": "夏服・レトロ",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "夏服・レトロ",
+        "カーディガン",
+        "ニット",
+        "チェック"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: NAVY knitted button-front school cardigan over cream collared shirt with a neat green necktie, brown plaid straight school trousers and brown loafers. One hand lightly holding a brown school satchel handle at side, other hand giving a small thumbs-up. Gray hair visible."
+    },
+    {
+      "id": "school24-retro-hakama",
+      "name": "書生風・袴と学生帽",
+      "category": "学生服",
+      "group": "夏服・レトロ",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "夏服・レトロ",
+        "書生",
+        "袴",
+        "学生帽",
+        "レトロ"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: Historical Japanese STUDENT shosei style: dark indigo striped kimono tucked into deep navy pleated hakama trousers, simple dark student cape resting over shoulders, traditional black peaked student cap and black lace-up ankle boots. Holding two plain closed books under one arm and other hand lightly touching cap brim. Friendly scholarly elderly Kozo, no sword, no military insignia. Entire cape and hakama fully framed."
+    },
+    {
+      "id": "school24-yellow-hat",
+      "name": "小学生風・黄色い帽子とランドセル",
+      "category": "学生服",
+      "group": "夏服・レトロ",
+      "tags": [
+        "学生服",
+        "制服",
+        "スクール",
+        "学生服追加24",
+        "夏服・レトロ",
+        "黄色い帽子",
+        "ランドセル",
+        "小学生風"
+      ],
+      "prompt": "Use case: identity-preserve. Make ONE photorealistic transparent full-body cutout of elderly Japanese Kozo wearing a Japanese school-uniform costume for a photo compositing app. Reference image 1 is his IDENTITY: keep his exact recognizable wrinkled face, smile, gray hair, elderly age and natural adult body proportions. He remains the SAME ELDERLY ADULT in every uniform, never a child or teenager, never a different face. Change ALL reference clothes and remove the fishing cap. No wig or de-aging. Dress him in the specified complete generic school uniform with believable garment tailoring, fabric texture, shoes and accessories. Natural friendly commemorative pose. Full-length slightly angled frontal photo, eyes toward camera, entire head, all hands and shoes plus ALL carried objects fully inside canvas with generous alpha padding on EVERY edge. Soft neutral photographic studio lighting. True alpha transparent background and openings; no backdrop, no classroom, no scenery, no opaque floor plane, no checkerboard, no gradient, no halo or glow. Natural hands, exactly five fingers each when visible. Single elderly man only. Uniforms are ordinary modest clothing, skirts reach knees or lower as specified. No text, school names, readable book titles, emblems, sponsor logos, real-school identity, watermarks or recognizable fictional-character costume. Keep complete full-body framing and reference identity.\nUniform, accessories and pose: A playful school-uniform COSTUME tailored to the SAME ELDERLY ADULT body: round yellow school safety hat, white short-sleeve collared shirt, navy knee-length tailored school shorts, white knee socks and black school shoes, bright red leather randoseru backpack on both shoulders. Both hands holding backpack straps, warm broad smile. Preserve gray hair, wrinkles, elderly adult face and adult body size. Never depict a child or de-age him. No text or emblems."
+    }
+  ]
+}

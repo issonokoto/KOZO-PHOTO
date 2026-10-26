@@ -85,6 +85,418 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "school24-gakuran-black",
+    "name": "黒の学ラン・学生帽でごあいさつ",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "学ラン",
+      "黒学ラン",
+      "詰襟",
+      "学生帽"
+    ],
+    "src": "./assets/library/school24-gakuran-black.webp",
+    "thumbnail": "./assets/thumbnails/school24-gakuran-black.webp"
+  },
+  {
+    "id": "school24-gakuran-navy",
+    "name": "紺の学ラン・かばんと笑顔",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "学ラン",
+      "紺学ラン",
+      "詰襟",
+      "通学かばん"
+    ],
+    "src": "./assets/library/school24-gakuran-navy.webp",
+    "thumbnail": "./assets/thumbnails/school24-gakuran-navy.webp"
+  },
+  {
+    "id": "school24-gakuran-white",
+    "name": "白の学ラン・ピース",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "学ラン",
+      "白学ラン",
+      "詰襟"
+    ],
+    "src": "./assets/library/school24-gakuran-white.webp",
+    "thumbnail": "./assets/thumbnails/school24-gakuran-white.webp"
+  },
+  {
+    "id": "school24-gakuran-gray",
+    "name": "グレーの学ラン・敬礼",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "学ラン",
+      "グレー学ラン",
+      "詰襟",
+      "敬礼"
+    ],
+    "src": "./assets/library/school24-gakuran-gray.webp",
+    "thumbnail": "./assets/thumbnails/school24-gakuran-gray.webp"
+  },
+  {
+    "id": "school24-gakuran-coat",
+    "name": "冬の学ラン・マフラーとコート",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "学ラン",
+      "冬服",
+      "学ラン",
+      "コート",
+      "マフラー"
+    ],
+    "src": "./assets/library/school24-gakuran-coat.webp",
+    "thumbnail": "./assets/thumbnails/school24-gakuran-coat.webp"
+  },
+  {
+    "id": "school24-gakuran-cheer",
+    "name": "応援団風・長めの学ラン",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "学ラン",
+      "応援団",
+      "学ラン",
+      "長ラン"
+    ],
+    "src": "./assets/library/school24-gakuran-cheer.webp",
+    "thumbnail": "./assets/thumbnails/school24-gakuran-cheer.webp"
+  },
+  {
+    "id": "school24-blazer-navy",
+    "name": "紺ブレザー・赤ネクタイ",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "ブレザー",
+      "ブレザー",
+      "紺",
+      "ネクタイ",
+      "リュック"
+    ],
+    "src": "./assets/library/school24-blazer-navy.webp",
+    "thumbnail": "./assets/thumbnails/school24-blazer-navy.webp"
+  },
+  {
+    "id": "school24-blazer-gray",
+    "name": "グレーブレザー・チェックのベスト",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "ブレザー",
+      "ブレザー",
+      "グレー",
+      "ベスト"
+    ],
+    "src": "./assets/library/school24-blazer-gray.webp",
+    "thumbnail": "./assets/thumbnails/school24-blazer-gray.webp"
+  },
+  {
+    "id": "school24-blazer-burgundy",
+    "name": "えんじブレザー・腕組み",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "ブレザー",
+      "ブレザー",
+      "えんじ",
+      "ベスト"
+    ],
+    "src": "./assets/library/school24-blazer-burgundy.webp",
+    "thumbnail": "./assets/thumbnails/school24-blazer-burgundy.webp"
+  },
+  {
+    "id": "school24-blazer-green",
+    "name": "緑ブレザー・チェックのスカート",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "ブレザー",
+      "ブレザー",
+      "緑",
+      "チェック",
+      "スカート"
+    ],
+    "src": "./assets/library/school24-blazer-green.webp",
+    "thumbnail": "./assets/thumbnails/school24-blazer-green.webp"
+  },
+  {
+    "id": "school24-blazer-beige",
+    "name": "ベージュブレザー・肩かけかばん",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "ブレザー",
+      "ブレザー",
+      "ベージュ",
+      "ダブル"
+    ],
+    "src": "./assets/library/school24-blazer-beige.webp",
+    "thumbnail": "./assets/thumbnails/school24-blazer-beige.webp"
+  },
+  {
+    "id": "school24-blazer-ribbon",
+    "name": "紺ブレザー・リボンとハート",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "ブレザー",
+      "ブレザー",
+      "リボン",
+      "スカート",
+      "ハート"
+    ],
+    "src": "./assets/library/school24-blazer-ribbon.webp",
+    "thumbnail": "./assets/thumbnails/school24-blazer-ribbon.webp"
+  },
+  {
+    "id": "school24-sailor-navy",
+    "name": "紺セーラー服・赤いスカーフ",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "セーラー服",
+      "セーラー服",
+      "紺",
+      "赤スカーフ"
+    ],
+    "src": "./assets/library/school24-sailor-navy.webp",
+    "thumbnail": "./assets/thumbnails/school24-sailor-navy.webp"
+  },
+  {
+    "id": "school24-sailor-white",
+    "name": "白セーラー服・青いリボン",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "セーラー服",
+      "セーラー服",
+      "白",
+      "青リボン"
+    ],
+    "src": "./assets/library/school24-sailor-white.webp",
+    "thumbnail": "./assets/thumbnails/school24-sailor-white.webp"
+  },
+  {
+    "id": "school24-sailor-black",
+    "name": "黒セーラー服・緑のスカーフ",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "セーラー服",
+      "セーラー服",
+      "黒",
+      "緑スカーフ"
+    ],
+    "src": "./assets/library/school24-sailor-black.webp",
+    "thumbnail": "./assets/thumbnails/school24-sailor-black.webp"
+  },
+  {
+    "id": "school24-sailor-blue",
+    "name": "水色セーラー服・ほっぺに手",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "セーラー服",
+      "セーラー服",
+      "水色",
+      "かわいい"
+    ],
+    "src": "./assets/library/school24-sailor-blue.webp",
+    "thumbnail": "./assets/thumbnails/school24-sailor-blue.webp"
+  },
+  {
+    "id": "school24-sailor-trousers",
+    "name": "夏のセーラー服・パンツスタイル",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "セーラー服",
+      "セーラー服",
+      "夏服",
+      "ズボン"
+    ],
+    "src": "./assets/library/school24-sailor-trousers.webp",
+    "thumbnail": "./assets/thumbnails/school24-sailor-trousers.webp"
+  },
+  {
+    "id": "school24-sailor-retro",
+    "name": "レトロなセーラー服・長いスカート",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "セーラー服",
+      "セーラー服",
+      "レトロ",
+      "クリーム"
+    ],
+    "src": "./assets/library/school24-sailor-retro.webp",
+    "thumbnail": "./assets/thumbnails/school24-sailor-retro.webp"
+  },
+  {
+    "id": "school24-summer-shirt",
+    "name": "夏服・白シャツとネクタイ",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "夏服・レトロ",
+      "夏服",
+      "半袖",
+      "シャツ",
+      "ネクタイ"
+    ],
+    "src": "./assets/library/school24-summer-shirt.webp",
+    "thumbnail": "./assets/thumbnails/school24-summer-shirt.webp"
+  },
+  {
+    "id": "school24-summer-polo",
+    "name": "夏服・紺ポロシャツ",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "夏服・レトロ",
+      "夏服",
+      "ポロシャツ"
+    ],
+    "src": "./assets/library/school24-summer-polo.webp",
+    "thumbnail": "./assets/thumbnails/school24-summer-polo.webp"
+  },
+  {
+    "id": "school24-summer-vest",
+    "name": "夏服・ベストとスカート",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "夏服・レトロ",
+      "夏服",
+      "ベスト",
+      "スカート"
+    ],
+    "src": "./assets/library/school24-summer-vest.webp",
+    "thumbnail": "./assets/thumbnails/school24-summer-vest.webp"
+  },
+  {
+    "id": "school24-cardigan",
+    "name": "カーディガン・チェックのズボン",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "夏服・レトロ",
+      "カーディガン",
+      "ニット",
+      "チェック"
+    ],
+    "src": "./assets/library/school24-cardigan.webp",
+    "thumbnail": "./assets/thumbnails/school24-cardigan.webp"
+  },
+  {
+    "id": "school24-retro-hakama",
+    "name": "書生風・袴と学生帽",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "夏服・レトロ",
+      "書生",
+      "袴",
+      "学生帽",
+      "レトロ"
+    ],
+    "src": "./assets/library/school24-retro-hakama.webp",
+    "thumbnail": "./assets/thumbnails/school24-retro-hakama.webp"
+  },
+  {
+    "id": "school24-yellow-hat",
+    "name": "小学生風・黄色い帽子とランドセル",
+    "category": "学生服",
+    "tags": [
+      "学生服",
+      "制服",
+      "スクール",
+      "学生服追加24",
+      "夏服・レトロ",
+      "黄色い帽子",
+      "ランドセル",
+      "小学生風"
+    ],
+    "src": "./assets/library/school24-yellow-hat.webp",
+    "thumbnail": "./assets/thumbnails/school24-yellow-hat.webp"
+  },
+  {
     "id": "zodiac12-rat",
     "name": "干支・子（ねずみ）",
     "category": "動物の着ぐるみ",

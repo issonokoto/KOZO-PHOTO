@@ -1914,5 +1914,101 @@
   "assets/library/zodiac12-dog.webp": {
     "src": "assets/offline/zodiac12-dog.webp",
     "sha256": "43f21ac95fb33cf7b992536a195040e873f9f3b71d469c14389e818e564538f7"
+  },
+  "assets/library/school24-gakuran-coat.webp": {
+    "src": "assets/offline/school24-gakuran-coat.webp",
+    "sha256": "0490a08e314543380e2f78959fb1cd26f3455d91481397e8907e0532d0dc3ac6"
+  },
+  "assets/library/school24-gakuran-cheer.webp": {
+    "src": "assets/offline/school24-gakuran-cheer.webp",
+    "sha256": "28f95f9b352dc9d45b615506d95ea384020c12f1b53ac0391843d4aa010c1fa6"
+  },
+  "assets/library/school24-sailor-white.webp": {
+    "src": "assets/offline/school24-sailor-white.webp",
+    "sha256": "39250a0a214828631ee983ff0bcc31d2d32f7ba575920f2afe35a7335ba7d0d9"
+  },
+  "assets/library/school24-sailor-black.webp": {
+    "src": "assets/offline/school24-sailor-black.webp",
+    "sha256": "01fcf34dcc8c032baa3181f2804c062e5e7cf8b809437e19fa8c2f74da3be4a5"
+  },
+  "assets/library/school24-gakuran-black.webp": {
+    "src": "assets/offline/school24-gakuran-black.webp",
+    "sha256": "abb360c0491559c0a281c0e7325cdcc79d5461e9339155ef995090796a7a2fba"
+  },
+  "assets/library/school24-gakuran-navy.webp": {
+    "src": "assets/offline/school24-gakuran-navy.webp",
+    "sha256": "9e3f547f257c7bf695a10ce36d0f8071a8a25af075f3276fb70a0684ad01ad84"
+  },
+  "assets/library/school24-blazer-navy.webp": {
+    "src": "assets/offline/school24-blazer-navy.webp",
+    "sha256": "7a78b1bb68179b67ab3b3e3c38a54f8ac8e7b8d4bab8b2d6614a6f72b69828a4"
+  },
+  "assets/library/school24-blazer-gray.webp": {
+    "src": "assets/offline/school24-blazer-gray.webp",
+    "sha256": "ba22d24a5762e7f04ee8f51bc053feebd13fd92b1139e9daf1c5b55323866668"
+  },
+  "assets/library/school24-blazer-burgundy.webp": {
+    "src": "assets/offline/school24-blazer-burgundy.webp",
+    "sha256": "d926b4be43d6632272449ae72150bc79acd25ed4886c65024d2d0550d78437a2"
+  },
+  "assets/library/school24-blazer-green.webp": {
+    "src": "assets/offline/school24-blazer-green.webp",
+    "sha256": "a8a6da35121cb05f93a3b31175041eea8f7179d64670c3fc88f52039eea3f330"
+  },
+  "assets/library/school24-blazer-beige.webp": {
+    "src": "assets/offline/school24-blazer-beige.webp",
+    "sha256": "7be3f173b378eea9d64bde66377d3cec212318294d6d0ca428ae7f20e188409e"
+  },
+  "assets/library/school24-blazer-ribbon.webp": {
+    "src": "assets/offline/school24-blazer-ribbon.webp",
+    "sha256": "d3a402503bd5223f7baecde38a34daf79318f287ad7cca4747bf69d5ad5e0742"
+  },
+  "assets/library/school24-sailor-blue.webp": {
+    "src": "assets/offline/school24-sailor-blue.webp",
+    "sha256": "bd362347dc8a6417492e8a9aab307daf2c55f278bc55a62be7029ea665ab680c"
+  },
+  "assets/library/school24-sailor-trousers.webp": {
+    "src": "assets/offline/school24-sailor-trousers.webp",
+    "sha256": "5e952ebf98e56c8c7da7c5bb1a9a93ab57f1eb4a0ec44e3aa1e6e004e1b0935f"
+  },
+  "assets/library/school24-sailor-retro.webp": {
+    "src": "assets/offline/school24-sailor-retro.webp",
+    "sha256": "84081d6a2cb498d365b6abb3ac043eecbf5cd21a8f4c16cc98d49ec8d53ae326"
+  },
+  "assets/library/school24-summer-shirt.webp": {
+    "src": "assets/offline/school24-summer-shirt.webp",
+    "sha256": "537bdcadaebc167d48bc03f7ab2017203bb1843caef1f7aad693e4ca0286e3eb"
+  },
+  "assets/library/school24-summer-polo.webp": {
+    "src": "assets/offline/school24-summer-polo.webp",
+    "sha256": "5dc40ef158035b03de941dc2118be251769ad090e1461bfbf9107b76365c7b1a"
+  },
+  "assets/library/school24-summer-vest.webp": {
+    "src": "assets/offline/school24-summer-vest.webp",
+    "sha256": "63143d85b67818f3d1589270c899e458aa4ae4a65f5313e7f8d76f6436d69a44"
+  },
+  "assets/library/school24-gakuran-white.webp": {
+    "src": "assets/offline/school24-gakuran-white.webp",
+    "sha256": "4e397c44b0903a51b6398c490744ad3a7505e5fec075fbcbc1fc59b238829aa5"
+  },
+  "assets/library/school24-gakuran-gray.webp": {
+    "src": "assets/offline/school24-gakuran-gray.webp",
+    "sha256": "6e7975838701d1aa606ec26967ef0c3cfb525b37b92834a7f5514677b72741a0"
+  },
+  "assets/library/school24-sailor-navy.webp": {
+    "src": "assets/offline/school24-sailor-navy.webp",
+    "sha256": "348725e08438c24ba56ac4b636de59eb5fecaa47f515f3905be3fb7c5be8be12"
+  },
+  "assets/library/school24-cardigan.webp": {
+    "src": "assets/offline/school24-cardigan.webp",
+    "sha256": "7c220de52d69b2646439ac42932b6de0953fd3269428363e8c31453cb5081672"
+  },
+  "assets/library/school24-retro-hakama.webp": {
+    "src": "assets/offline/school24-retro-hakama.webp",
+    "sha256": "32012da88534ad54e8650aeec62d2677413cf65f9a0c46f78a6693ee91bbdc7d"
+  },
+  "assets/library/school24-yellow-hat.webp": {
+    "src": "assets/offline/school24-yellow-hat.webp",
+    "sha256": "445bcf1bcbfe8a911dd5453ef30ee8c6842aac0bc05268e56fed19b5462b2a2c"
   }
 }

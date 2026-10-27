@@ -2318,5 +2318,101 @@
   "assets/library/halloween-rokurokubi.webp": {
     "src": "assets/offline/halloween-rokurokubi.webp",
     "sha256": "24f5a401f99b9ffff67b00507cf7eaa71f60e03f0989841d8f1abe877d2c21de"
+  },
+  "assets/library/yokai24-kappa.webp": {
+    "src": "assets/offline/yokai24-kappa.webp",
+    "sha256": "1971b5b985faea4a4af184ff34924b51d3eb19df84c4f1187cbf369ae2d15a66"
+  },
+  "assets/library/yokai24-tengu.webp": {
+    "src": "assets/offline/yokai24-tengu.webp",
+    "sha256": "69803586908fce0b54c25192d59e7a8c2a25aa5ac8d7a6b3cc73450148d97f20"
+  },
+  "assets/library/yokai24-red-oni.webp": {
+    "src": "assets/offline/yokai24-red-oni.webp",
+    "sha256": "469e40f391df8cd7035ee12f54f192fc9130800b3657c700acba58307c5562d9"
+  },
+  "assets/library/yokai24-blue-oni.webp": {
+    "src": "assets/offline/yokai24-blue-oni.webp",
+    "sha256": "6fc9a780f89615f886cd88205bb3552d776d517d4e8f6331bb72240e972c2f81"
+  },
+  "assets/library/yokai24-yuki-onna.webp": {
+    "src": "assets/offline/yokai24-yuki-onna.webp",
+    "sha256": "3eefeec5dfcb3cb03180021f5a4e4446e14fd062734aca420fa6be0803fb7124"
+  },
+  "assets/library/yokai24-nurikabe.webp": {
+    "src": "assets/offline/yokai24-nurikabe.webp",
+    "sha256": "16faaeb69920a4f2efbfc6fdd80ee74f8a6f2e24ab623ad82944071d902332ca"
+  },
+  "assets/library/yokai24-ittan-momen.webp": {
+    "src": "assets/offline/yokai24-ittan-momen.webp",
+    "sha256": "2c45d7e3dbd86a11606fb7ab72433f7682a436ae21891bb4601119346de69a71"
+  },
+  "assets/library/yokai24-tsuchigumo.webp": {
+    "src": "assets/offline/yokai24-tsuchigumo.webp",
+    "sha256": "4b552e37de99606e59ac838671d7299942bad5c64dc1c94230914d2fe121a6b0"
+  },
+  "assets/library/yokai24-karasu-tengu.webp": {
+    "src": "assets/offline/yokai24-karasu-tengu.webp",
+    "sha256": "4f02ae8d14f53e1e40d1841fde5b47883e9f411b8e1d7c2b4bc58724519776b7"
+  },
+  "assets/library/yokai24-kamaitachi.webp": {
+    "src": "assets/offline/yokai24-kamaitachi.webp",
+    "sha256": "7243ecbef5f766d1a586b52078184be08e6ce8db216e1797150d85b1c39fcce1"
+  },
+  "assets/library/yokai24-baku.webp": {
+    "src": "assets/offline/yokai24-baku.webp",
+    "sha256": "df55ecddb05a4bddda59151a054a11c1dbdca25956596f1adb5aa46e31a4d117"
+  },
+  "assets/library/yokai24-chochin.webp": {
+    "src": "assets/offline/yokai24-chochin.webp",
+    "sha256": "134f182791e849fb89174614fcf5a5738970d764a7176a6742277ce3c58c2276"
+  },
+  "assets/library/yokai24-kitsune.webp": {
+    "src": "assets/offline/yokai24-kitsune.webp",
+    "sha256": "7e396fb2998ff42ee772b9c106ee6386301c260504acafd3a793f6f934515d3d"
+  },
+  "assets/library/yokai24-tanuki.webp": {
+    "src": "assets/offline/yokai24-tanuki.webp",
+    "sha256": "2e684c0c6b71c2accdbe0f9a82e685c0ab5fe80f6b9780824f8d870cd4c51edd"
+  },
+  "assets/library/yokai24-nekomata.webp": {
+    "src": "assets/offline/yokai24-nekomata.webp",
+    "sha256": "7d0f7f5f4a859e4155389302acb2608efe4f95c495c8f7e8a92bf7ee9b806cef"
+  },
+  "assets/library/yokai24-inugami.webp": {
+    "src": "assets/offline/yokai24-inugami.webp",
+    "sha256": "711ccba4c1013ae82115cb60d61da2ceb51fd85b54efd7e0811fd9d034bb6127"
+  },
+  "assets/library/yokai24-nurarihyon.webp": {
+    "src": "assets/offline/yokai24-nurarihyon.webp",
+    "sha256": "3840d1bd8ca2fcd99d7ddfbb75cddacf1e71c69014e6dafe01e6adffc438fa12"
+  },
+  "assets/library/yokai24-wanyudo.webp": {
+    "src": "assets/offline/yokai24-wanyudo.webp",
+    "sha256": "5924a3d0733fcd32f86e004b244cfd4da30c9679e9148b6681769ddc812a14bd"
+  },
+  "assets/library/yokai24-abura-sumashi.webp": {
+    "src": "assets/offline/yokai24-abura-sumashi.webp",
+    "sha256": "3814e4c97d1ce6781fcd07b4bf30f3e64add25a6f37e512cc89475622630de4c"
+  },
+  "assets/library/yokai24-yamabiko.webp": {
+    "src": "assets/offline/yokai24-yamabiko.webp",
+    "sha256": "67d63e8b036d72b8f68fdf715aaf23f5c963807f314838a2f15469bd46fbd50d"
+  },
+  "assets/library/yokai24-bake-zori.webp": {
+    "src": "assets/offline/yokai24-bake-zori.webp",
+    "sha256": "462fda759bc7658ced33858bcca1176d417eba948828a4782ba1e57fea8e88b9"
+  },
+  "assets/library/yokai24-kodama.webp": {
+    "src": "assets/offline/yokai24-kodama.webp",
+    "sha256": "ae7cd6e17c15402fdca53a3a773861dc6413e0468d8a7f2e0c975a247aab8637"
+  },
+  "assets/library/yokai24-zashiki-warashi.webp": {
+    "src": "assets/offline/yokai24-zashiki-warashi.webp",
+    "sha256": "58290159b7dace7a26e0068044fc2932678fc16691e534650bd18dfbabd6b34b"
+  },
+  "assets/library/yokai24-amabie.webp": {
+    "src": "assets/offline/yokai24-amabie.webp",
+    "sha256": "de28737b5ad2faf0b4c0006ab88e2269a8259cd9b0e088176a90557e080cdcf0"
   }
 }

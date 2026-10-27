@@ -1,0 +1,407 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "sources": [
+    {
+      "title": "国際日本文化研究センター・怪異 妖怪画像データベース",
+      "url": "https://www.nichibun.ac.jp/YoukaiGazou/"
+    },
+    {
+      "title": "東京大学附属図書館・百鬼夜行の展示資料",
+      "url": "https://repository.dl.itc.u-tokyo.ac.jp/record/43065/files/tenjikai2010-1.pdf"
+    }
+  ],
+  "entries": [
+    {
+      "id": "yokai24-kappa",
+      "name": "河童・きゅうりどうぞ",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "河童",
+        "かっぱ",
+        "きゅうり"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: Fresh GREEN kappa costume: small round shallow water-dish cap centered on gray hair, leafy side fringe, dark green turtle shell strapped to back and clearly visible beside shoulders, moss-green short kimono jacket and pants, webbed green foot covers. No beak covering human face. Offering ONE cucumber forward in one hand, other hand giving a gentle thumbs-up. Playful smooth green fabric, not a generic turtle mascot."
+    },
+    {
+      "id": "yokai24-tengu",
+      "name": "天狗・大きな葉うちわ",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "天狗",
+        "てんぐ",
+        "団扇"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: Mountain TENGU: rich rust-red yamabushi robe, black and gold sash, small black tokin cap, white pompom cord at chest, dark trousers, white tabi and low stable geta. Two modest black feather wing panels attached to back. A small RED elongated theatrical nose prosthesis extends from his nose while eyes, glasses, mouth and cheeks stay recognizable, no full-face mask. Holding a broad green feather-like LEAF FAN in one hand, other hand at hip. Whole nose, wings and fan inside frame."
+    },
+    {
+      "id": "yokai24-red-oni",
+      "name": "赤鬼・にこにこ金棒",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "赤鬼",
+        "鬼",
+        "おに",
+        "金棒"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: Friendly RED ONI stage costume: two short ivory horns on a red headband, gray hair visible, red long-sleeve tunic and red trousers, yellow-black tiger-stripe short fur waist wrap, chunky brown sandals. Kozo human face unpainted and smiling. Holding ONE oversized dark brown padded toy club vertically beside body, club has rounded soft studs, other hand waves. Playful festival monster, no fighting."
+    },
+    {
+      "id": "yokai24-blue-oni",
+      "name": "青鬼・どっしり腕組み",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "青鬼",
+        "鬼",
+        "おに"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: BLUE ONI costume: cobalt blue textured padded jacket and blue trousers, two small ivory horns on an indigo headband, gray hair uncovered between horns, black-and-cream tiger-stripe waist wrap and dark sandals. Both arms confidently folded across chest with friendly broad smile, natural Kozo skin and face. No club or weapon. Stocky fabric silhouette, different costume and pose from red oni."
+    },
+    {
+      "id": "yokai24-yuki-onna",
+      "name": "雪女・雪の結晶をそっと",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "雪女",
+        "ゆきおんな",
+        "雪"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: YUKI-ONNA inspired white-and-ice-blue flowing kimono layered over opaque pale inner robe, silvery snowflake embroidery, white obi, white tabi and pale zori. Same elderly MALE Kozo face and body, natural gray hair with one small frosted branch hair ornament, NO young woman, no wig or skin recoloring. Both hands gently presenting a small clear crystal snowflake stage ornament at chest, no ice particles or mist. Full sleeves and robe hem fully framed."
+    },
+    {
+      "id": "yokai24-nurikabe",
+      "name": "ぬりかべ・ここは通せんぼ",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "ぬりかべ",
+        "塗壁",
+        "壁"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: NURIKABE wearable wall monster: tall broad rounded-rectangle light gray STONE WALL costume surrounding torso from just above shoulders to knees, realistic uneven stone and mortar texture, a neat OPEN FACE WINDOW near upper front exposing complete original Kozo head and glasses. TWO normal human hands emerge from side openings with palms facing forward in a friendly stop gesture, two short trouser legs and gray cloth shoes below. One person inside wall costume, no separate face painted on wall, no extra eyes or limbs."
+    },
+    {
+      "id": "yokai24-ittan-momen",
+      "name": "一反木綿・ふわり布おばけ",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "一反木綿",
+        "いったんもめん",
+        "布"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: ITTAN-MOMEN inspired long white cotton cloth yokai: Kozo head fully visible emerging through a soft open-face cloth hood at upper end of a long flowing WHITE fabric tunic, body wrapped in continuous flat white cloth that forms a broad ribbon-like train curling gently to one side near calf height. White cotton sleeves, hands gently lifting cloth edges to display flowing fabric, two normal white tabi and pale zori feet visible. The cloth is part of wearable outfit, no separate cartoon face or floating extra being. Whole curled cloth train fully visible with generous margins."
+    },
+    {
+      "id": "yokai24-chochin",
+      "name": "提灯おばけ・ぴょこんとごあいさつ",
+      "category": "妖怪",
+      "group": "定番の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "定番の妖怪",
+        "提灯おばけ",
+        "ちょうちん",
+        "提灯",
+        "付喪神"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: CHOCHIN-OBAKE lantern monster wearable costume: large RED ribbed cylindrical paper-lantern-shaped padded tunic around torso, black lacquer-like top and bottom rims, soft aged washi texture. Whole smiling human Kozo head emerges above top rim with a small lantern-roof shaped black cap, not a mask. Black sleeves with human hands, dark cropped trousers and black tabi-style shoes. One hand giving a peace sign, other hand touching lantern side. No kanji, eyes or mouth drawn on lantern body, no fire."
+    },
+    {
+      "id": "yokai24-kitsune",
+      "name": "九尾の狐・ふさふさ九本しっぽ",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "九尾",
+        "狐",
+        "きつね",
+        "妖狐"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: KITSUNE nine-tail yokai outfit: white fur collar over vermilion-and-ivory Japanese robe, white fox ear headband, gray hair and complete human face visible, gold cord belt, white tabi and zori. EXACTLY NINE fluffy creamy-white fox tails with pale golden tips fan out from a single lower-back attachment behind figure, balanced so all nine individual tails can be counted. Both hands joined in a gentle fox-finger gesture at chest, no animal muzzle or mask covering face. All tail tips inside frame."
+    },
+    {
+      "id": "yokai24-tanuki",
+      "name": "化け狸・ぽんぽこおなか",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "化け狸",
+        "たぬき",
+        "狸"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: BAKE-DANUKI yokai costume: rounded plush brown tanuki suit with large cream padded belly, open-face hood with round ears exposing Kozo human face, striped brown tail, short indigo happi jacket, little leaf ornament atop hood, brown paw-like shoes. Both normal human hands lightly pat the rounded costume belly in a cheerful ponpoko pose. No bottles, text or separate animal."
+    },
+    {
+      "id": "yokai24-nekomata",
+      "name": "猫又・二本しっぽでにゃー",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "猫又",
+        "ねこまた",
+        "猫",
+        "二本しっぽ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: NEKOMATA yokai: black-and-cream calico faux-fur collar, short wine-red patterned kimono jacket, dark loose pants, black cat-ear headband, natural human Kozo face and gray hair. EXACTLY TWO long fluffy calico tails visibly split from one back attachment, curling up on opposite sides, whole tails visible. Hands gently curled near chest like cat paws, tabi-like dark soft shoes, no face mask or muzzle."
+    },
+    {
+      "id": "yokai24-inugami",
+      "name": "犬神・白いお守り姿",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "犬神",
+        "いぬがみ",
+        "犬"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: INUGAMI inspired fantasy outfit: white fur open-face dog hood with tall triangular ears and a ruff around shoulders, original Kozo human face fully visible, white-and-charcoal flowing kimono robe with deep violet sash, white dog-like fur foot covers. One fluffy white tail attached behind waist, small plain braided rope ornament with NO text. Hands lightly together at waist in calm protective stance. No animal skull, human injury or separate dog head."
+    },
+    {
+      "id": "yokai24-tsuchigumo",
+      "name": "土蜘蛛・くもの巣を広げて",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "土蜘蛛",
+        "つちぐも",
+        "蜘蛛"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: TSUCHIGUMO theatrical spider yokai: deep brown brocade kimono-style top, black loose trousers and tabi boots, original elderly Kozo head and face exposed, small spider ornament on headband. A clearly attached semicircular costume harness behind shoulders carries FOUR PAIRS of thin articulated dark brown decorative spider legs fanning around sides, not real extra human limbs. Human hands hold a small silver-thread web between them at waist. No prey, gore or extra human face. All decorative leg tips fully inside canvas."
+    },
+    {
+      "id": "yokai24-karasu-tengu",
+      "name": "烏天狗・黒い翼を広げて",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "烏天狗",
+        "からすてんぐ",
+        "天狗",
+        "翼"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: KARASU-TENGU inspired costume: dark indigo yamabushi robe with black feather shoulder cape, small black tokin cap, amber cord sash, dark trousers, white tabi and dark low geta. TWO realistic black feather wings attached to back spread moderately outward, Kozo whole human face visible with NO beak mask, gray hair exposed. Holding a short wooden walking staff vertically in one hand while other hand extends in a calm greeting. No red long nose, visually distinct from red tengu. Wings fully framed."
+    },
+    {
+      "id": "yokai24-kamaitachi",
+      "name": "鎌鼬・風を切るポーズ",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "鎌鼬",
+        "かまいたち",
+        "いたち",
+        "風"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: KAMAITACHI playful weasel-yokai costume: tawny fur open-face hood with small rounded weasel ears, furry russet collar and long curved furry tail, sage-green short travel kimono and brown hakama-style pants, soft brown boots. Hands holding TWO small crescent-shaped clearly blunt silver foam stage sickles downward at sides, no attack or victim. A lively slight side-step pose, original smiling elderly face unobscured. No flying wind effects. Entire tail and props visible."
+    },
+    {
+      "id": "yokai24-baku",
+      "name": "獏・いい夢どうぞ",
+      "category": "妖怪",
+      "group": "動物の妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "動物の妖怪",
+        "獏",
+        "ばく",
+        "夢"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: BAKU dream-eater inspired whimsical plush costume: soft black-and-cream tapir-patterned tunic with round padded belly, open-face hood with rounded ears and a SHORT tapir snout ornament sitting ABOVE forehead rather than over face, deep teal sleep-themed haori with subtle embroidered stars, matching soft furry shoes. Complete Kozo face and glasses visible. Both hands gently hugging a small indigo crescent-shaped cushion, no text or extra creature."
+    },
+    {
+      "id": "yokai24-nurarihyon",
+      "name": "ぬらりひょん・お茶をひとくち",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "ぬらりひょん",
+        "茶"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: NURARIHYON inspired theatrical elder: muted brown-green silk kimono, deep charcoal haori with subtle abstract pattern, pale sash, tabi and low zori. A modest elongated gourd-shaped BALD PROP cap sits BEHIND and above natural forehead, extending rearward slightly, while whole original Kozo face, glasses and side gray hair remain unchanged. One hand holds a small plain ceramic tea cup, other supports a simple saucer, relaxed sly friendly smile and easy posture. No furniture or scene."
+    },
+    {
+      "id": "yokai24-wanyudo",
+      "name": "輪入道・ぐるり車輪のおばけ",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "輪入道",
+        "わにゅうどう",
+        "車輪"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: WANYUDO inspired wearable wheel yokai: ONE large vertical aged dark wooden cart WHEEL worn as a light costume frame surrounding shoulders and torso. Complete Kozo head appears naturally in the OPEN upper-center area, his human face smiling and clearly visible, dark russet robe behind spokes, human hands grasp the side rim lightly, two robed legs with dark tabi shoes beneath. Rim decorated with several small solid orange-red flame-shaped felt ornaments, NO actual fire, smoke or glowing background. Entire round wheel fully visible, not a vehicle scene or floating detached head."
+    },
+    {
+      "id": "yokai24-abura-sumashi",
+      "name": "油すまし・のんびり杖つき",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "油すまし",
+        "あぶらすまし",
+        "蓑"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: ABURA-SUMASHI inspired mountain yokai: woven straw MINO rain cape over ochre simple kimono, indigo cropped trousers, white tabi and straw sandals, small rounded gray gourd-shaped hat positioned ABOVE head like a soft prop helmet with original Kozo face exposed below. Holding a plain wooden walking stick in one hand, other hand resting on belly, slightly hunched gentle funny stance. No facial replacement, no giant stone head mask, whole straw cape and staff visible."
+    },
+    {
+      "id": "yokai24-yamabiko",
+      "name": "山彦・やっほーの手",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "山彦",
+        "やまびこ",
+        "こだま"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: YAMABIKO inspired fluffy mountain echo spirit: moss-gray long fur cape and tunic, open-face hood with two wide soft pointed ears, original elderly human face visible, brown short hakama trousers, furry gray boot covers and long soft tail curling at side. Both normal hands cupped beside mouth for a friendly calling-out pose, mouth open in warm smile. No loudspeaker, text, forest or second character."
+    },
+    {
+      "id": "yokai24-bake-zori",
+      "name": "化け草履・とことこさんぽ",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "化け草履",
+        "ばけぞうり",
+        "草履",
+        "付喪神"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: BAKE-ZORI wearable old-sandal yokai: large vertical rounded straw ZORI-shaped padded costume around torso, woven golden straw texture and black Y-shaped sandal thong visible on FRONT. Human Kozo head emerges from top opening with full face and gray hair exposed. Indigo sleeves with natural human hands, indigo cropped pants, two small actual straw sandals below. One hand waving, other gently holding costume edge, slightly lifted heel as a comic walking step. No extra cartoon face, eye or mouth painted over chest. Whole costume framed."
+    },
+    {
+      "id": "yokai24-kodama",
+      "name": "木霊・古木からこんにちは",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "木霊",
+        "こだま",
+        "古木",
+        "木"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: KODAMA inspired original tree spirit costume: realistic aged brown tree-bark textured sleeveless tunic shaped as a short hollow tree trunk, soft moss-green sleeves, olive trousers, bark-textured boots, small twig-and-leaf crown on gray hair. Full Kozo human face unobscured above trunk, no copyrighted white forest-spirit design. Two short branching twig costume ornaments attached behind shoulders, ONE hand gives a gentle open-palmed greeting and other hand rests on trunk front. No actual trees or forest scene."
+    },
+    {
+      "id": "yokai24-zashiki-warashi",
+      "name": "座敷わらし・手まりころん",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "座敷わらし",
+        "ざしきわらし",
+        "手まり"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: ZASHIKI-WARASHI inspired costume worn by SAME ELDERLY ADULT Kozo, NOT a child: warm red retro Japanese kimono with simple small cream geometric motifs, golden obi, short sleeveless burgundy haori vest, white tabi and dark zori, natural gray hair exposed and no black bob wig. Both hands hold a small colorful traditional TEMARI ball at belly height, slight cheerful head tilt, whole wrinkled elderly male face preserved. No child body proportions, no scene or doll."
+    },
+    {
+      "id": "yokai24-amabie",
+      "name": "アマビエ・きらきらうろこ",
+      "category": "妖怪",
+      "group": "ふしぎな妖怪",
+      "tags": [
+        "妖怪",
+        "和風",
+        "妖怪追加24",
+        "ふしぎな妖怪",
+        "アマビエ",
+        "あまびえ",
+        "うろこ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo as a playful Japanese YOKAI for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his recognizable smiling wrinkled elderly male face, gray hair, thin glasses and age. Replace the fishing cap and original polo outfit completely. The result is the SAME elderly Japanese man transformed by a fanciful theatrical yokai outfit, not a child, young model or unrelated face. Facial expression remains warm, mischievous and approachable. Real wearable textiles, fur, sculpted stage materials and carefully crafted creature details, neutral soft photographic light. No readable text, logos or branded modern fictional character design. No gore, wounds or blood. ONE person, no secondary creatures or humans. Human arms and hands remain coherent with five fingers where visible; any extra appendages specified are obviously attached costume structures. ENTIRE head, headdress, body, feet and ALL tails, wings, garment ends and props must fit fully inside a portrait canvas. Compose figure at about 84 percent of canvas height, with at least 80px genuinely transparent padding above and below and 50px at sides. Nothing cropped. Full-body front three-quarter view with a clear readable silhouette. Actual ALPHA TRANSPARENT background, including open spaces around limbs and props; NO scenery, studio backdrop, floor plane, gradient, checkerboard, colored fog, halo or glow. Preserve the complete recognizable Kozo face except the explicit small theatrical details specified, never obscure it behind a full mask.\nYokai costume and pose: AMABIE inspired fantastical ocean-yokai costume: iridescent teal-and-rose scale-textured long robe with fin-shaped sleeves and THREE soft fin-like PANELS along lower hem, two normal feet in scaled soft shoes visible below. Long seaweed-green decorative ribbon strands attached to an open-face headdress with a small gold beak-shaped ornament ABOVE forehead, never covering nose or mouth. Original Kozo face and glasses fully visible, gray hair at sides. Both hands open gently in welcoming pose. No actual third human leg, no extra eyes, text, watery scene, bubbles or glow."
+    }
+  ]
+}

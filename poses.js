@@ -85,6 +85,397 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "yokai24-kappa",
+    "name": "河童・きゅうりどうぞ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "河童",
+      "かっぱ",
+      "きゅうり"
+    ],
+    "src": "./assets/library/yokai24-kappa.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-kappa.webp"
+  },
+  {
+    "id": "yokai24-tengu",
+    "name": "天狗・大きな葉うちわ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "天狗",
+      "てんぐ",
+      "団扇"
+    ],
+    "src": "./assets/library/yokai24-tengu.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-tengu.webp"
+  },
+  {
+    "id": "yokai24-red-oni",
+    "name": "赤鬼・にこにこ金棒",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "赤鬼",
+      "鬼",
+      "おに",
+      "金棒"
+    ],
+    "src": "./assets/library/yokai24-red-oni.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-red-oni.webp"
+  },
+  {
+    "id": "yokai24-blue-oni",
+    "name": "青鬼・どっしり腕組み",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "青鬼",
+      "鬼",
+      "おに"
+    ],
+    "src": "./assets/library/yokai24-blue-oni.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-blue-oni.webp"
+  },
+  {
+    "id": "yokai24-yuki-onna",
+    "name": "雪女・雪の結晶をそっと",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "雪女",
+      "ゆきおんな",
+      "雪"
+    ],
+    "src": "./assets/library/yokai24-yuki-onna.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-yuki-onna.webp"
+  },
+  {
+    "id": "yokai24-nurikabe",
+    "name": "ぬりかべ・ここは通せんぼ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "ぬりかべ",
+      "塗壁",
+      "壁"
+    ],
+    "src": "./assets/library/yokai24-nurikabe.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-nurikabe.webp"
+  },
+  {
+    "id": "yokai24-ittan-momen",
+    "name": "一反木綿・ふわり布おばけ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "一反木綿",
+      "いったんもめん",
+      "布"
+    ],
+    "src": "./assets/library/yokai24-ittan-momen.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-ittan-momen.webp"
+  },
+  {
+    "id": "yokai24-chochin",
+    "name": "提灯おばけ・ぴょこんとごあいさつ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "定番の妖怪",
+      "提灯おばけ",
+      "ちょうちん",
+      "提灯",
+      "付喪神"
+    ],
+    "src": "./assets/library/yokai24-chochin.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-chochin.webp"
+  },
+  {
+    "id": "yokai24-kitsune",
+    "name": "九尾の狐・ふさふさ九本しっぽ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "九尾",
+      "狐",
+      "きつね",
+      "妖狐"
+    ],
+    "src": "./assets/library/yokai24-kitsune.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-kitsune.webp"
+  },
+  {
+    "id": "yokai24-tanuki",
+    "name": "化け狸・ぽんぽこおなか",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "化け狸",
+      "たぬき",
+      "狸"
+    ],
+    "src": "./assets/library/yokai24-tanuki.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-tanuki.webp"
+  },
+  {
+    "id": "yokai24-nekomata",
+    "name": "猫又・二本しっぽでにゃー",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "猫又",
+      "ねこまた",
+      "猫",
+      "二本しっぽ"
+    ],
+    "src": "./assets/library/yokai24-nekomata.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-nekomata.webp"
+  },
+  {
+    "id": "yokai24-inugami",
+    "name": "犬神・白いお守り姿",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "犬神",
+      "いぬがみ",
+      "犬"
+    ],
+    "src": "./assets/library/yokai24-inugami.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-inugami.webp"
+  },
+  {
+    "id": "yokai24-tsuchigumo",
+    "name": "土蜘蛛・くもの巣を広げて",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "土蜘蛛",
+      "つちぐも",
+      "蜘蛛"
+    ],
+    "src": "./assets/library/yokai24-tsuchigumo.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-tsuchigumo.webp"
+  },
+  {
+    "id": "yokai24-karasu-tengu",
+    "name": "烏天狗・黒い翼を広げて",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "烏天狗",
+      "からすてんぐ",
+      "天狗",
+      "翼"
+    ],
+    "src": "./assets/library/yokai24-karasu-tengu.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-karasu-tengu.webp"
+  },
+  {
+    "id": "yokai24-kamaitachi",
+    "name": "鎌鼬・風を切るポーズ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "鎌鼬",
+      "かまいたち",
+      "いたち",
+      "風"
+    ],
+    "src": "./assets/library/yokai24-kamaitachi.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-kamaitachi.webp"
+  },
+  {
+    "id": "yokai24-baku",
+    "name": "獏・いい夢どうぞ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "動物の妖怪",
+      "獏",
+      "ばく",
+      "夢"
+    ],
+    "src": "./assets/library/yokai24-baku.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-baku.webp"
+  },
+  {
+    "id": "yokai24-nurarihyon",
+    "name": "ぬらりひょん・お茶をひとくち",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "ぬらりひょん",
+      "茶"
+    ],
+    "src": "./assets/library/yokai24-nurarihyon.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-nurarihyon.webp"
+  },
+  {
+    "id": "yokai24-wanyudo",
+    "name": "輪入道・ぐるり車輪のおばけ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "輪入道",
+      "わにゅうどう",
+      "車輪"
+    ],
+    "src": "./assets/library/yokai24-wanyudo.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-wanyudo.webp"
+  },
+  {
+    "id": "yokai24-abura-sumashi",
+    "name": "油すまし・のんびり杖つき",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "油すまし",
+      "あぶらすまし",
+      "蓑"
+    ],
+    "src": "./assets/library/yokai24-abura-sumashi.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-abura-sumashi.webp"
+  },
+  {
+    "id": "yokai24-yamabiko",
+    "name": "山彦・やっほーの手",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "山彦",
+      "やまびこ",
+      "こだま"
+    ],
+    "src": "./assets/library/yokai24-yamabiko.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-yamabiko.webp"
+  },
+  {
+    "id": "yokai24-bake-zori",
+    "name": "化け草履・とことこさんぽ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "化け草履",
+      "ばけぞうり",
+      "草履",
+      "付喪神"
+    ],
+    "src": "./assets/library/yokai24-bake-zori.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-bake-zori.webp"
+  },
+  {
+    "id": "yokai24-kodama",
+    "name": "木霊・古木からこんにちは",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "木霊",
+      "こだま",
+      "古木",
+      "木"
+    ],
+    "src": "./assets/library/yokai24-kodama.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-kodama.webp"
+  },
+  {
+    "id": "yokai24-zashiki-warashi",
+    "name": "座敷わらし・手まりころん",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "座敷わらし",
+      "ざしきわらし",
+      "手まり"
+    ],
+    "src": "./assets/library/yokai24-zashiki-warashi.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-zashiki-warashi.webp"
+  },
+  {
+    "id": "yokai24-amabie",
+    "name": "アマビエ・きらきらうろこ",
+    "category": "妖怪",
+    "tags": [
+      "妖怪",
+      "和風",
+      "妖怪追加24",
+      "ふしぎな妖怪",
+      "アマビエ",
+      "あまびえ",
+      "うろこ"
+    ],
+    "src": "./assets/library/yokai24-amabie.webp",
+    "thumbnail": "./assets/thumbnails/yokai24-amabie.webp"
+  },
+  {
     "id": "halloween-rokurokubi",
     "name": "ろくろ首・首がにゅーっとごあいさつ",
     "category": "ハロウィン",

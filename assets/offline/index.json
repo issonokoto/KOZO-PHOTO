@@ -2218,5 +2218,101 @@
   "assets/frames/celebration-party.webp": {
     "src": "assets/offline/frames/celebration-party.webp",
     "sha256": "3a77d593a9fcb8b06ac33c0fe816b20e41bbdae4fe9081049b29b9b587c42314"
+  },
+  "assets/library/halloween24-pumpkin-round.webp": {
+    "src": "assets/offline/halloween24-pumpkin-round.webp",
+    "sha256": "320012c2ae1f090176f31da3687c98b99b831aeec4a11482d6367c8b4c9e6135"
+  },
+  "assets/library/halloween24-witch-purple.webp": {
+    "src": "assets/offline/halloween24-witch-purple.webp",
+    "sha256": "4e485618c91a0376b580d2e89dbc7d599a02760df4dc9089f73b502debbd19e1"
+  },
+  "assets/library/halloween24-vampire-classic.webp": {
+    "src": "assets/offline/halloween24-vampire-classic.webp",
+    "sha256": "78671358b358813e9350e2700f46b75eb7eb57be120e9384f38b3b821f18ce60"
+  },
+  "assets/library/halloween24-ghost-sheet.webp": {
+    "src": "assets/offline/halloween24-ghost-sheet.webp",
+    "sha256": "0ee4ed09e8d9318db9d7332b84be1b9df2096ed97193183f87770f49cbe32919"
+  },
+  "assets/library/halloween24-skeleton.webp": {
+    "src": "assets/offline/halloween24-skeleton.webp",
+    "sha256": "ecc7e1d334b84dbc355249610f302cc86ad5f58f0eb59e926686c153fcf327ad"
+  },
+  "assets/library/halloween24-mummy.webp": {
+    "src": "assets/offline/halloween24-mummy.webp",
+    "sha256": "2d0cb4ae3e8536d72660e32441022f51e8321d4f2a3c0e5303ec7cf31484b1f7"
+  },
+  "assets/library/halloween24-werewolf.webp": {
+    "src": "assets/offline/halloween24-werewolf.webp",
+    "sha256": "1a79bad05cbb82f99cf1219e75ef54ca529c2c5073af07e8e0d1d89e9115bfd7"
+  },
+  "assets/library/halloween24-ghost-balloons.webp": {
+    "src": "assets/offline/halloween24-ghost-balloons.webp",
+    "sha256": "cdedd8d6263d1844b91be66ff6b9b3857e9fb5ec36b61199ffb832c4553e5e9c"
+  },
+  "assets/library/halloween24-spider-cape.webp": {
+    "src": "assets/offline/halloween24-spider-cape.webp",
+    "sha256": "08438a6710ddb61d3cc15e1fc7ffad6fa66630951db0d8a05ebfa653c5510051"
+  },
+  "assets/library/halloween24-pumpkin-parade.webp": {
+    "src": "assets/offline/halloween24-pumpkin-parade.webp",
+    "sha256": "f03aabaddfebc9bd3ef536d41d5b8fd92191d24723996613abf94ebbfd67d2a4"
+  },
+  "assets/library/halloween24-gothic-count.webp": {
+    "src": "assets/offline/halloween24-gothic-count.webp",
+    "sha256": "3f49bc5821ce74077cd17c449706b1c95b4de7bf3c4d8d5cee165869a2db5599"
+  },
+  "assets/library/halloween24-haunted-pirate.webp": {
+    "src": "assets/offline/halloween24-haunted-pirate.webp",
+    "sha256": "a646275942bb7aab9163693d4f02a18dd51adfa70c916fcc3aee0e482e3cfff9"
+  },
+  "assets/library/halloween24-friendly-monster.webp": {
+    "src": "assets/offline/halloween24-friendly-monster.webp",
+    "sha256": "f11fa5af6fa8570f4d9fabba6f4ac922e69405242d44ed6fa4dc8f329de4afc0"
+  },
+  "assets/library/halloween24-black-cat.webp": {
+    "src": "assets/offline/halloween24-black-cat.webp",
+    "sha256": "7a69952c7709e0207d0f167e1a8c46ae9ff6e5000cf25c18a77e8733ab8176d9"
+  },
+  "assets/library/halloween24-little-bat.webp": {
+    "src": "assets/offline/halloween24-little-bat.webp",
+    "sha256": "b301cae4ae215cb9ca26952ff0c9b1fe040e0489006e7550c5a4014f7cfc4dc8"
+  },
+  "assets/library/halloween24-scarecrow.webp": {
+    "src": "assets/offline/halloween24-scarecrow.webp",
+    "sha256": "44e7f4e072fc4f1ab346d9df1a3dad3dde0f6cb8fe3df0a2e9d86360543211c8"
+  },
+  "assets/library/halloween24-candy-wizard.webp": {
+    "src": "assets/offline/halloween24-candy-wizard.webp",
+    "sha256": "17013e13ea70d15ebe3e6dbd6c19d5fa6cb1851cc7da599c7861f0855b485730"
+  },
+  "assets/library/halloween24-pumpkin-baker.webp": {
+    "src": "assets/offline/halloween24-pumpkin-baker.webp",
+    "sha256": "77547a844d0ee1cf5ca442dc25e079ec93e9d65fda0f02ede285ca9e4b2cb2e0"
+  },
+  "assets/library/halloween24-masked-phantom.webp": {
+    "src": "assets/offline/halloween24-masked-phantom.webp",
+    "sha256": "3e290014fdf063c166ced93d6899912a021f20aa17a4cdef40749cfa4dd8afde"
+  },
+  "assets/library/halloween24-mad-scientist.webp": {
+    "src": "assets/offline/halloween24-mad-scientist.webp",
+    "sha256": "3567b3d7b84115b4d647c02186f52b0ea3e0cbdc95a22e533018b203cd5f2b26"
+  },
+  "assets/library/halloween24-friendly-zombie.webp": {
+    "src": "assets/offline/halloween24-friendly-zombie.webp",
+    "sha256": "337967b13b5011dd2dc692abded10faaeaa7fcd2b589739a27db45911be879f7"
+  },
+  "assets/library/halloween24-hooded-reaper.webp": {
+    "src": "assets/offline/halloween24-hooded-reaper.webp",
+    "sha256": "6bc049301ab5de60bb3e16ae87e54249430079eb4fcd006134da783b7ec87b55"
+  },
+  "assets/library/halloween24-karakasa.webp": {
+    "src": "assets/offline/halloween24-karakasa.webp",
+    "sha256": "c1955fef2ac643dff0eb14bafaae04fa73f71f055fa9ba2e8ad66934a6c0f53c"
+  },
+  "assets/library/halloween24-white-yurei.webp": {
+    "src": "assets/offline/halloween24-white-yurei.webp",
+    "sha256": "49c7d6906617e9ef79184f2acedfa8fba0f65f83e11d0eb647462998449292b1"
   }
 }

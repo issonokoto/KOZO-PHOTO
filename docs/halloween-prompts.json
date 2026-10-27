@@ -1,0 +1,405 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "entries": [
+    {
+      "id": "halloween24-pumpkin-round",
+      "name": "まんまるかぼちゃ・キャンディどうぞ",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "かぼちゃ",
+        "パンプキン",
+        "お菓子"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Puffy round bright orange pumpkin tunic with segmented stuffed fabric body, simple smiling jack-o-lantern applique at front, green leaf collar and tiny pumpkin stem beret over gray hair, black leggings and orange-black shoes. Offering a small wrapped candy forward in one hand, other hand holding a small orange pumpkin candy bucket. His face stays fully uncovered."
+    },
+    {
+      "id": "halloween24-witch-purple",
+      "name": "紫の魔法使い・ほうきとごあいさつ",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "魔法使い",
+        "魔女",
+        "ほうき"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Deep purple velvet witch robe with layered black sleeves, tall crooked pointed hat with orange band, striped purple-black socks and black buckled shoes. Holding a realistic straw broom vertically at side, other hand giving a friendly small wave. Full hat tip and broom fully framed, no magical floating effects."
+    },
+    {
+      "id": "halloween24-vampire-classic",
+      "name": "吸血鬼・マントを広げて",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "吸血鬼",
+        "ドラキュラ",
+        "マント"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Classic Halloween vampire costume: black tailcoat, burgundy brocade waistcoat, white ruffled shirt, black trousers and polished shoes, long black cape with crimson lining and upright collar. Gently holding both cape edges out so red lining is visible. Natural Kozo smiling face and gray hair, no blood, no fake teeth covering expression."
+    },
+    {
+      "id": "halloween24-ghost-sheet",
+      "name": "白いおばけ・ばあっ",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "おばけ",
+        "ゴースト",
+        "白"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Playful white sheet ghost costume constructed as flowing white poncho down to midcalf with a wide OPEN FACE HOOD exposing his whole elderly face and glasses, black shoes underneath. A small black smiling ghost applique on chest, both hands raised gently near shoulder height in a cute boo pose. Normal visible human hands, no face covering or eyehole-only sheet."
+    },
+    {
+      "id": "halloween24-skeleton",
+      "name": "骨ほねスーツ・ダブルピース",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "骸骨",
+        "ガイコツ",
+        "スケルトン"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Black full-length fabric jumpsuit with anatomically simple white skeleton ribcage, arm, pelvis and leg bone PRINTS on cloth, black shoes, black short capelet and small black bow tie. Head fully uncovered, NO skull mask or face paint. Cheerful double peace sign at chest height, natural elderly hands. Clearly a costume print, not exposed actual bones."
+    },
+    {
+      "id": "halloween24-mummy",
+      "name": "ミイラ・そっと前へ",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "ミイラ",
+        "包帯"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Completely covered wearable beige mummy suit made of overlapping clean aged linen bandage strips over a full opaque inner costume, wrapped boots and forearms, some short loose cloth tails. A few loose strips around head sides but entire face, forehead and glasses exposed, gray hair visible. Both arms extended gently forward at chest height, friendly smiling Kozo, no corpse skin, no injury."
+    },
+    {
+      "id": "halloween24-werewolf",
+      "name": "もふもふオオカミ・がおー",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "オオカミ",
+        "狼男",
+        "もふもふ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Wearable plush gray-brown werewolf costume: furry rounded open-face hood with wolf ears, furry gloves shaped as paws but human arms coherent, bushy tail, blue-and-red plaid vest over furry torso, brown trousers and furry boot covers. Whole normal elderly Kozo face visible through hood, no muzzle over face. Raising both paws in a playful gentle roar, warm smile."
+    },
+    {
+      "id": "halloween24-friendly-monster",
+      "name": "緑のモンスター・親指ぐっ",
+      "category": "ハロウィン",
+      "group": "定番の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "定番の仮装",
+        "モンスター",
+        "フランケン",
+        "怪物"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Playful sewn green monster cosplay inspired by generic Halloween stage costumes: moss green jacket with contrasting fabric patchwork seams, lavender shirt, dark trousers and chunky black platform boots, a soft green cap sitting ABOVE natural forehead with two small silver theatrical bolt ornaments at cap sides. Natural unpainted Kozo face completely unchanged, no skull change or scar makeup. One thumbs-up and one relaxed hand."
+    },
+    {
+      "id": "halloween24-black-cat",
+      "name": "黒ねこ・にゃんこの手",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "黒猫",
+        "ねこ",
+        "猫",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Soft black velvet cat costume with triangular cat-ear headband over natural gray hair, rounded plush tail, orange bow tie, black long-sleeve tunic and pants, small white chest patch and black shoes. Face unobscured without heavy whisker paint. Both hands curled gently near chest in cat paw pose, slight head tilt and a happy smile."
+    },
+    {
+      "id": "halloween24-little-bat",
+      "name": "こうもり・ちいさな翼",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "こうもり",
+        "コウモリ",
+        "翼",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Dark purple bat onesie costume with short open-face hood and pointed bat ears, cute orange neck bow, attached small fabric scalloped wing panels UNDER arms from sleeve to hip, dark soft boots. Natural elderly face visible and unchanged. Holding arms out gently at waist-to-chest height to spread attached fabric wings, no extra limbs or separate giant wings."
+    },
+    {
+      "id": "halloween24-scarecrow",
+      "name": "かかし・秋色のごあいさつ",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "かかし",
+        "案山子",
+        "秋",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Halloween scarecrow costume with floppy patched straw hat, rust-orange plaid shirt, faded teal patchwork overalls, straw fringes peeking at cuffs and ankles, rope belt and brown work boots. A small pumpkin fabric badge without text. Relaxed friendly stance with one hand touching brim and other open in greeting, natural unpainted Kozo face."
+    },
+    {
+      "id": "halloween24-candy-wizard",
+      "name": "お菓子の魔法使い・星のステッキ",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "お菓子",
+        "キャンディ",
+        "魔法使い",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Candy-themed Halloween wizard costume: orange-and-purple striped long coat, lavender waistcoat, purple trousers, curled pointed hat decorated with sewn candy-shape ornaments, purple shoes. Holding a short star-tipped toy wand with orange ribbon in one hand, other hand offering a large spiral candy prop. No floating particles or text, both props fully framed."
+    },
+    {
+      "id": "halloween24-pumpkin-baker",
+      "name": "かぼちゃパティシエ・お菓子のトレー",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "かぼちゃ",
+        "パティシエ",
+        "お菓子",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Halloween pumpkin pastry-chef outfit: puffy orange chef hat with green stem, ivory double-breasted chef coat, orange apron with simple black smiling pumpkin face applique, black-and-orange check trousers and brown shoes. Both hands supporting a small metal tray carrying THREE distinct Halloween cookies shaped pumpkin, bat and ghost. Only tray and cookies, not a whole kitchen, warm smiling Kozo.",
+      "edits": [
+        {
+          "mode": "built-in imagegen",
+          "purpose": "帽子の先まで余白を確保",
+          "prompt": "Use case: identity-preserve. Edit this transparent Kozo Halloween pumpkin pastry-chef cutout only to improve framing. Preserve the SAME exact elderly smiling Japanese man's wrinkled face, gray hair, glasses, orange pumpkin chef hat with green stem and leaves, white chef coat, orange pumpkin apron, orange-black check trousers, brown shoes, both hands and tray with pumpkin/bat/ghost cookies. Keep costume, expression and pose identical. Make the ENTIRE person and tray SMALLER within the SAME portrait canvas, centered with generous genuinely TRANSPARENT margin: at least 100 pixels clear above the ENTIRE green stem tip and at least 80 pixels below shoes. The green stem and ALL leaves MUST be complete, no cropping at top. Figure should occupy about 82 percent of canvas height. Actual transparent alpha everywhere around the figure, no colored or gray backdrop, no floor, no glow, no halo, no new objects or text. Do not change identity or clothing."
+        }
+      ]
+    },
+    {
+      "id": "halloween24-ghost-balloons",
+      "name": "おばけ風船・ハロウィンへようこそ",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "おばけ",
+        "風船",
+        "ゴースト",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Festive Halloween greeter in purple cardigan, white shirt, orange bow tie, black trousers, black shoes and small pumpkin beret. Holding two short ribbons with TWO small white ghost-shaped helium balloons with simple black friendly faces beside head and shoulder level, the balloon tops only slightly above head so whole full-body figure and both balloons fit. Free hand waving. No text or scene."
+    },
+    {
+      "id": "halloween24-spider-cape",
+      "name": "くもの巣ケープ・いたずらポーズ",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "くも",
+        "蜘蛛",
+        "くもの巣",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Black Halloween poncho cape with a fine silver spiderweb textile pattern and orange scalloped hem, black trousers, black shoes, small black pointed cap decorated with ONE tiny plush spider. Slightly lifting both poncho edges to show the web pattern while smiling mischievously. No actual giant spider legs, no face-covering veil, all garment edges fully inside frame."
+    },
+    {
+      "id": "halloween24-pumpkin-parade",
+      "name": "かぼちゃのパレード・ランタン片手に",
+      "category": "ハロウィン",
+      "group": "かわいい仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "かわいい仮装",
+        "かぼちゃ",
+        "ランタン",
+        "パレード",
+        "かわいい"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Cute Halloween parade marshal: orange-and-black striped waistcoat over white shirt, short black tailcoat with orange lapels, black trousers, orange bow tie, black top hat with small pumpkin ornament, polished black shoes. Holding a small smiling jack-o-lantern lantern with warm internal candle-like light but no surrounding glow, other hand doing a cheerful peace sign. Not the puffy pumpkin suit."
+    },
+    {
+      "id": "halloween24-gothic-count",
+      "name": "ゴシック伯爵・深紅のバラ",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "ゴシック",
+        "伯爵",
+        "吸血鬼",
+        "バラ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Elegant dark Halloween gothic count: long fitted midnight-blue brocade frock coat with silver ornamental fastenings, deep violet waistcoat, white lace jabot, black slim trousers and lace-up black boots, no cape or hat. Holding ONE deep crimson rose with gloved hand at chest while other hand rests behind back. Natural gray hair and original Kozo face, atmospheric costume without gloomy background."
+    },
+    {
+      "id": "halloween24-haunted-pirate",
+      "name": "幽霊海賊・宝箱を抱えて",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "海賊",
+        "幽霊",
+        "宝箱"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Haunted pirate Halloween costume with weathered dark teal long coat, purple waist sash, cream ruffled shirt, ragged layered hems, black breeches, tall brown boots and worn tricorn hat. No eye patch so both eyes and glasses visible. Holding a SMALL open treasure chest with a few gold-colored stage coins in both hands at waist, no weapon or skeleton parts, elderly smiling Kozo face unchanged."
+    },
+    {
+      "id": "halloween24-masked-phantom",
+      "name": "仮面舞踏会・ファントムの一礼",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "ファントム",
+        "仮面",
+        "舞踏会"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Halloween phantom masquerade costume: black velvet evening suit with silver waistcoat, white shirt and bow tie, asymmetric short silver-lined cape, polished black shoes. A small plain white theatrical HALF MASK is HELD IN HIS HAND away from face beside waist, never worn; other hand rests over chest for a slight theatrical bow. Entire natural smiling elderly face visible, no named character design."
+    },
+    {
+      "id": "halloween24-mad-scientist",
+      "name": "怪しい博士・魔法のフラスコ",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "博士",
+        "科学者",
+        "フラスコ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Halloween eccentric mad-scientist outfit: white knee-length lab coat with purple lining and orange patches, purple vest, charcoal trousers and black boots, goggles perched above forehead on natural gray hair, black gloves. Holding ONE glass round-bottom flask with vividly green stage liquid and cork in one hand at chest, other hand making a curious pointing gesture toward flask. No smoke, fumes, readable labels or lab scene. Face unchanged."
+    },
+    {
+      "id": "halloween24-friendly-zombie",
+      "name": "おちゃめゾンビ・ゆっくり前へ",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "ゾンビ",
+        "ホラー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Playful Halloween zombie COSPLAY wearing a distressed charcoal suit jacket over fully intact muted green shirt, loosened orange tie, patchwork gray trousers and worn brown boots. Tattered fabric is backed with opaque cloth, no skin wounds or blood. Entire natural Kozo face and skin unchanged, no corpse paint or injury. Shoulders slightly tilted and both hands held forward in gentle comic zombie-walk pose, still smiling."
+    },
+    {
+      "id": "halloween24-hooded-reaper",
+      "name": "黒ローブ・ちょこんと死神",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "死神",
+        "黒ローブ",
+        "砂時計"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Halloween grim-reaper costume in matte black floor-length hooded robe with charcoal rope belt and dark shoes fully visible at hem. Open hood surrounds but never shades or hides his WHOLE recognizable smiling face and glasses. Holding a small ornate wooden HOURGLASS with both hands near waist. No scythe, no skull, no smoke or spectral effects. Soft cloth folds and gentle approachable expression."
+    },
+    {
+      "id": "halloween24-karakasa",
+      "name": "からかさおばけ・和風ハロウィン",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "からかさ",
+        "唐傘",
+        "妖怪",
+        "和風"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Japanese Halloween yokai-inspired KARAKASA umbrella wearable costume: large ochre paper-umbrella-shaped CONICAL HAT above head with ONE big round cartoon eye painted on its front, hat brim raised so complete human Kozo face and glasses remain visible. Ochre poncho patterned with umbrella ribs, deep purple loose cropped trousers, white tabi socks and dark zori. TWO normal human legs, both hands playfully open at sides. No tongue over face, no body deformation."
+    },
+    {
+      "id": "halloween24-white-yurei",
+      "name": "白い幽霊・ひとだまを添えて",
+      "category": "ハロウィン",
+      "group": "ダークと和風の仮装",
+      "tags": [
+        "ハロウィン",
+        "仮装",
+        "ハロウィン追加24",
+        "ダークと和風の仮装",
+        "幽霊",
+        "和風",
+        "ひとだま"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of the SAME elderly Japanese Kozo wearing a fun Halloween costume for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled face, gray hair, thin glasses, elderly age, skin and natural adult male proportions. Keep his face unobscured and recognizable, no youth makeover, face replacement or horror facial mutation. Replace the original fishing cap and polo clothes completely with the specified costume. Realistic wearable fabric, stitching and theatrical props, humorous warm Halloween party mood. Eyes toward camera, natural expressive hands, five fingers when visible. ONE person only, no additional people, no extra body parts. ENTIRE head, hats, ears, hands, feet, cape edges and ALL props fully inside canvas with at least 40px genuine transparent padding on EVERY side. Full-length front three-quarter view, clear readable silhouette and soft neutral photographic studio light. Actual alpha transparent background including garment openings; NO scene, backdrop, floor plane, gradient, checkerboard or glow/halo. No readable text, logos or branded fictional characters. Costumes are playful staged cosplay: no blood, wounds, exposed organs or realistic injury. No face mask covering the Kozo identity. Footwear coherent with costume and fully visible.\nCostume and pose: Japanese Halloween friendly yurei-inspired stage costume: flowing all-white kimono-style robe over opaque white inner layers, simple white sash, white tabi and pale zori, small white triangular cloth headband centered ABOVE forehead leaving gray hair, glasses and entire face uncovered. One hand holds a SMALL pale-blue flame-shaped solid theatrical prop on short dark handle at waist, other wrist bends gently in a classic comic ghost pose. No actual fire, smoke, floating particles or facial makeover. Complete robe hem fully framed."
+    }
+  ]
+}

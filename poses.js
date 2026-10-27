@@ -85,6 +85,398 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "halloween24-pumpkin-round",
+    "name": "まんまるかぼちゃ・キャンディどうぞ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "かぼちゃ",
+      "パンプキン",
+      "お菓子"
+    ],
+    "src": "./assets/library/halloween24-pumpkin-round.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-round.webp"
+  },
+  {
+    "id": "halloween24-witch-purple",
+    "name": "紫の魔法使い・ほうきとごあいさつ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "魔法使い",
+      "魔女",
+      "ほうき"
+    ],
+    "src": "./assets/library/halloween24-witch-purple.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-witch-purple.webp"
+  },
+  {
+    "id": "halloween24-vampire-classic",
+    "name": "吸血鬼・マントを広げて",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "吸血鬼",
+      "ドラキュラ",
+      "マント"
+    ],
+    "src": "./assets/library/halloween24-vampire-classic.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-vampire-classic.webp"
+  },
+  {
+    "id": "halloween24-ghost-sheet",
+    "name": "白いおばけ・ばあっ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "おばけ",
+      "ゴースト",
+      "白"
+    ],
+    "src": "./assets/library/halloween24-ghost-sheet.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-ghost-sheet.webp"
+  },
+  {
+    "id": "halloween24-skeleton",
+    "name": "骨ほねスーツ・ダブルピース",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "骸骨",
+      "ガイコツ",
+      "スケルトン"
+    ],
+    "src": "./assets/library/halloween24-skeleton.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-skeleton.webp"
+  },
+  {
+    "id": "halloween24-mummy",
+    "name": "ミイラ・そっと前へ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "ミイラ",
+      "包帯"
+    ],
+    "src": "./assets/library/halloween24-mummy.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-mummy.webp"
+  },
+  {
+    "id": "halloween24-werewolf",
+    "name": "もふもふオオカミ・がおー",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "オオカミ",
+      "狼男",
+      "もふもふ"
+    ],
+    "src": "./assets/library/halloween24-werewolf.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-werewolf.webp"
+  },
+  {
+    "id": "halloween24-friendly-monster",
+    "name": "緑のモンスター・親指ぐっ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "定番の仮装",
+      "モンスター",
+      "フランケン",
+      "怪物"
+    ],
+    "src": "./assets/library/halloween24-friendly-monster.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-friendly-monster.webp"
+  },
+  {
+    "id": "halloween24-black-cat",
+    "name": "黒ねこ・にゃんこの手",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "黒猫",
+      "ねこ",
+      "猫",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-black-cat.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-black-cat.webp"
+  },
+  {
+    "id": "halloween24-little-bat",
+    "name": "こうもり・ちいさな翼",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "こうもり",
+      "コウモリ",
+      "翼",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-little-bat.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-little-bat.webp"
+  },
+  {
+    "id": "halloween24-scarecrow",
+    "name": "かかし・秋色のごあいさつ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "かかし",
+      "案山子",
+      "秋",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-scarecrow.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-scarecrow.webp"
+  },
+  {
+    "id": "halloween24-candy-wizard",
+    "name": "お菓子の魔法使い・星のステッキ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "お菓子",
+      "キャンディ",
+      "魔法使い",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-candy-wizard.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-candy-wizard.webp"
+  },
+  {
+    "id": "halloween24-pumpkin-baker",
+    "name": "かぼちゃパティシエ・お菓子のトレー",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "かぼちゃ",
+      "パティシエ",
+      "お菓子",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-pumpkin-baker.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-baker.webp"
+  },
+  {
+    "id": "halloween24-ghost-balloons",
+    "name": "おばけ風船・ハロウィンへようこそ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "おばけ",
+      "風船",
+      "ゴースト",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-ghost-balloons.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-ghost-balloons.webp"
+  },
+  {
+    "id": "halloween24-spider-cape",
+    "name": "くもの巣ケープ・いたずらポーズ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "くも",
+      "蜘蛛",
+      "くもの巣",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-spider-cape.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-spider-cape.webp"
+  },
+  {
+    "id": "halloween24-pumpkin-parade",
+    "name": "かぼちゃのパレード・ランタン片手に",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "かわいい仮装",
+      "かぼちゃ",
+      "ランタン",
+      "パレード",
+      "かわいい"
+    ],
+    "src": "./assets/library/halloween24-pumpkin-parade.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-parade.webp"
+  },
+  {
+    "id": "halloween24-gothic-count",
+    "name": "ゴシック伯爵・深紅のバラ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "ゴシック",
+      "伯爵",
+      "吸血鬼",
+      "バラ"
+    ],
+    "src": "./assets/library/halloween24-gothic-count.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-gothic-count.webp"
+  },
+  {
+    "id": "halloween24-haunted-pirate",
+    "name": "幽霊海賊・宝箱を抱えて",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "海賊",
+      "幽霊",
+      "宝箱"
+    ],
+    "src": "./assets/library/halloween24-haunted-pirate.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-haunted-pirate.webp"
+  },
+  {
+    "id": "halloween24-masked-phantom",
+    "name": "仮面舞踏会・ファントムの一礼",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "ファントム",
+      "仮面",
+      "舞踏会"
+    ],
+    "src": "./assets/library/halloween24-masked-phantom.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-masked-phantom.webp"
+  },
+  {
+    "id": "halloween24-mad-scientist",
+    "name": "怪しい博士・魔法のフラスコ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "博士",
+      "科学者",
+      "フラスコ"
+    ],
+    "src": "./assets/library/halloween24-mad-scientist.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-mad-scientist.webp"
+  },
+  {
+    "id": "halloween24-friendly-zombie",
+    "name": "おちゃめゾンビ・ゆっくり前へ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "ゾンビ",
+      "ホラー"
+    ],
+    "src": "./assets/library/halloween24-friendly-zombie.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-friendly-zombie.webp"
+  },
+  {
+    "id": "halloween24-hooded-reaper",
+    "name": "黒ローブ・ちょこんと死神",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "死神",
+      "黒ローブ",
+      "砂時計"
+    ],
+    "src": "./assets/library/halloween24-hooded-reaper.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-hooded-reaper.webp"
+  },
+  {
+    "id": "halloween24-karakasa",
+    "name": "からかさおばけ・和風ハロウィン",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "からかさ",
+      "唐傘",
+      "妖怪",
+      "和風"
+    ],
+    "src": "./assets/library/halloween24-karakasa.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-karakasa.webp"
+  },
+  {
+    "id": "halloween24-white-yurei",
+    "name": "白い幽霊・ひとだまを添えて",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "ハロウィン追加24",
+      "ダークと和風の仮装",
+      "幽霊",
+      "和風",
+      "ひとだま"
+    ],
+    "src": "./assets/library/halloween24-white-yurei.webp",
+    "thumbnail": "./assets/thumbnails/halloween24-white-yurei.webp"
+  },
+  {
     "id": "formal24-montsuki-black",
     "name": "黒紋付羽織袴・白扇を添えて",
     "category": "正装・礼装",

@@ -1,5 +1,5 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261027-formal24';
+import { BUNDLED_POSES } from './poses.js?v=20261027-halloween24';
 import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261027-frames';
 const ASSET_VERSION = '20261012-library';
 function assetUrl(src, version = ASSET_VERSION) {

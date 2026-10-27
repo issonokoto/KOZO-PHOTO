@@ -1,6 +1,6 @@
 import { renderTextCanvas } from './text.js';
 import { BUNDLED_POSES } from './poses.js?v=20261027-formal24';
-import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261014-camera-ui';
+import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261027-frames';
 const ASSET_VERSION = '20261012-library';
 function assetUrl(src, version = ASSET_VERSION) {
   if (!src) return null;
@@ -19,12 +19,13 @@ const CHARACTERS = BUNDLED_POSES.map(pose => {
   };
 });
 const $ = id => document.getElementById(id);
-const FRAMES = BUNDLED_FRAMES.map(frame => ({ ...frame, src: assetUrl(frame.src, '20261014-frames'), thumbnail: assetUrl(frame.thumbnail, '20261014-frames') }));
+const FRAMES = BUNDLED_FRAMES.map(frame => ({ ...frame, src: assetUrl(frame.src, '20261027-frames'), thumbnail: assetUrl(frame.thumbnail, '20261027-frames') }));
 const frameCanvas = $('frame-layer');
 let currentFrame = null;
 let frameImage = null;
 let frameLoading = false;
 let frameSelectionSequence = 0;
+let frameListSignature = '';
 const stage = $('camera-stage');
 const video = $('camera-video');
 let backgroundImage = $('background-image');
@@ -81,7 +82,8 @@ for (const button of $('tool-launcher').querySelectorAll('button')) button.addEv
 });
 $('close-tools').addEventListener('click', () => closeTools());
 document.addEventListener('pointerdown', event => {
-  if (openTool && !event.target.closest('#controls-panel, #tool-launcher, #camera-stage, dialog')) closeTools();
+  // Keep the shutter in place between pointerdown and click when a tool is open.
+  if (openTool && !event.target.closest('#controls-panel, #tool-launcher, #camera-stage, .shutter-bar, dialog')) closeTools();
 });
 document.addEventListener('keydown', event => {
   if (event.key === 'Escape' && openTool && !document.querySelector('dialog[open]')) {
@@ -209,10 +211,44 @@ function renderFramePreview() {
   frameCanvas.height = Math.max(1, Math.round(height * scale));
   drawPhotoFrame(frameCanvas.getContext('2d', { colorSpace: 'srgb', colorType: 'unorm8' }), frameImage, frameCanvas.width, frameCanvas.height);
 }
+function filteredFrames() {
+  const filter = $('frame-filter').value;
+  if (filter === 'now') {
+    const month = new Date().getMonth() + 1;
+    return FRAMES.filter(frame => frame.group === 'seasonal' && frame.months.includes(month));
+  }
+  if (filter.startsWith('group:')) return FRAMES.filter(frame => frame.group === filter.slice(6));
+  if (filter.startsWith('category:')) return FRAMES.filter(frame => frame.categories.includes(filter.slice(9)));
+  return FRAMES;
+}
+function prepareFrameFilter() {
+  const select = $('frame-filter');
+  if (select.options.length) return;
+  const add = (parent, value, label, count) => {
+    const option = document.createElement('option'); option.value = value; option.textContent = `${label}（${count}）`; parent.append(option);
+  };
+  const month = new Date().getMonth() + 1;
+  add(select, '', 'すべての枠', FRAMES.length);
+  add(select, 'now', '今の季節', FRAMES.filter(frame => frame.group === 'seasonal' && frame.months.includes(month)).length);
+  for (const [id, label] of [['seasonal', '季節・行事'], ['category', 'カテゴリー向け'], ['local', '徳島・クラゲ']]) {
+    add(select, `group:${id}`, label, FRAMES.filter(frame => frame.group === id).length);
+  }
+  const categories = document.createElement('optgroup'); categories.label = '素材のジャンルに合わせる';
+  for (const category of [...new Set(CHARACTERS.map(pose => pose.category))]) {
+    const count = FRAMES.filter(frame => frame.categories.includes(category)).length;
+    if (count) add(categories, `category:${category}`, category, count);
+  }
+  select.append(categories);
+}
 function renderFrameChoices() {
+  prepareFrameFilter();
+  $('frame-count').textContent = `${FRAMES.length}種類`;
   const list = $('frame-list');
-  if (!list.children.length) {
-    for (const frame of [{ id: '', name: '枠なし' }, ...FRAMES]) {
+  const frames = filteredFrames();
+  const signature = JSON.stringify(frames.map(frame => frame.id));
+  if (signature !== frameListSignature) {
+    frameListSignature = signature; list.replaceChildren();
+    for (const frame of [{ id: '', name: '枠なし' }, ...frames]) {
       const button = document.createElement('button');
       button.type = 'button'; button.className = 'frame-choice'; button.dataset.frameId = frame.id;
       button.setAttribute('aria-label', frame.name);
@@ -228,8 +264,10 @@ function renderFrameChoices() {
     }
   }
   for (const button of list.children) button.setAttribute('aria-pressed', String(button.dataset.frameId === (currentFrame || '')));
+  list.setAttribute('aria-label', `写真のフレーム（${frames.length}種類）`);
   list.setAttribute('aria-busy', String(frameLoading));
 }
+$('frame-filter').addEventListener('change', renderFrameChoices);
 async function selectFrame(id) {
   const sequence = ++frameSelectionSequence;
   if (!id) {

@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-27",
+  "tool": "Built-in image_gen",
+  "transparentBackground": true,
+  "referenceImages": [],
+  "frames": [
+    {
+      "id": "new-year",
+      "name": "お正月・松竹梅",
+      "group": "seasonal",
+      "categories": [
+        "お祝い・行事",
+        "自然・四季"
+      ],
+      "months": [
+        12,
+        1
+      ],
+      "src": "assets/frames/new-year.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Japanese New Year. Small pine sprigs, plum blossoms, bamboo leaves, a little kagami-mochi rice cake, and red-gold mizuhiki cord loops at two opposite corners. Elegant warm red, pine green, cream and restrained gold. Festive but airy, no written calligraphy."
+    },
+    {
+      "id": "sakura-spring",
+      "name": "春の桜",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季",
+        "学生服",
+        "正装・礼装"
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "src": "assets/frames/sakura-spring.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: spring cherry blossoms. Pale blush pink sakura branches in top-left and bottom-right corners, tiny falling petals only along edges, thin soft pink border. Fresh Japanese spring stationery, no tree trunk or scenery across the photo."
+    },
+    {
+      "id": "fresh-green",
+      "name": "新緑とこいのぼり",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季",
+        "お祝い・行事"
+      ],
+      "months": [
+        4,
+        5
+      ],
+      "src": "assets/frames/fresh-green.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: early summer fresh green and Japanese Children's Day. Tender small leaves, two miniature windsock carp at upper-left, a folded origami samurai helmet and irises at bottom-right. Mint and leaf green, a little blue and warm yellow. Miniature decorations only at corners; no rope across the middle."
+    },
+    {
+      "id": "rainy-hydrangea",
+      "name": "雨とあじさい",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季"
+      ],
+      "months": [
+        5,
+        6,
+        7
+      ],
+      "src": "assets/frames/rainy-hydrangea.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Japanese rainy season. Blue and lavender hydrangea clusters at opposite corners, a tiny closed umbrella, a small smiling snail, sparse raindrop accents on edges. Thin watery blue border, delicate flat illustration. No rain or wash filling the photo opening."
+    },
+    {
+      "id": "tanabata-stars",
+      "name": "七夕の星空",
+      "group": "seasonal",
+      "categories": [
+        "お祝い・行事",
+        "自然・四季",
+        "宇宙・未来"
+      ],
+      "months": [
+        6,
+        7
+      ],
+      "src": "assets/frames/tanabata-stars.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Tanabata star festival. A small bamboo sprig with narrow colorful blank paper strips at top-left and golden stars at bottom-right. Navy, turquoise and small pastel ribbon accents, thin orbital star-line border. Paper strips have NO text. No dark sky background, no diagonal band through center."
+    },
+    {
+      "id": "sunflower-summer",
+      "name": "夏のひまわり",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季"
+      ],
+      "months": [
+        7,
+        8
+      ],
+      "src": "assets/frames/sunflower-summer.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: sunny summer sunflowers. A few small golden sunflowers and green leaves at bottom-left, one small sunflower with a tiny blue butterfly at top-right. Thin honey yellow border, a few seeds or dots at edges. Airy cheerful botanical illustration, no large foliage masses."
+    },
+    {
+      "id": "summer-fireworks",
+      "name": "夏祭りと花火",
+      "group": "seasonal",
+      "categories": [
+        "お祝い・行事",
+        "自然・四季",
+        "徳島！"
+      ],
+      "months": [
+        7,
+        8
+      ],
+      "src": "assets/frames/summer-fireworks.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Japanese summer festival fireworks. Small colorful firework bursts confined to upper corners, tiny red lanterns, a goldfish motif and a little round fan confined to lower corners. Fine indigo outline with coral, golden yellow and turquoise accents. No cityscape, no sky fill, no fireworks inside the central opening."
+    },
+    {
+      "id": "moon-viewing",
+      "name": "お月見うさぎ",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季",
+        "お祝い・行事",
+        "動物の着ぐるみ"
+      ],
+      "months": [
+        9,
+        10
+      ],
+      "src": "assets/frames/moon-viewing.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Japanese autumn moon viewing. A small round golden moon with a few cloud curls at upper-right; two tiny white rabbits, pampas grass and a small plate of moon-viewing rice dumplings at bottom-left. Fine muted indigo outline, ivory, ochre and soft grass green. No night-sky background."
+    },
+    {
+      "id": "halloween",
+      "name": "ハロウィン",
+      "group": "seasonal",
+      "categories": [
+        "お祝い・行事",
+        "日常の珍場面"
+      ],
+      "months": [
+        10
+      ],
+      "src": "assets/frames/halloween.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE production-ready transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. New original illustration, no reference image. Portrait 3:4 composition. A very large completely empty TRANSPARENT center; genuine alpha transparency in the whole background and the photo opening, no white fill, no checkerboard artwork, no sample photograph. Flat friendly hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines and a few flat colors, restrained small ornaments. Decorate ONLY the outermost 12 percent strips along the four edges and slightly larger corner clusters, leaving the central 76 percent of width and height entirely transparent. Thin rounded rectangular border with a small safety inset, all ornaments fully inside the canvas, never cropped. Keep long middle sections of all edges very simple for stretching to different photo aspect ratios. No text, no letters, no numerals, no labels, no logos, no watermark, no humans. Theme: Halloween. Cute small smiling pumpkins, tiny friendly white ghosts, a little crescent moon, two small bats, a few stars, mainly clustered at bottom left and top right, with a very thin flowing purple border. Warm pumpkin orange, muted violet, a few cream-white and golden accents. Cheerful and soft, not frightening, no dark filled background. Deliver exactly one frame, not a sheet of variants."
+    },
+    {
+      "id": "autumn-leaves",
+      "name": "秋の紅葉",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季",
+        "レトロ・旅"
+      ],
+      "months": [
+        10,
+        11
+      ],
+      "src": "assets/frames/autumn-leaves.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Japanese autumn leaves. Small red maple and golden ginkgo leaves clustered at upper-left and lower-right, tiny acorns and a few sparse falling leaves along edges. Thin warm rust and gold border, very light elegant seasonal stationery. No scenery or background wash."
+    },
+    {
+      "id": "winter-snow",
+      "name": "冬の雪の結晶",
+      "group": "seasonal",
+      "categories": [
+        "自然・四季"
+      ],
+      "months": [
+        12,
+        1,
+        2
+      ],
+      "src": "assets/frames/winter-snow.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: quiet winter snow crystals. Delicate icy blue snowflakes and tiny frosted pine sprigs at corners, a little white snowman at bottom-right, sparse pearl-like snow dots ONLY at edges. Fine pale blue double outline, restrained silver-white accents. No snowy landscape or white fill."
+    },
+    {
+      "id": "christmas",
+      "name": "クリスマス",
+      "group": "seasonal",
+      "categories": [
+        "お祝い・行事",
+        "自然・四季"
+      ],
+      "months": [
+        11,
+        12
+      ],
+      "src": "assets/frames/christmas.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Christmas. Small holly sprigs, a tiny decorated fir tree, red ribbon bow, golden bells, a little wrapped gift and a few hanging baubles at the corners. Fine warm red border with pine green and gold accents. Friendly Japanese holiday card illustration, no text, no background fill."
+    },
+    {
+      "id": "formal-mizuhiki",
+      "name": "雅の水引",
+      "group": "category",
+      "categories": [
+        "正装・礼装",
+        "定番",
+        "お祝い・行事"
+      ],
+      "months": [],
+      "src": "assets/frames/formal-mizuhiki.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: elegant Japanese formal ceremony. Graceful red-white and restrained gold mizuhiki cord knots at opposite corners, miniature plum blossoms and a tiny folded fan. Thin champagne-gold double rounded outline. Refined minimal celebratory stationery for kimono, weddings and formal portraits; no characters or typography."
+    },
+    {
+      "id": "school-days",
+      "name": "学校の思い出",
+      "group": "category",
+      "categories": [
+        "学生服"
+      ],
+      "months": [],
+      "src": "assets/frames/school-days.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Japanese school memories. Small open notebook with BLANK pages, pencils, a tiny navy uniform ribbon and a few cherry petals at corners. Thin navy and pastel sky-blue border with a subtle notebook-line rhythm only at edges. Warm and nostalgic, no letters, numbers, equations or words."
+    },
+    {
+      "id": "animal-friends",
+      "name": "どうぶつの足あと",
+      "group": "category",
+      "categories": [
+        "動物の着ぐるみ",
+        "おもちゃ・遊び"
+      ],
+      "months": [],
+      "src": "assets/frames/animal-friends.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: animal costume friends. Small friendly bear, cat and rabbit face icons at opposite corners; soft brown, pink and cream paw-print accents along edges. Thin warm cocoa rounded outline. Cute simple rounded hand-drawn animals, no realistic fur or animals in the photo opening."
+    },
+    {
+      "id": "sports-day",
+      "name": "スポーツの応援",
+      "group": "category",
+      "categories": [
+        "スポーツ"
+      ],
+      "months": [],
+      "src": "assets/frames/sports-day.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: sports and cheering. Small soccer ball, baseball, basketball, tennis ball, whistle and plain triangular pennants at corners. Thin energetic blue outline with leaf-green and warm orange accents. Clean cute sporting stationery, no team logos, uniforms, text, scoreboards or dense objects."
+    },
+    {
+      "id": "music-stage",
+      "name": "音楽とステージ",
+      "group": "category",
+      "categories": [
+        "音楽・ステージ",
+        "お祝い・行事"
+      ],
+      "months": [],
+      "src": "assets/frames/music-stage.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: music and stage. Small musical note symbols, a miniature keyboard segment, acoustic guitar silhouette, microphone and star-shaped light accents tucked into corners. Fine deep teal rounded outline, black-and-white keys with coral and gold highlights. No stage curtain or lighting beam across the photo."
+    },
+    {
+      "id": "nauru-island",
+      "name": "南の島・ナウル",
+      "group": "category",
+      "categories": [
+        "ナウル",
+        "レトロ・旅"
+      ],
+      "months": [],
+      "src": "assets/frames/nauru-island.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: Nauru-inspired tropical Pacific island trip. Tiny palm tree, coral and shell ornaments at corners; simple azure wave curls, a small seabird silhouette, one warm yellow sun and a few white stars along edges. Fine ocean-blue border. Bright friendly tropical souvenir illustration, no map or written place name."
+    },
+    {
+      "id": "craft-workshop",
+      "name": "ものづくりとお仕事",
+      "group": "category",
+      "categories": [
+        "職人・ものづくり",
+        "お仕事"
+      ],
+      "months": [],
+      "src": "assets/frames/craft-workshop.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: crafts and everyday work. Small wooden ruler WITHOUT marks or numbers, hammer, wrench, scissors, spool of thread, plain clipboard and pencil tucked into corners. Fine muted teal outline, warm wood ochre and soft gray accents. Friendly tidy workshop stationery, no labels or typography."
+    },
+    {
+      "id": "botanical-nature",
+      "name": "森と草花",
+      "group": "category",
+      "categories": [
+        "自然・四季"
+      ],
+      "months": [],
+      "src": "assets/frames/botanical-nature.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: gentle woodland nature. Small green leaves, fern fronds, tiny white daisies, berries and one small blue bird at corners. Delicate sage and olive rounded outline with pale yellow accents. Fresh sparse botanical hand-drawn illustration, no heavy wreath or foliage over the central photo."
+    },
+    {
+      "id": "retro-travel",
+      "name": "レトロな旅",
+      "group": "category",
+      "categories": [
+        "レトロ・旅",
+        "全国ご当地"
+      ],
+      "months": [],
+      "src": "assets/frames/retro-travel.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: nostalgic travel. Miniature vintage camera, small steam train, travel suitcase and BLANK travel ticket shapes at the corners. Thin warm sepia double-line frame with muted teal accents, subtle film-perforation shapes only at margins. No printed words, ticket numbers or stamps with text."
+    },
+    {
+      "id": "toy-box",
+      "name": "おもちゃ箱",
+      "group": "category",
+      "categories": [
+        "おもちゃ・遊び",
+        "日常の珍場面"
+      ],
+      "months": [],
+      "src": "assets/frames/toy-box.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: playful toy box. Small colorful wooden blocks, a spinning top, kite, puzzle pieces, marbles and a tiny paper airplane at corners. Fine cheerful sky-blue border, primary colors softened into friendly pastels. Clean original simple toys, no recognizable branded characters and no text."
+    },
+    {
+      "id": "gourmet-table",
+      "name": "おいしい時間",
+      "group": "category",
+      "categories": [
+        "食べ物"
+      ],
+      "months": [],
+      "src": "assets/frames/gourmet-table.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: tasty Japanese food. Miniature ramen bowl with sparse steam curls, rice ball, tiny sushi pieces, a little takoyaki plate, spoon and chopstick accents at corners. Thin warm coral outline with cream, seaweed green and golden accents. Cute appetizing hand-drawn food icons, no menu text or large tables."
+    },
+    {
+      "id": "royal-legend",
+      "name": "王様と伝説",
+      "group": "category",
+      "categories": [
+        "王様・伝説",
+        "正装・礼装"
+      ],
+      "months": [],
+      "src": "assets/frames/royal-legend.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: whimsical royalty and legends. Small golden crown and laurel, tiny friendly dragon profile, gemstone and a few magical stars confined to corners. Fine royal purple double outline and restrained warm gold details. Elegant playful fantasy, no flags, crests with writing, castle backdrop or large weapon."
+    },
+    {
+      "id": "japan-trip",
+      "name": "日本をめぐる旅",
+      "group": "category",
+      "categories": [
+        "全国ご当地",
+        "レトロ・旅",
+        "徳島！"
+      ],
+      "months": [],
+      "src": "assets/frames/japan-trip.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: travel around Japan. Tiny Mt Fuji, a torii gate, origami crane, a little train, fan and blank luggage-tag shapes at corners. Fine indigo rounded outline with vermilion, pale blue and gold accents. Original cheerful Japanese souvenir stationery, no lettering or geographic map."
+    },
+    {
+      "id": "space-future",
+      "name": "宇宙への旅",
+      "group": "category",
+      "categories": [
+        "宇宙・未来"
+      ],
+      "months": [],
+      "src": "assets/frames/space-future.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: space and the future. Small rocket, ringed planet, crescent, tiny friendly robot and star sparkles tucked into corners. Fine midnight-blue orbital outline with turquoise, lilac and golden accents. Playful clean retro-futuristic illustration; no dark sky, circuit background or objects crossing the center."
+    },
+    {
+      "id": "comic-everyday",
+      "name": "まいにちコミック",
+      "group": "category",
+      "categories": [
+        "日常の珍場面",
+        "おもちゃ・遊び",
+        "定番"
+      ],
+      "months": [],
+      "src": "assets/frames/comic-everyday.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: playful everyday comic moments. Small rounded comic starbursts, blank speech-bubble outlines, a tiny megaphone, quirky eyes and sparkles at corners. Thin irregular-but-neat teal rounded outline, warm coral and sunflower-yellow accents. Friendly original pop comic stationery, no words, letters or oversized bursts."
+    },
+    {
+      "id": "celebration-party",
+      "name": "お祝いパーティー",
+      "group": "category",
+      "categories": [
+        "お祝い・行事",
+        "定番",
+        "音楽・ステージ"
+      ],
+      "months": [],
+      "src": "assets/frames/celebration-party.webp",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent photo-frame overlay for the Japanese KOHZO PHOTO camera app. Portrait 3:4. Genuine alpha transparency across the background and a very large empty photo opening; no white fill, no painted checkerboard, no sample photograph. Friendly clean hand-drawn Japanese souvenir / stationery illustration, smooth rounded outlines, a few flat colors, subtle soft shading only inside objects. Thin rounded rectangular border with a small safety inset. Small decorative clusters at corners, sparse tiny accents along the outermost 12 percent edge strips. Leave the central 76 percent of width and height clear, never place anything in the middle. Long middle edge sections stay very simple so they can stretch for landscape photos. All ornaments fully inside the canvas; no cropping. No text, letters, numbers, logos, labels, watermarks, or humans. One frame only, never a sheet of variants. Theme: happy celebration party. Small pastel balloon clusters, a wrapped present, ribbon curls, golden stars and sparse colorful confetti at corners and outer edges. Fine coral-pink rounded outline with mint, lavender and gold. Cheerful refined party illustration, no typography or confetti across the center."
+    }
+  ]
+}

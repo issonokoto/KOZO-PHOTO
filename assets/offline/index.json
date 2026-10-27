@@ -2106,5 +2106,117 @@
   "assets/library/formal24-bisht.webp": {
     "src": "assets/offline/formal24-bisht.webp",
     "sha256": "484ef03bfec35f852722e50e80a7ed63d54f9b22bcb7a76931c7b69695206252"
+  },
+  "assets/frames/halloween.webp": {
+    "src": "assets/offline/frames/halloween.webp",
+    "sha256": "0b94086dce9e3fd7a55ceb6eeffb518d93dc4cb5a775a29c0fbba929834627c2"
+  },
+  "assets/frames/autumn-leaves.webp": {
+    "src": "assets/offline/frames/autumn-leaves.webp",
+    "sha256": "22c387ca5ef14fbc625e56c3e68ebe00d3d4148b4f5790e3b23213aa4f136541"
+  },
+  "assets/frames/christmas.webp": {
+    "src": "assets/offline/frames/christmas.webp",
+    "sha256": "4d5bbba6bb0f071223cd91464b6c0e0fc5bdf11dbeef96cdd22b4fe4118ed721"
+  },
+  "assets/frames/winter-snow.webp": {
+    "src": "assets/offline/frames/winter-snow.webp",
+    "sha256": "7cd3b5adfefa9a9e89521bc4afc331265ead66994275c6051befac92929b2e51"
+  },
+  "assets/frames/new-year.webp": {
+    "src": "assets/offline/frames/new-year.webp",
+    "sha256": "a2d5f4c26c01e9cd65009f30401dcf6987089f8a024237c8d3a8793f4ba0c70a"
+  },
+  "assets/frames/sakura-spring.webp": {
+    "src": "assets/offline/frames/sakura-spring.webp",
+    "sha256": "b42e07231acce9be418c8f35a1148e634eb675a4f5cb6456a75b3bb07e9c5a07"
+  },
+  "assets/frames/fresh-green.webp": {
+    "src": "assets/offline/frames/fresh-green.webp",
+    "sha256": "6eb44c613dae1ef6ba4a45304c837ec03b200226692b62eb8f3b74d936abac1f"
+  },
+  "assets/frames/rainy-hydrangea.webp": {
+    "src": "assets/offline/frames/rainy-hydrangea.webp",
+    "sha256": "a9c3353883b6a39cdcbf73d9ff44fc3cf8527e533bbd98620efdb30845f9e0ae"
+  },
+  "assets/frames/tanabata-stars.webp": {
+    "src": "assets/offline/frames/tanabata-stars.webp",
+    "sha256": "ff2d4ac9053a9853c96f7eb8def1399c9b7ee8c5f15d1c2c5e28dafd01ec6dcc"
+  },
+  "assets/frames/sunflower-summer.webp": {
+    "src": "assets/offline/frames/sunflower-summer.webp",
+    "sha256": "ee12be1b0195e901bc552b3b06d9a29b7dc10378983850ceb7d10bf8207a4bd7"
+  },
+  "assets/frames/summer-fireworks.webp": {
+    "src": "assets/offline/frames/summer-fireworks.webp",
+    "sha256": "7bb64f32e0a302f11eef0be77a87fdf1a3875da21ba0656e9640119267fc08ae"
+  },
+  "assets/frames/moon-viewing.webp": {
+    "src": "assets/offline/frames/moon-viewing.webp",
+    "sha256": "2f7f29f8cc12e81195e0fb52ce4759ba2770ec93ee65e015d88eeb0965490bbe"
+  },
+  "assets/frames/formal-mizuhiki.webp": {
+    "src": "assets/offline/frames/formal-mizuhiki.webp",
+    "sha256": "d8f4c8b02a5c38cab7e784c5331ab5c08dd3dab03194cf775bdc6922bb102519"
+  },
+  "assets/frames/school-days.webp": {
+    "src": "assets/offline/frames/school-days.webp",
+    "sha256": "3b849c731a1b34bf4c06441b14899a1d5c35df4f954adc875941ae38b53600fc"
+  },
+  "assets/frames/animal-friends.webp": {
+    "src": "assets/offline/frames/animal-friends.webp",
+    "sha256": "a56e0b1d6930d99d7eba0805ef5e8be49a3a7312d5883098723b6b4d69e882b3"
+  },
+  "assets/frames/sports-day.webp": {
+    "src": "assets/offline/frames/sports-day.webp",
+    "sha256": "b19b7155b543f6f980ce16123955f6c1c0a32a66bfcfe9b3c32003de03f57ada"
+  },
+  "assets/frames/music-stage.webp": {
+    "src": "assets/offline/frames/music-stage.webp",
+    "sha256": "b2ca7abc0a99519d127609e631e540e930e6fa58a3d96e5c862f19795bdc98df"
+  },
+  "assets/frames/nauru-island.webp": {
+    "src": "assets/offline/frames/nauru-island.webp",
+    "sha256": "771938f828495d24fd97f0cd615bef6e36480e4531da29d4c51b6870fd528253"
+  },
+  "assets/frames/craft-workshop.webp": {
+    "src": "assets/offline/frames/craft-workshop.webp",
+    "sha256": "c6509697c3d2e3b3c144242ca832d4b5d1b89b64c0dfc96dd009e837474f5dca"
+  },
+  "assets/frames/botanical-nature.webp": {
+    "src": "assets/offline/frames/botanical-nature.webp",
+    "sha256": "46ba33cc27ce67d564fb760157cf74e56755811b3105b956cbb5e51d77355535"
+  },
+  "assets/frames/retro-travel.webp": {
+    "src": "assets/offline/frames/retro-travel.webp",
+    "sha256": "92b06ff9e12b843bf3cf9080ced1e67f174428a0e5fb8780bf4172f2efccb321"
+  },
+  "assets/frames/toy-box.webp": {
+    "src": "assets/offline/frames/toy-box.webp",
+    "sha256": "67951c67ac1a9ab9635cfdf36896446770cea3a3d42b08fd3d1c09320242f49e"
+  },
+  "assets/frames/gourmet-table.webp": {
+    "src": "assets/offline/frames/gourmet-table.webp",
+    "sha256": "622d779411389a4793e466ab39751c9a3b4cbc7855a9f32c15b3d1dd6d36c372"
+  },
+  "assets/frames/royal-legend.webp": {
+    "src": "assets/offline/frames/royal-legend.webp",
+    "sha256": "14c5e7736644ff3a31a19c2df0f76154e06bcf89e9c126c0f066b0b193b6a71e"
+  },
+  "assets/frames/japan-trip.webp": {
+    "src": "assets/offline/frames/japan-trip.webp",
+    "sha256": "9e9be86233a3ef3f0995702c38a13b306aa81b8c7189e9040cff681c2ae97711"
+  },
+  "assets/frames/space-future.webp": {
+    "src": "assets/offline/frames/space-future.webp",
+    "sha256": "c25d96a16050ada637bb610a27f8f3f99059461ea8ec9df5b0e9e56e82225d75"
+  },
+  "assets/frames/comic-everyday.webp": {
+    "src": "assets/offline/frames/comic-everyday.webp",
+    "sha256": "daa8d71e7b028bc3c89f4c15f613c838dfa643da42062364de2e295ae1616cbe"
+  },
+  "assets/frames/celebration-party.webp": {
+    "src": "assets/offline/frames/celebration-party.webp",
+    "sha256": "3a77d593a9fcb8b06ac33c0fe816b20e41bbdae4fe9081049b29b9b587c42314"
   }
 }

@@ -28,9 +28,13 @@ for(const pose of BUNDLED_POSES){
 console.log('JavaScript構文と画面要素の参照を確認しました。');
 console.log('人物素材: '+BUNDLED_POSES.length+'ポーズを確認しました。');
 const frameIds=new Set();
+const poseCategories=new Set(BUNDLED_POSES.map(pose=>pose.category));
 for(const frame of BUNDLED_FRAMES){
  if(!frame.id||frameIds.has(frame.id))throw new Error('Invalid frame id: '+frame.id);
  frameIds.add(frame.id);
+ if(!frame.name||!frame.label||!['local','seasonal','category'].includes(frame.group))throw new Error('Invalid frame metadata: '+frame.id);
+ if(!Array.isArray(frame.categories)||!frame.categories.length||frame.categories.some(category=>!poseCategories.has(category)))throw new Error('Invalid frame categories: '+frame.id);
+ if(!Array.isArray(frame.months)||frame.months.some(month=>!Number.isInteger(month)||month<1||month>12)||new Set(frame.months).size!==frame.months.length||(frame.group==='seasonal')!==(frame.months.length>0))throw new Error('Invalid frame months: '+frame.id);
  checkImage(frame.src);checkImage(frame.thumbnail);
 }
 console.log('フレーム: '+BUNDLED_FRAMES.length+'種類を確認しました。');

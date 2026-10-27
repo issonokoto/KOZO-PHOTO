@@ -29,8 +29,8 @@
   <link rel="icon" href="assets/favicon.svg">
   <link rel="apple-touch-icon" href="assets/app-icon-180.png">
   <link rel="manifest" href="app.webmanifest">
-  <link rel="stylesheet" href="camera.css?v=20261017-native-save">
-  <script type="module" src="camera.js?v=20261027-formal24"></script>
+  <link rel="stylesheet" href="camera.css?v=20261027-frames">
+  <script type="module" src="camera.js?v=20261027-frames"></script>
 </head>
 <body>
   <header class="camera-header">
@@ -92,8 +92,9 @@
         <button id="import-poses" class="import-poses" type="button">↑ 素材を読み込む</button><p class="tool-help">透過PNG・WebPをまとめて選べます。ファイル名で素材を判別します。</p><div class="material-actions"><button id="add-overlay-image" type="button">＋手持ちの画像</button></div>
       </section>
       <section id="frame-section" class="control-section" data-tool-page="frames">
-        <div class="section-heading"><h2>フレームを選ぶ</h2><span>4種類</span></div>
-        <p class="tool-help">徳島とクラゲの枠で、記念写真を飾ろう。写真の縦横に合わせて広がります。</p>
+        <div class="section-heading"><h2>フレームを選ぶ</h2><span id="frame-count">32種類</span></div>
+        <p class="tool-help">季節や素材のジャンルに合わせて選べます。写真の縦横に合わせて広がります。</p>
+        <label class="frame-filter" for="frame-filter"><span>絞り込み</span><select id="frame-filter" aria-controls="frame-list"></select></label>
         <div id="frame-list" class="frame-list" role="group" aria-label="写真のフレーム"></div>
         <p id="frame-status" class="tool-help" role="status" aria-live="polite">枠なし</p>
       </section>

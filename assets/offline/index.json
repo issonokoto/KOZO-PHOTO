@@ -2314,5 +2314,9 @@
   "assets/library/halloween24-white-yurei.webp": {
     "src": "assets/offline/halloween24-white-yurei.webp",
     "sha256": "49c7d6906617e9ef79184f2acedfa8fba0f65f83e11d0eb647462998449292b1"
+  },
+  "assets/library/halloween-rokurokubi.webp": {
+    "src": "assets/offline/halloween-rokurokubi.webp",
+    "sha256": "24f5a401f99b9ffff67b00507cf7eaa71f60e03f0989841d8f1abe877d2c21de"
   }
 }

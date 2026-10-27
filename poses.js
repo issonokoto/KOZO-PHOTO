@@ -85,6 +85,24 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "halloween-rokurokubi",
+    "name": "ろくろ首・首がにゅーっとごあいさつ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "妖怪",
+      "和風",
+      "ろくろ首",
+      "ろくろくび",
+      "ロクロクビ",
+      "着物",
+      "首が伸びる"
+    ],
+    "src": "./assets/library/halloween-rokurokubi.webp",
+    "thumbnail": "./assets/thumbnails/halloween-rokurokubi.webp"
+  },
+  {
     "id": "halloween24-pumpkin-round",
     "name": "まんまるかぼちゃ・キャンディどうぞ",
     "category": "ハロウィン",

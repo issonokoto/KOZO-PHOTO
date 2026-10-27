@@ -1,0 +1,23 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "entry": {
+    "id": "halloween-rokurokubi",
+    "name": "ろくろ首・首がにゅーっとごあいさつ",
+    "category": "ハロウィン",
+    "tags": [
+      "ハロウィン",
+      "仮装",
+      "妖怪",
+      "和風",
+      "ろくろ首",
+      "ろくろくび",
+      "ロクロクビ",
+      "着物",
+      "首が伸びる"
+    ],
+    "src": "./assets/library/halloween-rokurokubi.webp",
+    "thumbnail": "./assets/thumbnails/halloween-rokurokubi.webp"
+  },
+  "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo transformed into a playful ROKUROKUBI, the Japanese long-neck yokai, for a commemorative photo compositing app. Reference image 1 is the IDENTITY reference: keep his exact recognizable wrinkled smiling elderly Japanese male face, gray hair, thin glasses, age and natural skin. Remove original fishing cap and polo. He wears a traditional pale indigo subtly striped cotton kimono, ivory obi sash, white tabi socks and dark straw zori sandals. CRITICAL YOKAI FEATURE: ONE visibly EXTREMELY LONG, smooth, continuous skin neck, approximately as long as his whole torso plus head (about 1 meter), emerges naturally from the kimono collar, rises upward, bends gently in an elegant loose S curve to the side and supports his same smiling head at the upper end. The neck must be visibly attached continuously from shoulders to head, anatomically fanciful but clean and comical, no seams, wounds, blood, severing or floating head. Only ONE head and ONE neck. Do NOT make just a normal slightly long neck or a long scarf. His ordinary human torso, TWO arms and TWO legs stay correctly proportioned, one hand raised for a small friendly wave near chest, other hand gently at obi. Head looks warmly toward viewer, no frightening face makeover or face paint. Full figure composed inside a tall portrait image: body in lower half and long S-curved neck and smiling head in upper half, balanced readable silhouette. Entire head, neck, BOTH hands, kimono hem and BOTH feet fully inside canvas with at least 60px true transparent space on ALL edges. Natural hands with five fingers. Soft neutral photographic studio lighting, detailed realistic cloth and elderly skin. Real ALPHA TRANSPARENT BACKGROUND including openings around curved neck; no scenery, backdrop, floor plane, shadow rectangle, gradient, checkerboard, halo or glow. No extra person, text, logos or props."
+}

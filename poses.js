@@ -85,6 +85,439 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "formal24-montsuki-black",
+    "name": "黒紋付羽織袴・白扇を添えて",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "紋付",
+      "羽織袴",
+      "黒紋付"
+    ],
+    "src": "./assets/library/formal24-montsuki-black.webp",
+    "thumbnail": "./assets/thumbnails/formal24-montsuki-black.webp"
+  },
+  {
+    "id": "formal24-montsuki-white",
+    "name": "白紋付羽織袴・晴れの日",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "紋付",
+      "羽織袴",
+      "白紋付"
+    ],
+    "src": "./assets/library/formal24-montsuki-white.webp",
+    "thumbnail": "./assets/thumbnails/formal24-montsuki-white.webp"
+  },
+  {
+    "id": "formal24-montsuki-navy",
+    "name": "紺の色紋付・羽織袴",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "色紋付",
+      "羽織袴",
+      "紺"
+    ],
+    "src": "./assets/library/formal24-montsuki-navy.webp",
+    "thumbnail": "./assets/thumbnails/formal24-montsuki-navy.webp"
+  },
+  {
+    "id": "formal24-haori-gray",
+    "name": "グレーの羽織袴・上品なごあいさつ",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "羽織袴",
+      "グレー"
+    ],
+    "src": "./assets/library/formal24-haori-gray.webp",
+    "thumbnail": "./assets/thumbnails/formal24-haori-gray.webp"
+  },
+  {
+    "id": "formal24-iromuji",
+    "name": "色無地・落ち着いた若草色",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "色無地",
+      "着物"
+    ],
+    "src": "./assets/library/formal24-iromuji.webp",
+    "thumbnail": "./assets/thumbnails/formal24-iromuji.webp"
+  },
+  {
+    "id": "formal24-kurotomesode",
+    "name": "黒留袖・金彩の裾模様",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "留袖",
+      "黒留袖"
+    ],
+    "src": "./assets/library/formal24-kurotomesode.webp",
+    "thumbnail": "./assets/thumbnails/formal24-kurotomesode.webp"
+  },
+  {
+    "id": "formal24-irotomesode",
+    "name": "色留袖・藤色の装い",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "留袖",
+      "色留袖",
+      "藤色"
+    ],
+    "src": "./assets/library/formal24-irotomesode.webp",
+    "thumbnail": "./assets/thumbnails/formal24-irotomesode.webp"
+  },
+  {
+    "id": "formal24-houmongi",
+    "name": "訪問着・青緑の花模様",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "訪問着",
+      "着物"
+    ],
+    "src": "./assets/library/formal24-houmongi.webp",
+    "thumbnail": "./assets/thumbnails/formal24-houmongi.webp"
+  },
+  {
+    "id": "formal24-furisode-red",
+    "name": "赤い振袖・華やかな晴れ姿",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "振袖",
+      "赤"
+    ],
+    "src": "./assets/library/formal24-furisode-red.webp",
+    "thumbnail": "./assets/thumbnails/formal24-furisode-red.webp"
+  },
+  {
+    "id": "formal24-furisode-blue",
+    "name": "青い振袖・扇を持って",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "振袖",
+      "青"
+    ],
+    "src": "./assets/library/formal24-furisode-blue.webp",
+    "thumbnail": "./assets/thumbnails/formal24-furisode-blue.webp"
+  },
+  {
+    "id": "formal24-uchikake",
+    "name": "色打掛・金と鶴の婚礼衣装",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "色打掛",
+      "婚礼",
+      "打掛"
+    ],
+    "src": "./assets/library/formal24-uchikake.webp",
+    "thumbnail": "./assets/thumbnails/formal24-uchikake.webp"
+  },
+  {
+    "id": "formal24-shiromuku",
+    "name": "白無垢・綿帽子の晴れ姿",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "日本の和装",
+      "日本",
+      "和装",
+      "白無垢",
+      "綿帽子",
+      "婚礼"
+    ],
+    "src": "./assets/library/formal24-shiromuku.webp",
+    "thumbnail": "./assets/thumbnails/formal24-shiromuku.webp"
+  },
+  {
+    "id": "formal24-morning-coat",
+    "name": "モーニング・昼の式典",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "式典の洋装",
+      "洋装",
+      "モーニング",
+      "式典"
+    ],
+    "src": "./assets/library/formal24-morning-coat.webp",
+    "thumbnail": "./assets/thumbnails/formal24-morning-coat.webp"
+  },
+  {
+    "id": "formal24-white-tie",
+    "name": "燕尾服・白蝶ネクタイ",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "式典の洋装",
+      "洋装",
+      "燕尾服",
+      "ホワイトタイ"
+    ],
+    "src": "./assets/library/formal24-white-tie.webp",
+    "thumbnail": "./assets/thumbnails/formal24-white-tie.webp"
+  },
+  {
+    "id": "formal24-navy-tuxedo",
+    "name": "タキシード・紺のショールカラー",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "式典の洋装",
+      "洋装",
+      "タキシード",
+      "ブラックタイ"
+    ],
+    "src": "./assets/library/formal24-navy-tuxedo.webp",
+    "thumbnail": "./assets/thumbnails/formal24-navy-tuxedo.webp"
+  },
+  {
+    "id": "formal24-black-formal",
+    "name": "ブラックフォーマル・黒ネクタイ",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "式典の洋装",
+      "洋装",
+      "ブラックフォーマル",
+      "礼服",
+      "黒ネクタイ"
+    ],
+    "src": "./assets/library/formal24-black-formal.webp",
+    "thumbnail": "./assets/thumbnails/formal24-black-formal.webp"
+  },
+  {
+    "id": "formal24-hanbok",
+    "name": "韓国・韓服の礼装",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "韓国",
+      "韓服",
+      "ハンボク"
+    ],
+    "src": "./assets/library/formal24-hanbok.webp",
+    "thumbnail": "./assets/thumbnails/formal24-hanbok.webp"
+  },
+  {
+    "id": "formal24-agbada",
+    "name": "ナイジェリア・アグバダの礼装",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "ナイジェリア",
+      "西アフリカ",
+      "アグバダ"
+    ],
+    "src": "./assets/library/formal24-agbada.webp",
+    "thumbnail": "./assets/thumbnails/formal24-agbada.webp"
+  },
+  {
+    "id": "formal24-sherwani",
+    "name": "インド風・シェルワーニー",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "インド",
+      "シェルワーニー"
+    ],
+    "src": "./assets/library/formal24-sherwani.webp",
+    "thumbnail": "./assets/thumbnails/formal24-sherwani.webp"
+  },
+  {
+    "id": "formal24-ao-dai",
+    "name": "ベトナム・男性用アオザイ",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "ベトナム",
+      "アオザイ"
+    ],
+    "src": "./assets/library/formal24-ao-dai.webp",
+    "thumbnail": "./assets/thumbnails/formal24-ao-dai.webp"
+  },
+  {
+    "id": "formal24-barong",
+    "name": "フィリピン・バロン・タガログ",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "フィリピン",
+      "バロン",
+      "バロンタガログ"
+    ],
+    "src": "./assets/library/formal24-barong.webp",
+    "thumbnail": "./assets/thumbnails/formal24-barong.webp"
+  },
+  {
+    "id": "formal24-highland",
+    "name": "スコットランド・キルトの正装",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "スコットランド",
+      "キルト",
+      "ハイランド"
+    ],
+    "src": "./assets/library/formal24-highland.webp",
+    "thumbnail": "./assets/thumbnails/formal24-highland.webp"
+  },
+  {
+    "id": "formal24-bisht",
+    "name": "アラビア半島・ビシュトの礼装",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "アラビア半島",
+      "サウジアラビア",
+      "ビシュト"
+    ],
+    "src": "./assets/library/formal24-bisht.webp",
+    "thumbnail": "./assets/thumbnails/formal24-bisht.webp"
+  },
+  {
+    "id": "formal24-charro",
+    "name": "メキシコ・チャロのガラ衣装",
+    "category": "正装・礼装",
+    "tags": [
+      "正装",
+      "礼装",
+      "フォーマル",
+      "正装追加24",
+      "世界の礼装",
+      "世界",
+      "メキシコ",
+      "チャロ",
+      "ガラ"
+    ],
+    "src": "./assets/library/formal24-charro.webp",
+    "thumbnail": "./assets/thumbnails/formal24-charro.webp"
+  },
+  {
     "id": "school24-gakuran-black",
     "name": "黒の学ラン・学生帽でごあいさつ",
     "category": "学生服",

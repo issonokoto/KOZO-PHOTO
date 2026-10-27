@@ -1,0 +1,477 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "sources": [
+    {
+      "title": "京都府・和装婚礼衣装",
+      "url": "https://www.pref.kyoto.jp/kimono-wedding/costume.html"
+    },
+    {
+      "title": "韓国観光公社・韓服",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=220322"
+    },
+    {
+      "title": "The Met・インドの婚礼コート",
+      "url": "https://www.metmuseum.org/art/collection/search/85435"
+    },
+    {
+      "title": "ベトナム政府観光・アオザイ",
+      "url": "https://vietnam.travel/things-to-do/ao-dai-vietnam/"
+    },
+    {
+      "title": "フィリピン国立博物館・織物",
+      "url": "https://www.nationalmuseum.gov.ph/wp-content/uploads/2021/09/Hibla-ng-Lahing-Filipino-The-Artistry-of-Philippine-Textiles.pdf"
+    },
+    {
+      "title": "スコットランド国立博物館・フォーマルキルト",
+      "url": "https://www.nms.ac.uk/discover-catalogue/traditional-highland-wear-a-formal-kilt-suit"
+    },
+    {
+      "title": "サウジアラビア国営通信・ビシュト",
+      "url": "https://www.spa.gov.sa/N2290015"
+    },
+    {
+      "title": "The Met・アグバダの礼装",
+      "url": "https://www.metmuseum.org/art/collection/search/650308"
+    },
+    {
+      "title": "メキシコ政府・チャロの礼装区分",
+      "url": "https://sic.gob.mx/ficha.php?table=frpintangible&table_id=261"
+    }
+  ],
+  "entries": [
+    {
+      "id": "formal24-montsuki-black",
+      "name": "黒紋付羽織袴・白扇を添えて",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "紋付",
+        "羽織袴",
+        "黒紋付"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Classic BLACK silk crested kimono with matching black haori and silver-black vertically striped hakama, thick white braided haori cord, white tabi and formal zori. Small generic abstract round white floral crests at correct haori positions, not imperial or named-clan insignia. Both hands neatly hold a CLOSED white folding fan horizontally before waist, calm warm smile."
+    },
+    {
+      "id": "formal24-montsuki-white",
+      "name": "白紋付羽織袴・晴れの日",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "紋付",
+        "羽織袴",
+        "白紋付"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: WHITE silk crested kimono and white haori, pale silver woven hakama with subtle vertical stripes, white haori cord, white tabi and pale formal zori. Subtle generic round floral crests, no named family mark. Hands relaxed neatly at sides, proud warm upright smile."
+    },
+    {
+      "id": "formal24-montsuki-navy",
+      "name": "紺の色紋付・羽織袴",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "色紋付",
+        "羽織袴",
+        "紺"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Deep NAVY silk crested kimono and haori with small generic abstract white round floral crests, dark blue-gray vertically striped hakama, gray braided haori cord, white tabi and dark formal zori. One hand holds a CLOSED plain white fan down at side, other hand resting naturally near haori tie, gentle slight head tilt."
+    },
+    {
+      "id": "formal24-haori-gray",
+      "name": "グレーの羽織袴・上品なごあいさつ",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "羽織袴",
+        "グレー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Pearl GRAY silk haori over charcoal kimono, deep charcoal pinstriped hakama, pale silver braided haori cord, white tabi and dark formal zori. Generic small abstract white floral crests. Both hands lightly joined in front, very slight polite forward bow while face looks toward camera with a warm smile."
+    },
+    {
+      "id": "formal24-iromuji",
+      "name": "色無地・落ち着いた若草色",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "色無地",
+        "着物"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Elegant unpatterned muted WAKAKUSA green silk iromuji kimono with one unobtrusive abstract crest, refined ivory-gold woven obi worn with appropriate obijime and obiage, white tabi and pale formal zori. No hakama or haori. One hand gently rests over the other in front at obi level, same elderly male body and face, no wig."
+    },
+    {
+      "id": "formal24-kurotomesode",
+      "name": "黒留袖・金彩の裾模様",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "留袖",
+        "黒留袖"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Formal BLACK kurotomesode kimono with SHORT standard sleeves, small generic round white abstract crests, elegant GOLD cranes and pine scenery patterns ONLY below the waist near hem, sumptuous gold woven obi with appropriate accessories, white tabi and formal zori. Upper black torso unpatterned apart from crests. Holds a small CLOSED gold fan at front with both hands, same elderly male face, gray hair uncovered."
+    },
+    {
+      "id": "formal24-irotomesode",
+      "name": "色留袖・藤色の装い",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "留袖",
+        "色留袖",
+        "藤色"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Pale LAVENDER irotomesode silk kimono with short standard sleeves, subtle generic crests and elegant ivory-gold floral pattern ONLY near lower hem, ivory-gold woven obi, white tabi and pale gold formal zori. Hands neatly relaxed together in front, soft smile, natural gray hair and unchanged elderly male body."
+    },
+    {
+      "id": "formal24-houmongi",
+      "name": "訪問着・青緑の花模様",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "訪問着",
+        "着物"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Rich TEAL silk houmongi with short standard kimono sleeves, tasteful flowing pale plum-blossom pattern crossing shoulder and lower skirt seams, ivory-silver formal obi and accessories, white tabi and pale zori. One hand delicately supports the opposite sleeve near waist in a relaxed presentation pose. Same elderly male Kozo, no wig."
+    },
+    {
+      "id": "formal24-furisode-red",
+      "name": "赤い振袖・華やかな晴れ姿",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "振袖",
+        "赤"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Vivid vermilion RED formal furisode kimono with VERY LONG draping rectangular sleeves, refined ivory-gold chrysanthemum flower and flowing-water textile motifs, gold woven obi tied behind with correct accessories, white tabi and formal zori. Both arms held gently away from body so BOTH full hanging sleeves are visible, hands near waist height. Complete sleeve bottoms inside frame. Same elderly male face, gray hair, no wig. No imperial crest."
+    },
+    {
+      "id": "formal24-furisode-blue",
+      "name": "青い振袖・扇を持って",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "振袖",
+        "青"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Deep royal BLUE formal furisode kimono with very long hanging sleeves, elegant pale sakura and gold fan-shaped textile pattern, silver-gold woven obi and correct accessories, white tabi and pale formal zori. Holds a small OPEN plain cream folding fan at chest with one hand, other arm relaxed so sleeve drapes fully. All hanging sleeves and fan fully visible. Same elderly man, no wig."
+    },
+    {
+      "id": "formal24-uchikake",
+      "name": "色打掛・金と鶴の婚礼衣装",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "色打掛",
+        "婚礼",
+        "打掛"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Luxurious GOLD-RED iro-uchikake bridal OUTER robe with embroidered ivory cranes and pine foliage, layered over a white kakeshita kimono with correctly tied obi UNDER the open outer robe. Heavy padded hem and a modest pooled train fully visible inside frame. White tabi and formal white zori peeking below. Both hands gently holding outer robe edges at waist without hiding face. Elderly male Kozo unchanged, gray hair uncovered, no wig or makeup."
+    },
+    {
+      "id": "formal24-shiromuku",
+      "name": "白無垢・綿帽子の晴れ姿",
+      "category": "正装・礼装",
+      "group": "日本の和装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "日本の和装",
+        "日本",
+        "和装",
+        "白無垢",
+        "綿帽子",
+        "婚礼"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: ALL-WHITE shiromuku bridal ensemble: white embroidered uchikake over white kakeshita kimono, white obi and bridal accessories beneath outer robe, subtle white crane/floral damask texture, white tabi and white formal zori, padded white hem and modest train fully framed. Traditional large white WATABOSHI hood sits above and around head with OPEN FRONT showing the whole SAME elderly smiling male Kozo face, glasses and forehead; no face veil, no wig, no bridal makeup. Hands neatly together at waist."
+    },
+    {
+      "id": "formal24-morning-coat",
+      "name": "モーニング・昼の式典",
+      "category": "正装・礼装",
+      "group": "式典の洋装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "式典の洋装",
+        "洋装",
+        "モーニング",
+        "式典"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Traditional black CUTAWAY MORNING COAT with curved cutaway fronts and knee-length back tails, light gray waistcoat, white formal shirt, silver-gray necktie, gray-black striped formal trousers and polished black Oxford shoes. White pocket square, holding white gloves together neatly in front at waist. No hat, natural gray hair and warm formal smile. Entire coat tails visible."
+    },
+    {
+      "id": "formal24-white-tie",
+      "name": "燕尾服・白蝶ネクタイ",
+      "category": "正装・礼装",
+      "group": "式典の洋装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "式典の洋装",
+        "洋装",
+        "燕尾服",
+        "ホワイトタイ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Correct WHITE-TIE evening ensemble: black swallowtail tailcoat with short front and two long rear tails, white pique waistcoat, white stiff-front shirt and WHITE bow tie, black formal trousers with satin side braid, black patent Oxford shoes. White gloves on hands, one hand lightly resting at jacket front and other by side, dignified warm smile. No top hat. Entire tailcoat tails inside frame."
+    },
+    {
+      "id": "formal24-navy-tuxedo",
+      "name": "タキシード・紺のショールカラー",
+      "category": "正装・礼装",
+      "group": "式典の洋装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "式典の洋装",
+        "洋装",
+        "タキシード",
+        "ブラックタイ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Midnight NAVY dinner jacket with black satin SHAWL collar, white pleated formal dress shirt, black bow tie and black cummerbund, black dinner trousers and polished black patent shoes. Plain white pocket square. Relaxed upright stance with hands lightly joined before body and warm smile, no hat. Different from a white dinner jacket."
+    },
+    {
+      "id": "formal24-black-formal",
+      "name": "ブラックフォーマル・黒ネクタイ",
+      "category": "正装・礼装",
+      "group": "式典の洋装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "式典の洋装",
+        "洋装",
+        "ブラックフォーマル",
+        "礼服",
+        "黒ネクタイ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Simple elegant JAPANESE BLACK FORMAL SUIT: plain deep black single-breasted jacket and matching straight trousers, crisp white shirt, plain BLACK straight necktie, black leather Oxford shoes. No bright pocket square, boutonniere or jewelry. Hands neatly together in front, composed gentle restrained smile, respectful neutral formal portrait."
+    },
+    {
+      "id": "formal24-hanbok",
+      "name": "韓国・韓服の礼装",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "韓国",
+        "韓服",
+        "ハンボク"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: KOREAN formal mens HANBOK: pale ivory jeogori upper jacket fastened with correctly tied goreum cloth ties, generous light gray baji trousers gathered neatly at ankles, deep blue silk durumagi outer coat with white collar and subtle woven texture, white socks and traditional dark Korean shoes. Proper coherent hanbok layering, not a Chinese tunic or Japanese obi. Hands neatly joined in front, gray hair uncovered, SAME elderly Japanese Kozo face."
+    },
+    {
+      "id": "formal24-agbada",
+      "name": "ナイジェリア・アグバダの礼装",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "ナイジェリア",
+        "西アフリカ",
+        "アグバダ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Nigerian YORUBA-style ceremonial AGBADA: rich INDIGO-blue voluminous over-the-head outer robe with very wide sleeves and elegant silver geometric embroidery around chest and neckline, correctly layered OVER a matching long-sleeve tunic and straight sokoto trousers, matching simple woven fila cap, dark embroidered formal slippers. The wide robe is naturally draped over both forearms so both hands are visible at waist, full lower robe and trouser hems fully framed. No crown, royal beads, spear or rank insignia. A dignified festive formal portrait of the SAME elderly Japanese Kozo, unchanged skin and facial identity."
+    },
+    {
+      "id": "formal24-sherwani",
+      "name": "インド風・シェルワーニー",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "インド",
+        "シェルワーニー"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Indian wedding SHERWANI style long fitted IVORY embroidered coat to knees with stand collar, ornate but tasteful gold floral embroidery and a row of fabric-covered buttons, cream churidar trousers fitted at ankles, burgundy stole neatly over one shoulder, gold-brown mojari formal shoes. No turban, no weapon, no rank or sacred symbols. Palms gently together in a warm greeting, same elderly Japanese Kozo face and gray hair."
+    },
+    {
+      "id": "formal24-ao-dai",
+      "name": "ベトナム・男性用アオザイ",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "ベトナム",
+        "アオザイ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Vietnamese formal MENS AO DAI: cobalt BLUE silk long tunic with stand collar, long sleeves and correct high side slits worn OVER loose white trousers, tasteful subtle woven geometric/cloud motifs, matching round wrapped KHAN DONG headpiece and dark formal shoes. Looser straight male cut, no bare legs, not a qipao dress. Hands lightly joined before waist, same elderly Japanese Kozo face fully visible."
+    },
+    {
+      "id": "formal24-barong",
+      "name": "フィリピン・バロン・タガログ",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "フィリピン",
+        "バロン",
+        "バロンタガログ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Philippine formal BARONG TAGALOG: ivory pina-fabric long-sleeve shirt with fine embroidered vertical front panels and a small folded shirt collar, untucked straight hem extending to upper thigh, full opaque WHITE UNDERSHIRT beneath delicate fabric, tailored BLACK trousers and polished black dress shoes. No jacket or necktie. Fabric looks light and refined but body stays covered. One hand gently at shirt front, other at side, warm smile and unchanged Kozo face."
+    },
+    {
+      "id": "formal24-highland",
+      "name": "スコットランド・キルトの正装",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "スコットランド",
+        "キルト",
+        "ハイランド"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Scottish FORMAL HIGHLAND dress: black Prince Charlie short evening jacket and black waistcoat, white formal shirt and black bow tie, red-green generic tartan knee-length kilt, formal black leather and silver sporran centered at front, cream kilt hose with modest garter flashes, black ghillie brogue shoes. No clan-specific crest, dagger or weapon. One hand naturally rests near jacket front, other at side, friendly dignified smile. Same elderly Japanese man."
+    },
+    {
+      "id": "formal24-bisht",
+      "name": "アラビア半島・ビシュトの礼装",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "アラビア半島",
+        "サウジアラビア",
+        "ビシュト"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Arabian Peninsula formal BISHT: elegant BLACK open-front cloak with narrow refined GOLD zari trim along front edges and neckline, correctly worn OVER a pristine full-length white thobe, white ghutra head covering secured with simple black agal, dark formal shoes visible at hem. One hand gently holds bisht front edge, other hand relaxed within garment side opening. No crown, royal insignia or sword. Same elderly Japanese Kozo face fully visible, no ethnicity change or beard added."
+    },
+    {
+      "id": "formal24-charro",
+      "name": "メキシコ・チャロのガラ衣装",
+      "category": "正装・礼装",
+      "group": "世界の礼装",
+      "tags": [
+        "正装",
+        "礼装",
+        "フォーマル",
+        "正装追加24",
+        "世界の礼装",
+        "世界",
+        "メキシコ",
+        "チャロ",
+        "ガラ"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic full-body transparent cutout of elderly Japanese Kozo in dignified formal attire for a photo compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable wrinkled smiling face, gray hair, glasses, elderly age, skin and natural male body proportions. This remains the SAME elderly Japanese man wearing different clothing, never a different ethnicity, a young model or a different face. Change all original clothes and remove the fishing cap. No wig, face-obscuring veil, youth makeover or exaggerated feminine body. Realistic refined ceremonial clothing, authentic plausible construction, rich fabric texture and tasteful details. Respectful gentle smile and natural formal commemorative pose, eyes toward camera. Single person only, no scene or other people. Entire head, headdress if any, all hands and footwear, ALL hanging sleeves and any robe train or accessories must fit fully inside canvas with generous actual transparent padding at least 40 pixels on ALL sides. Front three-quarter full length view. Soft neutral photographic studio light. Genuine alpha transparent background and garment openings, no studio backdrop, no opaque floor plane, no stage, no gradient, no checkerboard, no halo or glow, only very subtle tight contact shadow if any. Natural hands and five fingers per hand when visible. No readable text, logo, named family or clan crest, military decorations, official rank insignia or weapons. This is a tasteful custom commemorative outfit inspired by formal dress, not a claimed exact museum reconstruction. For all Japanese kimono, normal living-person left-over-right collar overlap, correct obi placement, white split-toe tabi and appropriate zori footwear. Never depict bare feet with Western evening clothes.\nAttire and formal pose: Mexican formal CHARRO GALA ensemble: tailored BLACK short charro jacket with tasteful silver decorative trim, matching fitted black trousers with rows of silver ornamental buttons along the OUTER leg seams, crisp white shirt, rich burgundy silk wide corbatin bow, ornate but restrained silver-buckled belt, polished black ankle boots. He holds a complete wide-brim black felt charro sombrero with matching silver edging at hip in one hand, other hand naturally at jacket front. Entire sombrero and boots inside frame. Gray hair uncovered and SAME elderly Japanese Kozo face; no ethnicity change, painted mustache, weapon, instrument or caricature."
+    }
+  ]
+}

@@ -2010,5 +2010,101 @@
   "assets/library/school24-yellow-hat.webp": {
     "src": "assets/offline/school24-yellow-hat.webp",
     "sha256": "445bcf1bcbfe8a911dd5453ef30ee8c6842aac0bc05268e56fed19b5462b2a2c"
+  },
+  "assets/library/formal24-montsuki-navy.webp": {
+    "src": "assets/offline/formal24-montsuki-navy.webp",
+    "sha256": "d81b721fef775e91b68e38d763969ba7d199a0182ee6f90863277d97fd352e60"
+  },
+  "assets/library/formal24-white-tie.webp": {
+    "src": "assets/offline/formal24-white-tie.webp",
+    "sha256": "4cc5edca72e324c20a1b3ffdcad2ace847cb8c13277c7852ec20d743ba236808"
+  },
+  "assets/library/formal24-haori-gray.webp": {
+    "src": "assets/offline/formal24-haori-gray.webp",
+    "sha256": "6f7aa2a81c34cf47589d5fca996c10ce3c6448a86a0852a8424195ac54d28919"
+  },
+  "assets/library/formal24-iromuji.webp": {
+    "src": "assets/offline/formal24-iromuji.webp",
+    "sha256": "cb23a3001f280bcf83f8f336155416ff457b6bc38ea7cea6dc4a18a6850ba4f8"
+  },
+  "assets/library/formal24-kurotomesode.webp": {
+    "src": "assets/offline/formal24-kurotomesode.webp",
+    "sha256": "11819d254f63149e73c998a61fb79845f13edf95aa46ad3f35f829612ec8eb4d"
+  },
+  "assets/library/formal24-irotomesode.webp": {
+    "src": "assets/offline/formal24-irotomesode.webp",
+    "sha256": "65070d965e1c82a7d5fa481a4a46c06047b4710220c780643131f5ebe9e4e49d"
+  },
+  "assets/library/formal24-houmongi.webp": {
+    "src": "assets/offline/formal24-houmongi.webp",
+    "sha256": "2189143968cbd951aeb6b22d2cd8abc1ff2dc4e5ae59587884c37a0e12663679"
+  },
+  "assets/library/formal24-furisode-red.webp": {
+    "src": "assets/offline/formal24-furisode-red.webp",
+    "sha256": "9b6a797f63b51790736119153dc75618c2899b4f4465a0b0e8fea7fe4519c9d4"
+  },
+  "assets/library/formal24-uchikake.webp": {
+    "src": "assets/offline/formal24-uchikake.webp",
+    "sha256": "cba23009a9047c6732ba2ce978d72665f703d016995fb7fa97db3895fb88cbf8"
+  },
+  "assets/library/formal24-navy-tuxedo.webp": {
+    "src": "assets/offline/formal24-navy-tuxedo.webp",
+    "sha256": "d7b2d6133a284e3cd944b13219a9b68eab69a91994f3c64afd95ce61b47b38a1"
+  },
+  "assets/library/formal24-black-formal.webp": {
+    "src": "assets/offline/formal24-black-formal.webp",
+    "sha256": "528265a77ec2f5dab8a7c65c6db413fb7762a714a97cdab2cd721c54c73ec1a2"
+  },
+  "assets/library/formal24-hanbok.webp": {
+    "src": "assets/offline/formal24-hanbok.webp",
+    "sha256": "e904b6889478dd477d2933f2d5d7be180730d518a39094ee480d9276e6fca57c"
+  },
+  "assets/library/formal24-agbada.webp": {
+    "src": "assets/offline/formal24-agbada.webp",
+    "sha256": "53e9b81a842e8e38d6bb00107c9e50868875d0e2806658fa0fbfbfbb03501c50"
+  },
+  "assets/library/formal24-sherwani.webp": {
+    "src": "assets/offline/formal24-sherwani.webp",
+    "sha256": "7a64ff432a38b00d0096cedcdb67618f9f7d3ea830aad0f97a95a199892d5c5b"
+  },
+  "assets/library/formal24-charro.webp": {
+    "src": "assets/offline/formal24-charro.webp",
+    "sha256": "9bf53e921457c20f250953dac0048aac855c423dc75189aeedbaea43a541ffb3"
+  },
+  "assets/library/formal24-montsuki-black.webp": {
+    "src": "assets/offline/formal24-montsuki-black.webp",
+    "sha256": "23c7928f7e512110ce4fb5a6f9de4fb61527142a772533a5f7e2e9a49d613ef5"
+  },
+  "assets/library/formal24-montsuki-white.webp": {
+    "src": "assets/offline/formal24-montsuki-white.webp",
+    "sha256": "1d2b4a77031231362acf79a464b1232f8748da1d25f34b1a7142ab735d540a63"
+  },
+  "assets/library/formal24-furisode-blue.webp": {
+    "src": "assets/offline/formal24-furisode-blue.webp",
+    "sha256": "8db080f3574a0161e195572e34562bc87de1b79a8fe04a0b2d7a51a2f717d379"
+  },
+  "assets/library/formal24-shiromuku.webp": {
+    "src": "assets/offline/formal24-shiromuku.webp",
+    "sha256": "1d97d0abacc1226d5f8d31065fe92db084dcd4353ae711143cab96cb103f0f7a"
+  },
+  "assets/library/formal24-morning-coat.webp": {
+    "src": "assets/offline/formal24-morning-coat.webp",
+    "sha256": "97219e01a0a9843edb36491cd98852a974cc0204f5db10669510f9c65518596d"
+  },
+  "assets/library/formal24-ao-dai.webp": {
+    "src": "assets/offline/formal24-ao-dai.webp",
+    "sha256": "32c9b12794b2c157f63457d1fbebc7df106ee65a41d69a2604fa0270a7dfaeb0"
+  },
+  "assets/library/formal24-barong.webp": {
+    "src": "assets/offline/formal24-barong.webp",
+    "sha256": "e336faeb429822e867e612799a522a3845ecaa0aa9b932571448ad3c71d7fdf9"
+  },
+  "assets/library/formal24-highland.webp": {
+    "src": "assets/offline/formal24-highland.webp",
+    "sha256": "d2de41a3992908e48642c8afd909ed79462c462094862be087da01b07bd33d29"
+  },
+  "assets/library/formal24-bisht.webp": {
+    "src": "assets/offline/formal24-bisht.webp",
+    "sha256": "484ef03bfec35f852722e50e80a7ed63d54f9b22bcb7a76931c7b69695206252"
   }
 }

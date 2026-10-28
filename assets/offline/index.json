@@ -2510,5 +2510,101 @@
   "assets/library/jobs24-cabin-crew.webp": {
     "src": "assets/offline/jobs24-cabin-crew.webp",
     "sha256": "621ed51520c74edcda39e501024ea01a3f9c00b01987ae9bc4ee796f24c87ffe"
+  },
+  "assets/library/birthday24-party-hat-wave.webp": {
+    "src": "assets/offline/birthday24-party-hat-wave.webp",
+    "sha256": "1430795ac44beabca18629466696c8f8f2c47ee0bfb8aaa6d2679d8e0dc29bcf"
+  },
+  "assets/library/birthday24-party-hat-peace.webp": {
+    "src": "assets/offline/birthday24-party-hat-peace.webp",
+    "sha256": "d9b5fef7b3ce0ccad26a78a0e7219340f2518bdb780b1a6915a5d78f6627d5bd"
+  },
+  "assets/library/birthday24-birthday-crown.webp": {
+    "src": "assets/offline/birthday24-birthday-crown.webp",
+    "sha256": "f2c60bf2adae21ac5681bdd01acda20381bcdead9868551561b4c7f55f32d607"
+  },
+  "assets/library/birthday24-birthday-suit.webp": {
+    "src": "assets/offline/birthday24-birthday-suit.webp",
+    "sha256": "c823f864f9865c6c2fe346f88e079724999f859c37b4463ddf2b091dcf1e40c1"
+  },
+  "assets/library/birthday24-heart.webp": {
+    "src": "assets/offline/birthday24-heart.webp",
+    "sha256": "b90e50440b23370326b1472e483b9a01faab0098f2139b21b9596fab0a77de0f"
+  },
+  "assets/library/birthday24-clap.webp": {
+    "src": "assets/offline/birthday24-clap.webp",
+    "sha256": "e64441be527a74a0ddf75d475e9d8d3d645012e6ba3761d9d5fdd226a349ed2d"
+  },
+  "assets/library/birthday24-flower.webp": {
+    "src": "assets/offline/birthday24-flower.webp",
+    "sha256": "31417069b7ea6a5de6732a604d5dc956d847cb865d11be43e5f69ad7ea112026"
+  },
+  "assets/library/birthday24-gift-hug.webp": {
+    "src": "assets/offline/birthday24-gift-hug.webp",
+    "sha256": "3ad36cb2f70e06829bfb1987c9a774eaa08340f2f1ca475122720f3ce04b7fa7"
+  },
+  "assets/library/birthday24-strawberry-cake.webp": {
+    "src": "assets/offline/birthday24-strawberry-cake.webp",
+    "sha256": "1a589853fd536cd3996b7d4db0346269c7025be0dd2fef62603b86521378328b"
+  },
+  "assets/library/birthday24-chocolate-cake.webp": {
+    "src": "assets/offline/birthday24-chocolate-cake.webp",
+    "sha256": "039729fc9aebfed57deff5fb3d1e535a2f3edb951cb1b7d918c3dc027e54425f"
+  },
+  "assets/library/birthday24-fruit-tart.webp": {
+    "src": "assets/offline/birthday24-fruit-tart.webp",
+    "sha256": "b69a2ee720f89cfc77463f5627089636f2ca1789a738068875f1fa9e4a57291e"
+  },
+  "assets/library/birthday24-cupcakes.webp": {
+    "src": "assets/offline/birthday24-cupcakes.webp",
+    "sha256": "d6d5642d71357ba0d5b4a6c3f9d2668c4a05d7497da239e8d82754383e2158e7"
+  },
+  "assets/library/birthday24-cake-chef.webp": {
+    "src": "assets/offline/birthday24-cake-chef.webp",
+    "sha256": "24c484f3945083cbdbbe5895e545d2049cc2fc377af6985411b09f286bc1e1b9"
+  },
+  "assets/library/birthday24-shortcake.webp": {
+    "src": "assets/offline/birthday24-shortcake.webp",
+    "sha256": "7841500e4f83ba964af208ded0bcb5f1377483790e4a7366499cc0cb74a41b0e"
+  },
+  "assets/library/birthday24-rollcake.webp": {
+    "src": "assets/offline/birthday24-rollcake.webp",
+    "sha256": "b7b4ff8c2d3e8a9459cadddf2b1aa2a48c843958f3d484c907971f5c726aff1d"
+  },
+  "assets/library/birthday24-icecream-cake.webp": {
+    "src": "assets/offline/birthday24-icecream-cake.webp",
+    "sha256": "4769ed2e5ad93cb1e106626fa34a356a5d207bbff4b568d4df3acc2d8fc6760a"
+  },
+  "assets/library/birthday24-balloons.webp": {
+    "src": "assets/offline/birthday24-balloons.webp",
+    "sha256": "4b84dee1853892b03818a75f8682193a59ea83b4752aa9a286d8e26b7ebb63b8"
+  },
+  "assets/library/birthday24-party-popper.webp": {
+    "src": "assets/offline/birthday24-party-popper.webp",
+    "sha256": "58a633fb02527a098bd1b6fbd5b25433c79af16f13e0014609839be3bce88387"
+  },
+  "assets/library/birthday24-gift-stack.webp": {
+    "src": "assets/offline/birthday24-gift-stack.webp",
+    "sha256": "c8224f70b634be3167ebeb64c1434e14913019250f16e3f924aadbb19a35a400"
+  },
+  "assets/library/birthday24-gift-give.webp": {
+    "src": "assets/offline/birthday24-gift-give.webp",
+    "sha256": "2e886f18a993233749e4a65d1a08e0844e738fc2805db58a0738beb170341020"
+  },
+  "assets/library/birthday24-bear.webp": {
+    "src": "assets/offline/birthday24-bear.webp",
+    "sha256": "4a2a2436d40fe100b89b0329c3f556f0f78d97314910ba3b4b72f6c938712e47"
+  },
+  "assets/library/birthday24-flower-crown.webp": {
+    "src": "assets/offline/birthday24-flower-crown.webp",
+    "sha256": "e124c11dd689d5029e3e2f7bdec4ba19b228578ba4a877c7fb031500d47b6de7"
+  },
+  "assets/library/birthday24-party-host.webp": {
+    "src": "assets/offline/birthday24-party-host.webp",
+    "sha256": "5c39cd7efcfc2609c053921a8f476ddbc823c05e613bc4c873dc40ee33d51add"
+  },
+  "assets/library/birthday24-candle-costume.webp": {
+    "src": "assets/offline/birthday24-candle-costume.webp",
+    "sha256": "e7608afe7f364a71de6e13d9c5e6642900d1e074284cb4fec60b464ef5814200"
   }
 }

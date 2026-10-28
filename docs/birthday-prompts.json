@@ -1,0 +1,393 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "entries": [
+    {
+      "id": "birthday24-party-hat-wave",
+      "name": "三角帽子でおめでとう・手を振って",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "三角帽子",
+        "手を振る"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Light mint polo shirt, beige trousers and black shoes like reference, plus a colorful small striped conical birthday party hat secured on head and a bright bow tie. Give a friendly open-handed wave; other hand relaxed. No other objects."
+    },
+    {
+      "id": "birthday24-party-hat-peace",
+      "name": "三角帽子・ダブルピース",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "三角帽子",
+        "ピース"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: A yellow cardigan over white shirt, dark trousers, comfortable shoes, and a small coral conical birthday party hat on his head. Both hands make clear peace signs close to shoulders."
+    },
+    {
+      "id": "birthday24-birthday-crown",
+      "name": "お誕生日の王冠・主役の笑顔",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "王冠",
+        "主役"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: A small simple golden paper party crown worn firmly on his head, navy suit, cream shirt, red bow tie, polished black shoes. One hand on chest, the other gives an enthusiastic thumbs up. No royalty costume, no text."
+    },
+    {
+      "id": "birthday24-birthday-suit",
+      "name": "お祝いタキシード・花を添えて",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "タキシード",
+        "花"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: A neat black tuxedo, white shirt, deep red bow tie, black shoes and small fresh red flower pinned to lapel. Standing elegantly, one hand offers a courteous open-palm welcome, other hand at side."
+    },
+    {
+      "id": "birthday24-heart",
+      "name": "おめでとう・ハートの手",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "ハート",
+        "手"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Familiar pale green polo, beige pants, black shoes and a small festive party hat. Both hands together make a clear heart shape directly in front of chest, thumbs and fingers connected naturally."
+    },
+    {
+      "id": "birthday24-clap",
+      "name": "お誕生日・ぱちぱち拍手",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "拍手",
+        "お祝い"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Cozy light blue button-up shirt, beige trousers, brown shoes and a tiny festive bow tie. Hands naturally meet in a gentle applauding pose in front of chest; small striped party hat on his head."
+    },
+    {
+      "id": "birthday24-flower",
+      "name": "お祝いの花束・にっこり",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "花束",
+        "花"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Cream cardigan over pale blue shirt, charcoal trousers and sensible shoes. Hold one medium-sized wrapped bouquet of colorful fresh flowers securely in one hand with stems gathered, other hand gives a wave. Small party ribbon pinned to cardigan."
+    },
+    {
+      "id": "birthday24-gift-hug",
+      "name": "プレゼントをぎゅっと",
+      "category": "お祝い・行事",
+      "group": "定番のお祝い",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "定番のお祝い",
+        "プレゼント",
+        "贈り物"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Soft coral sweater, beige trousers, shoes and small party hat. Hug one medium pastel wrapped gift box with a real ribbon and bow against chest with both arms clearly supporting it."
+    },
+    {
+      "id": "birthday24-strawberry-cake",
+      "name": "いちごケーキ・ろうそく3本",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "ケーキ",
+        "いちご",
+        "ろうそく"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Mint polo, beige trousers, party hat. Both hands support one level small white platter at waist with a realistic round strawberry-and-cream birthday cake. Exactly three short UNLIT candles are physically inserted upright into the top of the cake, no floating candles, no extra hands."
+    },
+    {
+      "id": "birthday24-chocolate-cake",
+      "name": "チョコレートケーキ・おめでとう",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "チョコレート",
+        "ケーキ"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Warm beige cardigan, dark trousers, shoes and bow tie. Hold one level platter supporting a realistic small round chocolate birthday cake with chocolate curls and two short UNLIT candles embedded on top; other hand waves gently."
+    },
+    {
+      "id": "birthday24-fruit-tart",
+      "name": "フルーツタルトをどうぞ",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "タルト",
+        "フルーツ"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Pale blue shirt, light apron, dark trousers and shoes. Present a small round fruit tart on a level serving plate supported with both hands; neatly arranged berries, kiwi and orange on top. Small party hat."
+    },
+    {
+      "id": "birthday24-cupcakes",
+      "name": "カップケーキのトレー",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "カップケーキ",
+        "お菓子"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Mint green shirt, beige trousers, sensible shoes and party hat. Both hands carry a small level rectangular tray holding three different decorated cupcakes firmly on tray; no floating toppings."
+    },
+    {
+      "id": "birthday24-cake-chef",
+      "name": "パティシエ・バースデーケーキ",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "パティシエ",
+        "ケーキ"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: White pastry chef jacket and apron, dark trousers, black shoes, modest white chefs toque. Present a realistic small round cream birthday cake on a white platter held securely with both hands; colorful fruit and two short unlit candles inserted in cake."
+    },
+    {
+      "id": "birthday24-shortcake",
+      "name": "ショートケーキ・お祝いのひととき",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "ショートケーキ",
+        "いちご"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Pink cardigan over white shirt, beige trousers, shoes and a small party hat. One hand supports a small dessert plate holding a single realistic triangular strawberry shortcake slice, other hand holds a small fork comfortably beside plate."
+    },
+    {
+      "id": "birthday24-rollcake",
+      "name": "ロールケーキ・お祝いの時間",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "ロールケーキ",
+        "お菓子"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Soft yellow cardigan, white shirt, dark trousers and shoes with a small festive bow tie. Both hands present one compact decorated Swiss roll cake lying flat on a small tray, berries resting on cake, no floating decorations."
+    },
+    {
+      "id": "birthday24-icecream-cake",
+      "name": "アイスケーキ・ひんやりお祝い",
+      "category": "お祝い・行事",
+      "group": "ケーキとお菓子",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "ケーキとお菓子",
+        "アイス",
+        "ケーキ"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Pale aqua shirt, beige trousers, black shoes and a little striped birthday party hat. Both hands hold a small level white platter with a colorful round ice-cream birthday cake topped with tiny fruit and one unlit candle embedded in it. No melting mess."
+    },
+    {
+      "id": "birthday24-balloons",
+      "name": "色とりどりの風船・手を振って",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "風船",
+        "バルーン"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Mint polo, beige trousers and shoes with a festive bow tie. Hold THREE small colorful helium balloons above and beside head in one hand; exactly one visible taut string from each balloon reaches his closed hand. Other hand waves. All balloons fit comfortably inside frame."
+    },
+    {
+      "id": "birthday24-party-popper",
+      "name": "パーティークラッカー・お祝い！",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "クラッカー",
+        "パーティー"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Coral cardigan, dark trousers, shoes and small conical party hat. One hand holds a modest colorful party popper, a short colorful ribbon emerges physically from its opening, other hand gives a thumbs up. No airborne pieces."
+    },
+    {
+      "id": "birthday24-gift-stack",
+      "name": "プレゼントを重ねて",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "プレゼント",
+        "箱"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Light blue shirt, beige trousers, black shoes and party bow tie. Securely hold two small neatly wrapped gift boxes stacked together at waist in both hands; the top box rests on the lower box."
+    },
+    {
+      "id": "birthday24-gift-give",
+      "name": "リボンの贈り物・どうぞ",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "プレゼント",
+        "リボン"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Neat casual navy jacket over cream shirt, trousers and shoes. Present one small neatly wrapped red gift box with a gold ribbon outward with both hands. A small party ribbon pinned to the jacket."
+    },
+    {
+      "id": "birthday24-bear",
+      "name": "バースデーくまの着ぐるみ",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "くま",
+        "着ぐるみ"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: A cute soft light-brown bear onesie on the SAME elderly man, hood with round ears framing his exposed, unmistakable real face. Bear mitts leave hands visible. A small party hat securely on hood and a neat bow tie. Give a gentle two-handed wave, standing with both feet visible."
+    },
+    {
+      "id": "birthday24-flower-crown",
+      "name": "お花の冠・おめでとう",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "花冠",
+        "お祝い"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Soft ivory cardigan, pale blue shirt, charcoal trousers and shoes. A tasteful small colorful fresh-flower crown sits on his gray hair. One hand makes a peace sign while the other rests naturally by his side."
+    },
+    {
+      "id": "birthday24-party-host",
+      "name": "キラキラ司会者・パーティーへようこそ",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "司会者",
+        "パーティー"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: Festive tasteful dark-blue sparkly jacket, white shirt, red bow tie, black trousers and shoes. One hand holds a small plain wireless microphone with no logo, the other gestures a welcome. No stage, no background."
+    },
+    {
+      "id": "birthday24-candle-costume",
+      "name": "バースデーケーキの着ぐるみ",
+      "category": "お祝い・行事",
+      "group": "プレゼントとパーティー",
+      "tags": [
+        "お祝い",
+        "誕生日",
+        "バースデー",
+        "誕生日追加24",
+        "プレゼントとパーティー",
+        "キャンドル",
+        "着ぐるみ",
+        "ケーキ",
+        "ろうそく"
+      ],
+      "prompt": "Create ONE photorealistic FULL-BODY transparent cutout for a birthday photo-compositing app. Reference image 1 is the IDENTITY reference: preserve the exact recognizable face, warm smile, age, Japanese ethnicity, natural gray hair, wrinkles, and mature body proportions of the elderly man Kozo. His familiar gentle face must be immediately recognizable, do not make him younger or make another person. Interpret the specific celebration clothing and props below faithfully. Festive and endearing but natural, not a cartoon. One person only. Both arms, hands and feet anatomically plausible and attached; correctly scaled real-world props securely held or worn. Head to toe with entire hat, both feet and all props completely within frame, at least 80px transparent padding at top and bottom and 50px on sides. Full-body three-quarter view facing camera, realistic fabric and skin, soft neutral studio light. Real alpha transparency everywhere around subject and between limbs; no background, ground, shadows, stage, checkerboard, halo or detached floating objects. No other people, logos, readable words, invented numerals or watermark.\nBirthday costume, props and pose: A cute wearable padded pastel birthday-candle costume over ordinary trousers and shoes, with arms and head free. A SMALL soft yellow felt flame ornament is securely attached atop a headband on his gray hair, no actual fire. Both hands happily wave. Preserve the recognizable elderly mans real face."
+    }
+  ]
+}

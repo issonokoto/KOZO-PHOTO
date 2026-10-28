@@ -85,6 +85,393 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "birthday24-party-hat-wave",
+    "name": "三角帽子でおめでとう・手を振って",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "三角帽子",
+      "手を振る"
+    ],
+    "src": "./assets/library/birthday24-party-hat-wave.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-party-hat-wave.webp"
+  },
+  {
+    "id": "birthday24-party-hat-peace",
+    "name": "三角帽子・ダブルピース",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "三角帽子",
+      "ピース"
+    ],
+    "src": "./assets/library/birthday24-party-hat-peace.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-party-hat-peace.webp"
+  },
+  {
+    "id": "birthday24-birthday-crown",
+    "name": "お誕生日の王冠・主役の笑顔",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "王冠",
+      "主役"
+    ],
+    "src": "./assets/library/birthday24-birthday-crown.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-birthday-crown.webp"
+  },
+  {
+    "id": "birthday24-birthday-suit",
+    "name": "お祝いタキシード・花を添えて",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "タキシード",
+      "花"
+    ],
+    "src": "./assets/library/birthday24-birthday-suit.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-birthday-suit.webp"
+  },
+  {
+    "id": "birthday24-heart",
+    "name": "おめでとう・ハートの手",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "ハート",
+      "手"
+    ],
+    "src": "./assets/library/birthday24-heart.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-heart.webp"
+  },
+  {
+    "id": "birthday24-clap",
+    "name": "お誕生日・ぱちぱち拍手",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "拍手",
+      "お祝い"
+    ],
+    "src": "./assets/library/birthday24-clap.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-clap.webp"
+  },
+  {
+    "id": "birthday24-flower",
+    "name": "お祝いの花束・にっこり",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "花束",
+      "花"
+    ],
+    "src": "./assets/library/birthday24-flower.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-flower.webp"
+  },
+  {
+    "id": "birthday24-gift-hug",
+    "name": "プレゼントをぎゅっと",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "定番のお祝い",
+      "プレゼント",
+      "贈り物"
+    ],
+    "src": "./assets/library/birthday24-gift-hug.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-gift-hug.webp"
+  },
+  {
+    "id": "birthday24-strawberry-cake",
+    "name": "いちごケーキ・ろうそく3本",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "ケーキ",
+      "いちご",
+      "ろうそく"
+    ],
+    "src": "./assets/library/birthday24-strawberry-cake.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-strawberry-cake.webp"
+  },
+  {
+    "id": "birthday24-chocolate-cake",
+    "name": "チョコレートケーキ・おめでとう",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "チョコレート",
+      "ケーキ"
+    ],
+    "src": "./assets/library/birthday24-chocolate-cake.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-chocolate-cake.webp"
+  },
+  {
+    "id": "birthday24-fruit-tart",
+    "name": "フルーツタルトをどうぞ",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "タルト",
+      "フルーツ"
+    ],
+    "src": "./assets/library/birthday24-fruit-tart.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-fruit-tart.webp"
+  },
+  {
+    "id": "birthday24-cupcakes",
+    "name": "カップケーキのトレー",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "カップケーキ",
+      "お菓子"
+    ],
+    "src": "./assets/library/birthday24-cupcakes.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-cupcakes.webp"
+  },
+  {
+    "id": "birthday24-cake-chef",
+    "name": "パティシエ・バースデーケーキ",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "パティシエ",
+      "ケーキ"
+    ],
+    "src": "./assets/library/birthday24-cake-chef.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-cake-chef.webp"
+  },
+  {
+    "id": "birthday24-shortcake",
+    "name": "ショートケーキ・お祝いのひととき",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "ショートケーキ",
+      "いちご"
+    ],
+    "src": "./assets/library/birthday24-shortcake.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-shortcake.webp"
+  },
+  {
+    "id": "birthday24-rollcake",
+    "name": "ロールケーキ・お祝いの時間",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "ロールケーキ",
+      "お菓子"
+    ],
+    "src": "./assets/library/birthday24-rollcake.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-rollcake.webp"
+  },
+  {
+    "id": "birthday24-icecream-cake",
+    "name": "アイスケーキ・ひんやりお祝い",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "ケーキとお菓子",
+      "アイス",
+      "ケーキ"
+    ],
+    "src": "./assets/library/birthday24-icecream-cake.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-icecream-cake.webp"
+  },
+  {
+    "id": "birthday24-balloons",
+    "name": "色とりどりの風船・手を振って",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "風船",
+      "バルーン"
+    ],
+    "src": "./assets/library/birthday24-balloons.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-balloons.webp"
+  },
+  {
+    "id": "birthday24-party-popper",
+    "name": "パーティークラッカー・お祝い！",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "クラッカー",
+      "パーティー"
+    ],
+    "src": "./assets/library/birthday24-party-popper.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-party-popper.webp"
+  },
+  {
+    "id": "birthday24-gift-stack",
+    "name": "プレゼントを重ねて",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "プレゼント",
+      "箱"
+    ],
+    "src": "./assets/library/birthday24-gift-stack.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-gift-stack.webp"
+  },
+  {
+    "id": "birthday24-gift-give",
+    "name": "リボンの贈り物・どうぞ",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "プレゼント",
+      "リボン"
+    ],
+    "src": "./assets/library/birthday24-gift-give.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-gift-give.webp"
+  },
+  {
+    "id": "birthday24-bear",
+    "name": "バースデーくまの着ぐるみ",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "くま",
+      "着ぐるみ"
+    ],
+    "src": "./assets/library/birthday24-bear.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-bear.webp"
+  },
+  {
+    "id": "birthday24-flower-crown",
+    "name": "お花の冠・おめでとう",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "花冠",
+      "お祝い"
+    ],
+    "src": "./assets/library/birthday24-flower-crown.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-flower-crown.webp"
+  },
+  {
+    "id": "birthday24-party-host",
+    "name": "キラキラ司会者・パーティーへようこそ",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "司会者",
+      "パーティー"
+    ],
+    "src": "./assets/library/birthday24-party-host.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-party-host.webp"
+  },
+  {
+    "id": "birthday24-candle-costume",
+    "name": "バースデーケーキの着ぐるみ",
+    "category": "お祝い・行事",
+    "tags": [
+      "お祝い",
+      "誕生日",
+      "バースデー",
+      "誕生日追加24",
+      "プレゼントとパーティー",
+      "キャンドル",
+      "着ぐるみ",
+      "ケーキ",
+      "ろうそく"
+    ],
+    "src": "./assets/library/birthday24-candle-costume.webp",
+    "thumbnail": "./assets/thumbnails/birthday24-candle-costume.webp"
+  },
+  {
     "id": "jobs24-doctor",
     "name": "お医者さん・聴診器でごあいさつ",
     "category": "お仕事",

@@ -85,6 +85,436 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "history24-jomon",
+    "name": "縄文風・草木の繊維の衣",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "縄文",
+      "じょうもん",
+      "古代"
+    ],
+    "src": "./assets/library/history24-jomon.webp",
+    "thumbnail": "./assets/thumbnails/history24-jomon.webp"
+  },
+  {
+    "id": "history24-yayoi",
+    "name": "弥生風・貫頭衣と稲穂",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "弥生",
+      "やよい",
+      "貫頭衣",
+      "稲穂"
+    ],
+    "src": "./assets/library/history24-yayoi.webp",
+    "thumbnail": "./assets/thumbnails/history24-yayoi.webp"
+  },
+  {
+    "id": "history24-kofun",
+    "name": "古墳風・豪族の装い",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "古墳",
+      "こふん",
+      "豪族",
+      "埴輪"
+    ],
+    "src": "./assets/library/history24-kofun.webp",
+    "thumbnail": "./assets/thumbnails/history24-kofun.webp"
+  },
+  {
+    "id": "history24-asuka",
+    "name": "飛鳥風・古代の役人",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "飛鳥",
+      "あすか",
+      "役人"
+    ],
+    "src": "./assets/library/history24-asuka.webp",
+    "thumbnail": "./assets/thumbnails/history24-asuka.webp"
+  },
+  {
+    "id": "history24-heian-sokutai",
+    "name": "平安風・束帯の晴れ姿",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "平安",
+      "へいあん",
+      "束帯",
+      "貴族"
+    ],
+    "src": "./assets/library/history24-heian-sokutai.webp",
+    "thumbnail": "./assets/thumbnails/history24-heian-sokutai.webp"
+  },
+  {
+    "id": "history24-heian-kariginu",
+    "name": "平安風・若草色の狩衣",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "平安",
+      "狩衣",
+      "かりぎぬ",
+      "烏帽子"
+    ],
+    "src": "./assets/library/history24-heian-kariginu.webp",
+    "thumbnail": "./assets/thumbnails/history24-heian-kariginu.webp"
+  },
+  {
+    "id": "history24-kamakura",
+    "name": "鎌倉風・直垂の武士",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "鎌倉",
+      "かまくら",
+      "直垂",
+      "武士"
+    ],
+    "src": "./assets/library/history24-kamakura.webp",
+    "thumbnail": "./assets/thumbnails/history24-kamakura.webp"
+  },
+  {
+    "id": "history24-muromachi",
+    "name": "室町風・小袖の商人",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の古代・中世",
+      "室町",
+      "むろまち",
+      "小袖",
+      "商人"
+    ],
+    "src": "./assets/library/history24-muromachi.webp",
+    "thumbnail": "./assets/thumbnails/history24-muromachi.webp"
+  },
+  {
+    "id": "history24-sengoku",
+    "name": "戦国風・朱の甲冑",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "戦国",
+      "せんごく",
+      "甲冑",
+      "鎧",
+      "武将"
+    ],
+    "src": "./assets/library/history24-sengoku.webp",
+    "thumbnail": "./assets/thumbnails/history24-sengoku.webp"
+  },
+  {
+    "id": "history24-edo-kamishimo",
+    "name": "江戸風・裃でごあいさつ",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "江戸",
+      "えど",
+      "裃",
+      "かみしも"
+    ],
+    "src": "./assets/library/history24-edo-kamishimo.webp",
+    "thumbnail": "./assets/thumbnails/history24-edo-kamishimo.webp"
+  },
+  {
+    "id": "history24-edo-merchant",
+    "name": "江戸風・前掛けの商人",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "江戸",
+      "商人",
+      "前掛け",
+      "帳面"
+    ],
+    "src": "./assets/library/history24-edo-merchant.webp",
+    "thumbnail": "./assets/thumbnails/history24-edo-merchant.webp"
+  },
+  {
+    "id": "history24-edo-hikeshi",
+    "name": "江戸風・町火消し",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "江戸",
+      "火消し",
+      "ひけし",
+      "半纏"
+    ],
+    "src": "./assets/library/history24-edo-hikeshi.webp",
+    "thumbnail": "./assets/thumbnails/history24-edo-hikeshi.webp"
+  },
+  {
+    "id": "history24-edo-traveler",
+    "name": "江戸風・三度笠の旅人",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "江戸",
+      "旅人",
+      "三度笠",
+      "旅装"
+    ],
+    "src": "./assets/library/history24-edo-traveler.webp",
+    "thumbnail": "./assets/thumbnails/history24-edo-traveler.webp"
+  },
+  {
+    "id": "history24-meiji",
+    "name": "明治風・袴の書生",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "明治",
+      "めいじ",
+      "書生",
+      "袴"
+    ],
+    "src": "./assets/library/history24-meiji.webp",
+    "thumbnail": "./assets/thumbnails/history24-meiji.webp"
+  },
+  {
+    "id": "history24-taisho",
+    "name": "大正風・カンカン帽の紳士",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "大正",
+      "たいしょう",
+      "モダン",
+      "カンカン帽"
+    ],
+    "src": "./assets/library/history24-taisho.webp",
+    "thumbnail": "./assets/thumbnails/history24-taisho.webp"
+  },
+  {
+    "id": "history24-showa-photo",
+    "name": "昭和初期風・レトロな写真師",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "日本の近世・近代",
+      "昭和",
+      "しょうわ",
+      "写真師",
+      "カメラ",
+      "レトロ"
+    ],
+    "src": "./assets/library/history24-showa-photo.webp",
+    "thumbnail": "./assets/thumbnails/history24-showa-photo.webp"
+  },
+  {
+    "id": "history24-egypt",
+    "name": "古代エジプト風・麻の衣",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "エジプト",
+      "古代",
+      "麻",
+      "チュニック"
+    ],
+    "src": "./assets/library/history24-egypt.webp",
+    "thumbnail": "./assets/thumbnails/history24-egypt.webp"
+  },
+  {
+    "id": "history24-greece",
+    "name": "古代ギリシャ風・キトン",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "ギリシャ",
+      "古代",
+      "キトン",
+      "ヒマティオン"
+    ],
+    "src": "./assets/library/history24-greece.webp",
+    "thumbnail": "./assets/thumbnails/history24-greece.webp"
+  },
+  {
+    "id": "history24-rome",
+    "name": "古代ローマ風・トーガ",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "ローマ",
+      "古代",
+      "トーガ"
+    ],
+    "src": "./assets/library/history24-rome.webp",
+    "thumbnail": "./assets/thumbnails/history24-rome.webp"
+  },
+  {
+    "id": "history24-tang",
+    "name": "唐代中国風・丸襟の袍",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "中国",
+      "唐",
+      "とう",
+      "袍",
+      "幞頭"
+    ],
+    "src": "./assets/library/history24-tang.webp",
+    "thumbnail": "./assets/thumbnails/history24-tang.webp"
+  },
+  {
+    "id": "history24-medieval-merchant",
+    "name": "中世ヨーロッパ風・旅する商人",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "中世",
+      "ヨーロッパ",
+      "商人"
+    ],
+    "src": "./assets/library/history24-medieval-merchant.webp",
+    "thumbnail": "./assets/thumbnails/history24-medieval-merchant.webp"
+  },
+  {
+    "id": "history24-renaissance",
+    "name": "ルネサンス風・学者の装い",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "ルネサンス",
+      "学者",
+      "ヨーロッパ"
+    ],
+    "src": "./assets/library/history24-renaissance.webp",
+    "thumbnail": "./assets/thumbnails/history24-renaissance.webp"
+  },
+  {
+    "id": "history24-rococo",
+    "name": "18世紀ヨーロッパ風・華やかな紳士",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "18世紀",
+      "ロココ",
+      "紳士",
+      "ヨーロッパ"
+    ],
+    "src": "./assets/library/history24-rococo.webp",
+    "thumbnail": "./assets/thumbnails/history24-rococo.webp"
+  },
+  {
+    "id": "history24-victorian",
+    "name": "19世紀イギリス風・フロックコート",
+    "category": "歴史の衣装",
+    "tags": [
+      "歴史",
+      "昔の服装",
+      "時代衣装",
+      "歴史追加24",
+      "世界の歴史衣装",
+      "19世紀",
+      "イギリス",
+      "ヴィクトリア",
+      "フロックコート"
+    ],
+    "src": "./assets/library/history24-victorian.webp",
+    "thumbnail": "./assets/thumbnails/history24-victorian.webp"
+  },
+  {
     "id": "birthday24-party-hat-wave",
     "name": "三角帽子でおめでとう・手を振って",
     "category": "お祝い・行事",

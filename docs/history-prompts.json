@@ -1,0 +1,471 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "note": "各時代の衣装を参考にした写真合成用の創作素材です。厳密な復元品や特定の歴史人物の再現ではありません。",
+  "sources": [
+    {
+      "title": "文化遺産オンライン・縄文時代衣服（復元）",
+      "url": "https://online.bunka.go.jp/heritages/detail/37491"
+    },
+    {
+      "title": "奈良国立博物館・盛装男子埴輪",
+      "url": "https://www.narahaku.go.jp/collection/1537-0.html"
+    },
+    {
+      "title": "風俗博物館・狩衣姿",
+      "url": "https://www.iz2.or.jp/fukushoku/f_disp.php?page_no=0000043"
+    },
+    {
+      "title": "Albany Institute・Ancient Egyptian Tunic",
+      "url": "https://www.albanyinstitute.org/collection/details/ancient-egyptian-tunic"
+    },
+    {
+      "title": "Metropolitan Museum・The Chiton, Peplos, and Himation in Modern Dress",
+      "url": "https://www.metmuseum.org/es/essays/the-chiton-peplos-and-himation-in-modern-dress"
+    },
+    {
+      "title": "中国国家博物館・唐代の陶男俑",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252268.shtml"
+    },
+    {
+      "title": "V&A・The Brown Suit: Anglomania",
+      "url": "https://www.vam.ac.uk/blog/creating-new-europe-1600-1800-galleries/the-brown-suit-anglomania"
+    },
+    {
+      "title": "Glasgow Museums・19th Century European Mens Wear",
+      "url": "https://collections.glasgowmuseums.com/mwebcgi/mweb?request=record%3Bid%3D534120%3Btype%3D801"
+    }
+  ],
+  "entries": [
+    {
+      "id": "history24-jomon",
+      "name": "縄文風・草木の繊維の衣",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "縄文",
+        "じょうもん",
+        "古代"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: A simple reconstructed Jomon-inspired coarse natural plant-fiber woven tunic in warm unbleached tan, subtle reddish geometric stitched border, tied waist cord, knee-length wrap below, simple woven sandals. No animal-skin caveman outfit or bones. One hand holds a small cord-pattern clay pot securely at waist; other gives a gentle wave."
+    },
+    {
+      "id": "history24-yayoi",
+      "name": "弥生風・貫頭衣と稲穂",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "弥生",
+        "やよい",
+        "貫頭衣",
+        "稲穂"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Yayoi-inspired plain off-white coarse linen poncho-like kantoi tunic with simple head opening and tied rope waist, calf-length wrapped lower cloth, woven straw sandals. Gray hair tied back simply. Hold a small neatly bound sheaf of rice stalks in both hands. No decorated fantasy crown."
+    },
+    {
+      "id": "history24-kofun",
+      "name": "古墳風・豪族の装い",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "古墳",
+        "こふん",
+        "豪族",
+        "埴輪"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Kofun-period costume inspired by male haniwa: earth-red cross-front jacket with three-quarter sleeves, wide cream trousers gathered below knees, dark simple boots, modest round woven cap and a small simple bead necklace. Hands naturally open in a welcoming pose. No clay statue body or modern kimono hakama."
+    },
+    {
+      "id": "history24-asuka",
+      "name": "飛鳥風・古代の役人",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "飛鳥",
+        "あすか",
+        "役人"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Asuka/Nara ancient Japanese official inspired ensemble: deep blue round-neck long robe with modest narrow sleeves, plain dark belt, white wide trousers visible below robe, black simple cloth court cap and black ancient-style shoes. Both hands hold a narrow plain wooden writing tablet upright at waist; no visible writing."
+    },
+    {
+      "id": "history24-heian-sokutai",
+      "name": "平安風・束帯の晴れ姿",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "平安",
+        "へいあん",
+        "束帯",
+        "貴族"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Heian male court sokutai-inspired attire: voluminous dark brown-black broad-sleeved outer robe with subtle woven pattern, structured black court kanmuri cap with upright attachment, ivory broad trousers, black court shoes, ivory belt and layered white underrobe. Hold one plain slim wooden shaku vertically with both hands. Keep long trailing fabric contained within frame."
+    },
+    {
+      "id": "history24-heian-kariginu",
+      "name": "平安風・若草色の狩衣",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "平安",
+        "狩衣",
+        "かりぎぬ",
+        "烏帽子"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Heian kariginu-inspired informal noble ensemble: pale sage green generous round-neck outer robe with very broad sleeves, cream voluminous sashinuki trousers gathered at ankles, simple tall black eboshi cap, dark period shoes. Hold one folded plain wooden fan in one hand at waist and wave gently with the other."
+    },
+    {
+      "id": "history24-kamakura",
+      "name": "鎌倉風・直垂の武士",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "鎌倉",
+        "かまくら",
+        "直垂",
+        "武士"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Kamakura warrior civilian hitatare: muted rust-red cross-front jacket with decorative thin chest cords, matching roomy hakama, modest black soft eboshi, white tabi and straw sandals. One closed plain folding fan held naturally at waist, other hand on hip. No armor or exposed blade."
+    },
+    {
+      "id": "history24-muromachi",
+      "name": "室町風・小袖の商人",
+      "category": "歴史の衣装",
+      "group": "日本の古代・中世",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の古代・中世",
+        "室町",
+        "むろまち",
+        "小袖",
+        "商人"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Muromachi-inspired merchant wearing a simple indigo cross-front kosode with relatively narrow sleeves and narrow waist sash, a modest calf-length brown sleeveless outer vest, neutral leg wraps and woven sandals. Natural gray hair simply tied. Hold a small plain cloth bundle with a knot in one hand; other hand extends welcome."
+    },
+    {
+      "id": "history24-sengoku",
+      "name": "戦国風・朱の甲冑",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "戦国",
+        "せんごく",
+        "甲冑",
+        "鎧",
+        "武将"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Sengoku late-sixteenth-century Japanese tosei-gusoku-inspired armor: lacquered deep red segmented cuirass, matching shoulder and thigh guards, dark navy undergarment, authentic lacing, shin guards, tabi and waraji. Modest kabuto helmet with SMALL plain curved crest, face fully open and recognizable. One hand gives a gentle thumbs up, other rests by side. No oversized horns or sword in hand."
+    },
+    {
+      "id": "history24-edo-kamishimo",
+      "name": "江戸風・裃でごあいさつ",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "江戸",
+        "えど",
+        "裃",
+        "かみしも"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Edo samurai formal kamishimo: pale blue sharply projecting pleated shoulder kataginu over dark indigo kimono and matching blue hakama, white tabi, simple zori. Modest gray traditional hair knot without shaving the forehead. Hold a closed white folding fan gently in both hands at waist, courteous slight bow, face toward camera. No family crests."
+    },
+    {
+      "id": "history24-edo-merchant",
+      "name": "江戸風・前掛けの商人",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "江戸",
+        "商人",
+        "前掛け",
+        "帳面"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Edo town merchant: dark brown striped kimono with modest narrow sleeves, dark indigo work apron tied at waist with NO writing, white tabi and low sandals. Gray hair tied neatly. Hold a small traditional bound account ledger and compact wooden abacus together in hands at waist; blank pages and no legible letters."
+    },
+    {
+      "id": "history24-edo-hikeshi",
+      "name": "江戸風・町火消し",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "江戸",
+        "火消し",
+        "ひけし",
+        "半纏"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Edo machi-bikeshi town firefighter: indigo quilted cotton hanten with simple white geometric edge motifs but NO characters, fitted indigo trousers, white leg bindings, woven straw sandals, short white headband. One hand holds a modest compact woven firemens head-covering hood at hip, other hand gestures welcome. No modern helmet or giant matoi pole."
+    },
+    {
+      "id": "history24-edo-traveler",
+      "name": "江戸風・三度笠の旅人",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "江戸",
+        "旅人",
+        "三度笠",
+        "旅装"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Edo roadside traveler costume: light brown striped short kimono, dark wrapped leggings and white calf gaiters, woven straw sandals, small tied cloth travel bundle slung over one shoulder and circular sedge straw sandogasa hat tilted back so entire face is visible. One hand holds a simple wooden walking staff naturally, other waves. No background."
+    },
+    {
+      "id": "history24-meiji",
+      "name": "明治風・袴の書生",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "明治",
+        "めいじ",
+        "書生",
+        "袴"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Meiji shosei student-inspired outfit: dark indigo kimono with plain navy haori and deep burgundy hakama, white tabi and low wooden geta. Simple gray hair, no cap. One hand carries two plain clothbound books held against torso, other hand gives a small wave. Mature elderly face unchanged."
+    },
+    {
+      "id": "history24-taisho",
+      "name": "大正風・カンカン帽の紳士",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "大正",
+        "たいしょう",
+        "モダン",
+        "カンカン帽"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Taisho modern gentleman: cream linen three-piece suit with dark brown waistcoat, white shirt, soft muted patterned tie, straw boater hat with navy ribbon, vintage brown leather shoes. One hand lightly touches hat brim, other rests at side. Distinct early twentieth century tailoring, no wristwatch."
+    },
+    {
+      "id": "history24-showa-photo",
+      "name": "昭和初期風・レトロな写真師",
+      "category": "歴史の衣装",
+      "group": "日本の近世・近代",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "日本の近世・近代",
+        "昭和",
+        "しょうわ",
+        "写真師",
+        "カメラ",
+        "レトロ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Early Showa photographer: brown tweed flat cap, white shirt with rolled cuffs, charcoal waistcoat, high-waisted gray pleated trousers, brown leather lace-up shoes. Hold a modest vintage folding bellows camera securely in both hands at waist, camera lens fully attached, no tripod or modern camera strap logo."
+    },
+    {
+      "id": "history24-egypt",
+      "name": "古代エジプト風・麻の衣",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "エジプト",
+        "古代",
+        "麻",
+        "チュニック"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Ancient Egyptian-inspired modest white linen knee-to-calf-length tunic tied with a narrow woven belt, simple linen shawl draped over shoulders, flat leather sandals. Kozo own gray hair exposed, no pharaoh headdress or modern suit. Hold a small rolled blank papyrus scroll at waist, other hand gently open."
+    },
+    {
+      "id": "history24-greece",
+      "name": "古代ギリシャ風・キトン",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "ギリシャ",
+        "古代",
+        "キトン",
+        "ヒマティオン"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Classical Greek-inspired cream linen chiton tunic belted at waist and a warm ochre rectangular wool himation mantle draped over one shoulder, simple leather sandals. Head uncovered, Kozo gray hair. One hand gathers mantle naturally at chest, other hand open in gentle orator gesture. No laurel crown or Roman toga border."
+    },
+    {
+      "id": "history24-rome",
+      "name": "古代ローマ風・トーガ",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "ローマ",
+        "古代",
+        "トーガ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Ancient Roman citizen-inspired full draped ivory wool toga with broad rounded diagonal folds over a plain short-sleeve tunic; hem around calves, dark leather strapped sandals. Kozo gray hair exposed, no emperor crown, armor or purple royal cloak. One hand supports toga fold near waist; other gestures a greeting."
+    },
+    {
+      "id": "history24-tang",
+      "name": "唐代中国風・丸襟の袍",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "中国",
+        "唐",
+        "とう",
+        "袍",
+        "幞頭"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Tang dynasty Chinese male civilian official-inspired costume: muted terracotta round-collar long robe tied with a plain dark belt, black soft futou cloth cap with short tied trailing ends, simple dark high boots. Hands gently clasped at waist in a courteous greeting. No Qing queue, dragon robes, square official rank badge or modern outfit."
+    },
+    {
+      "id": "history24-medieval-merchant",
+      "name": "中世ヨーロッパ風・旅する商人",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "中世",
+        "ヨーロッパ",
+        "商人"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Fourteenth-century Western European merchant-inspired clothes: calf-length deep moss-green wool cote over beige under-tunic, simple brown belt with small leather pouch, dark fitted hose, soft brown ankle boots, small burgundy round cloth cap. One hand holds a compact tied cloth bundle, other gives a wave. No wizard hat, fantasy armor or staff."
+    },
+    {
+      "id": "history24-renaissance",
+      "name": "ルネサンス風・学者の装い",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "ルネサンス",
+        "学者",
+        "ヨーロッパ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Sixteenth-century Renaissance scholar-inspired outfit: long dark wine-colored scholarly gown with broad sleeves over dark doublet, black flat soft scholar beret, simple black hose and dark leather shoes. Hold one small closed leather-bound book with plain cover securely in both hands. No readable text, wizard props or academic graduation mortarboard."
+    },
+    {
+      "id": "history24-rococo",
+      "name": "18世紀ヨーロッパ風・華やかな紳士",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "18世紀",
+        "ロココ",
+        "紳士",
+        "ヨーロッパ"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Eighteenth-century European gentleman-inspired three-piece ensemble: dusty teal silk knee-length coat with narrow floral embroidery, cream waistcoat, cream knee breeches, white stockings and black buckle shoes, small lace neckcloth. His OWN natural gray hair, no enormous wig. Hold a plain black tricorne hat at waist in one hand, other hand courteously open."
+    },
+    {
+      "id": "history24-victorian",
+      "name": "19世紀イギリス風・フロックコート",
+      "category": "歴史の衣装",
+      "group": "世界の歴史衣装",
+      "tags": [
+        "歴史",
+        "昔の服装",
+        "時代衣装",
+        "歴史追加24",
+        "世界の歴史衣装",
+        "19世紀",
+        "イギリス",
+        "ヴィクトリア",
+        "フロックコート"
+      ],
+      "prompt": "Use case: identity-preserve. Asset: ONE photorealistic FULL-BODY alpha-transparent cutout of Kozo for a commemorative photo app. Image 1 is ONLY the identity reference: preserve his exact recognizable elderly Japanese face, wrinkled warm smile, natural gray hair, age, skin tone and mature body proportions. Change his clothes and pose to the historically inspired costume described below; replace original fishing cap, polo, watch, trousers and sneakers completely. Do not depict a named historical person. Real textile construction, period-appropriate footwear and accessories; no modern zippers, sneakers, watches or printed lettering. Preserve his own face rather than changing ethnicity or age to match the costume. Cheerful, approachable, dignified museum-reenactment costume. One person only. Natural anatomy and hands securely holding props. Full length including headwear, both hands, both feet and every prop; allow generous transparent padding 80px top/bottom and 50px sides. Soft even studio lighting, front three-quarter view looking toward camera. Actual alpha-transparent background and spaces between limbs, NO backdrop, scenery, floor, pedestal, shadow plane, glow, border, watermark or text. Props normal-sized and fully in frame. No detached floating decoration. Historical inspiration, not fantasy armor or movie cosplay.\nCostume and pose: Mid-nineteenth-century Victorian gentleman: fitted dark charcoal knee-length frock coat with waist seam, muted gray waistcoat, white shirt and dark cravat, full-length subtly striped gray trousers, black leather boots and modest black top hat. One hand holds a plain walking cane with its end beside shoes, other hand touches lapel. No gears or steampunk gadgets."
+    }
+  ]
+}

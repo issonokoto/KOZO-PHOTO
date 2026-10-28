@@ -2606,5 +2606,101 @@
   "assets/library/birthday24-candle-costume.webp": {
     "src": "assets/offline/birthday24-candle-costume.webp",
     "sha256": "e7608afe7f364a71de6e13d9c5e6642900d1e074284cb4fec60b464ef5814200"
+  },
+  "assets/library/history24-jomon.webp": {
+    "src": "assets/offline/history24-jomon.webp",
+    "sha256": "606580a991c28c48c13269661e613c05d5f5b201c239b28bcfa55cf4a33fc9a6"
+  },
+  "assets/library/history24-yayoi.webp": {
+    "src": "assets/offline/history24-yayoi.webp",
+    "sha256": "a6328dba75af47114975b6e2ca15f3a8a2ec590c462519125d6466f1571fdbec"
+  },
+  "assets/library/history24-kofun.webp": {
+    "src": "assets/offline/history24-kofun.webp",
+    "sha256": "9ae151629089cdebddc74cdf565e75e34780d270faf6e1b1885e5ecd766da429"
+  },
+  "assets/library/history24-asuka.webp": {
+    "src": "assets/offline/history24-asuka.webp",
+    "sha256": "31d6d4efa2ddba5656eb4643265908a25f11ce54b811ca2fc8a2d20c47695e04"
+  },
+  "assets/library/history24-heian-sokutai.webp": {
+    "src": "assets/offline/history24-heian-sokutai.webp",
+    "sha256": "17f48e5727580f75fcf40eee246c6a3b0651fd54a5c2b18cf925e04b42bef2f1"
+  },
+  "assets/library/history24-heian-kariginu.webp": {
+    "src": "assets/offline/history24-heian-kariginu.webp",
+    "sha256": "cc813317647a22c47387f306e3b38254edbc286e1eb0bf3c3d7074617684d5b7"
+  },
+  "assets/library/history24-kamakura.webp": {
+    "src": "assets/offline/history24-kamakura.webp",
+    "sha256": "681ca1f6fbed3b52f0aa59ccda7b4b627847552d1a98b1e43ec693a5b0f04a5f"
+  },
+  "assets/library/history24-muromachi.webp": {
+    "src": "assets/offline/history24-muromachi.webp",
+    "sha256": "449c3684d669796567107be9588ae50aac7aacb1ea1782afa820e839b0fda45d"
+  },
+  "assets/library/history24-sengoku.webp": {
+    "src": "assets/offline/history24-sengoku.webp",
+    "sha256": "0a7db8515f45144a34e4827c660527535e7848de4a91ec648b3035f7e7e96114"
+  },
+  "assets/library/history24-edo-kamishimo.webp": {
+    "src": "assets/offline/history24-edo-kamishimo.webp",
+    "sha256": "7b63a9aceba92aa114d9ac857e7fadd316c7603bf1d82a510ad449922d293965"
+  },
+  "assets/library/history24-edo-merchant.webp": {
+    "src": "assets/offline/history24-edo-merchant.webp",
+    "sha256": "211cf243bc84e2c54d4a23d62123e3e9b8611e2c444a3a49004b335ba64ee780"
+  },
+  "assets/library/history24-edo-hikeshi.webp": {
+    "src": "assets/offline/history24-edo-hikeshi.webp",
+    "sha256": "91feca8552d8306628b5ad35f96ea9e457bf14c0c053ebcd3e7a6d12da67724f"
+  },
+  "assets/library/history24-edo-traveler.webp": {
+    "src": "assets/offline/history24-edo-traveler.webp",
+    "sha256": "0a3950fc7cde655e14e7e0a537724433f09fff5483ddc4fa64e9f39223047d69"
+  },
+  "assets/library/history24-meiji.webp": {
+    "src": "assets/offline/history24-meiji.webp",
+    "sha256": "911c90cc7cfaffd3fa30ae3d4b8985f1db436ff0f7c82d9df28781dd497f40df"
+  },
+  "assets/library/history24-taisho.webp": {
+    "src": "assets/offline/history24-taisho.webp",
+    "sha256": "17003515746af61a7ad7dbf34fd8b42a4ed21bafff6a12a9e866828c33a96877"
+  },
+  "assets/library/history24-showa-photo.webp": {
+    "src": "assets/offline/history24-showa-photo.webp",
+    "sha256": "9af4789be02c9928266624483b410fa1c67edf6c9e28afb9f1a855663f7c4d33"
+  },
+  "assets/library/history24-egypt.webp": {
+    "src": "assets/offline/history24-egypt.webp",
+    "sha256": "6ff6147e403f3e2c33088e0ab0b4374bd14c9ff982f87164fe920067eae08b00"
+  },
+  "assets/library/history24-greece.webp": {
+    "src": "assets/offline/history24-greece.webp",
+    "sha256": "059458e53b79003c140c1e043c4bcaffdfc7b0828cf1f1fc839f5dec8f2d1008"
+  },
+  "assets/library/history24-rome.webp": {
+    "src": "assets/offline/history24-rome.webp",
+    "sha256": "f562c712803e9efd2951ccc8c1221d328edb2f30e4ea5967de7662097c4869b7"
+  },
+  "assets/library/history24-tang.webp": {
+    "src": "assets/offline/history24-tang.webp",
+    "sha256": "7126b268ea8d887adfd8bb77fd5df3da4a1830744ea5d22590b54b39df18ffd8"
+  },
+  "assets/library/history24-medieval-merchant.webp": {
+    "src": "assets/offline/history24-medieval-merchant.webp",
+    "sha256": "5dcccb20016bfcc155083a6e52d567bfa772e3246704cbbfc054b622140593d8"
+  },
+  "assets/library/history24-renaissance.webp": {
+    "src": "assets/offline/history24-renaissance.webp",
+    "sha256": "366ea14db8757a28a29c986c3728f7625dd8ede85fd784ef86ce50af8216259b"
+  },
+  "assets/library/history24-rococo.webp": {
+    "src": "assets/offline/history24-rococo.webp",
+    "sha256": "8b42481c41ab6ad4273c2ac6f3b563d1fdd7e2362f3fcd23cf7a26785cec1245"
+  },
+  "assets/library/history24-victorian.webp": {
+    "src": "assets/offline/history24-victorian.webp",
+    "sha256": "7816a278be11b5d7e9e1a0b6b480894f519d797323f3272f82cb0a825d38ea9c"
   }
 }

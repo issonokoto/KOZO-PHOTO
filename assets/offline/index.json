@@ -2414,5 +2414,101 @@
   "assets/library/yokai24-amabie.webp": {
     "src": "assets/offline/yokai24-amabie.webp",
     "sha256": "de28737b5ad2faf0b4c0006ab88e2269a8259cd9b0e088176a90557e080cdcf0"
+  },
+  "assets/library/jobs24-doctor.webp": {
+    "src": "assets/offline/jobs24-doctor.webp",
+    "sha256": "6fbef9ed7338088342ce25cb838de227e6663479928371a81fac9e2d23ce6830"
+  },
+  "assets/library/jobs24-nurse.webp": {
+    "src": "assets/offline/jobs24-nurse.webp",
+    "sha256": "21e29868665b6dd707b74c77225020e4e5015b72d110031420a6886b68a05ed1"
+  },
+  "assets/library/jobs24-pharmacist.webp": {
+    "src": "assets/offline/jobs24-pharmacist.webp",
+    "sha256": "71e57cd836f4f888652a1fd0e5ede6ea5590875e685da579b75f941061ed3b12"
+  },
+  "assets/library/jobs24-veterinarian.webp": {
+    "src": "assets/offline/jobs24-veterinarian.webp",
+    "sha256": "8097c3a5a1b8140359ce762fa237e0dce33f3c998e558eaba63e052bb90a9d86"
+  },
+  "assets/library/jobs24-care-worker.webp": {
+    "src": "assets/offline/jobs24-care-worker.webp",
+    "sha256": "dab878082a2a3417befea7ea7b7a4d722fa0593b278e56e725929c8d016fda3c"
+  },
+  "assets/library/jobs24-childcare.webp": {
+    "src": "assets/offline/jobs24-childcare.webp",
+    "sha256": "2db5183380afbcfee5154a0ae5b5024c2ef7756b34aa964d1cab3842a5bf9d7d"
+  },
+  "assets/library/jobs24-teacher.webp": {
+    "src": "assets/offline/jobs24-teacher.webp",
+    "sha256": "6fabbfd6ecf1b25071304e40c65611ae02aa9815437e218575af64b8c84093ed"
+  },
+  "assets/library/jobs24-paramedic.webp": {
+    "src": "assets/offline/jobs24-paramedic.webp",
+    "sha256": "d07f6347f990451179f223d12c9031355fbbd89086760a3e8e91b89cf6e0a978"
+  },
+  "assets/library/jobs24-electrician.webp": {
+    "src": "assets/offline/jobs24-electrician.webp",
+    "sha256": "ff83c740bcc215fef0c9fcf72042c7640540c0d6a2629b01a97ead43606f077a"
+  },
+  "assets/library/jobs24-auto-mechanic.webp": {
+    "src": "assets/offline/jobs24-auto-mechanic.webp",
+    "sha256": "1037c83709a3d22fc3d1177ea10585548ecc8988fd9b8609dec4e85f74a12403"
+  },
+  "assets/library/jobs24-carpenter.webp": {
+    "src": "assets/offline/jobs24-carpenter.webp",
+    "sha256": "838e57259bb2ab31cf9bb12904518ba4fd7b5c8c8786ff0c867a24d06958e26b"
+  },
+  "assets/library/jobs24-plumber.webp": {
+    "src": "assets/offline/jobs24-plumber.webp",
+    "sha256": "1a8cb611b59983aaa2b47141b3ce013f8e569c75629e0f03fe8fcf8f367b1451"
+  },
+  "assets/library/jobs24-architect.webp": {
+    "src": "assets/offline/jobs24-architect.webp",
+    "sha256": "82b1d2480f127c35fde74ee1451566cdd343a2fbc336933d260a717cc5b12bd8"
+  },
+  "assets/library/jobs24-surveyor.webp": {
+    "src": "assets/offline/jobs24-surveyor.webp",
+    "sha256": "5d3ce186448d3a04f033d92679ca14d7a872a1ae0a0cd26c6c151de6ac3e5b88"
+  },
+  "assets/library/jobs24-cleaner.webp": {
+    "src": "assets/offline/jobs24-cleaner.webp",
+    "sha256": "104db2fd7c53f92d262878d5035ffe9ab43d99ae16303105d5c1e318d94afb6d"
+  },
+  "assets/library/jobs24-painter.webp": {
+    "src": "assets/offline/jobs24-painter.webp",
+    "sha256": "bfd3c8205d04ce3d030b3f262066291118875ae608ee861ae3bcc71938a4cff5"
+  },
+  "assets/library/jobs24-sushi-chef.webp": {
+    "src": "assets/offline/jobs24-sushi-chef.webp",
+    "sha256": "92dfc87da5c272a9be00ac0cf8e32614c5bc54ed25b5a2b949d9f83cd669afc7"
+  },
+  "assets/library/jobs24-waiter.webp": {
+    "src": "assets/offline/jobs24-waiter.webp",
+    "sha256": "1bcd1927d20be62599bda782cfcbead109999705b071b1fe2b4e70657843cd9c"
+  },
+  "assets/library/jobs24-supermarket.webp": {
+    "src": "assets/offline/jobs24-supermarket.webp",
+    "sha256": "e6482ca84dfc1f163785fbacc6592e28ed0c7c90641b318742a9f79718d82df8"
+  },
+  "assets/library/jobs24-hotel-front.webp": {
+    "src": "assets/offline/jobs24-hotel-front.webp",
+    "sha256": "4211ec684d09c27bf51b9c793fccfc038078112ed76d36aa78e5670f1100a099"
+  },
+  "assets/library/jobs24-bus-driver.webp": {
+    "src": "assets/offline/jobs24-bus-driver.webp",
+    "sha256": "1da188909e6739cbcfb10eb99bc4822cf5f2d20cdc5ed5c811389fc00419dd01"
+  },
+  "assets/library/jobs24-train-driver.webp": {
+    "src": "assets/offline/jobs24-train-driver.webp",
+    "sha256": "9b3c57e179ce35cee840fe3a569b9b265adaa432035a528f9e42cb10362ed242"
+  },
+  "assets/library/jobs24-airline-pilot.webp": {
+    "src": "assets/offline/jobs24-airline-pilot.webp",
+    "sha256": "c6fee8ea53aded0887bf227d035caf3655e5f3cd9ef4e7db49d643405859e070"
+  },
+  "assets/library/jobs24-cabin-crew.webp": {
+    "src": "assets/offline/jobs24-cabin-crew.webp",
+    "sha256": "621ed51520c74edcda39e501024ea01a3f9c00b01987ae9bc4ee796f24c87ffe"
   }
 }

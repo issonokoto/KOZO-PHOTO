@@ -1,0 +1,413 @@
+{
+  "mode": "built-in imagegen",
+  "reference": "assets/003.png",
+  "entries": [
+    {
+      "id": "jobs24-doctor",
+      "name": "お医者さん・聴診器でごあいさつ",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "医師",
+        "医者",
+        "病院",
+        "聴診器"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: White knee-length doctors lab coat with open front over pale blue dress shirt, understated navy tie, charcoal trousers and black shoes. A realistic stethoscope draped around neck; one hand holds a thin closed plain patient chart without visible writing, other hand gently waves. No mask or surgical gloves, face fully visible."
+    },
+    {
+      "id": "jobs24-nurse",
+      "name": "看護師・やさしい笑顔",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "看護師",
+        "ナース",
+        "病院"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Light blue short-sleeved clinical scrub top with dark blue trim and matching scrub trousers, plain white nonslip nurse shoes, small blank ID card clipped high on chest, compact digital thermometer held upright at waist. Other hand open in a welcoming gesture. Elderly male face and gray hair unchanged; no mask."
+    },
+    {
+      "id": "jobs24-pharmacist",
+      "name": "薬剤師・お薬を用意",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "薬剤師",
+        "薬局",
+        "薬"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: White pharmacists coat over pale cream shirt and navy trousers, dark shoes, small blank label on coat. One hand holds a small plain closed amber prescription bottle, other supports a small opaque white medicine bag WITHOUT printing. No loose pills spilling, no medical text. Calm welcoming smile."
+    },
+    {
+      "id": "jobs24-veterinarian",
+      "name": "獣医さん・動物のカルテ",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "獣医",
+        "動物病院",
+        "獣医師"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Forest-green veterinary scrub top and trousers, short white coat, clean black nonslip shoes and a stethoscope around neck. Holding a small plain clipboard with a simple paw-print icon but NO words, other hand open invitingly. No animal, no animal toy, face and hands unobscured."
+    },
+    {
+      "id": "jobs24-care-worker",
+      "name": "介護スタッフ・タオルを持って",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "介護",
+        "福祉",
+        "介護士"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Soft peach polo shirt, sage green functional work apron with pockets, comfortable beige trousers and nonslip sneakers, small blank name badge. Both hands hold one neatly folded white hand towel at waist; warm friendly eye contact. No patient, wheelchair or nursing environment."
+    },
+    {
+      "id": "jobs24-childcare",
+      "name": "保育士・絵本をどうぞ",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "保育士",
+        "保育園",
+        "絵本"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Bright but tasteful light yellow preschool smock with rounded pockets and simple colored fabric patches over cream long-sleeved shirt, dark trousers and comfortable shoes. Holding one small OPEN colorful picture book toward viewer, pages show simple non-text shapes only, other hand waves. SAME elderly male Kozo, no children or toys."
+    },
+    {
+      "id": "jobs24-teacher",
+      "name": "先生・本を手に授業中",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "先生",
+        "教師",
+        "学校",
+        "教員"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Tweed brown blazer over white shirt and modest knit tie, charcoal trousers, sensible brown shoes, slim glasses unchanged. Holding one small CLOSED plain textbook in one hand and a SHORT wooden pointer angled downward beside body in the other. No chalkboard, no desk, no school logos, no readable writing."
+    },
+    {
+      "id": "jobs24-paramedic",
+      "name": "救急救命士・救急バッグを持って",
+      "category": "お仕事",
+      "group": "医療・暮らし",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "医療・暮らし",
+        "救急救命士",
+        "救急",
+        "救命"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Dark navy-blue paramedic jacket and trousers with generic reflective silver bands, plain dark utility boots, soft navy cap with no markings. Carrying ONE small red first-aid bag with a simple plain white cross-shaped decorative patch and no lettering; other hand gives a reassuring thumbs-up. No ambulance, patient or medical procedures."
+    },
+    {
+      "id": "jobs24-electrician",
+      "name": "電気工事士・工具をそろえて",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "電気工事士",
+        "電工",
+        "電気",
+        "工事"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Practical Japanese electrician: plain light gray long-sleeve work jacket and trousers, unmarked white hard hat worn correctly, safety work shoes, dark utility belt with INSULATED screwdrivers and pliers handles visible. Holding a compact handheld electrical tester with unconnected probes bundled at waist, other hand thumbs-up. No exposed wires, no electrical panel, no live electrical work or brand logos.",
+      "edits": [
+        {
+          "mode": "built-in imagegen",
+          "purpose": "テスターの赤黒リードの接続を明確化",
+          "prompt": "Use case: precise-object-edit. Edit the provided full-body transparent image of Kozo as an electrician. Keep EXACTLY the same recognizable smiling elderly face, gray hair, glasses, white hard hat, grey work uniform, tools on belt, thumbs-up pose, legs, shoes, body proportions, all framing and true transparent alpha background. Change ONLY the multimeter and its test leads in the hand: make the meter slightly more visible in a natural hand grip, with TWO clearly visible plug sockets at its bottom. Show the BLACK test lead visibly plugged fully into the black COM socket and the RED lead visibly plugged fully into the red voltage socket. Each continuous insulated lead runs naturally from its own plugged connector to the matching black/red handheld probe; coil any excess loosely. Both insulated probes are together in the same hand, tips point upward and touch nothing. No loose unplugged ends, no live circuit, no third hand, no text except tiny COM if legible, no backdrop or glow. Entire person and device fully within canvas."
+        }
+      ]
+    },
+    {
+      "id": "jobs24-auto-mechanic",
+      "name": "自動車整備士・レンチ片手に",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "自動車整備士",
+        "整備士",
+        "車",
+        "整備"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Dark blue mechanics coveralls with subtle gray shoulders, clean black work boots, no logos or nametag text. Holding one normal-size combination wrench in one hand at hip height, other hand lightly on tool belt. No car, grease on face or huge tool; relaxed expert smile."
+    },
+    {
+      "id": "jobs24-carpenter",
+      "name": "大工さん・木づちと差し金",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "大工",
+        "木工",
+        "建築",
+        "職人"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Traditional modern Japanese carpenter workwear: beige long-sleeve work jacket, navy work trousers, dark tabi-style work shoes, plain white hard hat, practical tan canvas waist tool pouch. One hand holds a normal wooden mallet at side, other holds a small L-shaped carpenter square. Entire mallet and square fully visible, no saw or construction site."
+    },
+    {
+      "id": "jobs24-plumber",
+      "name": "水道工事・パイプを修理",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "水道工事",
+        "配管工",
+        "水道",
+        "配管"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Practical plumber in dark teal coveralls, short-sleeve undershirt, dark boots and plain gray work cap, utility belt. One hand holds a NORMAL-SIZE red pipe wrench pointing down, other hand holds ONE short silver pipe elbow fitting, visibly separate real objects with correct gripping hands. No flowing water, no oversized pipe or site."
+    },
+    {
+      "id": "jobs24-architect",
+      "name": "建築士・設計図を手に",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "建築士",
+        "設計",
+        "建築"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Architect in neat navy blazer, pale button-down shirt, gray trousers and brown leather shoes, no tie, holding ONE rolled paper blueprint neatly under one arm and a small closed notebook in the other hand. Paper is blank or has subtle illegible technical lines, no readable lettering. Friendly dignified confident posture, no hard hat, desk or model building."
+    },
+    {
+      "id": "jobs24-surveyor",
+      "name": "測量士・三脚を持って",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "測量士",
+        "測量",
+        "三脚"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Land surveyor wearing pale khaki work shirt and trousers, orange reflective safety vest, plain white hard hat and practical boots. Holding a compact FOLDED surveying tripod vertically at side with clearly THREE folded legs, other hand holds a small field notebook with no writing. No giant instrument, all tripod tips and helmet fully framed with generous transparent padding."
+    },
+    {
+      "id": "jobs24-cleaner",
+      "name": "清掃スタッフ・モップとバケツ",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "清掃",
+        "掃除",
+        "清掃員"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Professional cleaner wearing light blue uniform jacket, navy trousers, practical nonslip shoes, simple gray apron. One hand holds a SHORT full-length floor mop vertically with compact mop head touching near shoes, other hand holds a small clean plastic bucket by its handle. No cleaning cart, no written labels or floor, all props contained inside transparent canvas."
+    },
+    {
+      "id": "jobs24-painter",
+      "name": "塗装職人・ローラー片手に",
+      "category": "お仕事",
+      "group": "技術・現場",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "技術・現場",
+        "塗装",
+        "ペンキ",
+        "塗装職人"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Painter and decorator in clean white painters coveralls with a few tasteful multicolor paint spots, plain white cap, gray work shoes. One hand holds a normal short paint roller upright, other holds a small closed paint can with NO label. No painted backdrop, no splashes on face, no exaggerated giant props."
+    },
+    {
+      "id": "jobs24-sushi-chef",
+      "name": "寿司職人・お寿司をどうぞ",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "寿司",
+        "すし",
+        "寿司職人"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Japanese sushi chef in pristine white short-sleeve chef jacket, white apron, black trousers, black clean shoes, neat white chef cap. Both hands gently present a small dark wooden serving board carrying three realistic neatly formed nigiri sushi. No giant fish, no knives, no text, no restaurant counter."
+    },
+    {
+      "id": "jobs24-waiter",
+      "name": "レストラン店員・トレーでご案内",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "レストラン",
+        "ウェイター",
+        "接客"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Restaurant waiter in crisp white long-sleeve shirt, dark charcoal vest and trousers, black bow tie, polished black shoes. One hand holds a SMALL ROUND serving tray level with one plain drinking glass and folded napkin, other hand extends in an inviting gesture. No restaurant, no readable signage, tray and glass fully in frame."
+    },
+    {
+      "id": "jobs24-supermarket",
+      "name": "スーパー店員・買い物かご",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "スーパー",
+        "販売",
+        "店員"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Grocery store employee in light blue collared shirt, forest-green apron with two plain pockets, dark trousers and comfortable black shoes, blank generic name badge. Holding one compact clean red plastic shopping basket containing a few generic unbranded vegetables at waist; other hand offers a friendly wave. No logos, cash register or text."
+    },
+    {
+      "id": "jobs24-hotel-front",
+      "name": "ホテルフロント・ようこそ",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "ホテル",
+        "フロント",
+        "受付"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Hotel front desk staff in a deep navy tailored jacket and trousers, cream shirt, tasteful burgundy necktie, polished black shoes and small blank name badge. Holding one small polished brass desk bell securely on a flat hand at waist, other hand open in a gracious welcoming gesture. No counter, no printed logo."
+    },
+    {
+      "id": "jobs24-bus-driver",
+      "name": "バス運転士・出発します",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "バス",
+        "運転士",
+        "運転手",
+        "バス運転手"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Japanese bus driver in plain navy blazer and matching trousers, white shirt, muted blue tie, unmarked navy peaked cap, white gloves and black leather shoes. Holding one small plain round steering-wheel-shaped training prop at waist with one hand and giving a friendly salute with the other. No bus, brand, railway ticket or written sign.",
+      "edits": [
+        {
+          "mode": "built-in imagegen",
+          "purpose": "独立したハンドルを運行用のバインダーに変更",
+          "prompt": "Use case: precise-object-edit. Edit this full-body transparent portrait of elderly Japanese Kozo as a bus driver. Preserve EXACTLY the same smiling wrinkled face, glasses, gray hair, navy peaked bus-driver cap, navy uniform jacket and trousers, blue necktie, white gloves, black shoes, full-body framing and RIGHT-HAND SALUTE. REMOVE the loose unattached steering wheel completely. Instead, the LEFT white-gloved hand naturally holds ONE small flat navy route clipboard vertically against his left hip. On the top of the clipboard is a small simple WHITE SILHOUETTE OF A BUS, no words, letters, logo or numbers. The clipboard is a normal compact hand-held work item, not oversized. Natural fingers, one person only, no vehicle, no steering wheel, no background. Keep genuinely transparent alpha and all limbs and both shoes fully within canvas. No backdrop, gradient, shadow plane or glow."
+        }
+      ]
+    },
+    {
+      "id": "jobs24-train-driver",
+      "name": "電車運転士・指差し確認",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "電車",
+        "鉄道",
+        "運転士",
+        "鉄道運転士"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Contemporary Japanese RAILWAY DRIVER in deep navy railway uniform jacket and matching trousers, crisp white shirt, plain blue tie, navy peaked cap with a SMALL GENERIC unlettered oval badge, white gloves and black shoes. One gloved arm angled toward the side with index finger clearly pointing in a railway safety-check pose, other hand rests neatly near waist. No train, ticket punch, company emblem, text or extra people."
+    },
+    {
+      "id": "jobs24-airline-pilot",
+      "name": "旅客機パイロット・機長のごあいさつ",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "パイロット",
+        "飛行機",
+        "機長",
+        "航空"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Airline pilot in navy double-breasted uniform jacket and trousers, white shirt, black tie, navy peaked pilot cap with simple abstract gold trim, understated generic gold sleeve stripes, black leather shoes. Holding a small closed plain dark flight logbook in one hand, other hand waves. No airline name, specific badge, plane or oversized accessories."
+    },
+    {
+      "id": "jobs24-cabin-crew",
+      "name": "客室乗務員・機内のご案内",
+      "category": "お仕事",
+      "group": "接客・交通",
+      "tags": [
+        "仕事",
+        "お仕事",
+        "仕事追加24",
+        "接客・交通",
+        "客室乗務員",
+        "キャビンアテンダント",
+        "航空"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE photorealistic FULL-BODY transparent cutout of the same elderly Japanese Kozo in a real everyday occupation for a commemorative photo-compositing app. Reference image 1 is the IDENTITY reference: preserve his exact recognizable smiling wrinkled elderly Japanese male face, natural gray hair, thin eyeglasses, age, skin and normal mature male body proportions. Replace the fishing cap and original polo clothing with the specified job uniform. Do not make him younger or replace his face. Make the job immediately recognizable through realistic, practical occupation-specific clothes and correctly scaled tools. Friendly and professional, gentle warm smile, clear expressive natural pose, looking toward camera. Both hands naturally connected, five fingers where visible. ONE person only, no patient, child, animal, co-worker, scene or background. Use authentic plausible uniform construction, no branded company logos, official organization insignia, readable text, real names or identifiable personal data. Props are simple, generic, realistic and human-sized. Neutral diffuse studio lighting. Full length front three-quarter view: entire head and any cap, both hands and feet, EVERY tool and accessory fully fit inside canvas; subject occupies about 84 percent of canvas height, with at least 80 pixels genuine transparent padding at top and bottom and 50 pixels at sides. Nothing cropped. REAL alpha-transparent background and spaces between body and objects, no floor, stage, scene, checkerboard, gradient, colored glow, halo or detached floating object. Clear silhouette, realistic cloth and skin texture. No exaggerated giant objects or cartoon style.\nOccupation, clothes, props and pose: Elegant flight attendant outfit on the SAME elderly male Kozo: tailored deep teal blazer and matching trousers, light cream shirt, small coral scarf at neck, modest simple blank name badge, black shoes. Both hands gesture courteously to one side as if guiding a passenger. Gray hair exposed, no hat, no airline branding, no airplane cabin or other person."
+    }
+  ]
+}

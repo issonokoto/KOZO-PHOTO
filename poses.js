@@ -85,6 +85,399 @@ export const BUNDLED_POSES = [
     "thumbnail": "./assets/thumbnails/arms-crossed.webp"
   },
   {
+    "id": "jobs24-doctor",
+    "name": "お医者さん・聴診器でごあいさつ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "医師",
+      "医者",
+      "病院",
+      "聴診器"
+    ],
+    "src": "./assets/library/jobs24-doctor.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-doctor.webp"
+  },
+  {
+    "id": "jobs24-nurse",
+    "name": "看護師・やさしい笑顔",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "看護師",
+      "ナース",
+      "病院"
+    ],
+    "src": "./assets/library/jobs24-nurse.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-nurse.webp"
+  },
+  {
+    "id": "jobs24-pharmacist",
+    "name": "薬剤師・お薬を用意",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "薬剤師",
+      "薬局",
+      "薬"
+    ],
+    "src": "./assets/library/jobs24-pharmacist.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-pharmacist.webp"
+  },
+  {
+    "id": "jobs24-veterinarian",
+    "name": "獣医さん・動物のカルテ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "獣医",
+      "動物病院",
+      "獣医師"
+    ],
+    "src": "./assets/library/jobs24-veterinarian.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-veterinarian.webp"
+  },
+  {
+    "id": "jobs24-care-worker",
+    "name": "介護スタッフ・タオルを持って",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "介護",
+      "福祉",
+      "介護士"
+    ],
+    "src": "./assets/library/jobs24-care-worker.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-care-worker.webp"
+  },
+  {
+    "id": "jobs24-childcare",
+    "name": "保育士・絵本をどうぞ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "保育士",
+      "保育園",
+      "絵本"
+    ],
+    "src": "./assets/library/jobs24-childcare.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-childcare.webp"
+  },
+  {
+    "id": "jobs24-teacher",
+    "name": "先生・本を手に授業中",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "先生",
+      "教師",
+      "学校",
+      "教員"
+    ],
+    "src": "./assets/library/jobs24-teacher.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-teacher.webp"
+  },
+  {
+    "id": "jobs24-paramedic",
+    "name": "救急救命士・救急バッグを持って",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "医療・暮らし",
+      "救急救命士",
+      "救急",
+      "救命"
+    ],
+    "src": "./assets/library/jobs24-paramedic.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-paramedic.webp"
+  },
+  {
+    "id": "jobs24-electrician",
+    "name": "電気工事士・工具をそろえて",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "電気工事士",
+      "電工",
+      "電気",
+      "工事"
+    ],
+    "src": "./assets/library/jobs24-electrician.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-electrician.webp"
+  },
+  {
+    "id": "jobs24-auto-mechanic",
+    "name": "自動車整備士・レンチ片手に",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "自動車整備士",
+      "整備士",
+      "車",
+      "整備"
+    ],
+    "src": "./assets/library/jobs24-auto-mechanic.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-auto-mechanic.webp"
+  },
+  {
+    "id": "jobs24-carpenter",
+    "name": "大工さん・木づちと差し金",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "大工",
+      "木工",
+      "建築",
+      "職人"
+    ],
+    "src": "./assets/library/jobs24-carpenter.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-carpenter.webp"
+  },
+  {
+    "id": "jobs24-plumber",
+    "name": "水道工事・パイプを修理",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "水道工事",
+      "配管工",
+      "水道",
+      "配管"
+    ],
+    "src": "./assets/library/jobs24-plumber.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-plumber.webp"
+  },
+  {
+    "id": "jobs24-architect",
+    "name": "建築士・設計図を手に",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "建築士",
+      "設計",
+      "建築"
+    ],
+    "src": "./assets/library/jobs24-architect.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-architect.webp"
+  },
+  {
+    "id": "jobs24-surveyor",
+    "name": "測量士・三脚を持って",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "測量士",
+      "測量",
+      "三脚"
+    ],
+    "src": "./assets/library/jobs24-surveyor.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-surveyor.webp"
+  },
+  {
+    "id": "jobs24-cleaner",
+    "name": "清掃スタッフ・モップとバケツ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "清掃",
+      "掃除",
+      "清掃員"
+    ],
+    "src": "./assets/library/jobs24-cleaner.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-cleaner.webp"
+  },
+  {
+    "id": "jobs24-painter",
+    "name": "塗装職人・ローラー片手に",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "技術・現場",
+      "塗装",
+      "ペンキ",
+      "塗装職人"
+    ],
+    "src": "./assets/library/jobs24-painter.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-painter.webp"
+  },
+  {
+    "id": "jobs24-sushi-chef",
+    "name": "寿司職人・お寿司をどうぞ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "寿司",
+      "すし",
+      "寿司職人"
+    ],
+    "src": "./assets/library/jobs24-sushi-chef.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-sushi-chef.webp"
+  },
+  {
+    "id": "jobs24-waiter",
+    "name": "レストラン店員・トレーでご案内",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "レストラン",
+      "ウェイター",
+      "接客"
+    ],
+    "src": "./assets/library/jobs24-waiter.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-waiter.webp"
+  },
+  {
+    "id": "jobs24-supermarket",
+    "name": "スーパー店員・買い物かご",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "スーパー",
+      "販売",
+      "店員"
+    ],
+    "src": "./assets/library/jobs24-supermarket.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-supermarket.webp"
+  },
+  {
+    "id": "jobs24-hotel-front",
+    "name": "ホテルフロント・ようこそ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "ホテル",
+      "フロント",
+      "受付"
+    ],
+    "src": "./assets/library/jobs24-hotel-front.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-hotel-front.webp"
+  },
+  {
+    "id": "jobs24-bus-driver",
+    "name": "バス運転士・出発します",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "バス",
+      "運転士",
+      "運転手",
+      "バス運転手"
+    ],
+    "src": "./assets/library/jobs24-bus-driver.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-bus-driver.webp"
+  },
+  {
+    "id": "jobs24-train-driver",
+    "name": "電車運転士・指差し確認",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "電車",
+      "鉄道",
+      "運転士",
+      "鉄道運転士"
+    ],
+    "src": "./assets/library/jobs24-train-driver.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-train-driver.webp"
+  },
+  {
+    "id": "jobs24-airline-pilot",
+    "name": "旅客機パイロット・機長のごあいさつ",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "パイロット",
+      "飛行機",
+      "機長",
+      "航空"
+    ],
+    "src": "./assets/library/jobs24-airline-pilot.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-airline-pilot.webp"
+  },
+  {
+    "id": "jobs24-cabin-crew",
+    "name": "客室乗務員・機内のご案内",
+    "category": "お仕事",
+    "tags": [
+      "仕事",
+      "お仕事",
+      "仕事追加24",
+      "接客・交通",
+      "客室乗務員",
+      "キャビンアテンダント",
+      "航空"
+    ],
+    "src": "./assets/library/jobs24-cabin-crew.webp",
+    "thumbnail": "./assets/thumbnails/jobs24-cabin-crew.webp"
+  },
+  {
     "id": "yokai24-kappa",
     "name": "河童・きゅうりどうぞ",
     "category": "妖怪",

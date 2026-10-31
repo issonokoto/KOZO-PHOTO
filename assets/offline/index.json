@@ -3278,5 +3278,13 @@
   "assets/library/event120-summer-festival-drum.webp": {
     "src": "assets/offline/event120-summer-festival-drum.webp",
     "sha256": "14bcf56adb82297d3237daaa04c919c8a41206e719ca1df836cf271837abfcf0"
+  },
+  "assets/library/georgia-chokha-burgundy.webp": {
+    "src": "assets/offline/georgia-chokha-burgundy.webp",
+    "sha256": "6e137980746b096a32be0e6f987b424fb6d69fd86c154b1aac82a4c61c937fb4"
+  },
+  "assets/library/georgia-chokha-ivory.webp": {
+    "src": "assets/offline/georgia-chokha-ivory.webp",
+    "sha256": "20f5c21bae7839b2e030c64325b0010b0fddf10831d783f198dbd798630635be"
   }
 }

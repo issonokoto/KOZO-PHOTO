@@ -121,6 +121,72 @@ export const BUNDLED_POSES = [
     ]
   },
   {
+    "id": "georgia-chokha-burgundy",
+    "name": "ジョージア・深紅のチョハ",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "ぐるじあ",
+      "チョハ",
+      "チョーハ",
+      "ちょは",
+      "Chokha",
+      "Georgia",
+      "ქართული ჩოხა",
+      "民族衣装",
+      "伝統衣装",
+      "正装",
+      "礼装",
+      "世界の衣装",
+      "ジョージア追加2",
+      "ジョージア・深紅のチョハ",
+      "赤",
+      "あか",
+      "深紅",
+      "しんく",
+      "バーガンディ"
+    ],
+    "subgenres": [
+      "outfit:world"
+    ],
+    "src": "./assets/library/georgia-chokha-burgundy.webp",
+    "thumbnail": "./assets/thumbnails/georgia-chokha-burgundy.webp"
+  },
+  {
+    "id": "georgia-chokha-ivory",
+    "name": "ジョージア・白いチョハ",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "ぐるじあ",
+      "チョハ",
+      "チョーハ",
+      "ちょは",
+      "Chokha",
+      "Georgia",
+      "ქართული ჩოხა",
+      "民族衣装",
+      "伝統衣装",
+      "正装",
+      "礼装",
+      "世界の衣装",
+      "ジョージア追加2",
+      "ジョージア・白いチョハ",
+      "白",
+      "しろ",
+      "アイボリー"
+    ],
+    "subgenres": [
+      "outfit:world"
+    ],
+    "src": "./assets/library/georgia-chokha-ivory.webp",
+    "thumbnail": "./assets/thumbnails/georgia-chokha-ivory.webp"
+  },
+  {
     "id": "event24-setsubun-beans",
     "name": "節分・豆まき",
     "category": "イベント",

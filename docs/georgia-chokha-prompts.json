@@ -1,0 +1,82 @@
+{
+  "tool": "built-in image_gen",
+  "started": "2026-10-31",
+  "referenceRoles": {
+    "identity": "assets/001.png",
+    "clothing": "利用者提供の赤・白のチョハの写真。衣装だけを参考にし、人物の顔や街の背景は生成に使用しない。"
+  },
+  "research": {
+    "identification": "写真の衣装は胸の筒状装飾、長い裾、細い帯などからチョハと判断。地域型や製作者は写真だけでは断定しない。",
+    "sources": [
+      {
+        "title": "Traditional Georgian Clothes | Georgia Travel",
+        "url": "https://georgia.travel/traditional-georgian-clothes",
+        "supports": "チョハ・アハルヒ、帯や靴を含む男性の伝統衣装の構成"
+      },
+      {
+        "title": "EFHA Focus: Georgian Chokha",
+        "url": "https://fashionheritage.eu/efha-focus-georgian-chokha/",
+        "supports": "ウールの外衣、胸の筒状ホルダー、地域による違い、特別な場での現代の着用"
+      }
+    ]
+  },
+  "basePrompt": "Use case: identity-preserve. Asset type: photorealistic full-body transparent PNG cutout for KOZO PHOTO, to place alongside a user's photograph. Input image 1 is the ONLY identity reference: the elderly Japanese gentleman Kozo Yamanaka. Preserve his recognizable elderly smiling face, wrinkles, age, ears, facial proportions, friendly eyes and average elderly build. Input image 2 is ONLY a clothing reference; do not use either photographed man's face or body, and do not include any people or street background. Dress Kozo in the Georgian traditional ceremonial chokha, based on researched Georgian costume and this photo: a fitted waist and flared ankle-length wool overcoat; open V front showing an ivory high standing-collar akhalukhi undershirt; clearly separated rows of silver-tipped cylindrical decorative cartridge holders on BOTH sides of the chest, set into their fabric loops; wide long outer sleeves with ornate woven braid edging; thin black leather belt with small silver buckle and modest silver hanging belt fittings; black trousers and complete black leather mid-calf boots. A small traditional belt dagger may be present ONLY fully sheathed and hanging naturally at the belt. Hands empty. Bareheaded, short gray hair, no baseball cap. Real textile folds and fine braid detail, respectful realistic portrait photography, soft even studio lighting. Head, hands, entire long hem and both boot soles must be fully inside frame with generous transparent margin on every side. Exactly ONE man, standing, full-length, centered, portrait 1024x1536-like composition. Genuine transparent alpha background, no backdrop, no floor, no shadows outside the figure, no checkerboard pixels, no vignette, no text, no logos, no flags, no scenery. Do not turn him into a young European man. Clothing covers the original polo and all original lettering.",
+  "entries": [
+    {
+      "id": "georgia-chokha-burgundy",
+      "name": "ジョージア・深紅のチョハ",
+      "spec": "Deep burgundy crimson wool chokha matching the man on the LEFT of clothing reference, ivory shirt, restrained cream and silver woven braid around neckline, chest holder bases, sleeve openings and center front. Both arms relaxed slightly away from the torso, right palm gently open in welcome, friendly smile, feet naturally separated. Not a military salute.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "ぐるじあ",
+        "チョハ",
+        "チョーハ",
+        "ちょは",
+        "Chokha",
+        "Georgia",
+        "ქართული ჩოხა",
+        "民族衣装",
+        "伝統衣装",
+        "正装",
+        "礼装",
+        "世界の衣装",
+        "ジョージア追加2",
+        "ジョージア・深紅のチョハ"
+      ]
+    },
+    {
+      "id": "georgia-chokha-ivory",
+      "name": "ジョージア・白いチョハ",
+      "spec": "Ivory white wool chokha matching the man on the RIGHT of clothing reference, ivory shirt and ornate pale silver woven braid around neckline, chest holder bases, sleeve cuffs and center front, clearly visible silver-tipped chest cylinders. One hand rests gently at the waist and the other arm hangs naturally, friendly smile, feet naturally separated. The garment must be white yet retain fine woven texture and the photorealistic face.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "ぐるじあ",
+        "チョハ",
+        "チョーハ",
+        "ちょは",
+        "Chokha",
+        "Georgia",
+        "ქართული ჩოხა",
+        "民族衣装",
+        "伝統衣装",
+        "正装",
+        "礼装",
+        "世界の衣装",
+        "ジョージア追加2",
+        "ジョージア・白いチョハ"
+      ]
+    }
+  ]
+}

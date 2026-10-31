@@ -1,5 +1,6 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261031-events144';
+import { BUNDLED_POSES } from './poses.js?v=20261031-classification';
+import { POSE_GENRES } from './pose-taxonomy.js?v=20261031-classification';
 import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261027-frames';
 const ASSET_VERSION = '20261012-library';
 function assetUrl(src, version = ASSET_VERSION) {
@@ -8,12 +9,16 @@ function assetUrl(src, version = ASSET_VERSION) {
   if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', version);
   return source.href;
 }
+const SUBGENRES = new Map(POSE_GENRES.flatMap(genre => genre.subgenres.map(subgenre => [subgenre.id, { ...subgenre, genreId: genre.id, genreLabel: genre.label }])));
 const CHARACTERS = BUNDLED_POSES.map(pose => {
   return {
     ...pose,
     name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
     category: pose.category || '定番',
     tags: pose.tags || [],
+    subgenres: pose.subgenres || [],
+    genreIds: [...new Set((pose.subgenres || []).map(id => SUBGENRES.get(id)?.genreId).filter(Boolean))],
+    classificationTerms: (pose.subgenres || []).map(id => SUBGENRES.get(id)).filter(Boolean).map(subgenre => `${subgenre.genreLabel} ${subgenre.label}`).join(' '),
     src: assetUrl(pose.src),
     thumbnail: assetUrl(pose.thumbnail || pose.src)
   };
@@ -233,7 +238,7 @@ function prepareFrameFilter() {
   for (const [id, label] of [['seasonal', '季節・行事'], ['category', 'カテゴリー向け'], ['local', '徳島・クラゲ']]) {
     add(select, `group:${id}`, label, FRAMES.filter(frame => frame.group === id).length);
   }
-  const categories = document.createElement('optgroup'); categories.label = '素材のジャンルに合わせる';
+  const categories = document.createElement('optgroup'); categories.label = 'テーマから選ぶ';
   for (const category of [...new Set(CHARACTERS.map(pose => pose.category))]) {
     const count = FRAMES.filter(frame => frame.categories.includes(category)).length;
     if (count) add(categories, `category:${category}`, category, count);
@@ -385,8 +390,9 @@ function searchKey(value) {
 }
 function filteredPoses() {
   const terms = searchKey($('pose-search').value).trim().split(/\s+/).filter(Boolean);
-  const category = $('pose-category').value;
-  return CHARACTERS.filter(pose => (!category || pose.category === category) && terms.every(term => searchKey([pose.name, pose.id, pose.category, ...pose.tags].join(' ')).includes(term)));
+  const genre = $('pose-category').value;
+  const subgenre = $('pose-subgenre').value;
+  return CHARACTERS.filter(pose => (!genre || pose.genreIds.includes(genre)) && (!subgenre || pose.subgenres.includes(subgenre)) && terms.every(term => searchKey([pose.name, pose.id, pose.category, ...pose.tags, pose.classificationTerms].join(' ')).includes(term)));
 }
 function renderCharacters() {
   const list = $('character-list');
@@ -427,15 +433,35 @@ function renderCharacters() {
     list.append(button);
   }
 }
-for (const category of [...new Set(CHARACTERS.map(pose => pose.category))]) {
-  const option = document.createElement('option'); option.value = category; option.textContent = category;
+for (const genre of POSE_GENRES) {
+  const option = document.createElement('option'); option.value = genre.id; option.textContent = genre.label;
   $('pose-category').append(option);
 }
+function renderSubgenreOptions(selected = '') {
+  const select = $('pose-subgenre');
+  const genreId = $('pose-category').value;
+  select.replaceChildren(new Option('すべて', ''));
+  for (const genre of POSE_GENRES.filter(genre => !genreId || genre.id === genreId)) {
+    const group = genreId ? select : document.createElement('optgroup');
+    if (!genreId) { group.label = genre.label; select.append(group); }
+    for (const subgenre of genre.subgenres) group.append(new Option(subgenre.label, subgenre.id));
+  }
+  if ([...select.options].some(option => option.value === selected)) select.value = selected;
+}
+renderSubgenreOptions();
 function filterPoses() { poseLimit = POSE_PAGE_SIZE; renderCharacters(); }
 $('pose-search').addEventListener('input', filterPoses);
-$('pose-category').addEventListener('change', filterPoses);
+$('pose-category').addEventListener('change', () => { renderSubgenreOptions($('pose-subgenre').value); filterPoses(); });
+$('pose-subgenre').addEventListener('change', () => {
+  const selected = $('pose-subgenre').value;
+  if (selected) {
+    $('pose-category').value = SUBGENRES.get(selected).genreId;
+    renderSubgenreOptions(selected);
+  }
+  filterPoses();
+});
 $('clear-pose-search').addEventListener('click', () => {
-  $('pose-search').value = ''; $('pose-category').value = ''; filterPoses(); $('pose-search').focus({preventScroll: true});
+  $('pose-search').value = ''; $('pose-category').value = ''; renderSubgenreOptions(); filterPoses(); $('pose-search').focus({preventScroll: true});
 });
 $('more-poses').addEventListener('click', () => { poseLimit += POSE_PAGE_SIZE; renderCharacters(); });
 function chooseRandomPose(poses, previous = currentPose) {

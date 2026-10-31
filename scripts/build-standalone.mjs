@@ -5,12 +5,14 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {BUNDLED_POSES} from '../poses.js';
 import {BUNDLED_FRAMES} from '../frames.js';
+import {POSE_GENRES} from '../pose-taxonomy.js';
 const root=fileURLToPath(new URL('../',import.meta.url));
 let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 // A local single-file copy has no installable URL or external app icons.
 html=html.replace(/\s*<link rel="(?:manifest|apple-touch-icon)"[^>]*>/g,'');
 let js=fs.readFileSync(path.join(root,'camera.js'),'utf8').replace("import { renderTextCanvas } from './text.js';",'').replace(/import \{ BUNDLED_POSES \} from '\.\/poses\.js(?:\?[^']*)?';/,'');
 js=js.replace(/import \{ BUNDLED_FRAMES, drawPhotoFrame \} from '\.\/frames\.js(?:\?[^']*)?';/,'');
+js=js.replace(/import \{ POSE_GENRES \} from '\.\/pose-taxonomy\.js(?:\?[^']*)?';/,'');
 const offlineIndex=path.join(root,'assets','offline','index.json');
 const offlineImages=fs.existsSync(offlineIndex)?JSON.parse(fs.readFileSync(offlineIndex,'utf8')):{};
 function embed(file){
@@ -32,7 +34,7 @@ for(const file of ['pose-placeholder.svg','name.svg','favicon.svg']){
  const data='data:image/svg+xml;base64,'+fs.readFileSync(path.join(root,'assets',file)).toString('base64');
  html=html.replaceAll('assets/'+file,data);js=js.replaceAll('./assets/'+file,data);
 }
-const script='const BUNDLED_POSES = '+JSON.stringify(poses)+';\nconst BUNDLED_FRAMES = '+JSON.stringify(frames)+';\n'+frameRenderer+'\n'+text+'\n'+js;
+const script='const BUNDLED_POSES = '+JSON.stringify(poses)+';\nconst BUNDLED_FRAMES = '+JSON.stringify(frames)+';\nconst POSE_GENRES = '+JSON.stringify(POSE_GENRES)+';\n'+frameRenderer+'\n'+text+'\n'+js;
 const check=spawnSync(process.execPath,['--input-type=module','--check'],{input:script,encoding:'utf8'});
 if(check.status!==0)throw new Error(check.stderr);
 html=html.replace(/<link rel="stylesheet" href="camera\.css(?:\?[^\"]*)?">/,'<style>'+css+'</style>').replace(/<script type="module" src="camera\.js(?:\?[^\"]*)?"><\/script>/,'');

@@ -5,84 +5,120 @@ export const BUNDLED_POSES = [
     "name": "笑顔",
     "src": "./assets/001.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/smile.webp"
+    "thumbnail": "./assets/thumbnails/smile.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "peace",
     "name": "ピース",
     "src": "./assets/002.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/peace.webp"
+    "thumbnail": "./assets/thumbnails/peace.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "thumb",
     "name": "サムズアップ",
     "src": "./assets/003.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/thumb.webp"
+    "thumbnail": "./assets/thumbnails/thumb.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "wave",
     "name": "手を振る",
     "src": "./assets/kozo-wave.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/wave.webp"
+    "thumbnail": "./assets/thumbnails/wave.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "bow",
     "name": "おじぎ",
     "src": "./assets/kozo-bow.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/bow.webp"
+    "thumbnail": "./assets/thumbnails/bow.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "guide",
     "name": "案内",
     "src": "./assets/kozo-guide.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/guide.webp"
+    "thumbnail": "./assets/thumbnails/guide.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "cheer",
     "name": "ガッツポーズ",
     "src": "./assets/kozo-cheer.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/cheer.webp"
+    "thumbnail": "./assets/thumbnails/cheer.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "point",
     "name": "指さし",
     "src": "./assets/kozo-point.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/point.webp"
+    "thumbnail": "./assets/thumbnails/point.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "welcome",
     "name": "両手を広げる",
     "src": "./assets/kozo-welcome.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/welcome.webp"
+    "thumbnail": "./assets/thumbnails/welcome.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "heart",
     "name": "ハート",
     "src": "./assets/kozo-heart.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/heart.webp"
+    "thumbnail": "./assets/thumbnails/heart.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "salute",
     "name": "敬礼",
     "src": "./assets/kozo-salute.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/salute.webp"
+    "thumbnail": "./assets/thumbnails/salute.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "arms-crossed",
     "name": "腕組み",
     "src": "./assets/kozo-arms-crossed.png",
     "category": "定番",
-    "thumbnail": "./assets/thumbnails/arms-crossed.webp"
+    "thumbnail": "./assets/thumbnails/arms-crossed.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "event24-setsubun-beans",
@@ -97,7 +133,12 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event24-setsubun-beans.webp",
-    "thumbnail": "./assets/thumbnails/event24-setsubun-beans.webp"
+    "thumbnail": "./assets/thumbnails/event24-setsubun-beans.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese",
+      "food:produce"
+    ]
   },
   {
     "id": "event24-setsubun-ehomaki",
@@ -112,7 +153,12 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event24-setsubun-ehomaki.webp",
-    "thumbnail": "./assets/thumbnails/event24-setsubun-ehomaki.webp"
+    "thumbnail": "./assets/thumbnails/event24-setsubun-ehomaki.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese",
+      "food:meal"
+    ]
   },
   {
     "id": "event120-setsubun-oni-red",
@@ -128,7 +174,11 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-oni-red.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-oni-red.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-oni-red.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:costume"
+    ]
   },
   {
     "id": "event120-setsubun-oni-blue",
@@ -144,7 +194,11 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-oni-blue.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-oni-blue.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-oni-blue.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:costume"
+    ]
   },
   {
     "id": "event120-setsubun-fukumame",
@@ -160,7 +214,12 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-fukumame.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-fukumame.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-fukumame.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese",
+      "food:produce"
+    ]
   },
   {
     "id": "event120-setsubun-oni-mask",
@@ -176,7 +235,11 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-oni-mask.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-oni-mask.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-oni-mask.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-setsubun-okame",
@@ -192,7 +255,11 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-okame.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-okame.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-okame.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-setsubun-hiiragi",
@@ -208,7 +275,11 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-hiiragi.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-hiiragi.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-hiiragi.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-setsubun-bean-roaster",
@@ -224,7 +295,11 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-bean-roaster.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-bean-roaster.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-bean-roaster.webp",
+    "subgenres": [
+      "event:setsubun",
+      "food:produce"
+    ]
   },
   {
     "id": "event120-setsubun-ehomaki-mini",
@@ -240,7 +315,12 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-ehomaki-mini.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-ehomaki-mini.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-ehomaki-mini.webp",
+    "subgenres": [
+      "event:setsubun",
+      "outfit:japanese",
+      "food:meal"
+    ]
   },
   {
     "id": "event120-setsubun-fuku-fan",
@@ -256,7 +336,10 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-fuku-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-fuku-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-fuku-fan.webp",
+    "subgenres": [
+      "event:setsubun"
+    ]
   },
   {
     "id": "event120-setsubun-beans-catch",
@@ -272,7 +355,10 @@ export const BUNDLED_POSES = [
       "せつぶん"
     ],
     "src": "./assets/library/event120-setsubun-beans-catch.webp",
-    "thumbnail": "./assets/thumbnails/event120-setsubun-beans-catch.webp"
+    "thumbnail": "./assets/thumbnails/event120-setsubun-beans-catch.webp",
+    "subgenres": [
+      "event:setsubun"
+    ]
   },
   {
     "id": "event24-hina-dolls",
@@ -287,7 +373,11 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event24-hina-dolls.webp",
-    "thumbnail": "./assets/thumbnails/event24-hina-dolls.webp"
+    "thumbnail": "./assets/thumbnails/event24-hina-dolls.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event24-hina-hishimochi",
@@ -302,7 +392,12 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event24-hina-hishimochi.webp",
-    "thumbnail": "./assets/thumbnails/event24-hina-hishimochi.webp"
+    "thumbnail": "./assets/thumbnails/event24-hina-hishimochi.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-hina-emperor",
@@ -318,7 +413,10 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-emperor.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-emperor.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-emperor.webp",
+    "subgenres": [
+      "event:hina"
+    ]
   },
   {
     "id": "event120-hina-empress",
@@ -334,7 +432,10 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-empress.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-empress.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-empress.webp",
+    "subgenres": [
+      "event:hina"
+    ]
   },
   {
     "id": "event120-hina-lantern",
@@ -350,7 +451,11 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-lantern.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-lantern.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-lantern.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-hina-arare",
@@ -366,7 +471,11 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-arare.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-arare.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-arare.webp",
+    "subgenres": [
+      "event:hina",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-hina-peach",
@@ -382,7 +491,12 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-peach.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-peach.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-peach.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-hina-temari",
@@ -398,7 +512,12 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-temari.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-temari.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-temari.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-hina-shirozake",
@@ -414,7 +533,11 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-shirozake.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-shirozake.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-shirozake.webp",
+    "subgenres": [
+      "event:hina",
+      "food:drinks"
+    ]
   },
   {
     "id": "event120-hina-sakura-mochi",
@@ -430,7 +553,12 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-sakura-mochi.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-sakura-mochi.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-sakura-mochi.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-hina-hina-box",
@@ -446,7 +574,10 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-hina-box.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-hina-box.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-hina-box.webp",
+    "subgenres": [
+      "event:hina"
+    ]
   },
   {
     "id": "event120-hina-hina-heart",
@@ -462,7 +593,11 @@ export const BUNDLED_POSES = [
       "ひなまつり"
     ],
     "src": "./assets/library/event120-hina-hina-heart.webp",
-    "thumbnail": "./assets/thumbnails/event120-hina-hina-heart.webp"
+    "thumbnail": "./assets/thumbnails/event120-hina-hina-heart.webp",
+    "subgenres": [
+      "event:hina",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event24-children-carp",
@@ -477,7 +612,10 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event24-children-carp.webp",
-    "thumbnail": "./assets/thumbnails/event24-children-carp.webp"
+    "thumbnail": "./assets/thumbnails/event24-children-carp.webp",
+    "subgenres": [
+      "event:children"
+    ]
   },
   {
     "id": "event24-children-kabuto",
@@ -492,7 +630,11 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event24-children-kabuto.webp",
-    "thumbnail": "./assets/thumbnails/event24-children-kabuto.webp"
+    "thumbnail": "./assets/thumbnails/event24-children-kabuto.webp",
+    "subgenres": [
+      "event:children",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-children-warrior",
@@ -508,7 +650,10 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-warrior.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-warrior.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-warrior.webp",
+    "subgenres": [
+      "event:children"
+    ]
   },
   {
     "id": "event120-children-carp-costume",
@@ -524,7 +669,10 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-carp-costume.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-carp-costume.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-carp-costume.webp",
+    "subgenres": [
+      "event:children"
+    ]
   },
   {
     "id": "event120-children-chimaki",
@@ -540,7 +688,12 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-chimaki.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-chimaki.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-chimaki.webp",
+    "subgenres": [
+      "event:children",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-children-red-carp",
@@ -556,7 +709,11 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-red-carp.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-red-carp.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-red-carp.webp",
+    "subgenres": [
+      "event:children",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-children-pinwheel",
@@ -572,7 +729,13 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-pinwheel.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-pinwheel.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-pinwheel.webp",
+    "subgenres": [
+      "event:children",
+      "event:celebration",
+      "outfit:japanese",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-children-kabuto-display",
@@ -588,7 +751,10 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-kabuto-display.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-kabuto-display.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-kabuto-display.webp",
+    "subgenres": [
+      "event:children"
+    ]
   },
   {
     "id": "event120-children-kashiwa-gift",
@@ -604,7 +770,11 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-kashiwa-gift.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-kashiwa-gift.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-kashiwa-gift.webp",
+    "subgenres": [
+      "event:children",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-children-drum",
@@ -620,7 +790,11 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-drum.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-drum.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-drum.webp",
+    "subgenres": [
+      "event:children",
+      "music:percussion"
+    ]
   },
   {
     "id": "event120-children-helmet-maker",
@@ -636,7 +810,11 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-helmet-maker.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-helmet-maker.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-helmet-maker.webp",
+    "subgenres": [
+      "event:children",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-children-carp-fan",
@@ -652,7 +830,11 @@ export const BUNDLED_POSES = [
       "こどものひ"
     ],
     "src": "./assets/library/event120-children-carp-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-children-carp-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-children-carp-fan.webp",
+    "subgenres": [
+      "event:children",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event24-tsukimi-dango",
@@ -667,7 +849,12 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event24-tsukimi-dango.webp",
-    "thumbnail": "./assets/thumbnails/event24-tsukimi-dango.webp"
+    "thumbnail": "./assets/thumbnails/event24-tsukimi-dango.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event24-tsukimi-susuki",
@@ -682,7 +869,11 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event24-tsukimi-susuki.webp",
-    "thumbnail": "./assets/thumbnails/event24-tsukimi-susuki.webp"
+    "thumbnail": "./assets/thumbnails/event24-tsukimi-susuki.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tsukimi-rabbit-ears",
@@ -698,7 +889,11 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-rabbit-ears.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-rabbit-ears.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-rabbit-ears.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tsukimi-dumpling-skewer",
@@ -714,7 +909,12 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-dumpling-skewer.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-dumpling-skewer.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-dumpling-skewer.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-tsukimi-moon-lantern",
@@ -730,7 +930,11 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-moon-lantern.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-lantern.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-lantern.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tsukimi-autumn-basket",
@@ -746,7 +950,11 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-autumn-basket.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-autumn-basket.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-autumn-basket.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "food:produce"
+    ]
   },
   {
     "id": "event120-tsukimi-moon-rabbit-fan",
@@ -762,7 +970,11 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-moon-rabbit-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-rabbit-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-rabbit-fan.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tsukimi-dango-chef",
@@ -778,7 +990,12 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-dango-chef.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-dango-chef.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-dango-chef.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "work:food",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-tsukimi-moon-gaze",
@@ -794,7 +1011,11 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-moon-gaze.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-gaze.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-gaze.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tsukimi-moon-cushion",
@@ -810,7 +1031,10 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-moon-cushion.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-cushion.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-cushion.webp",
+    "subgenres": [
+      "event:tsukimi"
+    ]
   },
   {
     "id": "event120-tsukimi-rabbit-sweets",
@@ -826,7 +1050,12 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-rabbit-sweets.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-rabbit-sweets.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-rabbit-sweets.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-tsukimi-moon-tea",
@@ -842,7 +1071,12 @@ export const BUNDLED_POSES = [
       "おつきみ"
     ],
     "src": "./assets/library/event120-tsukimi-moon-tea.webp",
-    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-tea.webp"
+    "thumbnail": "./assets/thumbnails/event120-tsukimi-moon-tea.webp",
+    "subgenres": [
+      "event:tsukimi",
+      "outfit:japanese",
+      "food:drinks"
+    ]
   },
   {
     "id": "event24-valentine-chocolate",
@@ -857,7 +1091,11 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event24-valentine-chocolate.webp",
-    "thumbnail": "./assets/thumbnails/event24-valentine-chocolate.webp"
+    "thumbnail": "./assets/thumbnails/event24-valentine-chocolate.webp",
+    "subgenres": [
+      "event:valentine",
+      "food:sweets"
+    ]
   },
   {
     "id": "event24-valentine-chocolatier",
@@ -872,7 +1110,13 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event24-valentine-chocolatier.webp",
-    "thumbnail": "./assets/thumbnails/event24-valentine-chocolatier.webp"
+    "thumbnail": "./assets/thumbnails/event24-valentine-chocolatier.webp",
+    "subgenres": [
+      "event:valentine",
+      "work:craft",
+      "work:food",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-valentine-heart-balloon",
@@ -888,7 +1132,10 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-heart-balloon.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-heart-balloon.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-heart-balloon.webp",
+    "subgenres": [
+      "event:valentine"
+    ]
   },
   {
     "id": "event120-valentine-cocoa-mug",
@@ -904,7 +1151,12 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-cocoa-mug.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-cocoa-mug.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-cocoa-mug.webp",
+    "subgenres": [
+      "event:valentine",
+      "food:sweets",
+      "food:drinks"
+    ]
   },
   {
     "id": "event120-valentine-truffle",
@@ -920,7 +1172,12 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-truffle.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-truffle.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-truffle.webp",
+    "subgenres": [
+      "event:valentine",
+      "work:food",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-valentine-heart-cookie",
@@ -936,7 +1193,11 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-heart-cookie.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-heart-cookie.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-heart-cookie.webp",
+    "subgenres": [
+      "event:valentine",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-valentine-choco-dip",
@@ -952,7 +1213,13 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-choco-dip.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-choco-dip.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-choco-dip.webp",
+    "subgenres": [
+      "event:valentine",
+      "work:food",
+      "food:sweets",
+      "food:produce"
+    ]
   },
   {
     "id": "event120-valentine-gift-ribbon",
@@ -968,7 +1235,12 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-gift-ribbon.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-gift-ribbon.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-gift-ribbon.webp",
+    "subgenres": [
+      "event:valentine",
+      "event:celebration",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-valentine-heart-hands",
@@ -984,7 +1256,10 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-heart-hands.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-heart-hands.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-heart-hands.webp",
+    "subgenres": [
+      "event:valentine"
+    ]
   },
   {
     "id": "event120-valentine-cacao",
@@ -1000,7 +1275,12 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-cacao.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-cacao.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-cacao.webp",
+    "subgenres": [
+      "event:valentine",
+      "outfit:japanese",
+      "food:produce"
+    ]
   },
   {
     "id": "event120-valentine-choco-rose",
@@ -1016,7 +1296,11 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-choco-rose.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-choco-rose.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-choco-rose.webp",
+    "subgenres": [
+      "event:valentine",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-valentine-macarons",
@@ -1032,7 +1316,12 @@ export const BUNDLED_POSES = [
       "ばれんたいん"
     ],
     "src": "./assets/library/event120-valentine-macarons.webp",
-    "thumbnail": "./assets/thumbnails/event120-valentine-macarons.webp"
+    "thumbnail": "./assets/thumbnails/event120-valentine-macarons.webp",
+    "subgenres": [
+      "event:valentine",
+      "work:food",
+      "food:sweets"
+    ]
   },
   {
     "id": "event24-mothers-carnations",
@@ -1047,7 +1336,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event24-mothers-carnations.webp",
-    "thumbnail": "./assets/thumbnails/event24-mothers-carnations.webp"
+    "thumbnail": "./assets/thumbnails/event24-mothers-carnations.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event24-mothers-basket",
@@ -1062,7 +1355,12 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event24-mothers-basket.webp",
-    "thumbnail": "./assets/thumbnails/event24-mothers-basket.webp"
+    "thumbnail": "./assets/thumbnails/event24-mothers-basket.webp",
+    "subgenres": [
+      "event:mothers",
+      "event:celebration",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-mothers-single-carnation",
@@ -1078,7 +1376,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-single-carnation.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-single-carnation.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-single-carnation.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-mothers-flower-apron",
@@ -1094,7 +1396,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-flower-apron.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-flower-apron.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-flower-apron.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-mothers-carnation-wreath",
@@ -1110,7 +1416,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-carnation-wreath.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-carnation-wreath.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-carnation-wreath.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-mothers-tea-tray",
@@ -1126,7 +1436,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-tea-tray.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-tea-tray.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-tea-tray.webp",
+    "subgenres": [
+      "event:mothers",
+      "food:drinks"
+    ]
   },
   {
     "id": "event120-mothers-flower-box",
@@ -1142,7 +1456,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-flower-box.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-flower-box.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-flower-box.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-mothers-kitchen-help",
@@ -1158,7 +1476,10 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-kitchen-help.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-kitchen-help.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-kitchen-help.webp",
+    "subgenres": [
+      "event:mothers"
+    ]
   },
   {
     "id": "event120-mothers-flower-pin",
@@ -1174,7 +1495,11 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-flower-pin.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-flower-pin.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-flower-pin.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-mothers-plant-wrap",
@@ -1190,7 +1515,12 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-plant-wrap.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-plant-wrap.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-plant-wrap.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-mothers-flower-brooch",
@@ -1206,7 +1536,10 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-flower-brooch.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-flower-brooch.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-flower-brooch.webp",
+    "subgenres": [
+      "event:mothers"
+    ]
   },
   {
     "id": "event120-mothers-handmade-bouquet",
@@ -1222,7 +1555,12 @@ export const BUNDLED_POSES = [
       "ははのひ"
     ],
     "src": "./assets/library/event120-mothers-handmade-bouquet.webp",
-    "thumbnail": "./assets/thumbnails/event120-mothers-handmade-bouquet.webp"
+    "thumbnail": "./assets/thumbnails/event120-mothers-handmade-bouquet.webp",
+    "subgenres": [
+      "event:mothers",
+      "nature:flowers",
+      "daily:toys"
+    ]
   },
   {
     "id": "event24-christmas-bell",
@@ -1237,7 +1575,10 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event24-christmas-bell.webp",
-    "thumbnail": "./assets/thumbnails/event24-christmas-bell.webp"
+    "thumbnail": "./assets/thumbnails/event24-christmas-bell.webp",
+    "subgenres": [
+      "event:christmas"
+    ]
   },
   {
     "id": "event24-christmas-nutcracker",
@@ -1252,7 +1593,11 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event24-christmas-nutcracker.webp",
-    "thumbnail": "./assets/thumbnails/event24-christmas-nutcracker.webp"
+    "thumbnail": "./assets/thumbnails/event24-christmas-nutcracker.webp",
+    "subgenres": [
+      "event:christmas",
+      "outfit:costume"
+    ]
   },
   {
     "id": "event120-christmas-elf",
@@ -1268,7 +1613,12 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-elf.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-elf.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-elf.webp",
+    "subgenres": [
+      "event:christmas",
+      "outfit:costume",
+      "fantasy:legend"
+    ]
   },
   {
     "id": "event120-christmas-snowman",
@@ -1284,7 +1634,12 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-snowman.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-snowman.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-snowman.webp",
+    "subgenres": [
+      "event:christmas",
+      "outfit:costume",
+      "nature:weather"
+    ]
   },
   {
     "id": "event120-christmas-carol",
@@ -1300,7 +1655,11 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-carol.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-carol.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-carol.webp",
+    "subgenres": [
+      "event:christmas",
+      "music:vocal"
+    ]
   },
   {
     "id": "event120-christmas-stocking",
@@ -1316,7 +1675,11 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-stocking.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-stocking.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-stocking.webp",
+    "subgenres": [
+      "event:christmas",
+      "event:celebration"
+    ]
   },
   {
     "id": "event120-christmas-gingerbread",
@@ -1332,7 +1695,12 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-gingerbread.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-gingerbread.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-gingerbread.webp",
+    "subgenres": [
+      "event:christmas",
+      "work:food",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-christmas-ornament",
@@ -1348,7 +1716,10 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-ornament.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-ornament.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-ornament.webp",
+    "subgenres": [
+      "event:christmas"
+    ]
   },
   {
     "id": "event120-christmas-snowglobe",
@@ -1364,7 +1735,10 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-snowglobe.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-snowglobe.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-snowglobe.webp",
+    "subgenres": [
+      "event:christmas"
+    ]
   },
   {
     "id": "event120-christmas-candy-cane",
@@ -1380,7 +1754,11 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-candy-cane.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-candy-cane.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-candy-cane.webp",
+    "subgenres": [
+      "event:christmas",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-christmas-angel",
@@ -1396,7 +1774,11 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-angel.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-angel.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-angel.webp",
+    "subgenres": [
+      "event:christmas",
+      "fantasy:legend"
+    ]
   },
   {
     "id": "event120-christmas-gift-sack",
@@ -1412,7 +1794,11 @@ export const BUNDLED_POSES = [
       "くりすます"
     ],
     "src": "./assets/library/event120-christmas-gift-sack.webp",
-    "thumbnail": "./assets/thumbnails/event120-christmas-gift-sack.webp"
+    "thumbnail": "./assets/thumbnails/event120-christmas-gift-sack.webp",
+    "subgenres": [
+      "event:christmas",
+      "event:celebration"
+    ]
   },
   {
     "id": "event24-newyear-kagamimochi",
@@ -1427,7 +1813,12 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event24-newyear-kagamimochi.webp",
-    "thumbnail": "./assets/thumbnails/event24-newyear-kagamimochi.webp"
+    "thumbnail": "./assets/thumbnails/event24-newyear-kagamimochi.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event24-newyear-hagoita",
@@ -1442,7 +1833,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event24-newyear-hagoita.webp",
-    "thumbnail": "./assets/thumbnails/event24-newyear-hagoita.webp"
+    "thumbnail": "./assets/thumbnails/event24-newyear-hagoita.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-otoshidama",
@@ -1458,7 +1853,12 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-otoshidama.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-otoshidama.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-otoshidama.webp",
+    "subgenres": [
+      "event:newyear",
+      "event:celebration",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-daruma",
@@ -1474,7 +1874,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-daruma.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-daruma.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-daruma.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-hamaya",
@@ -1490,7 +1894,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-hamaya.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-hamaya.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-hamaya.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-omikuji",
@@ -1506,7 +1914,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-omikuji.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-omikuji.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-omikuji.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-osechi",
@@ -1522,7 +1934,12 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-osechi.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-osechi.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-osechi.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese",
+      "food:meal"
+    ]
   },
   {
     "id": "event120-newyear-tako",
@@ -1538,7 +1955,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-tako.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-tako.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-tako.webp",
+    "subgenres": [
+      "event:newyear",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-newyear-shimekazari",
@@ -1554,7 +1975,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-shimekazari.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-shimekazari.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-shimekazari.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-kadomatsu",
@@ -1570,7 +1995,11 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-kadomatsu.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-kadomatsu.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-kadomatsu.webp",
+    "subgenres": [
+      "event:newyear",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-newyear-kakizome",
@@ -1586,7 +2015,10 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-kakizome.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-kakizome.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-kakizome.webp",
+    "subgenres": [
+      "event:newyear"
+    ]
   },
   {
     "id": "event120-newyear-mochi",
@@ -1602,7 +2034,13 @@ export const BUNDLED_POSES = [
       "おしょうがつ"
     ],
     "src": "./assets/library/event120-newyear-mochi.webp",
-    "thumbnail": "./assets/thumbnails/event120-newyear-mochi.webp"
+    "thumbnail": "./assets/thumbnails/event120-newyear-mochi.webp",
+    "subgenres": [
+      "event:newyear",
+      "event:celebration",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event24-graduation-certificate",
@@ -1617,7 +2055,10 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event24-graduation-certificate.webp",
-    "thumbnail": "./assets/thumbnails/event24-graduation-certificate.webp"
+    "thumbnail": "./assets/thumbnails/event24-graduation-certificate.webp",
+    "subgenres": [
+      "event:graduation"
+    ]
   },
   {
     "id": "event24-graduation-sakura",
@@ -1632,7 +2073,12 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event24-graduation-sakura.webp",
-    "thumbnail": "./assets/thumbnails/event24-graduation-sakura.webp"
+    "thumbnail": "./assets/thumbnails/event24-graduation-sakura.webp",
+    "subgenres": [
+      "event:graduation",
+      "outfit:western",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-graduation-applause",
@@ -1648,7 +2094,10 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-applause.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-applause.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-applause.webp",
+    "subgenres": [
+      "event:graduation"
+    ]
   },
   {
     "id": "event120-graduation-red-tube",
@@ -1664,7 +2113,10 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-red-tube.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-red-tube.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-red-tube.webp",
+    "subgenres": [
+      "event:graduation"
+    ]
   },
   {
     "id": "event120-graduation-corsage",
@@ -1680,7 +2132,12 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-corsage.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-corsage.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-corsage.webp",
+    "subgenres": [
+      "event:graduation",
+      "outfit:western",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-graduation-academic-wave",
@@ -1696,7 +2153,10 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-academic-wave.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-academic-wave.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-academic-wave.webp",
+    "subgenres": [
+      "event:graduation"
+    ]
   },
   {
     "id": "event120-graduation-ribbon-bouquet",
@@ -1712,7 +2172,11 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-ribbon-bouquet.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-ribbon-bouquet.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-ribbon-bouquet.webp",
+    "subgenres": [
+      "event:graduation",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-graduation-hakama",
@@ -1728,7 +2192,11 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-hakama.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-hakama.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-hakama.webp",
+    "subgenres": [
+      "event:graduation",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-graduation-sakura-fan",
@@ -1744,7 +2212,11 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-sakura-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-sakura-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-sakura-fan.webp",
+    "subgenres": [
+      "event:graduation",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-graduation-teddy",
@@ -1760,7 +2232,11 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-teddy.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-teddy.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-teddy.webp",
+    "subgenres": [
+      "event:graduation",
+      "event:celebration"
+    ]
   },
   {
     "id": "event120-graduation-diploma-open",
@@ -1776,7 +2252,10 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-diploma-open.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-diploma-open.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-diploma-open.webp",
+    "subgenres": [
+      "event:graduation"
+    ]
   },
   {
     "id": "event120-graduation-farewell",
@@ -1792,7 +2271,11 @@ export const BUNDLED_POSES = [
       "そつぎょう"
     ],
     "src": "./assets/library/event120-graduation-farewell.webp",
-    "thumbnail": "./assets/thumbnails/event120-graduation-farewell.webp"
+    "thumbnail": "./assets/thumbnails/event120-graduation-farewell.webp",
+    "subgenres": [
+      "event:graduation",
+      "event:award"
+    ]
   },
   {
     "id": "event24-wedding-toast",
@@ -1807,7 +2290,13 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event24-wedding-toast.webp",
-    "thumbnail": "./assets/thumbnails/event24-wedding-toast.webp"
+    "thumbnail": "./assets/thumbnails/event24-wedding-toast.webp",
+    "subgenres": [
+      "event:wedding",
+      "event:celebration",
+      "outfit:western",
+      "food:drinks"
+    ]
   },
   {
     "id": "event24-wedding-rings",
@@ -1822,7 +2311,11 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event24-wedding-rings.webp",
-    "thumbnail": "./assets/thumbnails/event24-wedding-rings.webp"
+    "thumbnail": "./assets/thumbnails/event24-wedding-rings.webp",
+    "subgenres": [
+      "event:wedding",
+      "outfit:western"
+    ]
   },
   {
     "id": "event120-wedding-petals",
@@ -1838,7 +2331,11 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-petals.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-petals.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-petals.webp",
+    "subgenres": [
+      "event:wedding",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-wedding-bouquet",
@@ -1854,7 +2351,13 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-bouquet.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-bouquet.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-bouquet.webp",
+    "subgenres": [
+      "event:wedding",
+      "event:celebration",
+      "outfit:western",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-wedding-ribbon-bell",
@@ -1870,7 +2373,10 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-ribbon-bell.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-ribbon-bell.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-ribbon-bell.webp",
+    "subgenres": [
+      "event:wedding"
+    ]
   },
   {
     "id": "event120-wedding-cake-server",
@@ -1886,7 +2392,12 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-cake-server.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-cake-server.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-cake-server.webp",
+    "subgenres": [
+      "event:wedding",
+      "event:celebration",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-wedding-welcome",
@@ -1902,7 +2413,12 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-welcome.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-welcome.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-welcome.webp",
+    "subgenres": [
+      "event:wedding",
+      "event:celebration",
+      "outfit:western"
+    ]
   },
   {
     "id": "event120-wedding-confetti-cone",
@@ -1918,7 +2434,11 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-confetti-cone.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-confetti-cone.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-confetti-cone.webp",
+    "subgenres": [
+      "event:wedding",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event120-wedding-ring-box",
@@ -1934,7 +2454,11 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-ring-box.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-ring-box.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-ring-box.webp",
+    "subgenres": [
+      "event:wedding",
+      "outfit:western"
+    ]
   },
   {
     "id": "event120-wedding-bridal-fan",
@@ -1950,7 +2474,12 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-bridal-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-bridal-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-bridal-fan.webp",
+    "subgenres": [
+      "event:wedding",
+      "event:celebration",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-wedding-champagne-bottle",
@@ -1966,7 +2495,12 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-champagne-bottle.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-champagne-bottle.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-champagne-bottle.webp",
+    "subgenres": [
+      "event:wedding",
+      "event:celebration",
+      "food:drinks"
+    ]
   },
   {
     "id": "event120-wedding-heart-wreath",
@@ -1982,7 +2516,11 @@ export const BUNDLED_POSES = [
       "けっこん"
     ],
     "src": "./assets/library/event120-wedding-heart-wreath.webp",
-    "thumbnail": "./assets/thumbnails/event120-wedding-heart-wreath.webp"
+    "thumbnail": "./assets/thumbnails/event120-wedding-heart-wreath.webp",
+    "subgenres": [
+      "event:wedding",
+      "nature:flowers"
+    ]
   },
   {
     "id": "event24-tanabata-tanzaku",
@@ -1997,7 +2535,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event24-tanabata-tanzaku.webp",
-    "thumbnail": "./assets/thumbnails/event24-tanabata-tanzaku.webp"
+    "thumbnail": "./assets/thumbnails/event24-tanabata-tanzaku.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event24-tanabata-hikoboshi",
@@ -2012,7 +2554,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event24-tanabata-hikoboshi.webp",
-    "thumbnail": "./assets/thumbnails/event24-tanabata-hikoboshi.webp"
+    "thumbnail": "./assets/thumbnails/event24-tanabata-hikoboshi.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:costume"
+    ]
   },
   {
     "id": "event120-tanabata-star-wand",
@@ -2028,7 +2574,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-star-wand.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-star-wand.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-star-wand.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tanabata-origami-stars",
@@ -2044,7 +2594,12 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-origami-stars.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-origami-stars.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-origami-stars.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-tanabata-ori-hime",
@@ -2060,7 +2615,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-ori-hime.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-ori-hime.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-ori-hime.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:costume"
+    ]
   },
   {
     "id": "event120-tanabata-weaving-shuttle",
@@ -2076,7 +2635,10 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-weaving-shuttle.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-weaving-shuttle.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-weaving-shuttle.webp",
+    "subgenres": [
+      "event:tanabata"
+    ]
   },
   {
     "id": "event120-tanabata-star-lantern",
@@ -2092,7 +2654,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-star-lantern.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-star-lantern.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-star-lantern.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tanabata-paper-chain",
@@ -2108,7 +2674,10 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-paper-chain.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-paper-chain.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-paper-chain.webp",
+    "subgenres": [
+      "event:tanabata"
+    ]
   },
   {
     "id": "event120-tanabata-tanzaku-heart",
@@ -2124,7 +2693,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-tanzaku-heart.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-tanzaku-heart.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-tanzaku-heart.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tanabata-star-sweets",
@@ -2140,7 +2713,12 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-star-sweets.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-star-sweets.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-star-sweets.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-tanabata-milky-fan",
@@ -2156,7 +2734,11 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-milky-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-milky-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-milky-fan.webp",
+    "subgenres": [
+      "event:tanabata",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "event120-tanabata-bamboo-basket",
@@ -2172,7 +2754,10 @@ export const BUNDLED_POSES = [
       "たなばた"
     ],
     "src": "./assets/library/event120-tanabata-bamboo-basket.webp",
-    "thumbnail": "./assets/thumbnails/event120-tanabata-bamboo-basket.webp"
+    "thumbnail": "./assets/thumbnails/event120-tanabata-bamboo-basket.webp",
+    "subgenres": [
+      "event:tanabata"
+    ]
   },
   {
     "id": "event24-summer-goldfish",
@@ -2187,7 +2772,12 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event24-summer-goldfish.webp",
-    "thumbnail": "./assets/thumbnails/event24-summer-goldfish.webp"
+    "thumbnail": "./assets/thumbnails/event24-summer-goldfish.webp",
+    "subgenres": [
+      "event:summer",
+      "outfit:japanese",
+      "daily:toys"
+    ]
   },
   {
     "id": "event24-summer-kakigori",
@@ -2202,7 +2792,11 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event24-summer-kakigori.webp",
-    "thumbnail": "./assets/thumbnails/event24-summer-kakigori.webp"
+    "thumbnail": "./assets/thumbnails/event24-summer-kakigori.webp",
+    "subgenres": [
+      "event:summer",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-summer-jellyfish-yo",
@@ -2218,7 +2812,12 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-jellyfish-yo.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-jellyfish-yo.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-jellyfish-yo.webp",
+    "subgenres": [
+      "event:summer",
+      "animal:water",
+      "daily:toys"
+    ]
   },
   {
     "id": "event120-summer-ramune",
@@ -2234,7 +2833,12 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-ramune.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-ramune.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-ramune.webp",
+    "subgenres": [
+      "event:summer",
+      "outfit:japanese",
+      "food:drinks"
+    ]
   },
   {
     "id": "event120-summer-apple-candy",
@@ -2250,7 +2854,11 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-apple-candy.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-apple-candy.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-apple-candy.webp",
+    "subgenres": [
+      "event:summer",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-summer-cotton-candy",
@@ -2266,7 +2874,12 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-cotton-candy.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-cotton-candy.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-cotton-candy.webp",
+    "subgenres": [
+      "event:summer",
+      "outfit:japanese",
+      "food:sweets"
+    ]
   },
   {
     "id": "event120-summer-festival-lantern",
@@ -2282,7 +2895,10 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-festival-lantern.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-festival-lantern.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-festival-lantern.webp",
+    "subgenres": [
+      "event:summer"
+    ]
   },
   {
     "id": "event120-summer-takoyaki",
@@ -2298,7 +2914,11 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-takoyaki.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-takoyaki.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-takoyaki.webp",
+    "subgenres": [
+      "event:summer",
+      "food:meal"
+    ]
   },
   {
     "id": "event120-summer-dance-fan",
@@ -2314,7 +2934,12 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-dance-fan.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-dance-fan.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-dance-fan.webp",
+    "subgenres": [
+      "event:summer",
+      "outfit:japanese",
+      "music:performance"
+    ]
   },
   {
     "id": "event120-summer-watermelon",
@@ -2330,7 +2955,11 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-watermelon.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-watermelon.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-watermelon.webp",
+    "subgenres": [
+      "event:summer",
+      "food:produce"
+    ]
   },
   {
     "id": "event120-summer-jellyfish-mask",
@@ -2346,7 +2975,12 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-jellyfish-mask.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-jellyfish-mask.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-jellyfish-mask.webp",
+    "subgenres": [
+      "event:summer",
+      "outfit:japanese",
+      "animal:water"
+    ]
   },
   {
     "id": "event120-summer-festival-drum",
@@ -2362,7 +2996,11 @@ export const BUNDLED_POSES = [
       "なつまつり"
     ],
     "src": "./assets/library/event120-summer-festival-drum.webp",
-    "thumbnail": "./assets/thumbnails/event120-summer-festival-drum.webp"
+    "thumbnail": "./assets/thumbnails/event120-summer-festival-drum.webp",
+    "subgenres": [
+      "event:summer",
+      "music:percussion"
+    ]
   },
   {
     "id": "history24-jomon",
@@ -2379,7 +3017,10 @@ export const BUNDLED_POSES = [
       "古代"
     ],
     "src": "./assets/library/history24-jomon.webp",
-    "thumbnail": "./assets/thumbnails/history24-jomon.webp"
+    "thumbnail": "./assets/thumbnails/history24-jomon.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-yayoi",
@@ -2397,7 +3038,10 @@ export const BUNDLED_POSES = [
       "稲穂"
     ],
     "src": "./assets/library/history24-yayoi.webp",
-    "thumbnail": "./assets/thumbnails/history24-yayoi.webp"
+    "thumbnail": "./assets/thumbnails/history24-yayoi.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-kofun",
@@ -2415,7 +3059,10 @@ export const BUNDLED_POSES = [
       "埴輪"
     ],
     "src": "./assets/library/history24-kofun.webp",
-    "thumbnail": "./assets/thumbnails/history24-kofun.webp"
+    "thumbnail": "./assets/thumbnails/history24-kofun.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-asuka",
@@ -2432,7 +3079,10 @@ export const BUNDLED_POSES = [
       "役人"
     ],
     "src": "./assets/library/history24-asuka.webp",
-    "thumbnail": "./assets/thumbnails/history24-asuka.webp"
+    "thumbnail": "./assets/thumbnails/history24-asuka.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-heian-sokutai",
@@ -2450,7 +3100,10 @@ export const BUNDLED_POSES = [
       "貴族"
     ],
     "src": "./assets/library/history24-heian-sokutai.webp",
-    "thumbnail": "./assets/thumbnails/history24-heian-sokutai.webp"
+    "thumbnail": "./assets/thumbnails/history24-heian-sokutai.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-heian-kariginu",
@@ -2468,7 +3121,10 @@ export const BUNDLED_POSES = [
       "烏帽子"
     ],
     "src": "./assets/library/history24-heian-kariginu.webp",
-    "thumbnail": "./assets/thumbnails/history24-heian-kariginu.webp"
+    "thumbnail": "./assets/thumbnails/history24-heian-kariginu.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-kamakura",
@@ -2486,7 +3142,10 @@ export const BUNDLED_POSES = [
       "武士"
     ],
     "src": "./assets/library/history24-kamakura.webp",
-    "thumbnail": "./assets/thumbnails/history24-kamakura.webp"
+    "thumbnail": "./assets/thumbnails/history24-kamakura.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-muromachi",
@@ -2504,7 +3163,10 @@ export const BUNDLED_POSES = [
       "商人"
     ],
     "src": "./assets/library/history24-muromachi.webp",
-    "thumbnail": "./assets/thumbnails/history24-muromachi.webp"
+    "thumbnail": "./assets/thumbnails/history24-muromachi.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-sengoku",
@@ -2523,7 +3185,10 @@ export const BUNDLED_POSES = [
       "武将"
     ],
     "src": "./assets/library/history24-sengoku.webp",
-    "thumbnail": "./assets/thumbnails/history24-sengoku.webp"
+    "thumbnail": "./assets/thumbnails/history24-sengoku.webp",
+    "subgenres": [
+      "outfit:history-early"
+    ]
   },
   {
     "id": "history24-edo-kamishimo",
@@ -2541,7 +3206,10 @@ export const BUNDLED_POSES = [
       "かみしも"
     ],
     "src": "./assets/library/history24-edo-kamishimo.webp",
-    "thumbnail": "./assets/thumbnails/history24-edo-kamishimo.webp"
+    "thumbnail": "./assets/thumbnails/history24-edo-kamishimo.webp",
+    "subgenres": [
+      "outfit:history-late"
+    ]
   },
   {
     "id": "history24-edo-merchant",
@@ -2559,7 +3227,10 @@ export const BUNDLED_POSES = [
       "帳面"
     ],
     "src": "./assets/library/history24-edo-merchant.webp",
-    "thumbnail": "./assets/thumbnails/history24-edo-merchant.webp"
+    "thumbnail": "./assets/thumbnails/history24-edo-merchant.webp",
+    "subgenres": [
+      "outfit:history-late"
+    ]
   },
   {
     "id": "history24-edo-hikeshi",
@@ -2577,7 +3248,10 @@ export const BUNDLED_POSES = [
       "半纏"
     ],
     "src": "./assets/library/history24-edo-hikeshi.webp",
-    "thumbnail": "./assets/thumbnails/history24-edo-hikeshi.webp"
+    "thumbnail": "./assets/thumbnails/history24-edo-hikeshi.webp",
+    "subgenres": [
+      "outfit:history-late"
+    ]
   },
   {
     "id": "history24-edo-traveler",
@@ -2595,7 +3269,10 @@ export const BUNDLED_POSES = [
       "旅装"
     ],
     "src": "./assets/library/history24-edo-traveler.webp",
-    "thumbnail": "./assets/thumbnails/history24-edo-traveler.webp"
+    "thumbnail": "./assets/thumbnails/history24-edo-traveler.webp",
+    "subgenres": [
+      "outfit:history-late"
+    ]
   },
   {
     "id": "history24-meiji",
@@ -2613,7 +3290,11 @@ export const BUNDLED_POSES = [
       "袴"
     ],
     "src": "./assets/library/history24-meiji.webp",
-    "thumbnail": "./assets/thumbnails/history24-meiji.webp"
+    "thumbnail": "./assets/thumbnails/history24-meiji.webp",
+    "subgenres": [
+      "outfit:history-late",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "history24-taisho",
@@ -2631,7 +3312,10 @@ export const BUNDLED_POSES = [
       "カンカン帽"
     ],
     "src": "./assets/library/history24-taisho.webp",
-    "thumbnail": "./assets/thumbnails/history24-taisho.webp"
+    "thumbnail": "./assets/thumbnails/history24-taisho.webp",
+    "subgenres": [
+      "outfit:history-late"
+    ]
   },
   {
     "id": "history24-showa-photo",
@@ -2650,7 +3334,10 @@ export const BUNDLED_POSES = [
       "レトロ"
     ],
     "src": "./assets/library/history24-showa-photo.webp",
-    "thumbnail": "./assets/thumbnails/history24-showa-photo.webp"
+    "thumbnail": "./assets/thumbnails/history24-showa-photo.webp",
+    "subgenres": [
+      "outfit:history-late"
+    ]
   },
   {
     "id": "history24-egypt",
@@ -2668,7 +3355,10 @@ export const BUNDLED_POSES = [
       "チュニック"
     ],
     "src": "./assets/library/history24-egypt.webp",
-    "thumbnail": "./assets/thumbnails/history24-egypt.webp"
+    "thumbnail": "./assets/thumbnails/history24-egypt.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-greece",
@@ -2686,7 +3376,10 @@ export const BUNDLED_POSES = [
       "ヒマティオン"
     ],
     "src": "./assets/library/history24-greece.webp",
-    "thumbnail": "./assets/thumbnails/history24-greece.webp"
+    "thumbnail": "./assets/thumbnails/history24-greece.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-rome",
@@ -2703,7 +3396,10 @@ export const BUNDLED_POSES = [
       "トーガ"
     ],
     "src": "./assets/library/history24-rome.webp",
-    "thumbnail": "./assets/thumbnails/history24-rome.webp"
+    "thumbnail": "./assets/thumbnails/history24-rome.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-tang",
@@ -2722,7 +3418,10 @@ export const BUNDLED_POSES = [
       "幞頭"
     ],
     "src": "./assets/library/history24-tang.webp",
-    "thumbnail": "./assets/thumbnails/history24-tang.webp"
+    "thumbnail": "./assets/thumbnails/history24-tang.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-medieval-merchant",
@@ -2739,7 +3438,10 @@ export const BUNDLED_POSES = [
       "商人"
     ],
     "src": "./assets/library/history24-medieval-merchant.webp",
-    "thumbnail": "./assets/thumbnails/history24-medieval-merchant.webp"
+    "thumbnail": "./assets/thumbnails/history24-medieval-merchant.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-renaissance",
@@ -2756,7 +3458,10 @@ export const BUNDLED_POSES = [
       "ヨーロッパ"
     ],
     "src": "./assets/library/history24-renaissance.webp",
-    "thumbnail": "./assets/thumbnails/history24-renaissance.webp"
+    "thumbnail": "./assets/thumbnails/history24-renaissance.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-rococo",
@@ -2774,7 +3479,10 @@ export const BUNDLED_POSES = [
       "ヨーロッパ"
     ],
     "src": "./assets/library/history24-rococo.webp",
-    "thumbnail": "./assets/thumbnails/history24-rococo.webp"
+    "thumbnail": "./assets/thumbnails/history24-rococo.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "history24-victorian",
@@ -2792,7 +3500,10 @@ export const BUNDLED_POSES = [
       "フロックコート"
     ],
     "src": "./assets/library/history24-victorian.webp",
-    "thumbnail": "./assets/thumbnails/history24-victorian.webp"
+    "thumbnail": "./assets/thumbnails/history24-victorian.webp",
+    "subgenres": [
+      "outfit:history-world"
+    ]
   },
   {
     "id": "birthday24-party-hat-wave",
@@ -2808,7 +3519,11 @@ export const BUNDLED_POSES = [
       "手を振る"
     ],
     "src": "./assets/library/birthday24-party-hat-wave.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-party-hat-wave.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-party-hat-wave.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "birthday24-party-hat-peace",
@@ -2824,7 +3539,10 @@ export const BUNDLED_POSES = [
       "ピース"
     ],
     "src": "./assets/library/birthday24-party-hat-peace.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-party-hat-peace.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-party-hat-peace.webp",
+    "subgenres": [
+      "event:birthday"
+    ]
   },
   {
     "id": "birthday24-birthday-crown",
@@ -2840,7 +3558,10 @@ export const BUNDLED_POSES = [
       "主役"
     ],
     "src": "./assets/library/birthday24-birthday-crown.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-birthday-crown.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-birthday-crown.webp",
+    "subgenres": [
+      "event:birthday"
+    ]
   },
   {
     "id": "birthday24-birthday-suit",
@@ -2856,7 +3577,12 @@ export const BUNDLED_POSES = [
       "花"
     ],
     "src": "./assets/library/birthday24-birthday-suit.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-birthday-suit.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-birthday-suit.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "outfit:western"
+    ]
   },
   {
     "id": "birthday24-heart",
@@ -2872,7 +3598,11 @@ export const BUNDLED_POSES = [
       "手"
     ],
     "src": "./assets/library/birthday24-heart.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-heart.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-heart.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "birthday24-clap",
@@ -2888,7 +3618,10 @@ export const BUNDLED_POSES = [
       "お祝い"
     ],
     "src": "./assets/library/birthday24-clap.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-clap.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-clap.webp",
+    "subgenres": [
+      "event:birthday"
+    ]
   },
   {
     "id": "birthday24-flower",
@@ -2904,7 +3637,12 @@ export const BUNDLED_POSES = [
       "花"
     ],
     "src": "./assets/library/birthday24-flower.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-flower.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-flower.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "nature:flowers"
+    ]
   },
   {
     "id": "birthday24-gift-hug",
@@ -2920,7 +3658,11 @@ export const BUNDLED_POSES = [
       "贈り物"
     ],
     "src": "./assets/library/birthday24-gift-hug.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-gift-hug.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-gift-hug.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "birthday24-strawberry-cake",
@@ -2937,7 +3679,12 @@ export const BUNDLED_POSES = [
       "ろうそく"
     ],
     "src": "./assets/library/birthday24-strawberry-cake.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-strawberry-cake.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-strawberry-cake.webp",
+    "subgenres": [
+      "event:birthday",
+      "food:sweets",
+      "food:produce"
+    ]
   },
   {
     "id": "birthday24-chocolate-cake",
@@ -2953,7 +3700,12 @@ export const BUNDLED_POSES = [
       "ケーキ"
     ],
     "src": "./assets/library/birthday24-chocolate-cake.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-chocolate-cake.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-chocolate-cake.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-fruit-tart",
@@ -2969,7 +3721,11 @@ export const BUNDLED_POSES = [
       "フルーツ"
     ],
     "src": "./assets/library/birthday24-fruit-tart.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-fruit-tart.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-fruit-tart.webp",
+    "subgenres": [
+      "event:birthday",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-cupcakes",
@@ -2985,7 +3741,11 @@ export const BUNDLED_POSES = [
       "お菓子"
     ],
     "src": "./assets/library/birthday24-cupcakes.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-cupcakes.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-cupcakes.webp",
+    "subgenres": [
+      "event:birthday",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-cake-chef",
@@ -3001,7 +3761,12 @@ export const BUNDLED_POSES = [
       "ケーキ"
     ],
     "src": "./assets/library/birthday24-cake-chef.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-cake-chef.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-cake-chef.webp",
+    "subgenres": [
+      "event:birthday",
+      "work:food",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-shortcake",
@@ -3017,7 +3782,12 @@ export const BUNDLED_POSES = [
       "いちご"
     ],
     "src": "./assets/library/birthday24-shortcake.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-shortcake.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-shortcake.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-rollcake",
@@ -3033,7 +3803,12 @@ export const BUNDLED_POSES = [
       "お菓子"
     ],
     "src": "./assets/library/birthday24-rollcake.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-rollcake.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-rollcake.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-icecream-cake",
@@ -3049,7 +3824,12 @@ export const BUNDLED_POSES = [
       "ケーキ"
     ],
     "src": "./assets/library/birthday24-icecream-cake.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-icecream-cake.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-icecream-cake.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "food:sweets"
+    ]
   },
   {
     "id": "birthday24-balloons",
@@ -3065,7 +3845,10 @@ export const BUNDLED_POSES = [
       "バルーン"
     ],
     "src": "./assets/library/birthday24-balloons.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-balloons.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-balloons.webp",
+    "subgenres": [
+      "event:birthday"
+    ]
   },
   {
     "id": "birthday24-party-popper",
@@ -3081,7 +3864,11 @@ export const BUNDLED_POSES = [
       "パーティー"
     ],
     "src": "./assets/library/birthday24-party-popper.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-party-popper.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-party-popper.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "birthday24-gift-stack",
@@ -3097,7 +3884,11 @@ export const BUNDLED_POSES = [
       "箱"
     ],
     "src": "./assets/library/birthday24-gift-stack.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-gift-stack.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-gift-stack.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "birthday24-gift-give",
@@ -3113,7 +3904,11 @@ export const BUNDLED_POSES = [
       "リボン"
     ],
     "src": "./assets/library/birthday24-gift-give.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-gift-give.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-gift-give.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "birthday24-bear",
@@ -3129,7 +3924,10 @@ export const BUNDLED_POSES = [
       "着ぐるみ"
     ],
     "src": "./assets/library/birthday24-bear.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-bear.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-bear.webp",
+    "subgenres": [
+      "event:birthday"
+    ]
   },
   {
     "id": "birthday24-flower-crown",
@@ -3145,7 +3943,12 @@ export const BUNDLED_POSES = [
       "お祝い"
     ],
     "src": "./assets/library/birthday24-flower-crown.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-flower-crown.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-flower-crown.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration",
+      "nature:flowers"
+    ]
   },
   {
     "id": "birthday24-party-host",
@@ -3161,7 +3964,10 @@ export const BUNDLED_POSES = [
       "パーティー"
     ],
     "src": "./assets/library/birthday24-party-host.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-party-host.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-party-host.webp",
+    "subgenres": [
+      "event:birthday"
+    ]
   },
   {
     "id": "birthday24-candle-costume",
@@ -3179,7 +3985,11 @@ export const BUNDLED_POSES = [
       "ろうそく"
     ],
     "src": "./assets/library/birthday24-candle-costume.webp",
-    "thumbnail": "./assets/thumbnails/birthday24-candle-costume.webp"
+    "thumbnail": "./assets/thumbnails/birthday24-candle-costume.webp",
+    "subgenres": [
+      "event:birthday",
+      "food:sweets"
+    ]
   },
   {
     "id": "jobs24-doctor",
@@ -3196,7 +4006,10 @@ export const BUNDLED_POSES = [
       "聴診器"
     ],
     "src": "./assets/library/jobs24-doctor.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-doctor.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-doctor.webp",
+    "subgenres": [
+      "work:medical"
+    ]
   },
   {
     "id": "jobs24-nurse",
@@ -3212,7 +4025,10 @@ export const BUNDLED_POSES = [
       "病院"
     ],
     "src": "./assets/library/jobs24-nurse.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-nurse.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-nurse.webp",
+    "subgenres": [
+      "work:medical"
+    ]
   },
   {
     "id": "jobs24-pharmacist",
@@ -3228,7 +4044,10 @@ export const BUNDLED_POSES = [
       "薬"
     ],
     "src": "./assets/library/jobs24-pharmacist.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-pharmacist.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-pharmacist.webp",
+    "subgenres": [
+      "work:medical"
+    ]
   },
   {
     "id": "jobs24-veterinarian",
@@ -3244,7 +4063,10 @@ export const BUNDLED_POSES = [
       "獣医師"
     ],
     "src": "./assets/library/jobs24-veterinarian.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-veterinarian.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-veterinarian.webp",
+    "subgenres": [
+      "work:medical"
+    ]
   },
   {
     "id": "jobs24-care-worker",
@@ -3260,7 +4082,10 @@ export const BUNDLED_POSES = [
       "介護士"
     ],
     "src": "./assets/library/jobs24-care-worker.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-care-worker.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-care-worker.webp",
+    "subgenres": [
+      "work:medical"
+    ]
   },
   {
     "id": "jobs24-childcare",
@@ -3276,7 +4101,10 @@ export const BUNDLED_POSES = [
       "絵本"
     ],
     "src": "./assets/library/jobs24-childcare.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-childcare.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-childcare.webp",
+    "subgenres": [
+      "work:education"
+    ]
   },
   {
     "id": "jobs24-teacher",
@@ -3293,7 +4121,10 @@ export const BUNDLED_POSES = [
       "教員"
     ],
     "src": "./assets/library/jobs24-teacher.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-teacher.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-teacher.webp",
+    "subgenres": [
+      "work:education"
+    ]
   },
   {
     "id": "jobs24-paramedic",
@@ -3309,7 +4140,10 @@ export const BUNDLED_POSES = [
       "救命"
     ],
     "src": "./assets/library/jobs24-paramedic.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-paramedic.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-paramedic.webp",
+    "subgenres": [
+      "work:public"
+    ]
   },
   {
     "id": "jobs24-electrician",
@@ -3326,7 +4160,10 @@ export const BUNDLED_POSES = [
       "工事"
     ],
     "src": "./assets/library/jobs24-electrician.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-electrician.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-electrician.webp",
+    "subgenres": [
+      "work:building"
+    ]
   },
   {
     "id": "jobs24-auto-mechanic",
@@ -3343,7 +4180,10 @@ export const BUNDLED_POSES = [
       "整備"
     ],
     "src": "./assets/library/jobs24-auto-mechanic.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-auto-mechanic.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-auto-mechanic.webp",
+    "subgenres": [
+      "work:building"
+    ]
   },
   {
     "id": "jobs24-carpenter",
@@ -3360,7 +4200,10 @@ export const BUNDLED_POSES = [
       "職人"
     ],
     "src": "./assets/library/jobs24-carpenter.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-carpenter.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-carpenter.webp",
+    "subgenres": [
+      "work:building"
+    ]
   },
   {
     "id": "jobs24-plumber",
@@ -3377,7 +4220,10 @@ export const BUNDLED_POSES = [
       "配管"
     ],
     "src": "./assets/library/jobs24-plumber.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-plumber.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-plumber.webp",
+    "subgenres": [
+      "work:building"
+    ]
   },
   {
     "id": "jobs24-architect",
@@ -3393,7 +4239,10 @@ export const BUNDLED_POSES = [
       "建築"
     ],
     "src": "./assets/library/jobs24-architect.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-architect.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-architect.webp",
+    "subgenres": [
+      "work:building"
+    ]
   },
   {
     "id": "jobs24-surveyor",
@@ -3409,7 +4258,10 @@ export const BUNDLED_POSES = [
       "三脚"
     ],
     "src": "./assets/library/jobs24-surveyor.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-surveyor.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-surveyor.webp",
+    "subgenres": [
+      "work:building"
+    ]
   },
   {
     "id": "jobs24-cleaner",
@@ -3425,7 +4277,10 @@ export const BUNDLED_POSES = [
       "清掃員"
     ],
     "src": "./assets/library/jobs24-cleaner.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-cleaner.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-cleaner.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "jobs24-painter",
@@ -3441,7 +4296,11 @@ export const BUNDLED_POSES = [
       "塗装職人"
     ],
     "src": "./assets/library/jobs24-painter.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-painter.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-painter.webp",
+    "subgenres": [
+      "work:building",
+      "work:craft"
+    ]
   },
   {
     "id": "jobs24-sushi-chef",
@@ -3457,7 +4316,12 @@ export const BUNDLED_POSES = [
       "寿司職人"
     ],
     "src": "./assets/library/jobs24-sushi-chef.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-sushi-chef.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-sushi-chef.webp",
+    "subgenres": [
+      "work:food",
+      "work:craft",
+      "food:meal"
+    ]
   },
   {
     "id": "jobs24-waiter",
@@ -3473,7 +4337,10 @@ export const BUNDLED_POSES = [
       "接客"
     ],
     "src": "./assets/library/jobs24-waiter.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-waiter.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-waiter.webp",
+    "subgenres": [
+      "work:food"
+    ]
   },
   {
     "id": "jobs24-supermarket",
@@ -3489,7 +4356,10 @@ export const BUNDLED_POSES = [
       "店員"
     ],
     "src": "./assets/library/jobs24-supermarket.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-supermarket.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-supermarket.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "jobs24-hotel-front",
@@ -3505,7 +4375,10 @@ export const BUNDLED_POSES = [
       "受付"
     ],
     "src": "./assets/library/jobs24-hotel-front.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-hotel-front.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-hotel-front.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "jobs24-bus-driver",
@@ -3522,7 +4395,10 @@ export const BUNDLED_POSES = [
       "バス運転手"
     ],
     "src": "./assets/library/jobs24-bus-driver.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-bus-driver.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-bus-driver.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "jobs24-train-driver",
@@ -3539,7 +4415,10 @@ export const BUNDLED_POSES = [
       "鉄道運転士"
     ],
     "src": "./assets/library/jobs24-train-driver.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-train-driver.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-train-driver.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "jobs24-airline-pilot",
@@ -3556,7 +4435,10 @@ export const BUNDLED_POSES = [
       "航空"
     ],
     "src": "./assets/library/jobs24-airline-pilot.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-airline-pilot.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-airline-pilot.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "jobs24-cabin-crew",
@@ -3572,7 +4454,10 @@ export const BUNDLED_POSES = [
       "航空"
     ],
     "src": "./assets/library/jobs24-cabin-crew.webp",
-    "thumbnail": "./assets/thumbnails/jobs24-cabin-crew.webp"
+    "thumbnail": "./assets/thumbnails/jobs24-cabin-crew.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "yokai24-kappa",
@@ -3588,7 +4473,10 @@ export const BUNDLED_POSES = [
       "きゅうり"
     ],
     "src": "./assets/library/yokai24-kappa.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-kappa.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-kappa.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-tengu",
@@ -3604,7 +4492,10 @@ export const BUNDLED_POSES = [
       "団扇"
     ],
     "src": "./assets/library/yokai24-tengu.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-tengu.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-tengu.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-red-oni",
@@ -3621,7 +4512,11 @@ export const BUNDLED_POSES = [
       "金棒"
     ],
     "src": "./assets/library/yokai24-red-oni.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-red-oni.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-red-oni.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "event:setsubun"
+    ]
   },
   {
     "id": "yokai24-blue-oni",
@@ -3637,7 +4532,11 @@ export const BUNDLED_POSES = [
       "おに"
     ],
     "src": "./assets/library/yokai24-blue-oni.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-blue-oni.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-blue-oni.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "event:setsubun"
+    ]
   },
   {
     "id": "yokai24-yuki-onna",
@@ -3653,7 +4552,11 @@ export const BUNDLED_POSES = [
       "雪"
     ],
     "src": "./assets/library/yokai24-yuki-onna.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-yuki-onna.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-yuki-onna.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "nature:weather"
+    ]
   },
   {
     "id": "yokai24-nurikabe",
@@ -3669,7 +4572,10 @@ export const BUNDLED_POSES = [
       "壁"
     ],
     "src": "./assets/library/yokai24-nurikabe.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-nurikabe.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-nurikabe.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-ittan-momen",
@@ -3685,7 +4591,10 @@ export const BUNDLED_POSES = [
       "布"
     ],
     "src": "./assets/library/yokai24-ittan-momen.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-ittan-momen.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-ittan-momen.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-chochin",
@@ -3702,7 +4611,10 @@ export const BUNDLED_POSES = [
       "付喪神"
     ],
     "src": "./assets/library/yokai24-chochin.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-chochin.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-chochin.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-kitsune",
@@ -3719,7 +4631,11 @@ export const BUNDLED_POSES = [
       "妖狐"
     ],
     "src": "./assets/library/yokai24-kitsune.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-kitsune.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-kitsune.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "animal:wild"
+    ]
   },
   {
     "id": "yokai24-tanuki",
@@ -3735,7 +4651,10 @@ export const BUNDLED_POSES = [
       "狸"
     ],
     "src": "./assets/library/yokai24-tanuki.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-tanuki.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-tanuki.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-nekomata",
@@ -3752,7 +4671,11 @@ export const BUNDLED_POSES = [
       "二本しっぽ"
     ],
     "src": "./assets/library/yokai24-nekomata.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-nekomata.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-nekomata.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "animal:pets"
+    ]
   },
   {
     "id": "yokai24-inugami",
@@ -3768,7 +4691,11 @@ export const BUNDLED_POSES = [
       "犬"
     ],
     "src": "./assets/library/yokai24-inugami.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-inugami.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-inugami.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "animal:pets"
+    ]
   },
   {
     "id": "yokai24-tsuchigumo",
@@ -3784,7 +4711,10 @@ export const BUNDLED_POSES = [
       "蜘蛛"
     ],
     "src": "./assets/library/yokai24-tsuchigumo.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-tsuchigumo.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-tsuchigumo.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-karasu-tengu",
@@ -3801,7 +4731,10 @@ export const BUNDLED_POSES = [
       "翼"
     ],
     "src": "./assets/library/yokai24-karasu-tengu.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-karasu-tengu.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-karasu-tengu.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-kamaitachi",
@@ -3818,7 +4751,10 @@ export const BUNDLED_POSES = [
       "風"
     ],
     "src": "./assets/library/yokai24-kamaitachi.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-kamaitachi.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-kamaitachi.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-baku",
@@ -3834,7 +4770,10 @@ export const BUNDLED_POSES = [
       "夢"
     ],
     "src": "./assets/library/yokai24-baku.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-baku.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-baku.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-nurarihyon",
@@ -3849,7 +4788,10 @@ export const BUNDLED_POSES = [
       "茶"
     ],
     "src": "./assets/library/yokai24-nurarihyon.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-nurarihyon.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-nurarihyon.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-wanyudo",
@@ -3865,7 +4807,10 @@ export const BUNDLED_POSES = [
       "車輪"
     ],
     "src": "./assets/library/yokai24-wanyudo.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-wanyudo.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-wanyudo.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-abura-sumashi",
@@ -3881,7 +4826,10 @@ export const BUNDLED_POSES = [
       "蓑"
     ],
     "src": "./assets/library/yokai24-abura-sumashi.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-abura-sumashi.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-abura-sumashi.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-yamabiko",
@@ -3897,7 +4845,10 @@ export const BUNDLED_POSES = [
       "こだま"
     ],
     "src": "./assets/library/yokai24-yamabiko.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-yamabiko.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-yamabiko.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-bake-zori",
@@ -3914,7 +4865,10 @@ export const BUNDLED_POSES = [
       "付喪神"
     ],
     "src": "./assets/library/yokai24-bake-zori.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-bake-zori.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-bake-zori.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "yokai24-kodama",
@@ -3931,7 +4885,11 @@ export const BUNDLED_POSES = [
       "木"
     ],
     "src": "./assets/library/yokai24-kodama.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-kodama.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-kodama.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "nature:forest"
+    ]
   },
   {
     "id": "yokai24-zashiki-warashi",
@@ -3947,7 +4905,11 @@ export const BUNDLED_POSES = [
       "手まり"
     ],
     "src": "./assets/library/yokai24-zashiki-warashi.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-zashiki-warashi.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-zashiki-warashi.webp",
+    "subgenres": [
+      "fantasy:yokai",
+      "daily:toys"
+    ]
   },
   {
     "id": "yokai24-amabie",
@@ -3963,7 +4925,10 @@ export const BUNDLED_POSES = [
       "うろこ"
     ],
     "src": "./assets/library/yokai24-amabie.webp",
-    "thumbnail": "./assets/thumbnails/yokai24-amabie.webp"
+    "thumbnail": "./assets/thumbnails/yokai24-amabie.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween-rokurokubi",
@@ -3981,7 +4946,11 @@ export const BUNDLED_POSES = [
       "首が伸びる"
     ],
     "src": "./assets/library/halloween-rokurokubi.webp",
-    "thumbnail": "./assets/thumbnails/halloween-rokurokubi.webp"
+    "thumbnail": "./assets/thumbnails/halloween-rokurokubi.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-pumpkin-round",
@@ -3997,7 +4966,11 @@ export const BUNDLED_POSES = [
       "お菓子"
     ],
     "src": "./assets/library/halloween24-pumpkin-round.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-round.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-round.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-witch-purple",
@@ -4013,7 +4986,12 @@ export const BUNDLED_POSES = [
       "ほうき"
     ],
     "src": "./assets/library/halloween24-witch-purple.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-witch-purple.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-witch-purple.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:legend"
+    ]
   },
   {
     "id": "halloween24-vampire-classic",
@@ -4029,7 +5007,12 @@ export const BUNDLED_POSES = [
       "マント"
     ],
     "src": "./assets/library/halloween24-vampire-classic.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-vampire-classic.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-vampire-classic.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-ghost-sheet",
@@ -4045,7 +5028,12 @@ export const BUNDLED_POSES = [
       "白"
     ],
     "src": "./assets/library/halloween24-ghost-sheet.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-ghost-sheet.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-ghost-sheet.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-skeleton",
@@ -4061,7 +5049,11 @@ export const BUNDLED_POSES = [
       "スケルトン"
     ],
     "src": "./assets/library/halloween24-skeleton.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-skeleton.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-skeleton.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-mummy",
@@ -4076,7 +5068,12 @@ export const BUNDLED_POSES = [
       "包帯"
     ],
     "src": "./assets/library/halloween24-mummy.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-mummy.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-mummy.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-werewolf",
@@ -4092,7 +5089,11 @@ export const BUNDLED_POSES = [
       "もふもふ"
     ],
     "src": "./assets/library/halloween24-werewolf.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-werewolf.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-werewolf.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-friendly-monster",
@@ -4108,7 +5109,11 @@ export const BUNDLED_POSES = [
       "怪物"
     ],
     "src": "./assets/library/halloween24-friendly-monster.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-friendly-monster.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-friendly-monster.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-black-cat",
@@ -4125,7 +5130,12 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-black-cat.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-black-cat.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-black-cat.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "animal:pets"
+    ]
   },
   {
     "id": "halloween24-little-bat",
@@ -4142,7 +5152,11 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-little-bat.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-little-bat.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-little-bat.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-scarecrow",
@@ -4159,7 +5173,11 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-scarecrow.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-scarecrow.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-scarecrow.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-candy-wizard",
@@ -4176,7 +5194,12 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-candy-wizard.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-candy-wizard.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-candy-wizard.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:legend"
+    ]
   },
   {
     "id": "halloween24-pumpkin-baker",
@@ -4193,7 +5216,12 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-pumpkin-baker.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-baker.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-baker.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "work:food"
+    ]
   },
   {
     "id": "halloween24-ghost-balloons",
@@ -4210,7 +5238,12 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-ghost-balloons.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-ghost-balloons.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-ghost-balloons.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-spider-cape",
@@ -4227,7 +5260,11 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-spider-cape.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-spider-cape.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-spider-cape.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-pumpkin-parade",
@@ -4244,7 +5281,11 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/halloween24-pumpkin-parade.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-parade.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-pumpkin-parade.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-gothic-count",
@@ -4261,7 +5302,11 @@ export const BUNDLED_POSES = [
       "バラ"
     ],
     "src": "./assets/library/halloween24-gothic-count.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-gothic-count.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-gothic-count.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-haunted-pirate",
@@ -4277,7 +5322,12 @@ export const BUNDLED_POSES = [
       "宝箱"
     ],
     "src": "./assets/library/halloween24-haunted-pirate.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-haunted-pirate.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-haunted-pirate.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-masked-phantom",
@@ -4293,7 +5343,11 @@ export const BUNDLED_POSES = [
       "舞踏会"
     ],
     "src": "./assets/library/halloween24-masked-phantom.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-masked-phantom.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-masked-phantom.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-mad-scientist",
@@ -4309,7 +5363,11 @@ export const BUNDLED_POSES = [
       "フラスコ"
     ],
     "src": "./assets/library/halloween24-mad-scientist.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-mad-scientist.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-mad-scientist.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume"
+    ]
   },
   {
     "id": "halloween24-friendly-zombie",
@@ -4324,7 +5382,12 @@ export const BUNDLED_POSES = [
       "ホラー"
     ],
     "src": "./assets/library/halloween24-friendly-zombie.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-friendly-zombie.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-friendly-zombie.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-hooded-reaper",
@@ -4340,7 +5403,12 @@ export const BUNDLED_POSES = [
       "砂時計"
     ],
     "src": "./assets/library/halloween24-hooded-reaper.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-hooded-reaper.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-hooded-reaper.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-karakasa",
@@ -4357,7 +5425,12 @@ export const BUNDLED_POSES = [
       "和風"
     ],
     "src": "./assets/library/halloween24-karakasa.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-karakasa.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-karakasa.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "halloween24-white-yurei",
@@ -4373,7 +5446,12 @@ export const BUNDLED_POSES = [
       "ひとだま"
     ],
     "src": "./assets/library/halloween24-white-yurei.webp",
-    "thumbnail": "./assets/thumbnails/halloween24-white-yurei.webp"
+    "thumbnail": "./assets/thumbnails/halloween24-white-yurei.webp",
+    "subgenres": [
+      "event:halloween",
+      "outfit:costume",
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "formal24-montsuki-black",
@@ -4392,7 +5470,10 @@ export const BUNDLED_POSES = [
       "黒紋付"
     ],
     "src": "./assets/library/formal24-montsuki-black.webp",
-    "thumbnail": "./assets/thumbnails/formal24-montsuki-black.webp"
+    "thumbnail": "./assets/thumbnails/formal24-montsuki-black.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-montsuki-white",
@@ -4411,7 +5492,10 @@ export const BUNDLED_POSES = [
       "白紋付"
     ],
     "src": "./assets/library/formal24-montsuki-white.webp",
-    "thumbnail": "./assets/thumbnails/formal24-montsuki-white.webp"
+    "thumbnail": "./assets/thumbnails/formal24-montsuki-white.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-montsuki-navy",
@@ -4430,7 +5514,10 @@ export const BUNDLED_POSES = [
       "紺"
     ],
     "src": "./assets/library/formal24-montsuki-navy.webp",
-    "thumbnail": "./assets/thumbnails/formal24-montsuki-navy.webp"
+    "thumbnail": "./assets/thumbnails/formal24-montsuki-navy.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-haori-gray",
@@ -4448,7 +5535,10 @@ export const BUNDLED_POSES = [
       "グレー"
     ],
     "src": "./assets/library/formal24-haori-gray.webp",
-    "thumbnail": "./assets/thumbnails/formal24-haori-gray.webp"
+    "thumbnail": "./assets/thumbnails/formal24-haori-gray.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-iromuji",
@@ -4466,7 +5556,10 @@ export const BUNDLED_POSES = [
       "着物"
     ],
     "src": "./assets/library/formal24-iromuji.webp",
-    "thumbnail": "./assets/thumbnails/formal24-iromuji.webp"
+    "thumbnail": "./assets/thumbnails/formal24-iromuji.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-kurotomesode",
@@ -4484,7 +5577,10 @@ export const BUNDLED_POSES = [
       "黒留袖"
     ],
     "src": "./assets/library/formal24-kurotomesode.webp",
-    "thumbnail": "./assets/thumbnails/formal24-kurotomesode.webp"
+    "thumbnail": "./assets/thumbnails/formal24-kurotomesode.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-irotomesode",
@@ -4503,7 +5599,10 @@ export const BUNDLED_POSES = [
       "藤色"
     ],
     "src": "./assets/library/formal24-irotomesode.webp",
-    "thumbnail": "./assets/thumbnails/formal24-irotomesode.webp"
+    "thumbnail": "./assets/thumbnails/formal24-irotomesode.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-houmongi",
@@ -4521,7 +5620,10 @@ export const BUNDLED_POSES = [
       "着物"
     ],
     "src": "./assets/library/formal24-houmongi.webp",
-    "thumbnail": "./assets/thumbnails/formal24-houmongi.webp"
+    "thumbnail": "./assets/thumbnails/formal24-houmongi.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-furisode-red",
@@ -4539,7 +5641,10 @@ export const BUNDLED_POSES = [
       "赤"
     ],
     "src": "./assets/library/formal24-furisode-red.webp",
-    "thumbnail": "./assets/thumbnails/formal24-furisode-red.webp"
+    "thumbnail": "./assets/thumbnails/formal24-furisode-red.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-furisode-blue",
@@ -4557,7 +5662,10 @@ export const BUNDLED_POSES = [
       "青"
     ],
     "src": "./assets/library/formal24-furisode-blue.webp",
-    "thumbnail": "./assets/thumbnails/formal24-furisode-blue.webp"
+    "thumbnail": "./assets/thumbnails/formal24-furisode-blue.webp",
+    "subgenres": [
+      "outfit:japanese"
+    ]
   },
   {
     "id": "formal24-uchikake",
@@ -4576,7 +5684,11 @@ export const BUNDLED_POSES = [
       "打掛"
     ],
     "src": "./assets/library/formal24-uchikake.webp",
-    "thumbnail": "./assets/thumbnails/formal24-uchikake.webp"
+    "thumbnail": "./assets/thumbnails/formal24-uchikake.webp",
+    "subgenres": [
+      "outfit:japanese",
+      "event:wedding"
+    ]
   },
   {
     "id": "formal24-shiromuku",
@@ -4595,7 +5707,11 @@ export const BUNDLED_POSES = [
       "婚礼"
     ],
     "src": "./assets/library/formal24-shiromuku.webp",
-    "thumbnail": "./assets/thumbnails/formal24-shiromuku.webp"
+    "thumbnail": "./assets/thumbnails/formal24-shiromuku.webp",
+    "subgenres": [
+      "outfit:japanese",
+      "event:wedding"
+    ]
   },
   {
     "id": "formal24-morning-coat",
@@ -4612,7 +5728,10 @@ export const BUNDLED_POSES = [
       "式典"
     ],
     "src": "./assets/library/formal24-morning-coat.webp",
-    "thumbnail": "./assets/thumbnails/formal24-morning-coat.webp"
+    "thumbnail": "./assets/thumbnails/formal24-morning-coat.webp",
+    "subgenres": [
+      "outfit:western"
+    ]
   },
   {
     "id": "formal24-white-tie",
@@ -4629,7 +5748,10 @@ export const BUNDLED_POSES = [
       "ホワイトタイ"
     ],
     "src": "./assets/library/formal24-white-tie.webp",
-    "thumbnail": "./assets/thumbnails/formal24-white-tie.webp"
+    "thumbnail": "./assets/thumbnails/formal24-white-tie.webp",
+    "subgenres": [
+      "outfit:western"
+    ]
   },
   {
     "id": "formal24-navy-tuxedo",
@@ -4646,7 +5768,10 @@ export const BUNDLED_POSES = [
       "ブラックタイ"
     ],
     "src": "./assets/library/formal24-navy-tuxedo.webp",
-    "thumbnail": "./assets/thumbnails/formal24-navy-tuxedo.webp"
+    "thumbnail": "./assets/thumbnails/formal24-navy-tuxedo.webp",
+    "subgenres": [
+      "outfit:western"
+    ]
   },
   {
     "id": "formal24-black-formal",
@@ -4664,7 +5789,10 @@ export const BUNDLED_POSES = [
       "黒ネクタイ"
     ],
     "src": "./assets/library/formal24-black-formal.webp",
-    "thumbnail": "./assets/thumbnails/formal24-black-formal.webp"
+    "thumbnail": "./assets/thumbnails/formal24-black-formal.webp",
+    "subgenres": [
+      "outfit:western"
+    ]
   },
   {
     "id": "formal24-hanbok",
@@ -4682,7 +5810,10 @@ export const BUNDLED_POSES = [
       "ハンボク"
     ],
     "src": "./assets/library/formal24-hanbok.webp",
-    "thumbnail": "./assets/thumbnails/formal24-hanbok.webp"
+    "thumbnail": "./assets/thumbnails/formal24-hanbok.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-agbada",
@@ -4700,7 +5831,10 @@ export const BUNDLED_POSES = [
       "アグバダ"
     ],
     "src": "./assets/library/formal24-agbada.webp",
-    "thumbnail": "./assets/thumbnails/formal24-agbada.webp"
+    "thumbnail": "./assets/thumbnails/formal24-agbada.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-sherwani",
@@ -4717,7 +5851,10 @@ export const BUNDLED_POSES = [
       "シェルワーニー"
     ],
     "src": "./assets/library/formal24-sherwani.webp",
-    "thumbnail": "./assets/thumbnails/formal24-sherwani.webp"
+    "thumbnail": "./assets/thumbnails/formal24-sherwani.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-ao-dai",
@@ -4734,7 +5871,10 @@ export const BUNDLED_POSES = [
       "アオザイ"
     ],
     "src": "./assets/library/formal24-ao-dai.webp",
-    "thumbnail": "./assets/thumbnails/formal24-ao-dai.webp"
+    "thumbnail": "./assets/thumbnails/formal24-ao-dai.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-barong",
@@ -4752,7 +5892,10 @@ export const BUNDLED_POSES = [
       "バロンタガログ"
     ],
     "src": "./assets/library/formal24-barong.webp",
-    "thumbnail": "./assets/thumbnails/formal24-barong.webp"
+    "thumbnail": "./assets/thumbnails/formal24-barong.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-highland",
@@ -4770,7 +5913,10 @@ export const BUNDLED_POSES = [
       "ハイランド"
     ],
     "src": "./assets/library/formal24-highland.webp",
-    "thumbnail": "./assets/thumbnails/formal24-highland.webp"
+    "thumbnail": "./assets/thumbnails/formal24-highland.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-bisht",
@@ -4788,7 +5934,10 @@ export const BUNDLED_POSES = [
       "ビシュト"
     ],
     "src": "./assets/library/formal24-bisht.webp",
-    "thumbnail": "./assets/thumbnails/formal24-bisht.webp"
+    "thumbnail": "./assets/thumbnails/formal24-bisht.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "formal24-charro",
@@ -4806,7 +5955,10 @@ export const BUNDLED_POSES = [
       "ガラ"
     ],
     "src": "./assets/library/formal24-charro.webp",
-    "thumbnail": "./assets/thumbnails/formal24-charro.webp"
+    "thumbnail": "./assets/thumbnails/formal24-charro.webp",
+    "subgenres": [
+      "outfit:world"
+    ]
   },
   {
     "id": "school24-gakuran-black",
@@ -4823,7 +5975,10 @@ export const BUNDLED_POSES = [
       "学生帽"
     ],
     "src": "./assets/library/school24-gakuran-black.webp",
-    "thumbnail": "./assets/thumbnails/school24-gakuran-black.webp"
+    "thumbnail": "./assets/thumbnails/school24-gakuran-black.webp",
+    "subgenres": [
+      "outfit:gakuran"
+    ]
   },
   {
     "id": "school24-gakuran-navy",
@@ -4840,7 +5995,10 @@ export const BUNDLED_POSES = [
       "通学かばん"
     ],
     "src": "./assets/library/school24-gakuran-navy.webp",
-    "thumbnail": "./assets/thumbnails/school24-gakuran-navy.webp"
+    "thumbnail": "./assets/thumbnails/school24-gakuran-navy.webp",
+    "subgenres": [
+      "outfit:gakuran"
+    ]
   },
   {
     "id": "school24-gakuran-white",
@@ -4856,7 +6014,10 @@ export const BUNDLED_POSES = [
       "詰襟"
     ],
     "src": "./assets/library/school24-gakuran-white.webp",
-    "thumbnail": "./assets/thumbnails/school24-gakuran-white.webp"
+    "thumbnail": "./assets/thumbnails/school24-gakuran-white.webp",
+    "subgenres": [
+      "outfit:gakuran"
+    ]
   },
   {
     "id": "school24-gakuran-gray",
@@ -4873,7 +6034,10 @@ export const BUNDLED_POSES = [
       "敬礼"
     ],
     "src": "./assets/library/school24-gakuran-gray.webp",
-    "thumbnail": "./assets/thumbnails/school24-gakuran-gray.webp"
+    "thumbnail": "./assets/thumbnails/school24-gakuran-gray.webp",
+    "subgenres": [
+      "outfit:gakuran"
+    ]
   },
   {
     "id": "school24-gakuran-coat",
@@ -4891,7 +6055,10 @@ export const BUNDLED_POSES = [
       "マフラー"
     ],
     "src": "./assets/library/school24-gakuran-coat.webp",
-    "thumbnail": "./assets/thumbnails/school24-gakuran-coat.webp"
+    "thumbnail": "./assets/thumbnails/school24-gakuran-coat.webp",
+    "subgenres": [
+      "outfit:gakuran"
+    ]
   },
   {
     "id": "school24-gakuran-cheer",
@@ -4908,7 +6075,10 @@ export const BUNDLED_POSES = [
       "長ラン"
     ],
     "src": "./assets/library/school24-gakuran-cheer.webp",
-    "thumbnail": "./assets/thumbnails/school24-gakuran-cheer.webp"
+    "thumbnail": "./assets/thumbnails/school24-gakuran-cheer.webp",
+    "subgenres": [
+      "outfit:gakuran"
+    ]
   },
   {
     "id": "school24-blazer-navy",
@@ -4926,7 +6096,10 @@ export const BUNDLED_POSES = [
       "リュック"
     ],
     "src": "./assets/library/school24-blazer-navy.webp",
-    "thumbnail": "./assets/thumbnails/school24-blazer-navy.webp"
+    "thumbnail": "./assets/thumbnails/school24-blazer-navy.webp",
+    "subgenres": [
+      "outfit:blazer"
+    ]
   },
   {
     "id": "school24-blazer-gray",
@@ -4943,7 +6116,10 @@ export const BUNDLED_POSES = [
       "ベスト"
     ],
     "src": "./assets/library/school24-blazer-gray.webp",
-    "thumbnail": "./assets/thumbnails/school24-blazer-gray.webp"
+    "thumbnail": "./assets/thumbnails/school24-blazer-gray.webp",
+    "subgenres": [
+      "outfit:blazer"
+    ]
   },
   {
     "id": "school24-blazer-burgundy",
@@ -4960,7 +6136,10 @@ export const BUNDLED_POSES = [
       "ベスト"
     ],
     "src": "./assets/library/school24-blazer-burgundy.webp",
-    "thumbnail": "./assets/thumbnails/school24-blazer-burgundy.webp"
+    "thumbnail": "./assets/thumbnails/school24-blazer-burgundy.webp",
+    "subgenres": [
+      "outfit:blazer"
+    ]
   },
   {
     "id": "school24-blazer-green",
@@ -4978,7 +6157,10 @@ export const BUNDLED_POSES = [
       "スカート"
     ],
     "src": "./assets/library/school24-blazer-green.webp",
-    "thumbnail": "./assets/thumbnails/school24-blazer-green.webp"
+    "thumbnail": "./assets/thumbnails/school24-blazer-green.webp",
+    "subgenres": [
+      "outfit:blazer"
+    ]
   },
   {
     "id": "school24-blazer-beige",
@@ -4995,7 +6177,10 @@ export const BUNDLED_POSES = [
       "ダブル"
     ],
     "src": "./assets/library/school24-blazer-beige.webp",
-    "thumbnail": "./assets/thumbnails/school24-blazer-beige.webp"
+    "thumbnail": "./assets/thumbnails/school24-blazer-beige.webp",
+    "subgenres": [
+      "outfit:blazer"
+    ]
   },
   {
     "id": "school24-blazer-ribbon",
@@ -5013,7 +6198,10 @@ export const BUNDLED_POSES = [
       "ハート"
     ],
     "src": "./assets/library/school24-blazer-ribbon.webp",
-    "thumbnail": "./assets/thumbnails/school24-blazer-ribbon.webp"
+    "thumbnail": "./assets/thumbnails/school24-blazer-ribbon.webp",
+    "subgenres": [
+      "outfit:blazer"
+    ]
   },
   {
     "id": "school24-sailor-navy",
@@ -5030,7 +6218,10 @@ export const BUNDLED_POSES = [
       "赤スカーフ"
     ],
     "src": "./assets/library/school24-sailor-navy.webp",
-    "thumbnail": "./assets/thumbnails/school24-sailor-navy.webp"
+    "thumbnail": "./assets/thumbnails/school24-sailor-navy.webp",
+    "subgenres": [
+      "outfit:sailor"
+    ]
   },
   {
     "id": "school24-sailor-white",
@@ -5047,7 +6238,10 @@ export const BUNDLED_POSES = [
       "青リボン"
     ],
     "src": "./assets/library/school24-sailor-white.webp",
-    "thumbnail": "./assets/thumbnails/school24-sailor-white.webp"
+    "thumbnail": "./assets/thumbnails/school24-sailor-white.webp",
+    "subgenres": [
+      "outfit:sailor"
+    ]
   },
   {
     "id": "school24-sailor-black",
@@ -5064,7 +6258,10 @@ export const BUNDLED_POSES = [
       "緑スカーフ"
     ],
     "src": "./assets/library/school24-sailor-black.webp",
-    "thumbnail": "./assets/thumbnails/school24-sailor-black.webp"
+    "thumbnail": "./assets/thumbnails/school24-sailor-black.webp",
+    "subgenres": [
+      "outfit:sailor"
+    ]
   },
   {
     "id": "school24-sailor-blue",
@@ -5081,7 +6278,10 @@ export const BUNDLED_POSES = [
       "かわいい"
     ],
     "src": "./assets/library/school24-sailor-blue.webp",
-    "thumbnail": "./assets/thumbnails/school24-sailor-blue.webp"
+    "thumbnail": "./assets/thumbnails/school24-sailor-blue.webp",
+    "subgenres": [
+      "outfit:sailor"
+    ]
   },
   {
     "id": "school24-sailor-trousers",
@@ -5098,7 +6298,10 @@ export const BUNDLED_POSES = [
       "ズボン"
     ],
     "src": "./assets/library/school24-sailor-trousers.webp",
-    "thumbnail": "./assets/thumbnails/school24-sailor-trousers.webp"
+    "thumbnail": "./assets/thumbnails/school24-sailor-trousers.webp",
+    "subgenres": [
+      "outfit:sailor"
+    ]
   },
   {
     "id": "school24-sailor-retro",
@@ -5115,7 +6318,10 @@ export const BUNDLED_POSES = [
       "クリーム"
     ],
     "src": "./assets/library/school24-sailor-retro.webp",
-    "thumbnail": "./assets/thumbnails/school24-sailor-retro.webp"
+    "thumbnail": "./assets/thumbnails/school24-sailor-retro.webp",
+    "subgenres": [
+      "outfit:sailor"
+    ]
   },
   {
     "id": "school24-summer-shirt",
@@ -5133,7 +6339,10 @@ export const BUNDLED_POSES = [
       "ネクタイ"
     ],
     "src": "./assets/library/school24-summer-shirt.webp",
-    "thumbnail": "./assets/thumbnails/school24-summer-shirt.webp"
+    "thumbnail": "./assets/thumbnails/school24-summer-shirt.webp",
+    "subgenres": [
+      "outfit:school-other"
+    ]
   },
   {
     "id": "school24-summer-polo",
@@ -5149,7 +6358,10 @@ export const BUNDLED_POSES = [
       "ポロシャツ"
     ],
     "src": "./assets/library/school24-summer-polo.webp",
-    "thumbnail": "./assets/thumbnails/school24-summer-polo.webp"
+    "thumbnail": "./assets/thumbnails/school24-summer-polo.webp",
+    "subgenres": [
+      "outfit:school-other"
+    ]
   },
   {
     "id": "school24-summer-vest",
@@ -5166,7 +6378,10 @@ export const BUNDLED_POSES = [
       "スカート"
     ],
     "src": "./assets/library/school24-summer-vest.webp",
-    "thumbnail": "./assets/thumbnails/school24-summer-vest.webp"
+    "thumbnail": "./assets/thumbnails/school24-summer-vest.webp",
+    "subgenres": [
+      "outfit:school-other"
+    ]
   },
   {
     "id": "school24-cardigan",
@@ -5183,7 +6398,10 @@ export const BUNDLED_POSES = [
       "チェック"
     ],
     "src": "./assets/library/school24-cardigan.webp",
-    "thumbnail": "./assets/thumbnails/school24-cardigan.webp"
+    "thumbnail": "./assets/thumbnails/school24-cardigan.webp",
+    "subgenres": [
+      "outfit:school-other"
+    ]
   },
   {
     "id": "school24-retro-hakama",
@@ -5201,7 +6419,11 @@ export const BUNDLED_POSES = [
       "レトロ"
     ],
     "src": "./assets/library/school24-retro-hakama.webp",
-    "thumbnail": "./assets/thumbnails/school24-retro-hakama.webp"
+    "thumbnail": "./assets/thumbnails/school24-retro-hakama.webp",
+    "subgenres": [
+      "outfit:school-other",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "school24-yellow-hat",
@@ -5218,7 +6440,10 @@ export const BUNDLED_POSES = [
       "小学生風"
     ],
     "src": "./assets/library/school24-yellow-hat.webp",
-    "thumbnail": "./assets/thumbnails/school24-yellow-hat.webp"
+    "thumbnail": "./assets/thumbnails/school24-yellow-hat.webp",
+    "subgenres": [
+      "outfit:school-other"
+    ]
   },
   {
     "id": "zodiac12-rat",
@@ -5239,7 +6464,13 @@ export const BUNDLED_POSES = [
       "マウス"
     ],
     "src": "./assets/library/zodiac12-rat.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-rat.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-rat.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-ox",
@@ -5260,7 +6491,13 @@ export const BUNDLED_POSES = [
       "牡牛"
     ],
     "src": "./assets/library/zodiac12-ox.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-ox.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-ox.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-tiger",
@@ -5281,7 +6518,13 @@ export const BUNDLED_POSES = [
       "タイガー"
     ],
     "src": "./assets/library/zodiac12-tiger.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-tiger.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-tiger.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-rabbit",
@@ -5303,7 +6546,13 @@ export const BUNDLED_POSES = [
       "ラビット"
     ],
     "src": "./assets/library/zodiac12-rabbit.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-rabbit.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-rabbit.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:pets",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-dragon",
@@ -5325,7 +6574,13 @@ export const BUNDLED_POSES = [
       "ドラゴン"
     ],
     "src": "./assets/library/zodiac12-dragon.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-dragon.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-dragon.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-snake",
@@ -5347,7 +6602,13 @@ export const BUNDLED_POSES = [
       "スネーク"
     ],
     "src": "./assets/library/zodiac12-snake.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-snake.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-snake.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-horse",
@@ -5368,7 +6629,13 @@ export const BUNDLED_POSES = [
       "ホース"
     ],
     "src": "./assets/library/zodiac12-horse.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-horse.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-horse.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-sheep",
@@ -5389,7 +6656,13 @@ export const BUNDLED_POSES = [
       "ラム"
     ],
     "src": "./assets/library/zodiac12-sheep.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-sheep.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-sheep.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-monkey",
@@ -5410,7 +6683,13 @@ export const BUNDLED_POSES = [
       "モンキー"
     ],
     "src": "./assets/library/zodiac12-monkey.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-monkey.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-monkey.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-rooster",
@@ -5432,7 +6711,13 @@ export const BUNDLED_POSES = [
       "コケコッコー"
     ],
     "src": "./assets/library/zodiac12-rooster.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-rooster.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-rooster.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:birds",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-dog",
@@ -5453,7 +6738,13 @@ export const BUNDLED_POSES = [
       "ドッグ"
     ],
     "src": "./assets/library/zodiac12-dog.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-dog.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-dog.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:pets",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "zodiac12-boar",
@@ -5475,7 +6766,13 @@ export const BUNDLED_POSES = [
       "ウリボー"
     ],
     "src": "./assets/library/zodiac12-boar.webp",
-    "thumbnail": "./assets/thumbnails/zodiac12-boar.webp"
+    "thumbnail": "./assets/thumbnails/zodiac12-boar.webp",
+    "subgenres": [
+      "animal:zodiac",
+      "animal:wild",
+      "outfit:costume",
+      "event:newyear"
+    ]
   },
   {
     "id": "sports48-football",
@@ -5490,7 +6787,10 @@ export const BUNDLED_POSES = [
       "フットボール"
     ],
     "src": "./assets/library/sports48-football.webp",
-    "thumbnail": "./assets/thumbnails/sports48-football.webp"
+    "thumbnail": "./assets/thumbnails/sports48-football.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-baseball-pitcher",
@@ -5506,7 +6806,10 @@ export const BUNDLED_POSES = [
       "投手"
     ],
     "src": "./assets/library/sports48-baseball-pitcher.webp",
-    "thumbnail": "./assets/thumbnails/sports48-baseball-pitcher.webp"
+    "thumbnail": "./assets/thumbnails/sports48-baseball-pitcher.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-softball-batter",
@@ -5522,7 +6825,10 @@ export const BUNDLED_POSES = [
       "打者"
     ],
     "src": "./assets/library/sports48-softball-batter.webp",
-    "thumbnail": "./assets/thumbnails/sports48-softball-batter.webp"
+    "thumbnail": "./assets/thumbnails/sports48-softball-batter.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-volleyball",
@@ -5537,7 +6843,10 @@ export const BUNDLED_POSES = [
       "バレー"
     ],
     "src": "./assets/library/sports48-volleyball.webp",
-    "thumbnail": "./assets/thumbnails/sports48-volleyball.webp"
+    "thumbnail": "./assets/thumbnails/sports48-volleyball.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-beach-volleyball",
@@ -5552,7 +6861,10 @@ export const BUNDLED_POSES = [
       "ビーチバレーボール"
     ],
     "src": "./assets/library/sports48-beach-volleyball.webp",
-    "thumbnail": "./assets/thumbnails/sports48-beach-volleyball.webp"
+    "thumbnail": "./assets/thumbnails/sports48-beach-volleyball.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-handball",
@@ -5566,7 +6878,10 @@ export const BUNDLED_POSES = [
       "ハンドボール"
     ],
     "src": "./assets/library/sports48-handball.webp",
-    "thumbnail": "./assets/thumbnails/sports48-handball.webp"
+    "thumbnail": "./assets/thumbnails/sports48-handball.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-rugby-sevens",
@@ -5582,7 +6897,10 @@ export const BUNDLED_POSES = [
       "セブンズ"
     ],
     "src": "./assets/library/sports48-rugby-sevens.webp",
-    "thumbnail": "./assets/thumbnails/sports48-rugby-sevens.webp"
+    "thumbnail": "./assets/thumbnails/sports48-rugby-sevens.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-field-hockey",
@@ -5597,7 +6915,10 @@ export const BUNDLED_POSES = [
       "フィールドホッケー"
     ],
     "src": "./assets/library/sports48-field-hockey.webp",
-    "thumbnail": "./assets/thumbnails/sports48-field-hockey.webp"
+    "thumbnail": "./assets/thumbnails/sports48-field-hockey.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-table-tennis",
@@ -5612,7 +6933,10 @@ export const BUNDLED_POSES = [
       "ピンポン"
     ],
     "src": "./assets/library/sports48-table-tennis.webp",
-    "thumbnail": "./assets/thumbnails/sports48-table-tennis.webp"
+    "thumbnail": "./assets/thumbnails/sports48-table-tennis.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-golf",
@@ -5626,7 +6950,10 @@ export const BUNDLED_POSES = [
       "ゴルフ"
     ],
     "src": "./assets/library/sports48-golf.webp",
-    "thumbnail": "./assets/thumbnails/sports48-golf.webp"
+    "thumbnail": "./assets/thumbnails/sports48-golf.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-basketball-shot",
@@ -5641,7 +6968,10 @@ export const BUNDLED_POSES = [
       "バスケ"
     ],
     "src": "./assets/library/sports48-basketball-shot.webp",
-    "thumbnail": "./assets/thumbnails/sports48-basketball-shot.webp"
+    "thumbnail": "./assets/thumbnails/sports48-basketball-shot.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-squash",
@@ -5655,7 +6985,10 @@ export const BUNDLED_POSES = [
       "スカッシュ"
     ],
     "src": "./assets/library/sports48-squash.webp",
-    "thumbnail": "./assets/thumbnails/sports48-squash.webp"
+    "thumbnail": "./assets/thumbnails/sports48-squash.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-sprint",
@@ -5672,7 +7005,10 @@ export const BUNDLED_POSES = [
       "スプリント"
     ],
     "src": "./assets/library/sports48-sprint.webp",
-    "thumbnail": "./assets/thumbnails/sports48-sprint.webp"
+    "thumbnail": "./assets/thumbnails/sports48-sprint.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-marathon",
@@ -5689,7 +7025,10 @@ export const BUNDLED_POSES = [
       "ランニング"
     ],
     "src": "./assets/library/sports48-marathon.webp",
-    "thumbnail": "./assets/thumbnails/sports48-marathon.webp"
+    "thumbnail": "./assets/thumbnails/sports48-marathon.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-relay",
@@ -5705,7 +7044,10 @@ export const BUNDLED_POSES = [
       "バトン"
     ],
     "src": "./assets/library/sports48-relay.webp",
-    "thumbnail": "./assets/thumbnails/sports48-relay.webp"
+    "thumbnail": "./assets/thumbnails/sports48-relay.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-hurdles",
@@ -5720,7 +7062,10 @@ export const BUNDLED_POSES = [
       "ハードル"
     ],
     "src": "./assets/library/sports48-hurdles.webp",
-    "thumbnail": "./assets/thumbnails/sports48-hurdles.webp"
+    "thumbnail": "./assets/thumbnails/sports48-hurdles.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-javelin",
@@ -5736,7 +7081,10 @@ export const BUNDLED_POSES = [
       "槍投げ"
     ],
     "src": "./assets/library/sports48-javelin.webp",
-    "thumbnail": "./assets/thumbnails/sports48-javelin.webp"
+    "thumbnail": "./assets/thumbnails/sports48-javelin.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-discus",
@@ -5751,7 +7099,10 @@ export const BUNDLED_POSES = [
       "円盤投げ"
     ],
     "src": "./assets/library/sports48-discus.webp",
-    "thumbnail": "./assets/thumbnails/sports48-discus.webp"
+    "thumbnail": "./assets/thumbnails/sports48-discus.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-shot-put",
@@ -5766,7 +7117,10 @@ export const BUNDLED_POSES = [
       "砲丸投げ"
     ],
     "src": "./assets/library/sports48-shot-put.webp",
-    "thumbnail": "./assets/thumbnails/sports48-shot-put.webp"
+    "thumbnail": "./assets/thumbnails/sports48-shot-put.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-race-walking",
@@ -5782,7 +7136,10 @@ export const BUNDLED_POSES = [
       "ウォーキング"
     ],
     "src": "./assets/library/sports48-race-walking.webp",
-    "thumbnail": "./assets/thumbnails/sports48-race-walking.webp"
+    "thumbnail": "./assets/thumbnails/sports48-race-walking.webp",
+    "subgenres": [
+      "sports:athletics"
+    ]
   },
   {
     "id": "sports48-judo",
@@ -5797,7 +7154,10 @@ export const BUNDLED_POSES = [
       "武道"
     ],
     "src": "./assets/library/sports48-judo.webp",
-    "thumbnail": "./assets/thumbnails/sports48-judo.webp"
+    "thumbnail": "./assets/thumbnails/sports48-judo.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "sports48-karate",
@@ -5813,7 +7173,10 @@ export const BUNDLED_POSES = [
       "武道"
     ],
     "src": "./assets/library/sports48-karate.webp",
-    "thumbnail": "./assets/thumbnails/sports48-karate.webp"
+    "thumbnail": "./assets/thumbnails/sports48-karate.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "sports48-taekwondo",
@@ -5828,7 +7191,10 @@ export const BUNDLED_POSES = [
       "格闘技"
     ],
     "src": "./assets/library/sports48-taekwondo.webp",
-    "thumbnail": "./assets/thumbnails/sports48-taekwondo.webp"
+    "thumbnail": "./assets/thumbnails/sports48-taekwondo.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "sports48-boxing",
@@ -5843,7 +7209,10 @@ export const BUNDLED_POSES = [
       "格闘技"
     ],
     "src": "./assets/library/sports48-boxing.webp",
-    "thumbnail": "./assets/thumbnails/sports48-boxing.webp"
+    "thumbnail": "./assets/thumbnails/sports48-boxing.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "sports48-wrestling",
@@ -5858,7 +7227,10 @@ export const BUNDLED_POSES = [
       "格闘技"
     ],
     "src": "./assets/library/sports48-wrestling.webp",
-    "thumbnail": "./assets/thumbnails/sports48-wrestling.webp"
+    "thumbnail": "./assets/thumbnails/sports48-wrestling.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "sports48-kendo",
@@ -5873,7 +7245,10 @@ export const BUNDLED_POSES = [
       "武道"
     ],
     "src": "./assets/library/sports48-kendo.webp",
-    "thumbnail": "./assets/thumbnails/sports48-kendo.webp"
+    "thumbnail": "./assets/thumbnails/sports48-kendo.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "sports48-swimming",
@@ -5889,7 +7264,10 @@ export const BUNDLED_POSES = [
       "スイミング"
     ],
     "src": "./assets/library/sports48-swimming.webp",
-    "thumbnail": "./assets/thumbnails/sports48-swimming.webp"
+    "thumbnail": "./assets/thumbnails/sports48-swimming.webp",
+    "subgenres": [
+      "sports:water"
+    ]
   },
   {
     "id": "sports48-water-polo",
@@ -5904,7 +7282,11 @@ export const BUNDLED_POSES = [
       "ウォーターポロ"
     ],
     "src": "./assets/library/sports48-water-polo.webp",
-    "thumbnail": "./assets/thumbnails/sports48-water-polo.webp"
+    "thumbnail": "./assets/thumbnails/sports48-water-polo.webp",
+    "subgenres": [
+      "sports:water",
+      "sports:ball"
+    ]
   },
   {
     "id": "sports48-diving",
@@ -5919,7 +7301,10 @@ export const BUNDLED_POSES = [
       "ダイビング"
     ],
     "src": "./assets/library/sports48-diving.webp",
-    "thumbnail": "./assets/thumbnails/sports48-diving.webp"
+    "thumbnail": "./assets/thumbnails/sports48-diving.webp",
+    "subgenres": [
+      "sports:water"
+    ]
   },
   {
     "id": "sports48-canoe",
@@ -5935,7 +7320,10 @@ export const BUNDLED_POSES = [
       "パドル"
     ],
     "src": "./assets/library/sports48-canoe.webp",
-    "thumbnail": "./assets/thumbnails/sports48-canoe.webp"
+    "thumbnail": "./assets/thumbnails/sports48-canoe.webp",
+    "subgenres": [
+      "sports:water"
+    ]
   },
   {
     "id": "sports48-rowing",
@@ -5951,7 +7339,10 @@ export const BUNDLED_POSES = [
       "漕艇"
     ],
     "src": "./assets/library/sports48-rowing.webp",
-    "thumbnail": "./assets/thumbnails/sports48-rowing.webp"
+    "thumbnail": "./assets/thumbnails/sports48-rowing.webp",
+    "subgenres": [
+      "sports:water"
+    ]
   },
   {
     "id": "sports48-sailing",
@@ -5966,7 +7357,10 @@ export const BUNDLED_POSES = [
       "ヨット"
     ],
     "src": "./assets/library/sports48-sailing.webp",
-    "thumbnail": "./assets/thumbnails/sports48-sailing.webp"
+    "thumbnail": "./assets/thumbnails/sports48-sailing.webp",
+    "subgenres": [
+      "sports:water"
+    ]
   },
   {
     "id": "sports48-road-cycling",
@@ -5982,7 +7376,10 @@ export const BUNDLED_POSES = [
       "サイクリング"
     ],
     "src": "./assets/library/sports48-road-cycling.webp",
-    "thumbnail": "./assets/thumbnails/sports48-road-cycling.webp"
+    "thumbnail": "./assets/thumbnails/sports48-road-cycling.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-bmx",
@@ -5998,7 +7395,10 @@ export const BUNDLED_POSES = [
       "ビーエムエックス"
     ],
     "src": "./assets/library/sports48-bmx.webp",
-    "thumbnail": "./assets/thumbnails/sports48-bmx.webp"
+    "thumbnail": "./assets/thumbnails/sports48-bmx.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-sport-climbing",
@@ -6014,7 +7414,10 @@ export const BUNDLED_POSES = [
       "登山"
     ],
     "src": "./assets/library/sports48-sport-climbing.webp",
-    "thumbnail": "./assets/thumbnails/sports48-sport-climbing.webp"
+    "thumbnail": "./assets/thumbnails/sports48-sport-climbing.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-gymnastics",
@@ -6030,7 +7433,10 @@ export const BUNDLED_POSES = [
       "床運動"
     ],
     "src": "./assets/library/sports48-gymnastics.webp",
-    "thumbnail": "./assets/thumbnails/sports48-gymnastics.webp"
+    "thumbnail": "./assets/thumbnails/sports48-gymnastics.webp",
+    "subgenres": [
+      "sports:fitness"
+    ]
   },
   {
     "id": "sports48-rhythmic-gymnastics",
@@ -6046,7 +7452,10 @@ export const BUNDLED_POSES = [
       "体操"
     ],
     "src": "./assets/library/sports48-rhythmic-gymnastics.webp",
-    "thumbnail": "./assets/thumbnails/sports48-rhythmic-gymnastics.webp"
+    "thumbnail": "./assets/thumbnails/sports48-rhythmic-gymnastics.webp",
+    "subgenres": [
+      "sports:fitness"
+    ]
   },
   {
     "id": "sports48-trampoline",
@@ -6061,7 +7470,10 @@ export const BUNDLED_POSES = [
       "体操"
     ],
     "src": "./assets/library/sports48-trampoline.webp",
-    "thumbnail": "./assets/thumbnails/sports48-trampoline.webp"
+    "thumbnail": "./assets/thumbnails/sports48-trampoline.webp",
+    "subgenres": [
+      "sports:fitness"
+    ]
   },
   {
     "id": "sports48-archery",
@@ -6076,7 +7488,10 @@ export const BUNDLED_POSES = [
       "弓"
     ],
     "src": "./assets/library/sports48-archery.webp",
-    "thumbnail": "./assets/thumbnails/sports48-archery.webp"
+    "thumbnail": "./assets/thumbnails/sports48-archery.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-sport-shooting",
@@ -6092,7 +7507,10 @@ export const BUNDLED_POSES = [
       "スポーツ射撃"
     ],
     "src": "./assets/library/sports48-sport-shooting.webp",
-    "thumbnail": "./assets/thumbnails/sports48-sport-shooting.webp"
+    "thumbnail": "./assets/thumbnails/sports48-sport-shooting.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-equestrian",
@@ -6108,7 +7526,10 @@ export const BUNDLED_POSES = [
       "障害馬術"
     ],
     "src": "./assets/library/sports48-equestrian.webp",
-    "thumbnail": "./assets/thumbnails/sports48-equestrian.webp"
+    "thumbnail": "./assets/thumbnails/sports48-equestrian.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-skateboarding",
@@ -6123,7 +7544,10 @@ export const BUNDLED_POSES = [
       "スケボー"
     ],
     "src": "./assets/library/sports48-skateboarding.webp",
-    "thumbnail": "./assets/thumbnails/sports48-skateboarding.webp"
+    "thumbnail": "./assets/thumbnails/sports48-skateboarding.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "sports48-snowboard",
@@ -6139,7 +7563,10 @@ export const BUNDLED_POSES = [
       "冬季"
     ],
     "src": "./assets/library/sports48-snowboard.webp",
-    "thumbnail": "./assets/thumbnails/sports48-snowboard.webp"
+    "thumbnail": "./assets/thumbnails/sports48-snowboard.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "sports48-figure-skating",
@@ -6155,7 +7582,10 @@ export const BUNDLED_POSES = [
       "冬季"
     ],
     "src": "./assets/library/sports48-figure-skating.webp",
-    "thumbnail": "./assets/thumbnails/sports48-figure-skating.webp"
+    "thumbnail": "./assets/thumbnails/sports48-figure-skating.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "sports48-speed-skating",
@@ -6171,7 +7601,10 @@ export const BUNDLED_POSES = [
       "冬季"
     ],
     "src": "./assets/library/sports48-speed-skating.webp",
-    "thumbnail": "./assets/thumbnails/sports48-speed-skating.webp"
+    "thumbnail": "./assets/thumbnails/sports48-speed-skating.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "sports48-alpine-skiing",
@@ -6187,7 +7620,10 @@ export const BUNDLED_POSES = [
       "冬季"
     ],
     "src": "./assets/library/sports48-alpine-skiing.webp",
-    "thumbnail": "./assets/thumbnails/sports48-alpine-skiing.webp"
+    "thumbnail": "./assets/thumbnails/sports48-alpine-skiing.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "sports48-curling",
@@ -6202,7 +7638,10 @@ export const BUNDLED_POSES = [
       "冬季"
     ],
     "src": "./assets/library/sports48-curling.webp",
-    "thumbnail": "./assets/thumbnails/sports48-curling.webp"
+    "thumbnail": "./assets/thumbnails/sports48-curling.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "sports48-ice-hockey",
@@ -6218,7 +7657,11 @@ export const BUNDLED_POSES = [
       "冬季"
     ],
     "src": "./assets/library/sports48-ice-hockey.webp",
-    "thumbnail": "./assets/thumbnails/sports48-ice-hockey.webp"
+    "thumbnail": "./assets/thumbnails/sports48-ice-hockey.webp",
+    "subgenres": [
+      "sports:winter",
+      "sports:ball"
+    ]
   },
   {
     "id": "music-lead-vocal",
@@ -6234,7 +7677,10 @@ export const BUNDLED_POSES = [
       "ハンドマイクのボーカル"
     ],
     "src": "./assets/library/music-lead-vocal.webp",
-    "thumbnail": "./assets/thumbnails/music-lead-vocal.webp"
+    "thumbnail": "./assets/thumbnails/music-lead-vocal.webp",
+    "subgenres": [
+      "music:vocal"
+    ]
   },
   {
     "id": "music-stand-vocal",
@@ -6250,7 +7696,10 @@ export const BUNDLED_POSES = [
       "スタンドマイクで歌う"
     ],
     "src": "./assets/library/music-stand-vocal.webp",
-    "thumbnail": "./assets/thumbnails/music-stand-vocal.webp"
+    "thumbnail": "./assets/thumbnails/music-stand-vocal.webp",
+    "subgenres": [
+      "music:vocal"
+    ]
   },
   {
     "id": "music-acoustic-guitar",
@@ -6267,7 +7716,11 @@ export const BUNDLED_POSES = [
       "アコギで弾き語り"
     ],
     "src": "./assets/library/music-acoustic-guitar.webp",
-    "thumbnail": "./assets/thumbnails/music-acoustic-guitar.webp"
+    "thumbnail": "./assets/thumbnails/music-acoustic-guitar.webp",
+    "subgenres": [
+      "music:strings",
+      "music:vocal"
+    ]
   },
   {
     "id": "music-electric-bass",
@@ -6282,7 +7735,10 @@ export const BUNDLED_POSES = [
       "エレキベース"
     ],
     "src": "./assets/library/music-electric-bass.webp",
-    "thumbnail": "./assets/thumbnails/music-electric-bass.webp"
+    "thumbnail": "./assets/thumbnails/music-electric-bass.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-electric-bass-amp",
@@ -6299,7 +7755,10 @@ export const BUNDLED_POSES = [
       "エレキベース（アンプ付き）"
     ],
     "src": "./assets/library/music-electric-bass-amp.webp",
-    "thumbnail": "./assets/thumbnails/music-electric-bass-amp.webp"
+    "thumbnail": "./assets/thumbnails/music-electric-bass-amp.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-guitar-solo",
@@ -6316,7 +7775,10 @@ export const BUNDLED_POSES = [
       "ギターソロの決めポーズ"
     ],
     "src": "./assets/library/music-guitar-solo.webp",
-    "thumbnail": "./assets/thumbnails/music-guitar-solo.webp"
+    "thumbnail": "./assets/thumbnails/music-guitar-solo.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-guitar-solo-amp",
@@ -6334,7 +7796,10 @@ export const BUNDLED_POSES = [
       "ギターソロの決めポーズ（アンプ付き）"
     ],
     "src": "./assets/library/music-guitar-solo-amp.webp",
-    "thumbnail": "./assets/thumbnails/music-guitar-solo-amp.webp"
+    "thumbnail": "./assets/thumbnails/music-guitar-solo-amp.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-keyboard",
@@ -6350,7 +7815,10 @@ export const BUNDLED_POSES = [
       "キーボードを弾く"
     ],
     "src": "./assets/library/music-keyboard.webp",
-    "thumbnail": "./assets/thumbnails/music-keyboard.webp"
+    "thumbnail": "./assets/thumbnails/music-keyboard.webp",
+    "subgenres": [
+      "music:keys"
+    ]
   },
   {
     "id": "music-drum-kit",
@@ -6366,7 +7834,10 @@ export const BUNDLED_POSES = [
       "ドラムセット"
     ],
     "src": "./assets/library/music-drum-kit.webp",
-    "thumbnail": "./assets/thumbnails/music-drum-kit.webp"
+    "thumbnail": "./assets/thumbnails/music-drum-kit.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "music-cajon",
@@ -6382,7 +7853,10 @@ export const BUNDLED_POSES = [
       "カホンをたたく"
     ],
     "src": "./assets/library/music-cajon.webp",
-    "thumbnail": "./assets/thumbnails/music-cajon.webp"
+    "thumbnail": "./assets/thumbnails/music-cajon.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "music-tambourine",
@@ -6398,7 +7872,10 @@ export const BUNDLED_POSES = [
       "タンバリンで盛り上げる"
     ],
     "src": "./assets/library/music-tambourine.webp",
-    "thumbnail": "./assets/thumbnails/music-tambourine.webp"
+    "thumbnail": "./assets/thumbnails/music-tambourine.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "music-harmonica",
@@ -6413,7 +7890,10 @@ export const BUNDLED_POSES = [
       "ハーモニカを吹く"
     ],
     "src": "./assets/library/music-harmonica.webp",
-    "thumbnail": "./assets/thumbnails/music-harmonica.webp"
+    "thumbnail": "./assets/thumbnails/music-harmonica.webp",
+    "subgenres": [
+      "music:winds"
+    ]
   },
   {
     "id": "music-trumpet",
@@ -6429,7 +7909,10 @@ export const BUNDLED_POSES = [
       "トランペット"
     ],
     "src": "./assets/library/music-trumpet.webp",
-    "thumbnail": "./assets/thumbnails/music-trumpet.webp"
+    "thumbnail": "./assets/thumbnails/music-trumpet.webp",
+    "subgenres": [
+      "music:winds"
+    ]
   },
   {
     "id": "music-trombone",
@@ -6445,7 +7928,10 @@ export const BUNDLED_POSES = [
       "トロンボーン"
     ],
     "src": "./assets/library/music-trombone.webp",
-    "thumbnail": "./assets/thumbnails/music-trombone.webp"
+    "thumbnail": "./assets/thumbnails/music-trombone.webp",
+    "subgenres": [
+      "music:winds"
+    ]
   },
   {
     "id": "music-violin",
@@ -6460,7 +7946,10 @@ export const BUNDLED_POSES = [
       "バイオリン"
     ],
     "src": "./assets/library/music-violin.webp",
-    "thumbnail": "./assets/thumbnails/music-violin.webp"
+    "thumbnail": "./assets/thumbnails/music-violin.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-flute",
@@ -6475,7 +7964,10 @@ export const BUNDLED_POSES = [
       "フルート"
     ],
     "src": "./assets/library/music-flute.webp",
-    "thumbnail": "./assets/thumbnails/music-flute.webp"
+    "thumbnail": "./assets/thumbnails/music-flute.webp",
+    "subgenres": [
+      "music:winds"
+    ]
   },
   {
     "id": "music-ukulele",
@@ -6491,7 +7983,10 @@ export const BUNDLED_POSES = [
       "ウクレレ"
     ],
     "src": "./assets/library/music-ukulele.webp",
-    "thumbnail": "./assets/thumbnails/music-ukulele.webp"
+    "thumbnail": "./assets/thumbnails/music-ukulele.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-keytar",
@@ -6507,7 +8002,10 @@ export const BUNDLED_POSES = [
       "ショルダーキーボード"
     ],
     "src": "./assets/library/music-keytar.webp",
-    "thumbnail": "./assets/thumbnails/music-keytar.webp"
+    "thumbnail": "./assets/thumbnails/music-keytar.webp",
+    "subgenres": [
+      "music:keys"
+    ]
   },
   {
     "id": "music-upright-bass",
@@ -6523,7 +8021,10 @@ export const BUNDLED_POSES = [
       "ウッドベース"
     ],
     "src": "./assets/library/music-upright-bass.webp",
-    "thumbnail": "./assets/thumbnails/music-upright-bass.webp"
+    "thumbnail": "./assets/thumbnails/music-upright-bass.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "music-conga",
@@ -6539,7 +8040,10 @@ export const BUNDLED_POSES = [
       "コンガをたたく"
     ],
     "src": "./assets/library/music-conga.webp",
-    "thumbnail": "./assets/thumbnails/music-conga.webp"
+    "thumbnail": "./assets/thumbnails/music-conga.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "music-bongos",
@@ -6555,7 +8059,10 @@ export const BUNDLED_POSES = [
       "ボンゴでリズム"
     ],
     "src": "./assets/library/music-bongos.webp",
-    "thumbnail": "./assets/thumbnails/music-bongos.webp"
+    "thumbnail": "./assets/thumbnails/music-bongos.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "music-maracas",
@@ -6571,7 +8078,10 @@ export const BUNDLED_POSES = [
       "マラカスを振る"
     ],
     "src": "./assets/library/music-maracas.webp",
-    "thumbnail": "./assets/thumbnails/music-maracas.webp"
+    "thumbnail": "./assets/thumbnails/music-maracas.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "music-blues-duo",
@@ -6588,7 +8098,11 @@ export const BUNDLED_POSES = [
       "ギターとハーモニカ"
     ],
     "src": "./assets/library/music-blues-duo.webp",
-    "thumbnail": "./assets/thumbnails/music-blues-duo.webp"
+    "thumbnail": "./assets/thumbnails/music-blues-duo.webp",
+    "subgenres": [
+      "music:strings",
+      "music:winds"
+    ]
   },
   {
     "id": "music-recording",
@@ -6605,7 +8119,10 @@ export const BUNDLED_POSES = [
       "ヘッドホンでレコーディング"
     ],
     "src": "./assets/library/music-recording.webp",
-    "thumbnail": "./assets/thumbnails/music-recording.webp"
+    "thumbnail": "./assets/thumbnails/music-recording.webp",
+    "subgenres": [
+      "music:staff"
+    ]
   },
   {
     "id": "music-sound-engineer",
@@ -6622,7 +8139,10 @@ export const BUNDLED_POSES = [
       "ミキサーで音づくり"
     ],
     "src": "./assets/library/music-sound-engineer.webp",
-    "thumbnail": "./assets/thumbnails/music-sound-engineer.webp"
+    "thumbnail": "./assets/thumbnails/music-sound-engineer.webp",
+    "subgenres": [
+      "music:staff"
+    ]
   },
   {
     "id": "music-roadie",
@@ -6639,7 +8159,11 @@ export const BUNDLED_POSES = [
       "ギターを運ぶスタッフ"
     ],
     "src": "./assets/library/music-roadie.webp",
-    "thumbnail": "./assets/thumbnails/music-roadie.webp"
+    "thumbnail": "./assets/thumbnails/music-roadie.webp",
+    "subgenres": [
+      "music:strings",
+      "music:staff"
+    ]
   },
   {
     "id": "comedy-index-up",
@@ -6655,7 +8179,10 @@ export const BUNDLED_POSES = [
       "胸を張って指一本"
     ],
     "src": "./assets/library/comedy-index-up.webp",
-    "thumbnail": "./assets/thumbnails/comedy-index-up.webp"
+    "thumbnail": "./assets/thumbnails/comedy-index-up.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-double-point",
@@ -6671,7 +8198,10 @@ export const BUNDLED_POSES = [
       "両手で指さし"
     ],
     "src": "./assets/library/comedy-double-point.webp",
-    "thumbnail": "./assets/thumbnails/comedy-double-point.webp"
+    "thumbnail": "./assets/thumbnails/comedy-double-point.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-chin-elbow",
@@ -6687,7 +8217,10 @@ export const BUNDLED_POSES = [
       "ひじを張ってあごに手"
     ],
     "src": "./assets/library/comedy-chin-elbow.webp",
-    "thumbnail": "./assets/thumbnails/comedy-chin-elbow.webp"
+    "thumbnail": "./assets/thumbnails/comedy-chin-elbow.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-diagonal-arms",
@@ -6703,7 +8236,10 @@ export const BUNDLED_POSES = [
       "両腕ななめ下"
     ],
     "src": "./assets/library/comedy-diagonal-arms.webp",
-    "thumbnail": "./assets/thumbnails/comedy-diagonal-arms.webp"
+    "thumbnail": "./assets/thumbnails/comedy-diagonal-arms.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-knee-fist",
@@ -6719,7 +8255,10 @@ export const BUNDLED_POSES = [
       "片ひざ上げてこぶし"
     ],
     "src": "./assets/library/comedy-knee-fist.webp",
-    "thumbnail": "./assets/thumbnails/comedy-knee-fist.webp"
+    "thumbnail": "./assets/thumbnails/comedy-knee-fist.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-face-frame",
@@ -6735,7 +8274,10 @@ export const BUNDLED_POSES = [
       "顔の横でぱっと"
     ],
     "src": "./assets/library/comedy-face-frame.webp",
-    "thumbnail": "./assets/thumbnails/comedy-face-frame.webp"
+    "thumbnail": "./assets/thumbnails/comedy-face-frame.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-shrug",
@@ -6751,7 +8293,10 @@ export const BUNDLED_POSES = [
       "肩をすくめてとぼけ顔"
     ],
     "src": "./assets/library/comedy-shrug.webp",
-    "thumbnail": "./assets/thumbnails/comedy-shrug.webp"
+    "thumbnail": "./assets/thumbnails/comedy-shrug.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-stumble",
@@ -6767,7 +8312,10 @@ export const BUNDLED_POSES = [
       "おっとっと"
     ],
     "src": "./assets/library/comedy-stumble.webp",
-    "thumbnail": "./assets/thumbnails/comedy-stumble.webp"
+    "thumbnail": "./assets/thumbnails/comedy-stumble.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-side-point",
@@ -6783,7 +8331,10 @@ export const BUNDLED_POSES = [
       "横へびしっと"
     ],
     "src": "./assets/library/comedy-side-point.webp",
-    "thumbnail": "./assets/thumbnails/comedy-side-point.webp"
+    "thumbnail": "./assets/thumbnails/comedy-side-point.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-big-finish",
@@ -6799,7 +8350,10 @@ export const BUNDLED_POSES = [
       "大きく決める"
     ],
     "src": "./assets/library/comedy-big-finish.webp",
-    "thumbnail": "./assets/thumbnails/comedy-big-finish.webp"
+    "thumbnail": "./assets/thumbnails/comedy-big-finish.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-back-reaction",
@@ -6815,7 +8369,10 @@ export const BUNDLED_POSES = [
       "のけぞりリアクション"
     ],
     "src": "./assets/library/comedy-back-reaction.webp",
-    "thumbnail": "./assets/thumbnails/comedy-back-reaction.webp"
+    "thumbnail": "./assets/thumbnails/comedy-back-reaction.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "comedy-belly-laugh",
@@ -6831,7 +8388,10 @@ export const BUNDLED_POSES = [
       "お腹をかかえて大笑い"
     ],
     "src": "./assets/library/comedy-belly-laugh.webp",
-    "thumbnail": "./assets/thumbnails/comedy-belly-laugh.webp"
+    "thumbnail": "./assets/thumbnails/comedy-belly-laugh.webp",
+    "subgenres": [
+      "poses:comedy"
+    ]
   },
   {
     "id": "nauru-smile",
@@ -6847,7 +8407,11 @@ export const BUNDLED_POSES = [
       "ナウル・笑顔"
     ],
     "src": "./assets/library/nauru-smile.webp",
-    "thumbnail": "./assets/thumbnails/nauru-smile.webp"
+    "thumbnail": "./assets/thumbnails/nauru-smile.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-peace",
@@ -6863,7 +8427,11 @@ export const BUNDLED_POSES = [
       "ナウル・ピース"
     ],
     "src": "./assets/library/nauru-peace.webp",
-    "thumbnail": "./assets/thumbnails/nauru-peace.webp"
+    "thumbnail": "./assets/thumbnails/nauru-peace.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-double-peace",
@@ -6879,7 +8447,11 @@ export const BUNDLED_POSES = [
       "ナウル・両手ピース"
     ],
     "src": "./assets/library/nauru-double-peace.webp",
-    "thumbnail": "./assets/thumbnails/nauru-double-peace.webp"
+    "thumbnail": "./assets/thumbnails/nauru-double-peace.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-thumb",
@@ -6895,7 +8467,11 @@ export const BUNDLED_POSES = [
       "ナウル・サムズアップ"
     ],
     "src": "./assets/library/nauru-thumb.webp",
-    "thumbnail": "./assets/thumbnails/nauru-thumb.webp"
+    "thumbnail": "./assets/thumbnails/nauru-thumb.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-double-thumbs",
@@ -6911,7 +8487,11 @@ export const BUNDLED_POSES = [
       "ナウル・両手グッド"
     ],
     "src": "./assets/library/nauru-double-thumbs.webp",
-    "thumbnail": "./assets/thumbnails/nauru-double-thumbs.webp"
+    "thumbnail": "./assets/thumbnails/nauru-double-thumbs.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-wave",
@@ -6927,7 +8507,11 @@ export const BUNDLED_POSES = [
       "ナウル・手を振る"
     ],
     "src": "./assets/library/nauru-wave.webp",
-    "thumbnail": "./assets/thumbnails/nauru-wave.webp"
+    "thumbnail": "./assets/thumbnails/nauru-wave.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-double-wave",
@@ -6943,7 +8527,11 @@ export const BUNDLED_POSES = [
       "ナウル・両手でバイバイ"
     ],
     "src": "./assets/library/nauru-double-wave.webp",
-    "thumbnail": "./assets/thumbnails/nauru-double-wave.webp"
+    "thumbnail": "./assets/thumbnails/nauru-double-wave.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-welcome",
@@ -6959,7 +8547,11 @@ export const BUNDLED_POSES = [
       "ナウル・両手を広げる"
     ],
     "src": "./assets/library/nauru-welcome.webp",
-    "thumbnail": "./assets/thumbnails/nauru-welcome.webp"
+    "thumbnail": "./assets/thumbnails/nauru-welcome.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-guide",
@@ -6975,7 +8567,11 @@ export const BUNDLED_POSES = [
       "ナウル・こちらへどうぞ"
     ],
     "src": "./assets/library/nauru-guide.webp",
-    "thumbnail": "./assets/thumbnails/nauru-guide.webp"
+    "thumbnail": "./assets/thumbnails/nauru-guide.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-hands-hips",
@@ -6991,7 +8587,11 @@ export const BUNDLED_POSES = [
       "ナウル・腰に手"
     ],
     "src": "./assets/library/nauru-hands-hips.webp",
-    "thumbnail": "./assets/thumbnails/nauru-hands-hips.webp"
+    "thumbnail": "./assets/thumbnails/nauru-hands-hips.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-hands-back",
@@ -7007,7 +8607,11 @@ export const BUNDLED_POSES = [
       "ナウル・後ろで手を組む"
     ],
     "src": "./assets/library/nauru-hands-back.webp",
-    "thumbnail": "./assets/thumbnails/nauru-hands-back.webp"
+    "thumbnail": "./assets/thumbnails/nauru-hands-back.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-bow",
@@ -7023,7 +8627,11 @@ export const BUNDLED_POSES = [
       "ナウル・軽くおじぎ"
     ],
     "src": "./assets/library/nauru-bow.webp",
-    "thumbnail": "./assets/thumbnails/nauru-bow.webp"
+    "thumbnail": "./assets/thumbnails/nauru-bow.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-thanks",
@@ -7039,7 +8647,11 @@ export const BUNDLED_POSES = [
       "ナウル・ありがとう"
     ],
     "src": "./assets/library/nauru-thanks.webp",
-    "thumbnail": "./assets/thumbnails/nauru-thanks.webp"
+    "thumbnail": "./assets/thumbnails/nauru-thanks.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-cheer",
@@ -7055,7 +8667,11 @@ export const BUNDLED_POSES = [
       "ナウル・小さく応援"
     ],
     "src": "./assets/library/nauru-cheer.webp",
-    "thumbnail": "./assets/thumbnails/nauru-cheer.webp"
+    "thumbnail": "./assets/thumbnails/nauru-cheer.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-point",
@@ -7071,7 +8687,11 @@ export const BUNDLED_POSES = [
       "ナウル・上を指さす"
     ],
     "src": "./assets/library/nauru-point.webp",
-    "thumbnail": "./assets/thumbnails/nauru-point.webp"
+    "thumbnail": "./assets/thumbnails/nauru-point.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-heart",
@@ -7087,7 +8707,11 @@ export const BUNDLED_POSES = [
       "ナウル・ハート"
     ],
     "src": "./assets/library/nauru-heart.webp",
-    "thumbnail": "./assets/thumbnails/nauru-heart.webp"
+    "thumbnail": "./assets/thumbnails/nauru-heart.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-finger-hearts",
@@ -7103,7 +8727,11 @@ export const BUNDLED_POSES = [
       "ナウル・両手の指ハート"
     ],
     "src": "./assets/library/nauru-finger-hearts.webp",
-    "thumbnail": "./assets/thumbnails/nauru-finger-hearts.webp"
+    "thumbnail": "./assets/thumbnails/nauru-finger-hearts.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-flower",
@@ -7119,7 +8747,12 @@ export const BUNDLED_POSES = [
       "ナウル・お花のポーズ"
     ],
     "src": "./assets/library/nauru-flower.webp",
-    "thumbnail": "./assets/thumbnails/nauru-flower.webp"
+    "thumbnail": "./assets/thumbnails/nauru-flower.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world",
+      "nature:flowers"
+    ]
   },
   {
     "id": "nauru-cheeks",
@@ -7135,7 +8768,11 @@ export const BUNDLED_POSES = [
       "ナウル・ほっぺ"
     ],
     "src": "./assets/library/nauru-cheeks.webp",
-    "thumbnail": "./assets/thumbnails/nauru-cheeks.webp"
+    "thumbnail": "./assets/thumbnails/nauru-cheeks.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-sleep",
@@ -7151,7 +8788,11 @@ export const BUNDLED_POSES = [
       "ナウル・おやすみ"
     ],
     "src": "./assets/library/nauru-sleep.webp",
-    "thumbnail": "./assets/thumbnails/nauru-sleep.webp"
+    "thumbnail": "./assets/thumbnails/nauru-sleep.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-dance-left",
@@ -7167,7 +8808,11 @@ export const BUNDLED_POSES = [
       "ナウル・左へステップ"
     ],
     "src": "./assets/library/nauru-dance-left.webp",
-    "thumbnail": "./assets/thumbnails/nauru-dance-left.webp"
+    "thumbnail": "./assets/thumbnails/nauru-dance-left.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-dance-right",
@@ -7183,7 +8828,11 @@ export const BUNDLED_POSES = [
       "ナウル・右へステップ"
     ],
     "src": "./assets/library/nauru-dance-right.webp",
-    "thumbnail": "./assets/thumbnails/nauru-dance-right.webp"
+    "thumbnail": "./assets/thumbnails/nauru-dance-right.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-dance-up",
@@ -7199,7 +8848,11 @@ export const BUNDLED_POSES = [
       "ナウル・楽しく踊る"
     ],
     "src": "./assets/library/nauru-dance-up.webp",
-    "thumbnail": "./assets/thumbnails/nauru-dance-up.webp"
+    "thumbnail": "./assets/thumbnails/nauru-dance-up.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "nauru-three-quarter",
@@ -7215,7 +8868,11 @@ export const BUNDLED_POSES = [
       "ナウル・振り向き笑顔"
     ],
     "src": "./assets/library/nauru-three-quarter.webp",
-    "thumbnail": "./assets/thumbnails/nauru-three-quarter.webp"
+    "thumbnail": "./assets/thumbnails/nauru-three-quarter.webp",
+    "subgenres": [
+      "local:nauru",
+      "outfit:world"
+    ]
   },
   {
     "id": "cute-cheeks",
@@ -7231,7 +8888,10 @@ export const BUNDLED_POSES = [
       "ほっぺに手を添える"
     ],
     "src": "./assets/library/cute-cheeks.webp",
-    "thumbnail": "./assets/thumbnails/cute-cheeks.webp"
+    "thumbnail": "./assets/thumbnails/cute-cheeks.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-flower",
@@ -7247,7 +8907,11 @@ export const BUNDLED_POSES = [
       "お花のポーズ"
     ],
     "src": "./assets/library/cute-flower.webp",
-    "thumbnail": "./assets/thumbnails/cute-flower.webp"
+    "thumbnail": "./assets/thumbnails/cute-flower.webp",
+    "subgenres": [
+      "poses:cute",
+      "nature:flowers"
+    ]
   },
   {
     "id": "cute-sleep",
@@ -7263,7 +8927,10 @@ export const BUNDLED_POSES = [
       "おやすみポーズ"
     ],
     "src": "./assets/library/cute-sleep.webp",
-    "thumbnail": "./assets/thumbnails/cute-sleep.webp"
+    "thumbnail": "./assets/thumbnails/cute-sleep.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-cat-paws",
@@ -7279,7 +8946,10 @@ export const BUNDLED_POSES = [
       "ねこの手"
     ],
     "src": "./assets/library/cute-cat-paws.webp",
-    "thumbnail": "./assets/thumbnails/cute-cat-paws.webp"
+    "thumbnail": "./assets/thumbnails/cute-cat-paws.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-bunny-ears",
@@ -7295,7 +8965,10 @@ export const BUNDLED_POSES = [
       "手でうさぎの耳"
     ],
     "src": "./assets/library/cute-bunny-ears.webp",
-    "thumbnail": "./assets/thumbnails/cute-bunny-ears.webp"
+    "thumbnail": "./assets/thumbnails/cute-bunny-ears.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-double-finger-hearts",
@@ -7311,7 +8984,10 @@ export const BUNDLED_POSES = [
       "両手の指ハート"
     ],
     "src": "./assets/library/cute-double-finger-hearts.webp",
-    "thumbnail": "./assets/thumbnails/cute-double-finger-hearts.webp"
+    "thumbnail": "./assets/thumbnails/cute-double-finger-hearts.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-shy-cap",
@@ -7327,7 +9003,10 @@ export const BUNDLED_POSES = [
       "帽子をちょこん"
     ],
     "src": "./assets/library/cute-shy-cap.webp",
-    "thumbnail": "./assets/thumbnails/cute-shy-cap.webp"
+    "thumbnail": "./assets/thumbnails/cute-shy-cap.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-fingertips",
@@ -7343,7 +9022,10 @@ export const BUNDLED_POSES = [
       "もじもじ"
     ],
     "src": "./assets/library/cute-fingertips.webp",
-    "thumbnail": "./assets/thumbnails/cute-fingertips.webp"
+    "thumbnail": "./assets/thumbnails/cute-fingertips.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-blow-kiss",
@@ -7359,7 +9041,10 @@ export const BUNDLED_POSES = [
       "投げキッス"
     ],
     "src": "./assets/library/cute-blow-kiss.webp",
-    "thumbnail": "./assets/thumbnails/cute-blow-kiss.webp"
+    "thumbnail": "./assets/thumbnails/cute-blow-kiss.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-shy-head",
@@ -7375,7 +9060,10 @@ export const BUNDLED_POSES = [
       "照れ笑い"
     ],
     "src": "./assets/library/cute-shy-head.webp",
-    "thumbnail": "./assets/thumbnails/cute-shy-head.webp"
+    "thumbnail": "./assets/thumbnails/cute-shy-head.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-penguin",
@@ -7391,7 +9079,10 @@ export const BUNDLED_POSES = [
       "ちょこんとペンギン"
     ],
     "src": "./assets/library/cute-penguin.webp",
-    "thumbnail": "./assets/thumbnails/cute-penguin.webp"
+    "thumbnail": "./assets/thumbnails/cute-penguin.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "cute-surprise",
@@ -7407,7 +9098,10 @@ export const BUNDLED_POSES = [
       "あらびっくり"
     ],
     "src": "./assets/library/cute-surprise.webp",
-    "thumbnail": "./assets/thumbnails/cute-surprise.webp"
+    "thumbnail": "./assets/thumbnails/cute-surprise.webp",
+    "subgenres": [
+      "poses:cute"
+    ]
   },
   {
     "id": "normal-hands-back",
@@ -7421,7 +9115,10 @@ export const BUNDLED_POSES = [
       "後ろで手を組む"
     ],
     "src": "./assets/library/normal-hands-back.webp",
-    "thumbnail": "./assets/thumbnails/normal-hands-back.webp"
+    "thumbnail": "./assets/thumbnails/normal-hands-back.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-hands-front",
@@ -7435,7 +9132,10 @@ export const BUNDLED_POSES = [
       "前で手を添える"
     ],
     "src": "./assets/library/normal-hands-front.webp",
-    "thumbnail": "./assets/thumbnails/normal-hands-front.webp"
+    "thumbnail": "./assets/thumbnails/normal-hands-front.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-one-hand-hip",
@@ -7449,7 +9149,10 @@ export const BUNDLED_POSES = [
       "片手を腰に"
     ],
     "src": "./assets/library/normal-one-hand-hip.webp",
-    "thumbnail": "./assets/thumbnails/normal-one-hand-hip.webp"
+    "thumbnail": "./assets/thumbnails/normal-one-hand-hip.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-both-hands-hips",
@@ -7463,7 +9166,10 @@ export const BUNDLED_POSES = [
       "両手を腰に"
     ],
     "src": "./assets/library/normal-both-hands-hips.webp",
-    "thumbnail": "./assets/thumbnails/normal-both-hands-hips.webp"
+    "thumbnail": "./assets/thumbnails/normal-both-hands-hips.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-double-peace",
@@ -7477,7 +9183,10 @@ export const BUNDLED_POSES = [
       "両手ピース"
     ],
     "src": "./assets/library/normal-double-peace.webp",
-    "thumbnail": "./assets/thumbnails/normal-double-peace.webp"
+    "thumbnail": "./assets/thumbnails/normal-double-peace.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-double-thumbs",
@@ -7491,7 +9200,10 @@ export const BUNDLED_POSES = [
       "両手グッド"
     ],
     "src": "./assets/library/normal-double-thumbs.webp",
-    "thumbnail": "./assets/thumbnails/normal-double-thumbs.webp"
+    "thumbnail": "./assets/thumbnails/normal-double-thumbs.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-double-wave",
@@ -7505,7 +9217,10 @@ export const BUNDLED_POSES = [
       "両手でバイバイ"
     ],
     "src": "./assets/library/normal-double-wave.webp",
-    "thumbnail": "./assets/thumbnails/normal-double-wave.webp"
+    "thumbnail": "./assets/thumbnails/normal-double-wave.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-small-wave",
@@ -7519,7 +9234,10 @@ export const BUNDLED_POSES = [
       "小さく手を振る"
     ],
     "src": "./assets/library/normal-small-wave.webp",
-    "thumbnail": "./assets/thumbnails/normal-small-wave.webp"
+    "thumbnail": "./assets/thumbnails/normal-small-wave.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-finger-heart",
@@ -7533,7 +9251,10 @@ export const BUNDLED_POSES = [
       "指ハート"
     ],
     "src": "./assets/library/normal-finger-heart.webp",
-    "thumbnail": "./assets/thumbnails/normal-finger-heart.webp"
+    "thumbnail": "./assets/thumbnails/normal-finger-heart.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-okay",
@@ -7547,7 +9268,10 @@ export const BUNDLED_POSES = [
       "オッケー"
     ],
     "src": "./assets/library/normal-okay.webp",
-    "thumbnail": "./assets/thumbnails/normal-okay.webp"
+    "thumbnail": "./assets/thumbnails/normal-okay.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-thinking",
@@ -7561,7 +9285,10 @@ export const BUNDLED_POSES = [
       "考え中"
     ],
     "src": "./assets/library/normal-thinking.webp",
-    "thumbnail": "./assets/thumbnails/normal-thinking.webp"
+    "thumbnail": "./assets/thumbnails/normal-thinking.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-laugh",
@@ -7575,7 +9302,10 @@ export const BUNDLED_POSES = [
       "口元に手を添えて笑う"
     ],
     "src": "./assets/library/normal-laugh.webp",
-    "thumbnail": "./assets/thumbnails/normal-laugh.webp"
+    "thumbnail": "./assets/thumbnails/normal-laugh.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-thanks",
@@ -7589,7 +9319,10 @@ export const BUNDLED_POSES = [
       "手を合わせてありがとう"
     ],
     "src": "./assets/library/normal-thanks.webp",
-    "thumbnail": "./assets/thumbnails/normal-thanks.webp"
+    "thumbnail": "./assets/thumbnails/normal-thanks.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-clap",
@@ -7603,7 +9336,10 @@ export const BUNDLED_POSES = [
       "拍手"
     ],
     "src": "./assets/library/normal-clap.webp",
-    "thumbnail": "./assets/thumbnails/normal-clap.webp"
+    "thumbnail": "./assets/thumbnails/normal-clap.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-hand-chest",
@@ -7617,7 +9353,10 @@ export const BUNDLED_POSES = [
       "胸に手を添える"
     ],
     "src": "./assets/library/normal-hand-chest.webp",
-    "thumbnail": "./assets/thumbnails/normal-hand-chest.webp"
+    "thumbnail": "./assets/thumbnails/normal-hand-chest.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-beckon",
@@ -7631,7 +9370,10 @@ export const BUNDLED_POSES = [
       "こちらへどうぞ"
     ],
     "src": "./assets/library/normal-beckon.webp",
-    "thumbnail": "./assets/thumbnails/normal-beckon.webp"
+    "thumbnail": "./assets/thumbnails/normal-beckon.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-small-nod",
@@ -7645,7 +9387,10 @@ export const BUNDLED_POSES = [
       "軽く会釈"
     ],
     "src": "./assets/library/normal-small-nod.webp",
-    "thumbnail": "./assets/thumbnails/normal-small-nod.webp"
+    "thumbnail": "./assets/thumbnails/normal-small-nod.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-walking",
@@ -7659,7 +9404,10 @@ export const BUNDLED_POSES = [
       "ゆっくり歩く"
     ],
     "src": "./assets/library/normal-walking.webp",
-    "thumbnail": "./assets/thumbnails/normal-walking.webp"
+    "thumbnail": "./assets/thumbnails/normal-walking.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-turn-left",
@@ -7673,7 +9421,10 @@ export const BUNDLED_POSES = [
       "左向きでにっこり"
     ],
     "src": "./assets/library/normal-turn-left.webp",
-    "thumbnail": "./assets/thumbnails/normal-turn-left.webp"
+    "thumbnail": "./assets/thumbnails/normal-turn-left.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-turn-right",
@@ -7687,7 +9438,10 @@ export const BUNDLED_POSES = [
       "右向きでにっこり"
     ],
     "src": "./assets/library/normal-turn-right.webp",
-    "thumbnail": "./assets/thumbnails/normal-turn-right.webp"
+    "thumbnail": "./assets/thumbnails/normal-turn-right.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-lean-left",
@@ -7701,7 +9455,10 @@ export const BUNDLED_POSES = [
       "左に寄り添う"
     ],
     "src": "./assets/library/normal-lean-left.webp",
-    "thumbnail": "./assets/thumbnails/normal-lean-left.webp"
+    "thumbnail": "./assets/thumbnails/normal-lean-left.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-lean-right",
@@ -7715,7 +9472,10 @@ export const BUNDLED_POSES = [
       "右に寄り添う"
     ],
     "src": "./assets/library/normal-lean-right.webp",
-    "thumbnail": "./assets/thumbnails/normal-lean-right.webp"
+    "thumbnail": "./assets/thumbnails/normal-lean-right.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-look-up",
@@ -7729,7 +9489,10 @@ export const BUNDLED_POSES = [
       "空を見上げる"
     ],
     "src": "./assets/library/normal-look-up.webp",
-    "thumbnail": "./assets/thumbnails/normal-look-up.webp"
+    "thumbnail": "./assets/thumbnails/normal-look-up.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "normal-small-fist",
@@ -7743,7 +9506,10 @@ export const BUNDLED_POSES = [
       "小さく応援"
     ],
     "src": "./assets/library/normal-small-fist.webp",
-    "thumbnail": "./assets/thumbnails/normal-small-fist.webp"
+    "thumbnail": "./assets/thumbnails/normal-small-fist.webp",
+    "subgenres": [
+      "poses:normal"
+    ]
   },
   {
     "id": "plus100-accordion",
@@ -7756,7 +9522,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-accordion.webp",
-    "thumbnail": "./assets/thumbnails/plus100-accordion.webp"
+    "thumbnail": "./assets/thumbnails/plus100-accordion.webp",
+    "subgenres": [
+      "music:keys"
+    ]
   },
   {
     "id": "plus100-saxophone",
@@ -7769,7 +9538,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-saxophone.webp",
-    "thumbnail": "./assets/thumbnails/plus100-saxophone.webp"
+    "thumbnail": "./assets/thumbnails/plus100-saxophone.webp",
+    "subgenres": [
+      "music:winds"
+    ]
   },
   {
     "id": "plus100-cello",
@@ -7782,7 +9554,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-cello.webp",
-    "thumbnail": "./assets/thumbnails/plus100-cello.webp"
+    "thumbnail": "./assets/thumbnails/plus100-cello.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "plus100-marching-drum",
@@ -7795,7 +9570,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-marching-drum.webp",
-    "thumbnail": "./assets/thumbnails/plus100-marching-drum.webp"
+    "thumbnail": "./assets/thumbnails/plus100-marching-drum.webp",
+    "subgenres": [
+      "music:percussion"
+    ]
   },
   {
     "id": "plus100-dj",
@@ -7809,7 +9587,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-dj.webp",
-    "thumbnail": "./assets/thumbnails/plus100-dj.webp"
+    "thumbnail": "./assets/thumbnails/plus100-dj.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   },
   {
     "id": "plus100-rock-guitar",
@@ -7822,7 +9603,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-rock-guitar.webp",
-    "thumbnail": "./assets/thumbnails/plus100-rock-guitar.webp"
+    "thumbnail": "./assets/thumbnails/plus100-rock-guitar.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "plus100-rock-guitar-amp",
@@ -7840,7 +9624,10 @@ export const BUNDLED_POSES = [
       "ロックギター幸造（アンプ付き）"
     ],
     "src": "./assets/library/plus100-rock-guitar-amp.webp",
-    "thumbnail": "./assets/thumbnails/plus100-rock-guitar-amp.webp"
+    "thumbnail": "./assets/thumbnails/plus100-rock-guitar-amp.webp",
+    "subgenres": [
+      "music:strings"
+    ]
   },
   {
     "id": "plus100-conductor",
@@ -7853,7 +9640,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-conductor.webp",
-    "thumbnail": "./assets/thumbnails/plus100-conductor.webp"
+    "thumbnail": "./assets/thumbnails/plus100-conductor.webp",
+    "subgenres": [
+      "music:performance"
+    ]
   },
   {
     "id": "plus100-opera",
@@ -7866,7 +9656,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-opera.webp",
-    "thumbnail": "./assets/thumbnails/plus100-opera.webp"
+    "thumbnail": "./assets/thumbnails/plus100-opera.webp",
+    "subgenres": [
+      "music:vocal"
+    ]
   },
   {
     "id": "plus100-magician",
@@ -7879,7 +9672,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-magician.webp",
-    "thumbnail": "./assets/thumbnails/plus100-magician.webp"
+    "thumbnail": "./assets/thumbnails/plus100-magician.webp",
+    "subgenres": [
+      "music:performance"
+    ]
   },
   {
     "id": "plus100-ventriloquist",
@@ -7892,7 +9688,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-ventriloquist.webp",
-    "thumbnail": "./assets/thumbnails/plus100-ventriloquist.webp"
+    "thumbnail": "./assets/thumbnails/plus100-ventriloquist.webp",
+    "subgenres": [
+      "music:performance"
+    ]
   },
   {
     "id": "plus100-glassblower",
@@ -7905,7 +9704,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-glassblower.webp",
-    "thumbnail": "./assets/thumbnails/plus100-glassblower.webp"
+    "thumbnail": "./assets/thumbnails/plus100-glassblower.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-potter",
@@ -7918,7 +9720,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-potter.webp",
-    "thumbnail": "./assets/thumbnails/plus100-potter.webp"
+    "thumbnail": "./assets/thumbnails/plus100-potter.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-clockmaker",
@@ -7931,7 +9736,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-clockmaker.webp",
-    "thumbnail": "./assets/thumbnails/plus100-clockmaker.webp"
+    "thumbnail": "./assets/thumbnails/plus100-clockmaker.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-shoemaker",
@@ -7944,7 +9752,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-shoemaker.webp",
-    "thumbnail": "./assets/thumbnails/plus100-shoemaker.webp"
+    "thumbnail": "./assets/thumbnails/plus100-shoemaker.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-tailor",
@@ -7957,7 +9768,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-tailor.webp",
-    "thumbnail": "./assets/thumbnails/plus100-tailor.webp"
+    "thumbnail": "./assets/thumbnails/plus100-tailor.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-beekeeper",
@@ -7970,7 +9784,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-beekeeper.webp",
-    "thumbnail": "./assets/thumbnails/plus100-beekeeper.webp"
+    "thumbnail": "./assets/thumbnails/plus100-beekeeper.webp",
+    "subgenres": [
+      "work:craft",
+      "work:farming"
+    ]
   },
   {
     "id": "plus100-violin-maker",
@@ -7983,7 +9801,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-violin-maker.webp",
-    "thumbnail": "./assets/thumbnails/plus100-violin-maker.webp"
+    "thumbnail": "./assets/thumbnails/plus100-violin-maker.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-florist",
@@ -7996,7 +9817,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-florist.webp",
-    "thumbnail": "./assets/thumbnails/plus100-florist.webp"
+    "thumbnail": "./assets/thumbnails/plus100-florist.webp",
+    "subgenres": [
+      "work:craft",
+      "nature:flowers"
+    ]
   },
   {
     "id": "plus100-basket-weaver",
@@ -8009,7 +9834,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-basket-weaver.webp",
-    "thumbnail": "./assets/thumbnails/plus100-basket-weaver.webp"
+    "thumbnail": "./assets/thumbnails/plus100-basket-weaver.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-perfumer",
@@ -8022,7 +9850,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-perfumer.webp",
-    "thumbnail": "./assets/thumbnails/plus100-perfumer.webp"
+    "thumbnail": "./assets/thumbnails/plus100-perfumer.webp",
+    "subgenres": [
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-sunflower",
@@ -8036,7 +9867,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-sunflower.webp",
-    "thumbnail": "./assets/thumbnails/plus100-sunflower.webp"
+    "thumbnail": "./assets/thumbnails/plus100-sunflower.webp",
+    "subgenres": [
+      "nature:flowers"
+    ]
   },
   {
     "id": "plus100-maple",
@@ -8050,7 +9884,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-maple.webp",
-    "thumbnail": "./assets/thumbnails/plus100-maple.webp"
+    "thumbnail": "./assets/thumbnails/plus100-maple.webp",
+    "subgenres": [
+      "nature:forest"
+    ]
   },
   {
     "id": "plus100-snowflake",
@@ -8064,7 +9901,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-snowflake.webp",
-    "thumbnail": "./assets/thumbnails/plus100-snowflake.webp"
+    "thumbnail": "./assets/thumbnails/plus100-snowflake.webp",
+    "subgenres": [
+      "nature:weather"
+    ]
   },
   {
     "id": "plus100-raincloud",
@@ -8078,7 +9918,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-raincloud.webp",
-    "thumbnail": "./assets/thumbnails/plus100-raincloud.webp"
+    "thumbnail": "./assets/thumbnails/plus100-raincloud.webp",
+    "subgenres": [
+      "nature:weather"
+    ]
   },
   {
     "id": "plus100-rainbow",
@@ -8091,7 +9934,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-rainbow.webp",
-    "thumbnail": "./assets/thumbnails/plus100-rainbow.webp"
+    "thumbnail": "./assets/thumbnails/plus100-rainbow.webp",
+    "subgenres": [
+      "nature:weather"
+    ]
   },
   {
     "id": "plus100-bamboo",
@@ -8104,7 +9950,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-bamboo.webp",
-    "thumbnail": "./assets/thumbnails/plus100-bamboo.webp"
+    "thumbnail": "./assets/thumbnails/plus100-bamboo.webp",
+    "subgenres": [
+      "nature:forest"
+    ]
   },
   {
     "id": "plus100-acorn",
@@ -8118,7 +9967,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-acorn.webp",
-    "thumbnail": "./assets/thumbnails/plus100-acorn.webp"
+    "thumbnail": "./assets/thumbnails/plus100-acorn.webp",
+    "subgenres": [
+      "nature:forest"
+    ]
   },
   {
     "id": "plus100-mushroom",
@@ -8131,7 +9983,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-mushroom.webp",
-    "thumbnail": "./assets/thumbnails/plus100-mushroom.webp"
+    "thumbnail": "./assets/thumbnails/plus100-mushroom.webp",
+    "subgenres": [
+      "nature:forest"
+    ]
   },
   {
     "id": "plus100-butterfly",
@@ -8145,7 +10000,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-butterfly.webp",
-    "thumbnail": "./assets/thumbnails/plus100-butterfly.webp"
+    "thumbnail": "./assets/thumbnails/plus100-butterfly.webp",
+    "subgenres": [
+      "animal:insects"
+    ]
   },
   {
     "id": "plus100-firefly",
@@ -8159,7 +10017,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-firefly.webp",
-    "thumbnail": "./assets/thumbnails/plus100-firefly.webp"
+    "thumbnail": "./assets/thumbnails/plus100-firefly.webp",
+    "subgenres": [
+      "animal:insects"
+    ]
   },
   {
     "id": "plus100-aviator",
@@ -8172,7 +10033,12 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-aviator.webp",
-    "thumbnail": "./assets/thumbnails/plus100-aviator.webp"
+    "thumbnail": "./assets/thumbnails/plus100-aviator.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro",
+      "work:transport"
+    ]
   },
   {
     "id": "plus100-steam-driver",
@@ -8186,7 +10052,12 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-steam-driver.webp",
-    "thumbnail": "./assets/thumbnails/plus100-steam-driver.webp"
+    "thumbnail": "./assets/thumbnails/plus100-steam-driver.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro",
+      "work:transport"
+    ]
   },
   {
     "id": "plus100-retro-post",
@@ -8199,7 +10070,12 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-retro-post.webp",
-    "thumbnail": "./assets/thumbnails/plus100-retro-post.webp"
+    "thumbnail": "./assets/thumbnails/plus100-retro-post.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro",
+      "work:transport"
+    ]
   },
   {
     "id": "plus100-cinema",
@@ -8212,7 +10088,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-cinema.webp",
-    "thumbnail": "./assets/thumbnails/plus100-cinema.webp"
+    "thumbnail": "./assets/thumbnails/plus100-cinema.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro"
+    ]
   },
   {
     "id": "plus100-bell-diver",
@@ -8225,7 +10105,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-bell-diver.webp",
-    "thumbnail": "./assets/thumbnails/plus100-bell-diver.webp"
+    "thumbnail": "./assets/thumbnails/plus100-bell-diver.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro"
+    ]
   },
   {
     "id": "plus100-globe-traveler",
@@ -8239,7 +10123,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-globe-traveler.webp",
-    "thumbnail": "./assets/thumbnails/plus100-globe-traveler.webp"
+    "thumbnail": "./assets/thumbnails/plus100-globe-traveler.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro"
+    ]
   },
   {
     "id": "plus100-orient-suitcase",
@@ -8252,7 +10140,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-orient-suitcase.webp",
-    "thumbnail": "./assets/thumbnails/plus100-orient-suitcase.webp"
+    "thumbnail": "./assets/thumbnails/plus100-orient-suitcase.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro"
+    ]
   },
   {
     "id": "plus100-gondolier",
@@ -8266,7 +10158,12 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-gondolier.webp",
-    "thumbnail": "./assets/thumbnails/plus100-gondolier.webp"
+    "thumbnail": "./assets/thumbnails/plus100-gondolier.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro",
+      "work:transport"
+    ]
   },
   {
     "id": "plus100-alpine-hiker",
@@ -8280,7 +10177,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-alpine-hiker.webp",
-    "thumbnail": "./assets/thumbnails/plus100-alpine-hiker.webp"
+    "thumbnail": "./assets/thumbnails/plus100-alpine-hiker.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro"
+    ]
   },
   {
     "id": "plus100-desert-explorer",
@@ -8293,7 +10194,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-desert-explorer.webp",
-    "thumbnail": "./assets/thumbnails/plus100-desert-explorer.webp"
+    "thumbnail": "./assets/thumbnails/plus100-desert-explorer.webp",
+    "subgenres": [
+      "local:travel",
+      "local:retro"
+    ]
   },
   {
     "id": "plus100-rubik",
@@ -8306,7 +10211,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-rubik.webp",
-    "thumbnail": "./assets/thumbnails/plus100-rubik.webp"
+    "thumbnail": "./assets/thumbnails/plus100-rubik.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-chess",
@@ -8319,7 +10227,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-chess.webp",
-    "thumbnail": "./assets/thumbnails/plus100-chess.webp"
+    "thumbnail": "./assets/thumbnails/plus100-chess.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-kite",
@@ -8333,7 +10244,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-kite.webp",
-    "thumbnail": "./assets/thumbnails/plus100-kite.webp"
+    "thumbnail": "./assets/thumbnails/plus100-kite.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-bubble",
@@ -8346,7 +10260,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-bubble.webp",
-    "thumbnail": "./assets/thumbnails/plus100-bubble.webp"
+    "thumbnail": "./assets/thumbnails/plus100-bubble.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-yoyo",
@@ -8359,7 +10276,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-yoyo.webp",
-    "thumbnail": "./assets/thumbnails/plus100-yoyo.webp"
+    "thumbnail": "./assets/thumbnails/plus100-yoyo.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-boardgame",
@@ -8372,7 +10292,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-boardgame.webp",
-    "thumbnail": "./assets/thumbnails/plus100-boardgame.webp"
+    "thumbnail": "./assets/thumbnails/plus100-boardgame.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-toy-blocks",
@@ -8385,7 +10308,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-toy-blocks.webp",
-    "thumbnail": "./assets/thumbnails/plus100-toy-blocks.webp"
+    "thumbnail": "./assets/thumbnails/plus100-toy-blocks.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-rubber-duck",
@@ -8398,7 +10324,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-rubber-duck.webp",
-    "thumbnail": "./assets/thumbnails/plus100-rubber-duck.webp"
+    "thumbnail": "./assets/thumbnails/plus100-rubber-duck.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-pinwheel",
@@ -8411,7 +10340,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-pinwheel.webp",
-    "thumbnail": "./assets/thumbnails/plus100-pinwheel.webp"
+    "thumbnail": "./assets/thumbnails/plus100-pinwheel.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-kendama",
@@ -8424,7 +10356,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-kendama.webp",
-    "thumbnail": "./assets/thumbnails/plus100-kendama.webp"
+    "thumbnail": "./assets/thumbnails/plus100-kendama.webp",
+    "subgenres": [
+      "daily:toys"
+    ]
   },
   {
     "id": "plus100-croissant",
@@ -8437,7 +10372,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-croissant.webp",
-    "thumbnail": "./assets/thumbnails/plus100-croissant.webp"
+    "thumbnail": "./assets/thumbnails/plus100-croissant.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "plus100-pudding",
@@ -8450,7 +10388,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-pudding.webp",
-    "thumbnail": "./assets/thumbnails/plus100-pudding.webp"
+    "thumbnail": "./assets/thumbnails/plus100-pudding.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "plus100-melon-soda",
@@ -8463,7 +10404,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-melon-soda.webp",
-    "thumbnail": "./assets/thumbnails/plus100-melon-soda.webp"
+    "thumbnail": "./assets/thumbnails/plus100-melon-soda.webp",
+    "subgenres": [
+      "food:drinks"
+    ]
   },
   {
     "id": "plus100-taiyaki",
@@ -8476,7 +10420,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-taiyaki.webp",
-    "thumbnail": "./assets/thumbnails/plus100-taiyaki.webp"
+    "thumbnail": "./assets/thumbnails/plus100-taiyaki.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "plus100-edamame",
@@ -8489,7 +10436,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-edamame.webp",
-    "thumbnail": "./assets/thumbnails/plus100-edamame.webp"
+    "thumbnail": "./assets/thumbnails/plus100-edamame.webp",
+    "subgenres": [
+      "food:produce"
+    ]
   },
   {
     "id": "plus100-chocolate",
@@ -8502,7 +10452,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-chocolate.webp",
-    "thumbnail": "./assets/thumbnails/plus100-chocolate.webp"
+    "thumbnail": "./assets/thumbnails/plus100-chocolate.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "plus100-popcorn",
@@ -8515,7 +10468,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-popcorn.webp",
-    "thumbnail": "./assets/thumbnails/plus100-popcorn.webp"
+    "thumbnail": "./assets/thumbnails/plus100-popcorn.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "plus100-fried-egg",
@@ -8528,7 +10484,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-fried-egg.webp",
-    "thumbnail": "./assets/thumbnails/plus100-fried-egg.webp"
+    "thumbnail": "./assets/thumbnails/plus100-fried-egg.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "plus100-onion",
@@ -8541,7 +10500,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-onion.webp",
-    "thumbnail": "./assets/thumbnails/plus100-onion.webp"
+    "thumbnail": "./assets/thumbnails/plus100-onion.webp",
+    "subgenres": [
+      "food:produce"
+    ]
   },
   {
     "id": "plus100-honey-toast",
@@ -8555,7 +10517,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-honey-toast.webp",
-    "thumbnail": "./assets/thumbnails/plus100-honey-toast.webp"
+    "thumbnail": "./assets/thumbnails/plus100-honey-toast.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "plus100-baseball-catcher",
@@ -8568,7 +10533,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-baseball-catcher.webp",
-    "thumbnail": "./assets/thumbnails/plus100-baseball-catcher.webp"
+    "thumbnail": "./assets/thumbnails/plus100-baseball-catcher.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-basketball",
@@ -8581,7 +10549,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-basketball.webp",
-    "thumbnail": "./assets/thumbnails/plus100-basketball.webp"
+    "thumbnail": "./assets/thumbnails/plus100-basketball.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-tennis",
@@ -8594,7 +10565,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-tennis.webp",
-    "thumbnail": "./assets/thumbnails/plus100-tennis.webp"
+    "thumbnail": "./assets/thumbnails/plus100-tennis.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-badminton",
@@ -8607,7 +10581,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-badminton.webp",
-    "thumbnail": "./assets/thumbnails/plus100-badminton.webp"
+    "thumbnail": "./assets/thumbnails/plus100-badminton.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-archery",
@@ -8620,7 +10597,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-archery.webp",
-    "thumbnail": "./assets/thumbnails/plus100-archery.webp"
+    "thumbnail": "./assets/thumbnails/plus100-archery.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "plus100-skateboard",
@@ -8633,7 +10613,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-skateboard.webp",
-    "thumbnail": "./assets/thumbnails/plus100-skateboard.webp"
+    "thumbnail": "./assets/thumbnails/plus100-skateboard.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "plus100-table-referee",
@@ -8646,7 +10629,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-table-referee.webp",
-    "thumbnail": "./assets/thumbnails/plus100-table-referee.webp"
+    "thumbnail": "./assets/thumbnails/plus100-table-referee.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-weightlifting",
@@ -8659,7 +10645,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-weightlifting.webp",
-    "thumbnail": "./assets/thumbnails/plus100-weightlifting.webp"
+    "thumbnail": "./assets/thumbnails/plus100-weightlifting.webp",
+    "subgenres": [
+      "sports:fitness"
+    ]
   },
   {
     "id": "plus100-ice-hockey",
@@ -8672,7 +10661,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-ice-hockey.webp",
-    "thumbnail": "./assets/thumbnails/plus100-ice-hockey.webp"
+    "thumbnail": "./assets/thumbnails/plus100-ice-hockey.webp",
+    "subgenres": [
+      "sports:winter",
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-cricket",
@@ -8685,7 +10678,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-cricket.webp",
-    "thumbnail": "./assets/thumbnails/plus100-cricket.webp"
+    "thumbnail": "./assets/thumbnails/plus100-cricket.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "plus100-dentist",
@@ -8698,7 +10694,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-dentist.webp",
-    "thumbnail": "./assets/thumbnails/plus100-dentist.webp"
+    "thumbnail": "./assets/thumbnails/plus100-dentist.webp",
+    "subgenres": [
+      "work:medical"
+    ]
   },
   {
     "id": "plus100-barista",
@@ -8711,7 +10710,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-barista.webp",
-    "thumbnail": "./assets/thumbnails/plus100-barista.webp"
+    "thumbnail": "./assets/thumbnails/plus100-barista.webp",
+    "subgenres": [
+      "work:food"
+    ]
   },
   {
     "id": "plus100-baker",
@@ -8725,7 +10727,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-baker.webp",
-    "thumbnail": "./assets/thumbnails/plus100-baker.webp"
+    "thumbnail": "./assets/thumbnails/plus100-baker.webp",
+    "subgenres": [
+      "work:food",
+      "work:craft"
+    ]
   },
   {
     "id": "plus100-astronomer",
@@ -8739,7 +10745,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-astronomer.webp",
-    "thumbnail": "./assets/thumbnails/plus100-astronomer.webp"
+    "thumbnail": "./assets/thumbnails/plus100-astronomer.webp",
+    "subgenres": [
+      "work:science",
+      "fantasy:space"
+    ]
   },
   {
     "id": "plus100-archaeologist",
@@ -8752,7 +10762,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-archaeologist.webp",
-    "thumbnail": "./assets/thumbnails/plus100-archaeologist.webp"
+    "thumbnail": "./assets/thumbnails/plus100-archaeologist.webp",
+    "subgenres": [
+      "work:science"
+    ]
   },
   {
     "id": "plus100-train-station",
@@ -8766,7 +10779,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-train-station.webp",
-    "thumbnail": "./assets/thumbnails/plus100-train-station.webp"
+    "thumbnail": "./assets/thumbnails/plus100-train-station.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "plus100-scientist",
@@ -8780,7 +10796,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-scientist.webp",
-    "thumbnail": "./assets/thumbnails/plus100-scientist.webp"
+    "thumbnail": "./assets/thumbnails/plus100-scientist.webp",
+    "subgenres": [
+      "work:science"
+    ]
   },
   {
     "id": "plus100-gardener",
@@ -8793,7 +10812,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-gardener.webp",
-    "thumbnail": "./assets/thumbnails/plus100-gardener.webp"
+    "thumbnail": "./assets/thumbnails/plus100-gardener.webp",
+    "subgenres": [
+      "work:farming"
+    ]
   },
   {
     "id": "plus100-hairdresser",
@@ -8806,7 +10828,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-hairdresser.webp",
-    "thumbnail": "./assets/thumbnails/plus100-hairdresser.webp"
+    "thumbnail": "./assets/thumbnails/plus100-hairdresser.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "plus100-radio-host",
@@ -8820,7 +10845,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-radio-host.webp",
-    "thumbnail": "./assets/thumbnails/plus100-radio-host.webp"
+    "thumbnail": "./assets/thumbnails/plus100-radio-host.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "plus100-seahorse",
@@ -8833,7 +10861,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-seahorse.webp",
-    "thumbnail": "./assets/thumbnails/plus100-seahorse.webp"
+    "thumbnail": "./assets/thumbnails/plus100-seahorse.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-nautilus",
@@ -8847,7 +10878,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-nautilus.webp",
-    "thumbnail": "./assets/thumbnails/plus100-nautilus.webp"
+    "thumbnail": "./assets/thumbnails/plus100-nautilus.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-lobster",
@@ -8861,7 +10895,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-lobster.webp",
-    "thumbnail": "./assets/thumbnails/plus100-lobster.webp"
+    "thumbnail": "./assets/thumbnails/plus100-lobster.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-starfish",
@@ -8874,7 +10911,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-starfish.webp",
-    "thumbnail": "./assets/thumbnails/plus100-starfish.webp"
+    "thumbnail": "./assets/thumbnails/plus100-starfish.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-sea-urchin",
@@ -8887,7 +10927,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-sea-urchin.webp",
-    "thumbnail": "./assets/thumbnails/plus100-sea-urchin.webp"
+    "thumbnail": "./assets/thumbnails/plus100-sea-urchin.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-jellyfish-lamp",
@@ -8901,7 +10944,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-jellyfish-lamp.webp",
-    "thumbnail": "./assets/thumbnails/plus100-jellyfish-lamp.webp"
+    "thumbnail": "./assets/thumbnails/plus100-jellyfish-lamp.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-jellyfish-raincoat",
@@ -8915,7 +10961,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-jellyfish-raincoat.webp",
-    "thumbnail": "./assets/thumbnails/plus100-jellyfish-raincoat.webp"
+    "thumbnail": "./assets/thumbnails/plus100-jellyfish-raincoat.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-jellyfish-puppet",
@@ -8929,7 +10978,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-jellyfish-puppet.webp",
-    "thumbnail": "./assets/thumbnails/plus100-jellyfish-puppet.webp"
+    "thumbnail": "./assets/thumbnails/plus100-jellyfish-puppet.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "plus100-message-bottle",
@@ -8943,7 +10995,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-message-bottle.webp",
-    "thumbnail": "./assets/thumbnails/plus100-message-bottle.webp"
+    "thumbnail": "./assets/thumbnails/plus100-message-bottle.webp",
+    "subgenres": [
+      "local:travel"
+    ]
   },
   {
     "id": "plus100-treasure-chest",
@@ -8957,7 +11012,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-treasure-chest.webp",
-    "thumbnail": "./assets/thumbnails/plus100-treasure-chest.webp"
+    "thumbnail": "./assets/thumbnails/plus100-treasure-chest.webp",
+    "subgenres": [
+      "local:travel"
+    ]
   },
   {
     "id": "plus100-alchemist",
@@ -8970,7 +11028,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-alchemist.webp",
-    "thumbnail": "./assets/thumbnails/plus100-alchemist.webp"
+    "thumbnail": "./assets/thumbnails/plus100-alchemist.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "plus100-elf",
@@ -8984,7 +11045,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-elf.webp",
-    "thumbnail": "./assets/thumbnails/plus100-elf.webp"
+    "thumbnail": "./assets/thumbnails/plus100-elf.webp",
+    "subgenres": [
+      "fantasy:legend",
+      "outfit:costume"
+    ]
   },
   {
     "id": "plus100-pirate",
@@ -8997,7 +11062,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-pirate.webp",
-    "thumbnail": "./assets/thumbnails/plus100-pirate.webp"
+    "thumbnail": "./assets/thumbnails/plus100-pirate.webp",
+    "subgenres": [
+      "fantasy:legend",
+      "work:transport"
+    ]
   },
   {
     "id": "plus100-jester",
@@ -9010,7 +11079,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-jester.webp",
-    "thumbnail": "./assets/thumbnails/plus100-jester.webp"
+    "thumbnail": "./assets/thumbnails/plus100-jester.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "plus100-snow-king",
@@ -9024,7 +11096,11 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-snow-king.webp",
-    "thumbnail": "./assets/thumbnails/plus100-snow-king.webp"
+    "thumbnail": "./assets/thumbnails/plus100-snow-king.webp",
+    "subgenres": [
+      "fantasy:legend",
+      "nature:weather"
+    ]
   },
   {
     "id": "plus100-moon-rabbit",
@@ -9038,7 +11114,12 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-moon-rabbit.webp",
-    "thumbnail": "./assets/thumbnails/plus100-moon-rabbit.webp"
+    "thumbnail": "./assets/thumbnails/plus100-moon-rabbit.webp",
+    "subgenres": [
+      "fantasy:legend",
+      "event:tsukimi",
+      "outfit:costume"
+    ]
   },
   {
     "id": "plus100-phoenix",
@@ -9051,7 +11132,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-phoenix.webp",
-    "thumbnail": "./assets/thumbnails/plus100-phoenix.webp"
+    "thumbnail": "./assets/thumbnails/plus100-phoenix.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "plus100-gargoyle",
@@ -9064,7 +11148,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-gargoyle.webp",
-    "thumbnail": "./assets/thumbnails/plus100-gargoyle.webp"
+    "thumbnail": "./assets/thumbnails/plus100-gargoyle.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "plus100-timekeeper",
@@ -9077,7 +11164,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-timekeeper.webp",
-    "thumbnail": "./assets/thumbnails/plus100-timekeeper.webp"
+    "thumbnail": "./assets/thumbnails/plus100-timekeeper.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "plus100-cloud-sage",
@@ -9091,7 +11181,10 @@ export const BUNDLED_POSES = [
       "追加100"
     ],
     "src": "./assets/library/plus100-cloud-sage.webp",
-    "thumbnail": "./assets/thumbnails/plus100-cloud-sage.webp"
+    "thumbnail": "./assets/thumbnails/plus100-cloud-sage.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "pref-01-hokkaido",
@@ -9106,7 +11199,10 @@ export const BUNDLED_POSES = [
       "流氷"
     ],
     "src": "./assets/library/pref-01-hokkaido.webp",
-    "thumbnail": "./assets/thumbnails/pref-01-hokkaido.webp"
+    "thumbnail": "./assets/thumbnails/pref-01-hokkaido.webp",
+    "subgenres": [
+      "local:north"
+    ]
   },
   {
     "id": "pref-02-aomori",
@@ -9123,7 +11219,10 @@ export const BUNDLED_POSES = [
       "あおもりけん"
     ],
     "src": "./assets/library/pref-02-aomori.webp",
-    "thumbnail": "./assets/thumbnails/pref-02-aomori.webp"
+    "thumbnail": "./assets/thumbnails/pref-02-aomori.webp",
+    "subgenres": [
+      "local:north"
+    ]
   },
   {
     "id": "pref-03-iwate",
@@ -9140,7 +11239,10 @@ export const BUNDLED_POSES = [
       "いわてけん"
     ],
     "src": "./assets/library/pref-03-iwate.webp",
-    "thumbnail": "./assets/thumbnails/pref-03-iwate.webp"
+    "thumbnail": "./assets/thumbnails/pref-03-iwate.webp",
+    "subgenres": [
+      "local:north"
+    ]
   },
   {
     "id": "pref-04-miyagi",
@@ -9157,7 +11259,11 @@ export const BUNDLED_POSES = [
       "みやぎけん"
     ],
     "src": "./assets/library/pref-04-miyagi.webp",
-    "thumbnail": "./assets/thumbnails/pref-04-miyagi.webp"
+    "thumbnail": "./assets/thumbnails/pref-04-miyagi.webp",
+    "subgenres": [
+      "local:north",
+      "event:tanabata"
+    ]
   },
   {
     "id": "pref-05-akita",
@@ -9174,7 +11280,10 @@ export const BUNDLED_POSES = [
       "あきたけん"
     ],
     "src": "./assets/library/pref-05-akita.webp",
-    "thumbnail": "./assets/thumbnails/pref-05-akita.webp"
+    "thumbnail": "./assets/thumbnails/pref-05-akita.webp",
+    "subgenres": [
+      "local:north"
+    ]
   },
   {
     "id": "pref-06-yamagata",
@@ -9191,7 +11300,11 @@ export const BUNDLED_POSES = [
       "やまがたけん"
     ],
     "src": "./assets/library/pref-06-yamagata.webp",
-    "thumbnail": "./assets/thumbnails/pref-06-yamagata.webp"
+    "thumbnail": "./assets/thumbnails/pref-06-yamagata.webp",
+    "subgenres": [
+      "local:north",
+      "nature:flowers"
+    ]
   },
   {
     "id": "pref-07-fukushima",
@@ -9208,7 +11321,10 @@ export const BUNDLED_POSES = [
       "ふくしまけん"
     ],
     "src": "./assets/library/pref-07-fukushima.webp",
-    "thumbnail": "./assets/thumbnails/pref-07-fukushima.webp"
+    "thumbnail": "./assets/thumbnails/pref-07-fukushima.webp",
+    "subgenres": [
+      "local:north"
+    ]
   },
   {
     "id": "pref-08-ibaraki",
@@ -9225,7 +11341,10 @@ export const BUNDLED_POSES = [
       "いばらきけん"
     ],
     "src": "./assets/library/pref-08-ibaraki.webp",
-    "thumbnail": "./assets/thumbnails/pref-08-ibaraki.webp"
+    "thumbnail": "./assets/thumbnails/pref-08-ibaraki.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-09-tochigi",
@@ -9242,7 +11361,10 @@ export const BUNDLED_POSES = [
       "とちぎけん"
     ],
     "src": "./assets/library/pref-09-tochigi.webp",
-    "thumbnail": "./assets/thumbnails/pref-09-tochigi.webp"
+    "thumbnail": "./assets/thumbnails/pref-09-tochigi.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-10-gunma",
@@ -9259,7 +11381,10 @@ export const BUNDLED_POSES = [
       "ぐんまけん"
     ],
     "src": "./assets/library/pref-10-gunma.webp",
-    "thumbnail": "./assets/thumbnails/pref-10-gunma.webp"
+    "thumbnail": "./assets/thumbnails/pref-10-gunma.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-11-saitama",
@@ -9276,7 +11401,10 @@ export const BUNDLED_POSES = [
       "さいたまけん"
     ],
     "src": "./assets/library/pref-11-saitama.webp",
-    "thumbnail": "./assets/thumbnails/pref-11-saitama.webp"
+    "thumbnail": "./assets/thumbnails/pref-11-saitama.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-12-chiba",
@@ -9298,7 +11426,10 @@ export const BUNDLED_POSES = [
       "飛行機"
     ],
     "src": "./assets/library/pref-12-chiba.webp",
-    "thumbnail": "./assets/thumbnails/pref-12-chiba.webp"
+    "thumbnail": "./assets/thumbnails/pref-12-chiba.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-13-tokyo",
@@ -9315,7 +11446,10 @@ export const BUNDLED_POSES = [
       "とうきょうと"
     ],
     "src": "./assets/library/pref-13-tokyo.webp",
-    "thumbnail": "./assets/thumbnails/pref-13-tokyo.webp"
+    "thumbnail": "./assets/thumbnails/pref-13-tokyo.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-14-kanagawa",
@@ -9332,7 +11466,10 @@ export const BUNDLED_POSES = [
       "かながわけん"
     ],
     "src": "./assets/library/pref-14-kanagawa.webp",
-    "thumbnail": "./assets/thumbnails/pref-14-kanagawa.webp"
+    "thumbnail": "./assets/thumbnails/pref-14-kanagawa.webp",
+    "subgenres": [
+      "local:kanto"
+    ]
   },
   {
     "id": "pref-15-niigata",
@@ -9349,7 +11486,10 @@ export const BUNDLED_POSES = [
       "にいがたけん"
     ],
     "src": "./assets/library/pref-15-niigata.webp",
-    "thumbnail": "./assets/thumbnails/pref-15-niigata.webp"
+    "thumbnail": "./assets/thumbnails/pref-15-niigata.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-16-toyama",
@@ -9366,7 +11506,10 @@ export const BUNDLED_POSES = [
       "とやまけん"
     ],
     "src": "./assets/library/pref-16-toyama.webp",
-    "thumbnail": "./assets/thumbnails/pref-16-toyama.webp"
+    "thumbnail": "./assets/thumbnails/pref-16-toyama.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-17-ishikawa",
@@ -9383,7 +11526,10 @@ export const BUNDLED_POSES = [
       "いしかわけん"
     ],
     "src": "./assets/library/pref-17-ishikawa.webp",
-    "thumbnail": "./assets/thumbnails/pref-17-ishikawa.webp"
+    "thumbnail": "./assets/thumbnails/pref-17-ishikawa.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-18-fukui",
@@ -9400,7 +11546,10 @@ export const BUNDLED_POSES = [
       "ふくいけん"
     ],
     "src": "./assets/library/pref-18-fukui.webp",
-    "thumbnail": "./assets/thumbnails/pref-18-fukui.webp"
+    "thumbnail": "./assets/thumbnails/pref-18-fukui.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-19-yamanashi",
@@ -9417,7 +11566,10 @@ export const BUNDLED_POSES = [
       "やまなしけん"
     ],
     "src": "./assets/library/pref-19-yamanashi.webp",
-    "thumbnail": "./assets/thumbnails/pref-19-yamanashi.webp"
+    "thumbnail": "./assets/thumbnails/pref-19-yamanashi.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-20-nagano",
@@ -9434,7 +11586,10 @@ export const BUNDLED_POSES = [
       "ながのけん"
     ],
     "src": "./assets/library/pref-20-nagano.webp",
-    "thumbnail": "./assets/thumbnails/pref-20-nagano.webp"
+    "thumbnail": "./assets/thumbnails/pref-20-nagano.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-21-gifu",
@@ -9451,7 +11606,10 @@ export const BUNDLED_POSES = [
       "ぎふけん"
     ],
     "src": "./assets/library/pref-21-gifu.webp",
-    "thumbnail": "./assets/thumbnails/pref-21-gifu.webp"
+    "thumbnail": "./assets/thumbnails/pref-21-gifu.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-22-shizuoka",
@@ -9468,7 +11626,10 @@ export const BUNDLED_POSES = [
       "しずおかけん"
     ],
     "src": "./assets/library/pref-22-shizuoka.webp",
-    "thumbnail": "./assets/thumbnails/pref-22-shizuoka.webp"
+    "thumbnail": "./assets/thumbnails/pref-22-shizuoka.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-23-aichi",
@@ -9485,7 +11646,10 @@ export const BUNDLED_POSES = [
       "あいちけん"
     ],
     "src": "./assets/library/pref-23-aichi.webp",
-    "thumbnail": "./assets/thumbnails/pref-23-aichi.webp"
+    "thumbnail": "./assets/thumbnails/pref-23-aichi.webp",
+    "subgenres": [
+      "local:chubu"
+    ]
   },
   {
     "id": "pref-24-mie",
@@ -9502,7 +11666,11 @@ export const BUNDLED_POSES = [
       "みえけん"
     ],
     "src": "./assets/library/pref-24-mie.webp",
-    "thumbnail": "./assets/thumbnails/pref-24-mie.webp"
+    "thumbnail": "./assets/thumbnails/pref-24-mie.webp",
+    "subgenres": [
+      "local:kinki",
+      "animal:water"
+    ]
   },
   {
     "id": "pref-25-shiga",
@@ -9519,7 +11687,10 @@ export const BUNDLED_POSES = [
       "しがけん"
     ],
     "src": "./assets/library/pref-25-shiga.webp",
-    "thumbnail": "./assets/thumbnails/pref-25-shiga.webp"
+    "thumbnail": "./assets/thumbnails/pref-25-shiga.webp",
+    "subgenres": [
+      "local:kinki"
+    ]
   },
   {
     "id": "pref-26-kyoto",
@@ -9536,7 +11707,10 @@ export const BUNDLED_POSES = [
       "きょうとふ"
     ],
     "src": "./assets/library/pref-26-kyoto.webp",
-    "thumbnail": "./assets/thumbnails/pref-26-kyoto.webp"
+    "thumbnail": "./assets/thumbnails/pref-26-kyoto.webp",
+    "subgenres": [
+      "local:kinki"
+    ]
   },
   {
     "id": "pref-27-osaka",
@@ -9553,7 +11727,10 @@ export const BUNDLED_POSES = [
       "おおさかふ"
     ],
     "src": "./assets/library/pref-27-osaka.webp",
-    "thumbnail": "./assets/thumbnails/pref-27-osaka.webp"
+    "thumbnail": "./assets/thumbnails/pref-27-osaka.webp",
+    "subgenres": [
+      "local:kinki"
+    ]
   },
   {
     "id": "pref-28-hyogo",
@@ -9570,7 +11747,10 @@ export const BUNDLED_POSES = [
       "ひょうごけん"
     ],
     "src": "./assets/library/pref-28-hyogo.webp",
-    "thumbnail": "./assets/thumbnails/pref-28-hyogo.webp"
+    "thumbnail": "./assets/thumbnails/pref-28-hyogo.webp",
+    "subgenres": [
+      "local:kinki"
+    ]
   },
   {
     "id": "pref-29-nara",
@@ -9587,7 +11767,10 @@ export const BUNDLED_POSES = [
       "ならけん"
     ],
     "src": "./assets/library/pref-29-nara.webp",
-    "thumbnail": "./assets/thumbnails/pref-29-nara.webp"
+    "thumbnail": "./assets/thumbnails/pref-29-nara.webp",
+    "subgenres": [
+      "local:kinki"
+    ]
   },
   {
     "id": "pref-30-wakayama",
@@ -9604,7 +11787,10 @@ export const BUNDLED_POSES = [
       "わかやまけん"
     ],
     "src": "./assets/library/pref-30-wakayama.webp",
-    "thumbnail": "./assets/thumbnails/pref-30-wakayama.webp"
+    "thumbnail": "./assets/thumbnails/pref-30-wakayama.webp",
+    "subgenres": [
+      "local:kinki"
+    ]
   },
   {
     "id": "pref-31-tottori",
@@ -9621,7 +11807,10 @@ export const BUNDLED_POSES = [
       "とっとりけん"
     ],
     "src": "./assets/library/pref-31-tottori.webp",
-    "thumbnail": "./assets/thumbnails/pref-31-tottori.webp"
+    "thumbnail": "./assets/thumbnails/pref-31-tottori.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-32-shimane",
@@ -9638,7 +11827,10 @@ export const BUNDLED_POSES = [
       "しまねけん"
     ],
     "src": "./assets/library/pref-32-shimane.webp",
-    "thumbnail": "./assets/thumbnails/pref-32-shimane.webp"
+    "thumbnail": "./assets/thumbnails/pref-32-shimane.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-33-okayama",
@@ -9655,7 +11847,10 @@ export const BUNDLED_POSES = [
       "おかやまけん"
     ],
     "src": "./assets/library/pref-33-okayama.webp",
-    "thumbnail": "./assets/thumbnails/pref-33-okayama.webp"
+    "thumbnail": "./assets/thumbnails/pref-33-okayama.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-34-hiroshima",
@@ -9672,7 +11867,10 @@ export const BUNDLED_POSES = [
       "ひろしまけん"
     ],
     "src": "./assets/library/pref-34-hiroshima.webp",
-    "thumbnail": "./assets/thumbnails/pref-34-hiroshima.webp"
+    "thumbnail": "./assets/thumbnails/pref-34-hiroshima.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-35-yamaguchi",
@@ -9689,7 +11887,10 @@ export const BUNDLED_POSES = [
       "やまぐちけん"
     ],
     "src": "./assets/library/pref-35-yamaguchi.webp",
-    "thumbnail": "./assets/thumbnails/pref-35-yamaguchi.webp"
+    "thumbnail": "./assets/thumbnails/pref-35-yamaguchi.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-37-kagawa",
@@ -9706,7 +11907,10 @@ export const BUNDLED_POSES = [
       "かがわけん"
     ],
     "src": "./assets/library/pref-37-kagawa.webp",
-    "thumbnail": "./assets/thumbnails/pref-37-kagawa.webp"
+    "thumbnail": "./assets/thumbnails/pref-37-kagawa.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-38-ehime",
@@ -9723,7 +11927,10 @@ export const BUNDLED_POSES = [
       "えひめけん"
     ],
     "src": "./assets/library/pref-38-ehime.webp",
-    "thumbnail": "./assets/thumbnails/pref-38-ehime.webp"
+    "thumbnail": "./assets/thumbnails/pref-38-ehime.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-39-kochi",
@@ -9740,7 +11947,10 @@ export const BUNDLED_POSES = [
       "こうちけん"
     ],
     "src": "./assets/library/pref-39-kochi.webp",
-    "thumbnail": "./assets/thumbnails/pref-39-kochi.webp"
+    "thumbnail": "./assets/thumbnails/pref-39-kochi.webp",
+    "subgenres": [
+      "local:west"
+    ]
   },
   {
     "id": "pref-40-fukuoka",
@@ -9757,7 +11967,10 @@ export const BUNDLED_POSES = [
       "ふくおかけん"
     ],
     "src": "./assets/library/pref-40-fukuoka.webp",
-    "thumbnail": "./assets/thumbnails/pref-40-fukuoka.webp"
+    "thumbnail": "./assets/thumbnails/pref-40-fukuoka.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-41-saga",
@@ -9774,7 +11987,10 @@ export const BUNDLED_POSES = [
       "さがけん"
     ],
     "src": "./assets/library/pref-41-saga.webp",
-    "thumbnail": "./assets/thumbnails/pref-41-saga.webp"
+    "thumbnail": "./assets/thumbnails/pref-41-saga.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-42-nagasaki",
@@ -9791,7 +12007,10 @@ export const BUNDLED_POSES = [
       "ながさきけん"
     ],
     "src": "./assets/library/pref-42-nagasaki.webp",
-    "thumbnail": "./assets/thumbnails/pref-42-nagasaki.webp"
+    "thumbnail": "./assets/thumbnails/pref-42-nagasaki.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-43-kumamoto",
@@ -9808,7 +12027,10 @@ export const BUNDLED_POSES = [
       "くまもとけん"
     ],
     "src": "./assets/library/pref-43-kumamoto.webp",
-    "thumbnail": "./assets/thumbnails/pref-43-kumamoto.webp"
+    "thumbnail": "./assets/thumbnails/pref-43-kumamoto.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-44-oita",
@@ -9825,7 +12047,10 @@ export const BUNDLED_POSES = [
       "おおいたけん"
     ],
     "src": "./assets/library/pref-44-oita.webp",
-    "thumbnail": "./assets/thumbnails/pref-44-oita.webp"
+    "thumbnail": "./assets/thumbnails/pref-44-oita.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-45-miyazaki",
@@ -9842,7 +12067,10 @@ export const BUNDLED_POSES = [
       "みやざきけん"
     ],
     "src": "./assets/library/pref-45-miyazaki.webp",
-    "thumbnail": "./assets/thumbnails/pref-45-miyazaki.webp"
+    "thumbnail": "./assets/thumbnails/pref-45-miyazaki.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-46-kagoshima",
@@ -9859,7 +12087,10 @@ export const BUNDLED_POSES = [
       "かごしまけん"
     ],
     "src": "./assets/library/pref-46-kagoshima.webp",
-    "thumbnail": "./assets/thumbnails/pref-46-kagoshima.webp"
+    "thumbnail": "./assets/thumbnails/pref-46-kagoshima.webp",
+    "subgenres": [
+      "local:south"
+    ]
   },
   {
     "id": "pref-47-okinawa",
@@ -9876,7 +12107,11 @@ export const BUNDLED_POSES = [
       "おきなわけん"
     ],
     "src": "./assets/library/pref-47-okinawa.webp",
-    "thumbnail": "./assets/thumbnails/pref-47-okinawa.webp"
+    "thumbnail": "./assets/thumbnails/pref-47-okinawa.webp",
+    "subgenres": [
+      "local:south",
+      "animal:water"
+    ]
   },
   {
     "id": "animal-panda",
@@ -9892,7 +12127,11 @@ export const BUNDLED_POSES = [
       "熊猫"
     ],
     "src": "./assets/library/animal-panda.webp",
-    "thumbnail": "./assets/thumbnails/animal-panda.webp"
+    "thumbnail": "./assets/thumbnails/animal-panda.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-shiba",
@@ -9910,7 +12149,11 @@ export const BUNDLED_POSES = [
       "イヌ"
     ],
     "src": "./assets/library/animal-shiba.webp",
-    "thumbnail": "./assets/thumbnails/animal-shiba.webp"
+    "thumbnail": "./assets/thumbnails/animal-shiba.webp",
+    "subgenres": [
+      "animal:pets",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-calico-cat",
@@ -9928,7 +12171,11 @@ export const BUNDLED_POSES = [
       "ネコ"
     ],
     "src": "./assets/library/animal-calico-cat.webp",
-    "thumbnail": "./assets/thumbnails/animal-calico-cat.webp"
+    "thumbnail": "./assets/thumbnails/animal-calico-cat.webp",
+    "subgenres": [
+      "animal:pets",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-rabbit",
@@ -9945,7 +12192,11 @@ export const BUNDLED_POSES = [
       "らびっと"
     ],
     "src": "./assets/library/animal-rabbit.webp",
-    "thumbnail": "./assets/thumbnails/animal-rabbit.webp"
+    "thumbnail": "./assets/thumbnails/animal-rabbit.webp",
+    "subgenres": [
+      "animal:pets",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-brown-bear",
@@ -9962,7 +12213,11 @@ export const BUNDLED_POSES = [
       "ベア"
     ],
     "src": "./assets/library/animal-brown-bear.webp",
-    "thumbnail": "./assets/thumbnails/animal-brown-bear.webp"
+    "thumbnail": "./assets/thumbnails/animal-brown-bear.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-tiger",
@@ -9979,7 +12234,11 @@ export const BUNDLED_POSES = [
       "タイガー"
     ],
     "src": "./assets/library/animal-tiger.webp",
-    "thumbnail": "./assets/thumbnails/animal-tiger.webp"
+    "thumbnail": "./assets/thumbnails/animal-tiger.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-lion",
@@ -9995,7 +12254,11 @@ export const BUNDLED_POSES = [
       "獅子"
     ],
     "src": "./assets/library/animal-lion.webp",
-    "thumbnail": "./assets/thumbnails/animal-lion.webp"
+    "thumbnail": "./assets/thumbnails/animal-lion.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-penguin",
@@ -10012,7 +12275,11 @@ export const BUNDLED_POSES = [
       "とり"
     ],
     "src": "./assets/library/animal-penguin.webp",
-    "thumbnail": "./assets/thumbnails/animal-penguin.webp"
+    "thumbnail": "./assets/thumbnails/animal-penguin.webp",
+    "subgenres": [
+      "animal:birds",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-koala",
@@ -10027,7 +12294,11 @@ export const BUNDLED_POSES = [
       "こあら"
     ],
     "src": "./assets/library/animal-koala.webp",
-    "thumbnail": "./assets/thumbnails/animal-koala.webp"
+    "thumbnail": "./assets/thumbnails/animal-koala.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-red-panda",
@@ -10043,7 +12314,11 @@ export const BUNDLED_POSES = [
       "小熊猫"
     ],
     "src": "./assets/library/animal-red-panda.webp",
-    "thumbnail": "./assets/thumbnails/animal-red-panda.webp"
+    "thumbnail": "./assets/thumbnails/animal-red-panda.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-capybara",
@@ -10058,7 +12333,11 @@ export const BUNDLED_POSES = [
       "かぴばら"
     ],
     "src": "./assets/library/animal-capybara.webp",
-    "thumbnail": "./assets/thumbnails/animal-capybara.webp"
+    "thumbnail": "./assets/thumbnails/animal-capybara.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-otter",
@@ -10074,7 +12353,11 @@ export const BUNDLED_POSES = [
       "獺"
     ],
     "src": "./assets/library/animal-otter.webp",
-    "thumbnail": "./assets/thumbnails/animal-otter.webp"
+    "thumbnail": "./assets/thumbnails/animal-otter.webp",
+    "subgenres": [
+      "animal:water",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-fox",
@@ -10090,7 +12373,11 @@ export const BUNDLED_POSES = [
       "キツネ"
     ],
     "src": "./assets/library/animal-fox.webp",
-    "thumbnail": "./assets/thumbnails/animal-fox.webp"
+    "thumbnail": "./assets/thumbnails/animal-fox.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-tanuki",
@@ -10106,7 +12393,11 @@ export const BUNDLED_POSES = [
       "タヌキ"
     ],
     "src": "./assets/library/animal-tanuki.webp",
-    "thumbnail": "./assets/thumbnails/animal-tanuki.webp"
+    "thumbnail": "./assets/thumbnails/animal-tanuki.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-giraffe",
@@ -10122,7 +12413,11 @@ export const BUNDLED_POSES = [
       "麒麟"
     ],
     "src": "./assets/library/animal-giraffe.webp",
-    "thumbnail": "./assets/thumbnails/animal-giraffe.webp"
+    "thumbnail": "./assets/thumbnails/animal-giraffe.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-elephant",
@@ -10139,7 +12434,11 @@ export const BUNDLED_POSES = [
       "エレファント"
     ],
     "src": "./assets/library/animal-elephant.webp",
-    "thumbnail": "./assets/thumbnails/animal-elephant.webp"
+    "thumbnail": "./assets/thumbnails/animal-elephant.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-gorilla",
@@ -10156,7 +12455,11 @@ export const BUNDLED_POSES = [
       "さる"
     ],
     "src": "./assets/library/animal-gorilla.webp",
-    "thumbnail": "./assets/thumbnails/animal-gorilla.webp"
+    "thumbnail": "./assets/thumbnails/animal-gorilla.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-sheep",
@@ -10173,7 +12476,11 @@ export const BUNDLED_POSES = [
       "もこもこ"
     ],
     "src": "./assets/library/animal-sheep.webp",
-    "thumbnail": "./assets/thumbnails/animal-sheep.webp"
+    "thumbnail": "./assets/thumbnails/animal-sheep.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-cow",
@@ -10190,7 +12497,11 @@ export const BUNDLED_POSES = [
       "ホルスタイン"
     ],
     "src": "./assets/library/animal-cow.webp",
-    "thumbnail": "./assets/thumbnails/animal-cow.webp"
+    "thumbnail": "./assets/thumbnails/animal-cow.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-pig",
@@ -10207,7 +12518,11 @@ export const BUNDLED_POSES = [
       "ピッグ"
     ],
     "src": "./assets/library/animal-pig.webp",
-    "thumbnail": "./assets/thumbnails/animal-pig.webp"
+    "thumbnail": "./assets/thumbnails/animal-pig.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-frog",
@@ -10224,7 +12539,11 @@ export const BUNDLED_POSES = [
       "フロッグ"
     ],
     "src": "./assets/library/animal-frog.webp",
-    "thumbnail": "./assets/thumbnails/animal-frog.webp"
+    "thumbnail": "./assets/thumbnails/animal-frog.webp",
+    "subgenres": [
+      "animal:water",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-seal",
@@ -10241,7 +12560,11 @@ export const BUNDLED_POSES = [
       "海獣"
     ],
     "src": "./assets/library/animal-seal.webp",
-    "thumbnail": "./assets/thumbnails/animal-seal.webp"
+    "thumbnail": "./assets/thumbnails/animal-seal.webp",
+    "subgenres": [
+      "animal:water",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-shark",
@@ -10259,7 +12582,11 @@ export const BUNDLED_POSES = [
       "シャーク"
     ],
     "src": "./assets/library/animal-shark.webp",
-    "thumbnail": "./assets/thumbnails/animal-shark.webp"
+    "thumbnail": "./assets/thumbnails/animal-shark.webp",
+    "subgenres": [
+      "animal:water",
+      "outfit:costume"
+    ]
   },
   {
     "id": "animal-kangaroo",
@@ -10275,7 +12602,11 @@ export const BUNDLED_POSES = [
       "親子"
     ],
     "src": "./assets/library/animal-kangaroo.webp",
-    "thumbnail": "./assets/thumbnails/animal-kangaroo.webp"
+    "thumbnail": "./assets/thumbnails/animal-kangaroo.webp",
+    "subgenres": [
+      "animal:wild",
+      "outfit:costume"
+    ]
   },
   {
     "id": "tokushima-awa-dance",
@@ -10290,7 +12621,12 @@ export const BUNDLED_POSES = [
       "祭り"
     ],
     "src": "./assets/library/tokushima-awa-dance.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-dance.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-dance.webp",
+    "subgenres": [
+      "local:tokushima",
+      "event:summer",
+      "music:performance"
+    ]
   },
   {
     "id": "tokushima-awa-amigasa",
@@ -10305,7 +12641,12 @@ export const BUNDLED_POSES = [
       "祭り"
     ],
     "src": "./assets/library/tokushima-awa-amigasa.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-amigasa.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-amigasa.webp",
+    "subgenres": [
+      "local:tokushima",
+      "event:summer",
+      "music:performance"
+    ]
   },
   {
     "id": "tokushima-awa-taiko",
@@ -10320,7 +12661,13 @@ export const BUNDLED_POSES = [
       "祭り"
     ],
     "src": "./assets/library/tokushima-awa-taiko.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-taiko.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-taiko.webp",
+    "subgenres": [
+      "local:tokushima",
+      "event:summer",
+      "music:percussion",
+      "music:performance"
+    ]
   },
   {
     "id": "tokushima-awa-lantern",
@@ -10335,7 +12682,12 @@ export const BUNDLED_POSES = [
       "ちょうちん"
     ],
     "src": "./assets/library/tokushima-awa-lantern.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-lantern.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-lantern.webp",
+    "subgenres": [
+      "local:tokushima",
+      "event:summer",
+      "music:performance"
+    ]
   },
   {
     "id": "tokushima-awa-shamisen",
@@ -10349,7 +12701,13 @@ export const BUNDLED_POSES = [
       "鳴り物"
     ],
     "src": "./assets/library/tokushima-awa-shamisen.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-shamisen.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-shamisen.webp",
+    "subgenres": [
+      "local:tokushima",
+      "event:summer",
+      "music:strings",
+      "music:performance"
+    ]
   },
   {
     "id": "tokushima-awa-flute",
@@ -10364,7 +12722,13 @@ export const BUNDLED_POSES = [
       "鳴り物"
     ],
     "src": "./assets/library/tokushima-awa-flute.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-flute.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-flute.webp",
+    "subgenres": [
+      "local:tokushima",
+      "event:summer",
+      "music:winds",
+      "music:performance"
+    ]
   },
   {
     "id": "tokushima-sudachi-suit",
@@ -10379,7 +12743,11 @@ export const BUNDLED_POSES = [
       "着ぐるみ"
     ],
     "src": "./assets/library/tokushima-sudachi-suit.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-sudachi-suit.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-sudachi-suit.webp",
+    "subgenres": [
+      "local:tokushima",
+      "food:produce"
+    ]
   },
   {
     "id": "tokushima-sudachi-farmer",
@@ -10394,7 +12762,12 @@ export const BUNDLED_POSES = [
       "果物"
     ],
     "src": "./assets/library/tokushima-sudachi-farmer.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-sudachi-farmer.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-sudachi-farmer.webp",
+    "subgenres": [
+      "local:tokushima",
+      "work:farming",
+      "food:produce"
+    ]
   },
   {
     "id": "tokushima-sudachi-chef",
@@ -10409,7 +12782,12 @@ export const BUNDLED_POSES = [
       "料理"
     ],
     "src": "./assets/library/tokushima-sudachi-chef.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-sudachi-chef.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-sudachi-chef.webp",
+    "subgenres": [
+      "local:tokushima",
+      "work:food",
+      "food:produce"
+    ]
   },
   {
     "id": "tokushima-naruto-whirlpool",
@@ -10425,7 +12803,10 @@ export const BUNDLED_POSES = [
       "着ぐるみ"
     ],
     "src": "./assets/library/tokushima-naruto-whirlpool.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-naruto-whirlpool.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-whirlpool.webp",
+    "subgenres": [
+      "local:tokushima"
+    ]
   },
   {
     "id": "tokushima-naruto-boatman",
@@ -10440,7 +12821,11 @@ export const BUNDLED_POSES = [
       "観潮船"
     ],
     "src": "./assets/library/tokushima-naruto-boatman.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-naruto-boatman.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-boatman.webp",
+    "subgenres": [
+      "local:tokushima",
+      "work:transport"
+    ]
   },
   {
     "id": "tokushima-naruto-wakame",
@@ -10456,7 +12841,10 @@ export const BUNDLED_POSES = [
       "漁師"
     ],
     "src": "./assets/library/tokushima-naruto-wakame.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-naruto-wakame.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-wakame.webp",
+    "subgenres": [
+      "local:tokushima"
+    ]
   },
   {
     "id": "tokushima-naruto-tai",
@@ -10472,7 +12860,11 @@ export const BUNDLED_POSES = [
       "着ぐるみ"
     ],
     "src": "./assets/library/tokushima-naruto-tai.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-naruto-tai.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-naruto-tai.webp",
+    "subgenres": [
+      "local:tokushima",
+      "animal:water"
+    ]
   },
   {
     "id": "tokushima-aizome-workwear",
@@ -10487,7 +12879,11 @@ export const BUNDLED_POSES = [
       "作務衣"
     ],
     "src": "./assets/library/tokushima-aizome-workwear.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-aizome-workwear.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-aizome-workwear.webp",
+    "subgenres": [
+      "local:tokushima",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "tokushima-aizome-kimono",
@@ -10502,7 +12898,11 @@ export const BUNDLED_POSES = [
       "和服"
     ],
     "src": "./assets/library/tokushima-aizome-kimono.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-aizome-kimono.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-aizome-kimono.webp",
+    "subgenres": [
+      "local:tokushima",
+      "outfit:japanese"
+    ]
   },
   {
     "id": "tokushima-aizome-apron",
@@ -10517,7 +12917,11 @@ export const BUNDLED_POSES = [
       "染物"
     ],
     "src": "./assets/library/tokushima-aizome-apron.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-aizome-apron.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-aizome-apron.webp",
+    "subgenres": [
+      "local:tokushima",
+      "work:craft"
+    ]
   },
   {
     "id": "tokushima-kintoki-suit",
@@ -10532,7 +12936,11 @@ export const BUNDLED_POSES = [
       "着ぐるみ"
     ],
     "src": "./assets/library/tokushima-kintoki-suit.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-kintoki-suit.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-kintoki-suit.webp",
+    "subgenres": [
+      "local:tokushima",
+      "food:produce"
+    ]
   },
   {
     "id": "tokushima-kintoki-farmer",
@@ -10548,7 +12956,12 @@ export const BUNDLED_POSES = [
       "さつまいも"
     ],
     "src": "./assets/library/tokushima-kintoki-farmer.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-kintoki-farmer.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-kintoki-farmer.webp",
+    "subgenres": [
+      "local:tokushima",
+      "work:farming",
+      "food:produce"
+    ]
   },
   {
     "id": "tokushima-ramen",
@@ -10563,7 +12976,11 @@ export const BUNDLED_POSES = [
       "グルメ"
     ],
     "src": "./assets/library/tokushima-ramen.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-ramen.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-ramen.webp",
+    "subgenres": [
+      "local:tokushima",
+      "food:meal"
+    ]
   },
   {
     "id": "tokushima-handa-somen",
@@ -10579,7 +12996,12 @@ export const BUNDLED_POSES = [
       "グルメ"
     ],
     "src": "./assets/library/tokushima-handa-somen.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-handa-somen.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-handa-somen.webp",
+    "subgenres": [
+      "local:tokushima",
+      "work:craft",
+      "food:meal"
+    ]
   },
   {
     "id": "tokushima-awa-chicken",
@@ -10595,7 +13017,10 @@ export const BUNDLED_POSES = [
       "着ぐるみ"
     ],
     "src": "./assets/library/tokushima-awa-chicken.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-awa-chicken.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-awa-chicken.webp",
+    "subgenres": [
+      "local:tokushima"
+    ]
   },
   {
     "id": "tokushima-chikuwa",
@@ -10611,7 +13036,10 @@ export const BUNDLED_POSES = [
       "グルメ"
     ],
     "src": "./assets/library/tokushima-chikuwa.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-chikuwa.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-chikuwa.webp",
+    "subgenres": [
+      "local:tokushima"
+    ]
   },
   {
     "id": "tokushima-henro",
@@ -10627,7 +13055,10 @@ export const BUNDLED_POSES = [
       "旅"
     ],
     "src": "./assets/library/tokushima-henro.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-henro.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-henro.webp",
+    "subgenres": [
+      "local:tokushima"
+    ]
   },
   {
     "id": "tokushima-oboke-raft",
@@ -10643,7 +13074,10 @@ export const BUNDLED_POSES = [
       "川"
     ],
     "src": "./assets/library/tokushima-oboke-raft.webp",
-    "thumbnail": "./assets/thumbnails/tokushima-oboke-raft.webp"
+    "thumbnail": "./assets/thumbnails/tokushima-oboke-raft.webp",
+    "subgenres": [
+      "local:tokushima"
+    ]
   },
   {
     "id": "tshirt-peace",
@@ -10658,7 +13092,11 @@ export const BUNDLED_POSES = [
       "ピース"
     ],
     "src": "./assets/library/tshirt-peace.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-peace.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-peace.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-double-peace",
@@ -10673,7 +13111,11 @@ export const BUNDLED_POSES = [
       "ダブルピース"
     ],
     "src": "./assets/library/tshirt-double-peace.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-double-peace.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-double-peace.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-thumbs-up",
@@ -10688,7 +13130,11 @@ export const BUNDLED_POSES = [
       "サムズアップ"
     ],
     "src": "./assets/library/tshirt-thumbs-up.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-thumbs-up.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-thumbs-up.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-wave",
@@ -10703,7 +13149,11 @@ export const BUNDLED_POSES = [
       "手を振る"
     ],
     "src": "./assets/library/tshirt-wave.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-wave.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-wave.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-welcome",
@@ -10718,7 +13168,11 @@ export const BUNDLED_POSES = [
       "両手を広げる"
     ],
     "src": "./assets/library/tshirt-welcome.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-welcome.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-welcome.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-point",
@@ -10733,7 +13187,11 @@ export const BUNDLED_POSES = [
       "横を指さす"
     ],
     "src": "./assets/library/tshirt-point.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-point.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-point.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-cheer",
@@ -10748,7 +13206,11 @@ export const BUNDLED_POSES = [
       "ガッツポーズ"
     ],
     "src": "./assets/library/tshirt-cheer.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-cheer.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-cheer.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-heart",
@@ -10763,7 +13225,11 @@ export const BUNDLED_POSES = [
       "ハート"
     ],
     "src": "./assets/library/tshirt-heart.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-heart.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-heart.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-bow",
@@ -10778,7 +13244,11 @@ export const BUNDLED_POSES = [
       "おじぎ"
     ],
     "src": "./assets/library/tshirt-bow.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-bow.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-bow.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-salute",
@@ -10793,7 +13263,11 @@ export const BUNDLED_POSES = [
       "敬礼"
     ],
     "src": "./assets/library/tshirt-salute.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-salute.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-salute.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-laugh",
@@ -10808,7 +13282,11 @@ export const BUNDLED_POSES = [
       "大笑い"
     ],
     "src": "./assets/library/tshirt-laugh.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-laugh.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-laugh.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "tshirt-hands-on-hips",
@@ -10823,7 +13301,11 @@ export const BUNDLED_POSES = [
       "腰に手"
     ],
     "src": "./assets/library/tshirt-hands-on-hips.webp",
-    "thumbnail": "./assets/thumbnails/tshirt-hands-on-hips.webp"
+    "thumbnail": "./assets/thumbnails/tshirt-hands-on-hips.webp",
+    "subgenres": [
+      "outfit:tshirt",
+      "animal:water"
+    ]
   },
   {
     "id": "jellyfish-umbrella",
@@ -10835,7 +13317,10 @@ export const BUNDLED_POSES = [
       "巨大クラゲ"
     ],
     "src": "./assets/library/jellyfish-umbrella.webp",
-    "thumbnail": "./assets/thumbnails/jellyfish-umbrella.webp"
+    "thumbnail": "./assets/thumbnails/jellyfish-umbrella.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "jellyfish-ring",
@@ -10849,7 +13334,10 @@ export const BUNDLED_POSES = [
       "浮き輪"
     ],
     "src": "./assets/library/jellyfish-ring.webp",
-    "thumbnail": "./assets/thumbnails/jellyfish-ring.webp"
+    "thumbnail": "./assets/thumbnails/jellyfish-ring.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "jellyfish-backpack",
@@ -10861,7 +13349,10 @@ export const BUNDLED_POSES = [
       "クラゲを背負う"
     ],
     "src": "./assets/library/jellyfish-backpack.webp",
-    "thumbnail": "./assets/thumbnails/jellyfish-backpack.webp"
+    "thumbnail": "./assets/thumbnails/jellyfish-backpack.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "captain-wheel",
@@ -10873,7 +13364,11 @@ export const BUNDLED_POSES = [
       "船長と巨大舵輪"
     ],
     "src": "./assets/library/captain-wheel.webp",
-    "thumbnail": "./assets/thumbnails/captain-wheel.webp"
+    "thumbnail": "./assets/thumbnails/captain-wheel.webp",
+    "subgenres": [
+      "local:travel",
+      "work:transport"
+    ]
   },
   {
     "id": "deep-diver",
@@ -10887,7 +13382,10 @@ export const BUNDLED_POSES = [
       "ダイバー"
     ],
     "src": "./assets/library/deep-diver.webp",
-    "thumbnail": "./assets/thumbnails/deep-diver.webp"
+    "thumbnail": "./assets/thumbnails/deep-diver.webp",
+    "subgenres": [
+      "local:travel"
+    ]
   },
   {
     "id": "pearl-shell",
@@ -10899,7 +13397,10 @@ export const BUNDLED_POSES = [
       "真珠の貝から登場"
     ],
     "src": "./assets/library/pearl-shell.webp",
-    "thumbnail": "./assets/thumbnails/pearl-shell.webp"
+    "thumbnail": "./assets/thumbnails/pearl-shell.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "seaweed-cape",
@@ -10911,7 +13412,10 @@ export const BUNDLED_POSES = [
       "ワカメのマント"
     ],
     "src": "./assets/library/seaweed-cape.webp",
-    "thumbnail": "./assets/thumbnails/seaweed-cape.webp"
+    "thumbnail": "./assets/thumbnails/seaweed-cape.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "anchor-carrier",
@@ -10923,7 +13427,10 @@ export const BUNDLED_POSES = [
       "巨大な錨を運ぶ"
     ],
     "src": "./assets/library/anchor-carrier.webp",
-    "thumbnail": "./assets/thumbnails/anchor-carrier.webp"
+    "thumbnail": "./assets/thumbnails/anchor-carrier.webp",
+    "subgenres": [
+      "local:travel"
+    ]
   },
   {
     "id": "lifeguard",
@@ -10936,7 +13443,10 @@ export const BUNDLED_POSES = [
       "海水浴"
     ],
     "src": "./assets/library/lifeguard.webp",
-    "thumbnail": "./assets/thumbnails/lifeguard.webp"
+    "thumbnail": "./assets/thumbnails/lifeguard.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "crab-claws",
@@ -10948,7 +13458,10 @@ export const BUNDLED_POSES = [
       "巨大カニばさみ"
     ],
     "src": "./assets/library/crab-claws.webp",
-    "thumbnail": "./assets/thumbnails/crab-claws.webp"
+    "thumbnail": "./assets/thumbnails/crab-claws.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "octopus-buddy",
@@ -10960,7 +13473,10 @@ export const BUNDLED_POSES = [
       "タコと肩を組む"
     ],
     "src": "./assets/library/octopus-buddy.webp",
-    "thumbnail": "./assets/thumbnails/octopus-buddy.webp"
+    "thumbnail": "./assets/thumbnails/octopus-buddy.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "fishing-net",
@@ -10972,7 +13488,10 @@ export const BUNDLED_POSES = [
       "網いっぱいのクラゲ"
     ],
     "src": "./assets/library/fishing-net.webp",
-    "thumbnail": "./assets/thumbnails/fishing-net.webp"
+    "thumbnail": "./assets/thumbnails/fishing-net.webp",
+    "subgenres": [
+      "animal:water"
+    ]
   },
   {
     "id": "astronaut",
@@ -10984,7 +13503,10 @@ export const BUNDLED_POSES = [
       "SF"
     ],
     "src": "./assets/library/astronaut.webp",
-    "thumbnail": "./assets/thumbnails/astronaut.webp"
+    "thumbnail": "./assets/thumbnails/astronaut.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "rocket-pack",
@@ -10996,7 +13518,10 @@ export const BUNDLED_POSES = [
       "ロケットを背負う"
     ],
     "src": "./assets/library/rocket-pack.webp",
-    "thumbnail": "./assets/thumbnails/rocket-pack.webp"
+    "thumbnail": "./assets/thumbnails/rocket-pack.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "ufo-ring",
@@ -11008,7 +13533,10 @@ export const BUNDLED_POSES = [
       "UFOにはまる"
     ],
     "src": "./assets/library/ufo-ring.webp",
-    "thumbnail": "./assets/thumbnails/ufo-ring.webp"
+    "thumbnail": "./assets/thumbnails/ufo-ring.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "alien-headband",
@@ -11020,7 +13548,10 @@ export const BUNDLED_POSES = [
       "宇宙人のアンテナ"
     ],
     "src": "./assets/library/alien-headband.webp",
-    "thumbnail": "./assets/thumbnails/alien-headband.webp"
+    "thumbnail": "./assets/thumbnails/alien-headband.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "robot-armor",
@@ -11033,7 +13564,10 @@ export const BUNDLED_POSES = [
       "ロボット"
     ],
     "src": "./assets/library/robot-armor.webp",
-    "thumbnail": "./assets/thumbnails/robot-armor.webp"
+    "thumbnail": "./assets/thumbnails/robot-armor.webp",
+    "subgenres": [
+      "fantasy:robot"
+    ]
   },
   {
     "id": "satellite-pack",
@@ -11045,7 +13579,10 @@ export const BUNDLED_POSES = [
       "人工衛星を背負う"
     ],
     "src": "./assets/library/satellite-pack.webp",
-    "thumbnail": "./assets/thumbnails/satellite-pack.webp"
+    "thumbnail": "./assets/thumbnails/satellite-pack.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "moon-rock",
@@ -11057,7 +13594,10 @@ export const BUNDLED_POSES = [
       "月の石を抱える"
     ],
     "src": "./assets/library/moon-rock.webp",
-    "thumbnail": "./assets/thumbnails/moon-rock.webp"
+    "thumbnail": "./assets/thumbnails/moon-rock.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "space-cleaner",
@@ -11070,7 +13610,10 @@ export const BUNDLED_POSES = [
       "掃除"
     ],
     "src": "./assets/library/space-cleaner.webp",
-    "thumbnail": "./assets/thumbnails/space-cleaner.webp"
+    "thumbnail": "./assets/thumbnails/space-cleaner.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "future-courier",
@@ -11082,7 +13625,11 @@ export const BUNDLED_POSES = [
       "未来の配達員"
     ],
     "src": "./assets/library/future-courier.webp",
-    "thumbnail": "./assets/thumbnails/future-courier.webp"
+    "thumbnail": "./assets/thumbnails/future-courier.webp",
+    "subgenres": [
+      "fantasy:space",
+      "work:transport"
+    ]
   },
   {
     "id": "hover-board",
@@ -11094,7 +13641,10 @@ export const BUNDLED_POSES = [
       "空飛ぶボード"
     ],
     "src": "./assets/library/hover-board.webp",
-    "thumbnail": "./assets/thumbnails/hover-board.webp"
+    "thumbnail": "./assets/thumbnails/hover-board.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "space-botanist",
@@ -11108,7 +13658,10 @@ export const BUNDLED_POSES = [
       "植物"
     ],
     "src": "./assets/library/space-botanist.webp",
-    "thumbnail": "./assets/thumbnails/space-botanist.webp"
+    "thumbnail": "./assets/thumbnails/space-botanist.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "time-traveler",
@@ -11120,7 +13673,10 @@ export const BUNDLED_POSES = [
       "時計だらけの旅人"
     ],
     "src": "./assets/library/time-traveler.webp",
-    "thumbnail": "./assets/thumbnails/time-traveler.webp"
+    "thumbnail": "./assets/thumbnails/time-traveler.webp",
+    "subgenres": [
+      "fantasy:space"
+    ]
   },
   {
     "id": "royal-chair",
@@ -11132,7 +13688,10 @@ export const BUNDLED_POSES = [
       "豪華"
     ],
     "src": "./assets/library/royal-chair.webp",
-    "thumbnail": "./assets/thumbnails/royal-chair.webp"
+    "thumbnail": "./assets/thumbnails/royal-chair.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "king-scepter",
@@ -11144,7 +13703,10 @@ export const BUNDLED_POSES = [
       "王冠と巨大な王笏"
     ],
     "src": "./assets/library/king-scepter.webp",
-    "thumbnail": "./assets/thumbnails/king-scepter.webp"
+    "thumbnail": "./assets/thumbnails/king-scepter.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "knight",
@@ -11158,7 +13720,10 @@ export const BUNDLED_POSES = [
       "きし"
     ],
     "src": "./assets/library/knight.webp",
-    "thumbnail": "./assets/thumbnails/knight.webp"
+    "thumbnail": "./assets/thumbnails/knight.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "wizard",
@@ -11172,7 +13737,11 @@ export const BUNDLED_POSES = [
       "まほう"
     ],
     "src": "./assets/library/wizard.webp",
-    "thumbnail": "./assets/thumbnails/wizard.webp"
+    "thumbnail": "./assets/thumbnails/wizard.webp",
+    "subgenres": [
+      "fantasy:legend",
+      "animal:water"
+    ]
   },
   {
     "id": "angel-wings",
@@ -11187,7 +13756,11 @@ export const BUNDLED_POSES = [
       "羽"
     ],
     "src": "./assets/library/angel-wings.webp",
-    "thumbnail": "./assets/thumbnails/angel-wings.webp"
+    "thumbnail": "./assets/thumbnails/angel-wings.webp",
+    "subgenres": [
+      "fantasy:legend",
+      "outfit:costume"
+    ]
   },
   {
     "id": "samurai",
@@ -11202,7 +13775,10 @@ export const BUNDLED_POSES = [
       "さむらい"
     ],
     "src": "./assets/library/samurai.webp",
-    "thumbnail": "./assets/thumbnails/samurai.webp"
+    "thumbnail": "./assets/thumbnails/samurai.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "ninja",
@@ -11216,7 +13792,10 @@ export const BUNDLED_POSES = [
       "にんじゃ"
     ],
     "src": "./assets/library/ninja.webp",
-    "thumbnail": "./assets/thumbnails/ninja.webp"
+    "thumbnail": "./assets/thumbnails/ninja.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "tengu",
@@ -11229,7 +13808,10 @@ export const BUNDLED_POSES = [
       "てんぐ"
     ],
     "src": "./assets/library/tengu.webp",
-    "thumbnail": "./assets/thumbnails/tengu.webp"
+    "thumbnail": "./assets/thumbnails/tengu.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "kappa",
@@ -11242,7 +13824,10 @@ export const BUNDLED_POSES = [
       "かっぱ"
     ],
     "src": "./assets/library/kappa.webp",
-    "thumbnail": "./assets/thumbnails/kappa.webp"
+    "thumbnail": "./assets/thumbnails/kappa.webp",
+    "subgenres": [
+      "fantasy:yokai"
+    ]
   },
   {
     "id": "monk-bells",
@@ -11254,7 +13839,10 @@ export const BUNDLED_POSES = [
       "鐘を鳴らす組合長"
     ],
     "src": "./assets/library/monk-bells.webp",
-    "thumbnail": "./assets/thumbnails/monk-bells.webp"
+    "thumbnail": "./assets/thumbnails/monk-bells.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "dragon-puppet",
@@ -11266,7 +13854,10 @@ export const BUNDLED_POSES = [
       "龍を連れてきた"
     ],
     "src": "./assets/library/dragon-puppet.webp",
-    "thumbnail": "./assets/thumbnails/dragon-puppet.webp"
+    "thumbnail": "./assets/thumbnails/dragon-puppet.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "giant-scroll",
@@ -11278,7 +13869,10 @@ export const BUNDLED_POSES = [
       "巨大な巻物"
     ],
     "src": "./assets/library/giant-scroll.webp",
-    "thumbnail": "./assets/thumbnails/giant-scroll.webp"
+    "thumbnail": "./assets/thumbnails/giant-scroll.webp",
+    "subgenres": [
+      "fantasy:legend"
+    ]
   },
   {
     "id": "riceball",
@@ -11290,7 +13884,10 @@ export const BUNDLED_POSES = [
       "おにぎり"
     ],
     "src": "./assets/library/riceball.webp",
-    "thumbnail": "./assets/thumbnails/riceball.webp"
+    "thumbnail": "./assets/thumbnails/riceball.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "tempura",
@@ -11303,7 +13900,10 @@ export const BUNDLED_POSES = [
       "えび"
     ],
     "src": "./assets/library/tempura.webp",
-    "thumbnail": "./assets/thumbnails/tempura.webp"
+    "thumbnail": "./assets/thumbnails/tempura.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "banana",
@@ -11314,7 +13914,10 @@ export const BUNDLED_POSES = [
       "バナナの幸造さん"
     ],
     "src": "./assets/library/banana.webp",
-    "thumbnail": "./assets/thumbnails/banana.webp"
+    "thumbnail": "./assets/thumbnails/banana.webp",
+    "subgenres": [
+      "food:produce"
+    ]
   },
   {
     "id": "ramen-bowl",
@@ -11325,7 +13928,10 @@ export const BUNDLED_POSES = [
       "巨大ラーメン"
     ],
     "src": "./assets/library/ramen-bowl.webp",
-    "thumbnail": "./assets/thumbnails/ramen-bowl.webp"
+    "thumbnail": "./assets/thumbnails/ramen-bowl.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "watermelon",
@@ -11336,7 +13942,10 @@ export const BUNDLED_POSES = [
       "スイカのヘルメット"
     ],
     "src": "./assets/library/watermelon.webp",
-    "thumbnail": "./assets/thumbnails/watermelon.webp"
+    "thumbnail": "./assets/thumbnails/watermelon.webp",
+    "subgenres": [
+      "food:produce"
+    ]
   },
   {
     "id": "baguette-knight",
@@ -11347,7 +13956,10 @@ export const BUNDLED_POSES = [
       "バゲットの騎士"
     ],
     "src": "./assets/library/baguette-knight.webp",
-    "thumbnail": "./assets/thumbnails/baguette-knight.webp"
+    "thumbnail": "./assets/thumbnails/baguette-knight.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "pizza-stack",
@@ -11358,7 +13970,10 @@ export const BUNDLED_POSES = [
       "ピザを運びすぎた"
     ],
     "src": "./assets/library/pizza-stack.webp",
-    "thumbnail": "./assets/thumbnails/pizza-stack.webp"
+    "thumbnail": "./assets/thumbnails/pizza-stack.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "daikon",
@@ -11370,7 +13985,10 @@ export const BUNDLED_POSES = [
       "だいこん"
     ],
     "src": "./assets/library/daikon.webp",
-    "thumbnail": "./assets/thumbnails/daikon.webp"
+    "thumbnail": "./assets/thumbnails/daikon.webp",
+    "subgenres": [
+      "food:produce"
+    ]
   },
   {
     "id": "icecream-hat",
@@ -11381,7 +13999,10 @@ export const BUNDLED_POSES = [
       "ソフトクリーム帽"
     ],
     "src": "./assets/library/icecream-hat.webp",
-    "thumbnail": "./assets/thumbnails/icecream-hat.webp"
+    "thumbnail": "./assets/thumbnails/icecream-hat.webp",
+    "subgenres": [
+      "food:sweets"
+    ]
   },
   {
     "id": "takoyaki",
@@ -11392,7 +14013,10 @@ export const BUNDLED_POSES = [
       "たこ焼きの幸造さん"
     ],
     "src": "./assets/library/takoyaki.webp",
-    "thumbnail": "./assets/thumbnails/takoyaki.webp"
+    "thumbnail": "./assets/thumbnails/takoyaki.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "sushi-tray",
@@ -11404,7 +14028,10 @@ export const BUNDLED_POSES = [
       "すし"
     ],
     "src": "./assets/library/sushi-tray.webp",
-    "thumbnail": "./assets/thumbnails/sushi-tray.webp"
+    "thumbnail": "./assets/thumbnails/sushi-tray.webp",
+    "subgenres": [
+      "food:meal"
+    ]
   },
   {
     "id": "leek-bundle",
@@ -11415,7 +14042,10 @@ export const BUNDLED_POSES = [
       "ネギを背負う"
     ],
     "src": "./assets/library/leek-bundle.webp",
-    "thumbnail": "./assets/thumbnails/leek-bundle.webp"
+    "thumbnail": "./assets/thumbnails/leek-bundle.webp",
+    "subgenres": [
+      "food:produce"
+    ]
   },
   {
     "id": "train-conductor",
@@ -11429,7 +14059,10 @@ export const BUNDLED_POSES = [
       "車掌"
     ],
     "src": "./assets/library/train-conductor.webp",
-    "thumbnail": "./assets/thumbnails/train-conductor.webp"
+    "thumbnail": "./assets/thumbnails/train-conductor.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "firefighter",
@@ -11442,7 +14075,10 @@ export const BUNDLED_POSES = [
       "消防"
     ],
     "src": "./assets/library/firefighter.webp",
-    "thumbnail": "./assets/thumbnails/firefighter.webp"
+    "thumbnail": "./assets/thumbnails/firefighter.webp",
+    "subgenres": [
+      "work:public"
+    ]
   },
   {
     "id": "chef-pan",
@@ -11453,7 +14089,11 @@ export const BUNDLED_POSES = [
       "フライパン二刀流"
     ],
     "src": "./assets/library/chef-pan.webp",
-    "thumbnail": "./assets/thumbnails/chef-pan.webp"
+    "thumbnail": "./assets/thumbnails/chef-pan.webp",
+    "subgenres": [
+      "work:food",
+      "food:meal"
+    ]
   },
   {
     "id": "detective",
@@ -11466,7 +14106,10 @@ export const BUNDLED_POSES = [
       "たんてい"
     ],
     "src": "./assets/library/detective.webp",
-    "thumbnail": "./assets/thumbnails/detective.webp"
+    "thumbnail": "./assets/thumbnails/detective.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "photographer",
@@ -11479,7 +14122,10 @@ export const BUNDLED_POSES = [
       "カメラ"
     ],
     "src": "./assets/library/photographer.webp",
-    "thumbnail": "./assets/thumbnails/photographer.webp"
+    "thumbnail": "./assets/thumbnails/photographer.webp",
+    "subgenres": [
+      "work:education"
+    ]
   },
   {
     "id": "traffic-cone",
@@ -11490,7 +14136,10 @@ export const BUNDLED_POSES = [
       "カラーコーンの係員"
     ],
     "src": "./assets/library/traffic-cone.webp",
-    "thumbnail": "./assets/thumbnails/traffic-cone.webp"
+    "thumbnail": "./assets/thumbnails/traffic-cone.webp",
+    "subgenres": [
+      "work:public"
+    ]
   },
   {
     "id": "library-tower",
@@ -11501,7 +14150,10 @@ export const BUNDLED_POSES = [
       "本を持ちすぎた司書"
     ],
     "src": "./assets/library/library-tower.webp",
-    "thumbnail": "./assets/thumbnails/library-tower.webp"
+    "thumbnail": "./assets/thumbnails/library-tower.webp",
+    "subgenres": [
+      "work:education"
+    ]
   },
   {
     "id": "office-paper",
@@ -11512,7 +14164,10 @@ export const BUNDLED_POSES = [
       "書類が多すぎる組合長"
     ],
     "src": "./assets/library/office-paper.webp",
-    "thumbnail": "./assets/thumbnails/office-paper.webp"
+    "thumbnail": "./assets/thumbnails/office-paper.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "hotel-bellhop",
@@ -11523,7 +14178,10 @@ export const BUNDLED_POSES = [
       "荷物が多すぎるベルボーイ"
     ],
     "src": "./assets/library/hotel-bellhop.webp",
-    "thumbnail": "./assets/thumbnails/hotel-bellhop.webp"
+    "thumbnail": "./assets/thumbnails/hotel-bellhop.webp",
+    "subgenres": [
+      "work:service"
+    ]
   },
   {
     "id": "postman",
@@ -11534,7 +14192,10 @@ export const BUNDLED_POSES = [
       "小包だらけの配達員"
     ],
     "src": "./assets/library/postman.webp",
-    "thumbnail": "./assets/thumbnails/postman.webp"
+    "thumbnail": "./assets/thumbnails/postman.webp",
+    "subgenres": [
+      "work:transport"
+    ]
   },
   {
     "id": "weather-man",
@@ -11546,7 +14207,11 @@ export const BUNDLED_POSES = [
       "天気予報"
     ],
     "src": "./assets/library/weather-man.webp",
-    "thumbnail": "./assets/thumbnails/weather-man.webp"
+    "thumbnail": "./assets/thumbnails/weather-man.webp",
+    "subgenres": [
+      "work:science",
+      "work:service"
+    ]
   },
   {
     "id": "construction",
@@ -11559,7 +14224,11 @@ export const BUNDLED_POSES = [
       "職人"
     ],
     "src": "./assets/library/construction.webp",
-    "thumbnail": "./assets/thumbnails/construction.webp"
+    "thumbnail": "./assets/thumbnails/construction.webp",
+    "subgenres": [
+      "work:building",
+      "work:craft"
+    ]
   },
   {
     "id": "giant-rugby",
@@ -11571,7 +14240,10 @@ export const BUNDLED_POSES = [
       "ボール"
     ],
     "src": "./assets/library/giant-rugby.webp",
-    "thumbnail": "./assets/thumbnails/giant-rugby.webp"
+    "thumbnail": "./assets/thumbnails/giant-rugby.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "ballet",
@@ -11584,7 +14256,11 @@ export const BUNDLED_POSES = [
       "ダンス"
     ],
     "src": "./assets/library/ballet.webp",
-    "thumbnail": "./assets/thumbnails/ballet.webp"
+    "thumbnail": "./assets/thumbnails/ballet.webp",
+    "subgenres": [
+      "sports:fitness",
+      "music:performance"
+    ]
   },
   {
     "id": "yoga",
@@ -11595,7 +14271,10 @@ export const BUNDLED_POSES = [
       "幸造ヨガ"
     ],
     "src": "./assets/library/yoga.webp",
-    "thumbnail": "./assets/thumbnails/yoga.webp"
+    "thumbnail": "./assets/thumbnails/yoga.webp",
+    "subgenres": [
+      "sports:fitness"
+    ]
   },
   {
     "id": "fencer",
@@ -11607,7 +14286,10 @@ export const BUNDLED_POSES = [
       "フェンシング"
     ],
     "src": "./assets/library/fencer.webp",
-    "thumbnail": "./assets/thumbnails/fencer.webp"
+    "thumbnail": "./assets/thumbnails/fencer.webp",
+    "subgenres": [
+      "sports:martial"
+    ]
   },
   {
     "id": "bowling",
@@ -11618,7 +14300,10 @@ export const BUNDLED_POSES = [
       "ボウリングの王"
     ],
     "src": "./assets/library/bowling.webp",
-    "thumbnail": "./assets/thumbnails/bowling.webp"
+    "thumbnail": "./assets/thumbnails/bowling.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "curling",
@@ -11629,7 +14314,10 @@ export const BUNDLED_POSES = [
       "カーリングの組合長"
     ],
     "src": "./assets/library/curling.webp",
-    "thumbnail": "./assets/thumbnails/curling.webp"
+    "thumbnail": "./assets/thumbnails/curling.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "ski",
@@ -11640,7 +14328,10 @@ export const BUNDLED_POSES = [
       "スキーの幸造さん"
     ],
     "src": "./assets/library/ski.webp",
-    "thumbnail": "./assets/thumbnails/ski.webp"
+    "thumbnail": "./assets/thumbnails/ski.webp",
+    "subgenres": [
+      "sports:winter"
+    ]
   },
   {
     "id": "surf",
@@ -11651,7 +14342,10 @@ export const BUNDLED_POSES = [
       "サーファー幸造"
     ],
     "src": "./assets/library/surf.webp",
-    "thumbnail": "./assets/thumbnails/surf.webp"
+    "thumbnail": "./assets/thumbnails/surf.webp",
+    "subgenres": [
+      "sports:water"
+    ]
   },
   {
     "id": "tiny-dumbbells",
@@ -11662,7 +14356,10 @@ export const BUNDLED_POSES = [
       "小さすぎる筋トレ"
     ],
     "src": "./assets/library/tiny-dumbbells.webp",
-    "thumbnail": "./assets/thumbnails/tiny-dumbbells.webp"
+    "thumbnail": "./assets/thumbnails/tiny-dumbbells.webp",
+    "subgenres": [
+      "sports:fitness"
+    ]
   },
   {
     "id": "giant-golf",
@@ -11674,7 +14371,10 @@ export const BUNDLED_POSES = [
       "ゴルフ"
     ],
     "src": "./assets/library/giant-golf.webp",
-    "thumbnail": "./assets/thumbnails/giant-golf.webp"
+    "thumbnail": "./assets/thumbnails/giant-golf.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "hobby-horse",
@@ -11687,7 +14387,10 @@ export const BUNDLED_POSES = [
       "騎手"
     ],
     "src": "./assets/library/hobby-horse.webp",
-    "thumbnail": "./assets/thumbnails/hobby-horse.webp"
+    "thumbnail": "./assets/thumbnails/hobby-horse.webp",
+    "subgenres": [
+      "sports:outdoor"
+    ]
   },
   {
     "id": "giant-pingpong",
@@ -11699,7 +14402,10 @@ export const BUNDLED_POSES = [
       "卓球"
     ],
     "src": "./assets/library/giant-pingpong.webp",
-    "thumbnail": "./assets/thumbnails/giant-pingpong.webp"
+    "thumbnail": "./assets/thumbnails/giant-pingpong.webp",
+    "subgenres": [
+      "sports:ball"
+    ]
   },
   {
     "id": "sofa",
@@ -11710,7 +14416,10 @@ export const BUNDLED_POSES = [
       "ソファでくつろぐ"
     ],
     "src": "./assets/library/sofa.webp",
-    "thumbnail": "./assets/thumbnails/sofa.webp"
+    "thumbnail": "./assets/thumbnails/sofa.webp",
+    "subgenres": [
+      "daily:household"
+    ]
   },
   {
     "id": "camping",
@@ -11721,7 +14430,10 @@ export const BUNDLED_POSES = [
       "キャンプの組合長"
     ],
     "src": "./assets/library/camping.webp",
-    "thumbnail": "./assets/thumbnails/camping.webp"
+    "thumbnail": "./assets/thumbnails/camping.webp",
+    "subgenres": [
+      "local:travel"
+    ]
   },
   {
     "id": "laundry",
@@ -11732,7 +14444,10 @@ export const BUNDLED_POSES = [
       "洗濯物を背負う"
     ],
     "src": "./assets/library/laundry.webp",
-    "thumbnail": "./assets/thumbnails/laundry.webp"
+    "thumbnail": "./assets/thumbnails/laundry.webp",
+    "subgenres": [
+      "daily:household"
+    ]
   },
   {
     "id": "plant-pot",
@@ -11743,7 +14458,10 @@ export const BUNDLED_POSES = [
       "植木鉢にはまる"
     ],
     "src": "./assets/library/plant-pot.webp",
-    "thumbnail": "./assets/thumbnails/plant-pot.webp"
+    "thumbnail": "./assets/thumbnails/plant-pot.webp",
+    "subgenres": [
+      "daily:tools"
+    ]
   },
   {
     "id": "giant-fan",
@@ -11754,7 +14472,10 @@ export const BUNDLED_POSES = [
       "扇風機を連れてきた"
     ],
     "src": "./assets/library/giant-fan.webp",
-    "thumbnail": "./assets/thumbnails/giant-fan.webp"
+    "thumbnail": "./assets/thumbnails/giant-fan.webp",
+    "subgenres": [
+      "daily:tools"
+    ]
   },
   {
     "id": "keys",
@@ -11765,7 +14486,10 @@ export const BUNDLED_POSES = [
       "鍵を持ちすぎた"
     ],
     "src": "./assets/library/keys.webp",
-    "thumbnail": "./assets/thumbnails/keys.webp"
+    "thumbnail": "./assets/thumbnails/keys.webp",
+    "subgenres": [
+      "daily:tools"
+    ]
   },
   {
     "id": "slipper",
@@ -11777,7 +14501,10 @@ export const BUNDLED_POSES = [
       "スリッパ"
     ],
     "src": "./assets/library/slipper.webp",
-    "thumbnail": "./assets/thumbnails/slipper.webp"
+    "thumbnail": "./assets/thumbnails/slipper.webp",
+    "subgenres": [
+      "daily:household"
+    ]
   },
   {
     "id": "blanket",
@@ -11788,7 +14515,10 @@ export const BUNDLED_POSES = [
       "毛布の組合長"
     ],
     "src": "./assets/library/blanket.webp",
-    "thumbnail": "./assets/thumbnails/blanket.webp"
+    "thumbnail": "./assets/thumbnails/blanket.webp",
+    "subgenres": [
+      "daily:household"
+    ]
   },
   {
     "id": "backpack",
@@ -11799,7 +14529,10 @@ export const BUNDLED_POSES = [
       "荷物が山盛りの旅人"
     ],
     "src": "./assets/library/backpack.webp",
-    "thumbnail": "./assets/thumbnails/backpack.webp"
+    "thumbnail": "./assets/thumbnails/backpack.webp",
+    "subgenres": [
+      "local:travel"
+    ]
   },
   {
     "id": "step-ladder",
@@ -11810,7 +14543,10 @@ export const BUNDLED_POSES = [
       "脚立で記念写真"
     ],
     "src": "./assets/library/step-ladder.webp",
-    "thumbnail": "./assets/thumbnails/step-ladder.webp"
+    "thumbnail": "./assets/thumbnails/step-ladder.webp",
+    "subgenres": [
+      "daily:tools"
+    ]
   },
   {
     "id": "upside-umbrella",
@@ -11821,7 +14557,10 @@ export const BUNDLED_POSES = [
       "傘がひっくり返った"
     ],
     "src": "./assets/library/upside-umbrella.webp",
-    "thumbnail": "./assets/thumbnails/upside-umbrella.webp"
+    "thumbnail": "./assets/thumbnails/upside-umbrella.webp",
+    "subgenres": [
+      "daily:tools"
+    ]
   },
   {
     "id": "oversized-broom",
@@ -11833,7 +14572,10 @@ export const BUNDLED_POSES = [
       "掃除"
     ],
     "src": "./assets/library/oversized-broom.webp",
-    "thumbnail": "./assets/thumbnails/oversized-broom.webp"
+    "thumbnail": "./assets/thumbnails/oversized-broom.webp",
+    "subgenres": [
+      "daily:household"
+    ]
   },
   {
     "id": "birthday",
@@ -11847,7 +14589,11 @@ export const BUNDLED_POSES = [
       "バースデー"
     ],
     "src": "./assets/library/birthday.webp",
-    "thumbnail": "./assets/thumbnails/birthday.webp"
+    "thumbnail": "./assets/thumbnails/birthday.webp",
+    "subgenres": [
+      "event:birthday",
+      "food:sweets"
+    ]
   },
   {
     "id": "party",
@@ -11861,7 +14607,11 @@ export const BUNDLED_POSES = [
       "パーティー"
     ],
     "src": "./assets/library/party.webp",
-    "thumbnail": "./assets/thumbnails/party.webp"
+    "thumbnail": "./assets/thumbnails/party.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "graduation",
@@ -11875,7 +14625,10 @@ export const BUNDLED_POSES = [
       "卒業祝い"
     ],
     "src": "./assets/library/graduation.webp",
-    "thumbnail": "./assets/thumbnails/graduation.webp"
+    "thumbnail": "./assets/thumbnails/graduation.webp",
+    "subgenres": [
+      "event:graduation"
+    ]
   },
   {
     "id": "white-tuxedo",
@@ -11889,7 +14642,11 @@ export const BUNDLED_POSES = [
       "ウェディング"
     ],
     "src": "./assets/library/white-tuxedo.webp",
-    "thumbnail": "./assets/thumbnails/white-tuxedo.webp"
+    "thumbnail": "./assets/thumbnails/white-tuxedo.webp",
+    "subgenres": [
+      "event:wedding",
+      "outfit:western"
+    ]
   },
   {
     "id": "christmas-tree",
@@ -11902,7 +14659,10 @@ export const BUNDLED_POSES = [
       "クリスマス"
     ],
     "src": "./assets/library/christmas-tree.webp",
-    "thumbnail": "./assets/thumbnails/christmas-tree.webp"
+    "thumbnail": "./assets/thumbnails/christmas-tree.webp",
+    "subgenres": [
+      "event:christmas"
+    ]
   },
   {
     "id": "santa",
@@ -11916,7 +14676,11 @@ export const BUNDLED_POSES = [
       "サンタクロース"
     ],
     "src": "./assets/library/santa.webp",
-    "thumbnail": "./assets/thumbnails/santa.webp"
+    "thumbnail": "./assets/thumbnails/santa.webp",
+    "subgenres": [
+      "event:christmas",
+      "outfit:costume"
+    ]
   },
   {
     "id": "reindeer",
@@ -11930,7 +14694,11 @@ export const BUNDLED_POSES = [
       "トナカイ"
     ],
     "src": "./assets/library/reindeer.webp",
-    "thumbnail": "./assets/thumbnails/reindeer.webp"
+    "thumbnail": "./assets/thumbnails/reindeer.webp",
+    "subgenres": [
+      "event:christmas",
+      "outfit:costume"
+    ]
   },
   {
     "id": "pumpkin",
@@ -11943,7 +14711,10 @@ export const BUNDLED_POSES = [
       "ハロウィン"
     ],
     "src": "./assets/library/pumpkin.webp",
-    "thumbnail": "./assets/thumbnails/pumpkin.webp"
+    "thumbnail": "./assets/thumbnails/pumpkin.webp",
+    "subgenres": [
+      "event:halloween"
+    ]
   },
   {
     "id": "lion-dance",
@@ -11957,7 +14728,10 @@ export const BUNDLED_POSES = [
       "新年"
     ],
     "src": "./assets/library/lion-dance.webp",
-    "thumbnail": "./assets/thumbnails/lion-dance.webp"
+    "thumbnail": "./assets/thumbnails/lion-dance.webp",
+    "subgenres": [
+      "event:newyear"
+    ]
   },
   {
     "id": "big-bear",
@@ -11971,7 +14745,10 @@ export const BUNDLED_POSES = [
       "くま"
     ],
     "src": "./assets/library/big-bear.webp",
-    "thumbnail": "./assets/thumbnails/big-bear.webp"
+    "thumbnail": "./assets/thumbnails/big-bear.webp",
+    "subgenres": [
+      "event:celebration"
+    ]
   },
   {
     "id": "gift-box",
@@ -11985,7 +14762,11 @@ export const BUNDLED_POSES = [
       "贈り物"
     ],
     "src": "./assets/library/gift-box.webp",
-    "thumbnail": "./assets/thumbnails/gift-box.webp"
+    "thumbnail": "./assets/thumbnails/gift-box.webp",
+    "subgenres": [
+      "event:birthday",
+      "event:celebration"
+    ]
   },
   {
     "id": "giant-medal",
@@ -11999,7 +14780,10 @@ export const BUNDLED_POSES = [
       "優勝"
     ],
     "src": "./assets/library/giant-medal.webp",
-    "thumbnail": "./assets/thumbnails/giant-medal.webp"
+    "thumbnail": "./assets/thumbnails/giant-medal.webp",
+    "subgenres": [
+      "event:award"
+    ]
   },
   {
     "id": "dj-normal-scratch",
@@ -12016,7 +14800,10 @@ export const BUNDLED_POSES = [
       "普段着DJ"
     ],
     "src": "./assets/library/dj-normal-scratch.webp",
-    "thumbnail": "./assets/thumbnails/dj-normal-scratch.webp"
+    "thumbnail": "./assets/thumbnails/dj-normal-scratch.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   },
   {
     "id": "dj-normal-cue",
@@ -12033,7 +14820,10 @@ export const BUNDLED_POSES = [
       "普段着DJ"
     ],
     "src": "./assets/library/dj-normal-cue.webp",
-    "thumbnail": "./assets/thumbnails/dj-normal-cue.webp"
+    "thumbnail": "./assets/thumbnails/dj-normal-cue.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   },
   {
     "id": "dj-normal-cheer",
@@ -12050,7 +14840,10 @@ export const BUNDLED_POSES = [
       "普段着DJ"
     ],
     "src": "./assets/library/dj-normal-cheer.webp",
-    "thumbnail": "./assets/thumbnails/dj-normal-cheer.webp"
+    "thumbnail": "./assets/thumbnails/dj-normal-cheer.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   },
   {
     "id": "dj-colorful-scratch",
@@ -12067,7 +14860,10 @@ export const BUNDLED_POSES = [
       "カラフルDJ"
     ],
     "src": "./assets/library/dj-colorful-scratch.webp",
-    "thumbnail": "./assets/thumbnails/dj-colorful-scratch.webp"
+    "thumbnail": "./assets/thumbnails/dj-colorful-scratch.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   },
   {
     "id": "dj-colorful-point",
@@ -12084,7 +14880,10 @@ export const BUNDLED_POSES = [
       "カラフルDJ"
     ],
     "src": "./assets/library/dj-colorful-point.webp",
-    "thumbnail": "./assets/thumbnails/dj-colorful-point.webp"
+    "thumbnail": "./assets/thumbnails/dj-colorful-point.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   },
   {
     "id": "dj-colorful-hands-up",
@@ -12101,6 +14900,9 @@ export const BUNDLED_POSES = [
       "カラフルDJ"
     ],
     "src": "./assets/library/dj-colorful-hands-up.webp",
-    "thumbnail": "./assets/thumbnails/dj-colorful-hands-up.webp"
+    "thumbnail": "./assets/thumbnails/dj-colorful-hands-up.webp",
+    "subgenres": [
+      "music:dj"
+    ]
   }
 ];

@@ -3,8 +3,9 @@ import fs from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {BUNDLED_POSES} from '../poses.js';
 import {BUNDLED_FRAMES} from '../frames.js';
+import {POSE_GENRES} from '../pose-taxonomy.js';
 const root=fileURLToPath(new URL('../',import.meta.url));
-for(const file of ['camera.js','text.js','poses.js','frames.js','server.mjs','scripts/install-assets.mjs','scripts/build-standalone.mjs']){
+for(const file of ['camera.js','text.js','poses.js','pose-taxonomy.js','frames.js','server.mjs','scripts/install-assets.mjs','scripts/build-standalone.mjs']){
  const result=spawnSync(process.execPath,['--check',file],{cwd:root,stdio:'inherit'});
  if(result.status!==0)process.exit(result.status||1);
 }
@@ -12,7 +13,16 @@ const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
 const js=fs.readFileSync(new URL('../camera.js',import.meta.url),'utf8');
 const missing=[...js.matchAll(/\$\('([^']+)'\)/g)].map(m=>m[1]).filter(id=>!html.includes('id="'+id+'"'));
 if(missing.length)throw new Error('Missing DOM elements: '+[...new Set(missing)].join(', '));
-const ids=new Set();
+const ids=new Set(),genreIds=new Set(),subgenreIds=new Set();
+for(const genre of POSE_GENRES){
+ if(!genre.id||!genre.label||genreIds.has(genre.id)||!genre.subgenres.length)throw new Error('Invalid genre: '+genre.id);
+ genreIds.add(genre.id);
+ for(const subgenre of genre.subgenres){
+  if(!subgenre.id.startsWith(genre.id+':')||!subgenre.label||subgenreIds.has(subgenre.id))throw new Error('Invalid subgenre: '+subgenre.id);
+  subgenreIds.add(subgenre.id);
+ }
+}
+const usedSubgenres=new Set();
 function checkImage(file){
  const bytes=fs.readFileSync(new URL('../'+file,import.meta.url));
  const png=bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10]));
@@ -22,9 +32,13 @@ function checkImage(file){
 for(const pose of BUNDLED_POSES){
  if(ids.has(pose.id))throw new Error('Duplicate pose: '+pose.id);
  ids.add(pose.id);
+ if(!Array.isArray(pose.subgenres)||!pose.subgenres.length||new Set(pose.subgenres).size!==pose.subgenres.length||pose.subgenres.some(id=>!subgenreIds.has(id)))throw new Error('Invalid pose subgenres: '+pose.id);
+ pose.subgenres.forEach(id=>usedSubgenres.add(id));
  checkImage(pose.src);
  if(pose.thumbnail)checkImage(pose.thumbnail);
 }
+if(usedSubgenres.size!==subgenreIds.size)throw new Error('Empty subgenre');
+console.log('分類: '+genreIds.size+'ジャンル・'+subgenreIds.size+'サブジャンルを確認しました。');
 console.log('JavaScript構文と画面要素の参照を確認しました。');
 console.log('人物素材: '+BUNDLED_POSES.length+'ポーズを確認しました。');
 const frameIds=new Set();

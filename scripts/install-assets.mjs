@@ -19,6 +19,6 @@ const chosen=definitions.map(pose=>{
 });
 for(const pose of chosen)fs.writeFileSync(path.join(root,'assets','kozo-'+pose.id+'.png'),pose.bytes);
 const replaced=new Set(chosen.map(pose=>pose.id));
-const manifest=[...chosen.map(pose=>({id:pose.id,name:pose.name,category:'定番',src:'./assets/kozo-'+pose.id+'.png'})),...BUNDLED_POSES.filter(pose=>!replaced.has(pose.id))];
+const manifest=[...chosen.map(pose=>({...(BUNDLED_POSES.find(existing=>existing.id===pose.id)||{category:'定番',subgenres:['poses:normal']}),id:pose.id,name:pose.name,src:'./assets/kozo-'+pose.id+'.png',thumbnail:undefined})),...BUNDLED_POSES.filter(pose=>!replaced.has(pose.id))];
 fs.writeFileSync(path.join(root,'poses.js'),'export const BUNDLED_POSES = '+JSON.stringify(manifest,null,2)+';\n');
 console.log('幸造さんの3ポーズを組み込みました。npm run build で単体版を更新できます。');

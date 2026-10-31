@@ -29,8 +29,8 @@
   <link rel="icon" href="assets/favicon.svg">
   <link rel="apple-touch-icon" href="assets/app-icon-180.png">
   <link rel="manifest" href="app.webmanifest">
-  <link rel="stylesheet" href="camera.css?v=20261027-frames">
-  <script type="module" src="camera.js?v=20261031-events144"></script>
+  <link rel="stylesheet" href="camera.css?v=20261031-classification">
+  <script type="module" src="camera.js?v=20261031-classification"></script>
 </head>
 <body>
   <header class="camera-header">
@@ -80,14 +80,15 @@
         <div class="profile-title"><p>徳島県クラゲ漁業組合 組合長</p><h2>山仲幸造</h2><span>好きな幸造さんを、あなたの隣へ。</span><button id="choose-frame" class="secondary-button frame-shortcut" type="button">フレームを選ぶ</button></div>
         <div class="section-heading"><h2>幸造さんを選ぶ</h2><span id="pose-count">792種類</span></div>
         <div class="pose-filters">
-          <label for="pose-search">キーワード<input id="pose-search" type="search" placeholder="節分、七夕、クラゲ…" autocomplete="off"></label>
+          <label for="pose-search" class="pose-search-filter">キーワード<input id="pose-search" type="search" placeholder="節分、七夕、クラゲ…" autocomplete="off"></label>
           <label for="pose-category">ジャンル<select id="pose-category"><option value="">すべて</option></select></label>
+          <label for="pose-subgenre">サブジャンル<select id="pose-subgenre"><option value="">すべて</option></select></label>
         </div>
         <div class="pose-results"><span id="pose-result-count" role="status" aria-live="polite"></span><button id="random-pose" type="button">おまかせで選ぶ</button></div>
         <label class="check-row"><input id="random-on-capture" type="checkbox">撮るたびにランダム</label>
         <p class="tool-help">全素材から撮影時に選びます。位置・大きさ・回転はそのまま。どの幸造さんが来るかは、撮ってからのお楽しみ。</p>
         <div id="character-list" class="character-list" role="group" aria-label="山仲幸造さんのポーズ"></div>
-        <div id="pose-empty" class="pose-empty" hidden><p>見つかりませんでした。</p><button id="clear-pose-search" type="button">検索とジャンルを戻す</button></div>
+        <div id="pose-empty" class="pose-empty" hidden><p>見つかりませんでした。</p><button id="clear-pose-search" type="button">絞り込みを戻す</button></div>
         <button id="more-poses" class="more-poses" type="button" hidden>もっと見る</button>
         <button id="import-poses" class="import-poses" type="button">↑ 素材を読み込む</button><p class="tool-help">透過PNG・WebPをまとめて選べます。ファイル名で素材を判別します。</p><div class="material-actions"><button id="add-overlay-image" type="button">＋手持ちの画像</button></div>
       </section>

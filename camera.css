@@ -252,7 +252,8 @@ button:focus-visible,a:focus-visible,input:focus-visible,.photo-layer:focus-visi
 .character-choice img{height:126px;object-fit:contain;margin:0 0 7px}
 .character-choice span{min-height:0}
 .character-choice[aria-pressed="true"],.placed-choice[aria-pressed="true"],.placed-text-choice[aria-pressed="true"]{border-color:#216a51;background:#f0f7f3;color:#18302c}
-.pose-filters{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:8px;margin:10px 0}
+.pose-filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:10px 0}
+.pose-search-filter{grid-column:1/-1}
 .pose-filters label{display:grid;gap:5px;font-size:11px;color:#66756d}
 .pose-filters input,.pose-filters select{width:100%;min-width:0;min-height:40px;border:1px solid #cbd7d0;border-radius:6px;background:#fff;color:#18302c;padding:8px;font:inherit;font-size:14px}
 .pose-filters input:focus-visible,.pose-filters select:focus-visible{outline:2px solid #216a51;outline-offset:2px}

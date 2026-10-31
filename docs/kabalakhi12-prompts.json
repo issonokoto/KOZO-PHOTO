@@ -1,0 +1,405 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-01",
+  "basePrompt": "Use case: identity-preserve. Generate ONE high quality photorealistic full-body transparent cutout of elderly Japanese gentleman Kozo Yamanaka for KOZO PHOTO. Input 1 is the ONLY original identity reference: preserve Kozo's smiling elderly face, age, wrinkles, facial proportions, kind eyes, body build. Input 2 is ONLY a Georgian chokha and hood-scarf CLOTHING and wearing-method reference; do not copy the pictured person's face or body, car, flag or street. Input 3 is an existing Kozo white chokha cutout: preserve the same face, gray hair, body proportions and Georgian formal garment structure. Dress him in a traditional Georgian chokha wool overcoat, fitted waist, flared ankle-length long hem, open V front showing high-collar ivory akhalukhi, two rows of clearly separated silver-tipped cylindrical decorative holders across the chest, wide sleeves with refined braid edging, a narrow black leather belt, modest silver fittings and a small fully SHEATHED decorative belt dagger. Complete black leather boots, black trousers under coat. The kabalakhi is ONE integrated thin wool or silk-faced hood with two long tapered scarf wings, decorated with modest braid, optional embroidery and a small tassel; use the wearing method specified below. Keep hands empty. No baseball cap. The entire elderly face remains visible. Exactly ONE full-length man, realistic textile detail, natural wrinkles, soft even studio lighting, portrait composition with plenty of transparent margin on all sides. Head or hood peak, fingers, scarf tails, entire hem and both boot soles must be fully inside frame. Genuine transparent ALPHA background, no backdrop, no floor, no external shadow, no checkerboard pattern baked into pixels, no text, no flags, no logos, no scenery, no other people. Never turn Kozo into a young European man. Keep hands anatomically natural.",
+  "referenceRoles": {
+    "identity": "assets/001.png",
+    "wearing": "利用者提供の画像.jpg：白チョハに赤黒のカバラヒを首に巻いた例。衣装のみ参考。",
+    "consistency": "以前生成したジョージア・白いチョハの透過PNG"
+  },
+  "sources": [
+    {
+      "title": "NPLG Ethnographic dictionary: ყაბალახი",
+      "url": "https://www.nplg.gov.ge/wikidict/index.php/%E1%83%A7%E1%83%90%E1%83%91%E1%83%90%E1%83%9A%E1%83%90%E1%83%AE%E1%83%98",
+      "supports": "素材・刺繍・房飾り・単独または他の帽子との併用、複数の巻き方があること。地域別の巻き方の厳密な再現とは断定しない。"
+    },
+    {
+      "title": "Gray hooded scarf: maker MarisyArt",
+      "url": "https://www.etsy.com/listing/1445348053/traditional-gray-hooded-scarf-georgian",
+      "supports": "画像検索でフードと肩周りを覆う灰色の着用例を確認。商品ページ本体は取得できず。"
+    },
+    {
+      "title": "Burgundy hooded scarf: maker MarisyArt",
+      "url": "https://www.etsy.com/listing/857242433/burgundy-hooded-scarf-georgian-kabalakhi",
+      "supports": "画像検索で葡萄色のフード・黒の縁・長い裾の着用例を確認。"
+    },
+    {
+      "title": "Navy hooded scarf: maker MarisyArt",
+      "url": "https://www.etsy.com/listing/1314357185/traditional-dark-blue-hooded-scarf",
+      "supports": "画像検索で紺色・フードと肩掛けの例を確認。"
+    },
+    {
+      "title": "Green hooded scarf: maker MarisyArt",
+      "url": "https://www.etsy.com/listing/1775236854/handmade-green-georgian-kabalakhi-hooded",
+      "supports": "画像検索で深緑・顔を開いたフード着用例を確認。"
+    },
+    {
+      "title": "Tbilisoba festival: head wrapped chokha wearer",
+      "url": "https://in.pinterest.com/pin/691091505311218878/",
+      "supports": "画像検索で頭に黒い布を巻いたチョハ着用者の例を確認。地域・撮影者・巻き方の詳細までは未検証。"
+    }
+  ],
+  "interpretation": "着用形態と色の実例を基に、写真合成用の組み合わせを作る。12通りそれぞれの歴史的正装としての厳密な裏付けは主張しない。",
+  "entries": [
+    {
+      "id": "kabalakhi12-neck-red",
+      "name": "カバラヒ・首巻き・白チョハと赤黒",
+      "style": "首巻き",
+      "method": "Hood DOWN and resting behind the upper back, NEVER covering head. Wrap the two attached long scarf wings once loosely around the neck/upper shoulders; one long pointed or rounded wing hangs visibly down the front to near thigh, exactly like the red-and-black scarf wearing method in input 2. The chest cartridge holders should remain partly visible.",
+      "spec": "Ivory white chokha, rust-red and black patterned silk-faced scarf inspired by input 2, restrained flowing plant ornament. Right hand on waist and left hand relaxed, front standing.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "首巻き",
+        "首巻き・白チョハと赤黒"
+      ]
+    },
+    {
+      "id": "kabalakhi12-neck-black",
+      "name": "カバラヒ・首巻き・深紅チョハと黒金",
+      "style": "首巻き",
+      "method": "Hood DOWN and resting behind the upper back, NEVER covering head. Wrap the two attached long scarf wings once loosely around the neck/upper shoulders; one long pointed or rounded wing hangs visibly down the front to near thigh, exactly like the red-and-black scarf wearing method in input 2. The chest cartridge holders should remain partly visible.",
+      "spec": "Burgundy chokha, black fine wool scarf with restrained gold woven edging. Right palm gently open in welcome, left arm relaxed, front standing.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "首巻き",
+        "首巻き・深紅チョハと黒金"
+      ]
+    },
+    {
+      "id": "kabalakhi12-neck-gray",
+      "name": "カバラヒ・首巻き・紺チョハと銀灰",
+      "style": "首巻き",
+      "method": "Hood DOWN and resting behind the upper back, NEVER covering head. Wrap the two attached long scarf wings once loosely around the neck/upper shoulders; one long pointed or rounded wing hangs visibly down the front to near thigh, exactly like the red-and-black scarf wearing method in input 2. The chest cartridge holders should remain partly visible.",
+      "spec": "Deep navy chokha, silver-gray thin wool scarf with black braid and a small gray tassel. Both arms relaxed slightly away from torso, front standing.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "首巻き",
+        "首巻き・紺チョハと銀灰"
+      ]
+    },
+    {
+      "id": "kabalakhi12-shoulder-navy",
+      "name": "カバラヒ・肩掛け・白チョハと紺銀",
+      "style": "肩掛け",
+      "method": "Hood DOWN resting on upper back. Drape the hood scarf loosely around the shoulders, without a tight neck loop. Let the two distinct long tapered wings fall asymmetrically down the front; show the pointed hood and small tassel near one shoulder. It is ONE integrated hood scarf, not a square shawl.",
+      "spec": "Ivory white chokha, midnight blue scarf with restrained silver embroidery. Left hand holds the lower scarf edge lightly; right arm relaxed.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "肩掛け",
+        "肩掛け・白チョハと紺銀"
+      ]
+    },
+    {
+      "id": "kabalakhi12-shoulder-wine",
+      "name": "カバラヒ・肩掛け・墨色チョハと葡萄色",
+      "style": "肩掛け",
+      "method": "Hood DOWN resting on upper back. Drape the hood scarf loosely around the shoulders, without a tight neck loop. Let the two distinct long tapered wings fall asymmetrically down the front; show the pointed hood and small tassel near one shoulder. It is ONE integrated hood scarf, not a square shawl.",
+      "spec": "Charcoal gray chokha, burgundy scarf with subtle black floral embroidery, long panel down the right shoulder. Left palm open beside body in a gentle greeting.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "肩掛け",
+        "肩掛け・墨色チョハと葡萄色"
+      ]
+    },
+    {
+      "id": "kabalakhi12-shoulder-ivory",
+      "name": "カバラヒ・肩掛け・深紅チョハと生成り",
+      "style": "肩掛け",
+      "method": "Hood DOWN resting on upper back. Drape the hood scarf loosely around the shoulders, without a tight neck loop. Let the two distinct long tapered wings fall asymmetrically down the front; show the pointed hood and small tassel near one shoulder. It is ONE integrated hood scarf, not a square shawl.",
+      "spec": "Burgundy chokha, warm ivory scarf with fine beige-gold braid. Right hand lightly holds one long scarf panel at waist, left arm relaxed.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "肩掛け",
+        "肩掛け・深紅チョハと生成り"
+      ]
+    },
+    {
+      "id": "kabalakhi12-hood-gray",
+      "name": "カバラヒ・フード・黒チョハと灰色",
+      "style": "フード",
+      "method": "Hood UP covering crown, back of head and ears, with a modest pointed peak and small tassel. The entire face is open from forehead to chin, fully visible. Two long attached scarf wings wrap loosely over the shoulders or hang down front. Thin supple cloth, not a bulky winter parka hood.",
+      "spec": "Black chokha, medium gray fine wool hood scarf with dark charcoal braid. One long wing loosely crosses the upper chest to the opposite shoulder, one wing hangs straight. Hands relaxed, slight three-quarter 10-degree stance.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "フード",
+        "フード・黒チョハと灰色"
+      ]
+    },
+    {
+      "id": "kabalakhi12-hood-navy",
+      "name": "カバラヒ・フード・白チョハと紺色",
+      "style": "フード",
+      "method": "Hood UP covering crown, back of head and ears, with a modest pointed peak and small tassel. The entire face is open from forehead to chin, fully visible. Two long attached scarf wings wrap loosely over the shoulders or hang down front. Thin supple cloth, not a bulky winter parka hood.",
+      "spec": "Ivory white chokha, dark blue wool hood scarf with restrained silver edging and a tassel. Long wings fall on both sides without hiding all chest holders. Right hand rests at waist, left arm relaxed.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "フード",
+        "フード・白チョハと紺色"
+      ]
+    },
+    {
+      "id": "kabalakhi12-hood-green",
+      "name": "カバラヒ・フード・紺チョハと深緑",
+      "style": "フード",
+      "method": "Hood UP covering crown, back of head and ears, with a modest pointed peak and small tassel. The entire face is open from forehead to chin, fully visible. Two long attached scarf wings wrap loosely over the shoulders or hang down front. Thin supple cloth, not a bulky winter parka hood.",
+      "spec": "Deep navy chokha, forest green thin wool hood scarf with dark braid and a small green tassel. One long wing over shoulder and one down front. Right hand gently open in greeting.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "フード",
+        "フード・紺チョハと深緑"
+      ]
+    },
+    {
+      "id": "kabalakhi12-wrap-black",
+      "name": "カバラヒ・頭巻き・墨色チョハと黒",
+      "style": "頭巻き",
+      "method": "Fold and wrap the ONE integrated kabalakhi hood scarf compactly over the crown and once around the temples, like a traditional Caucasian cloth head wrap: flat close-fitting folds, side tuck, one long tapered tail with a small tassel hanging down a shoulder. Face and forehead remain open, no face veil, no masks. This is not a large round turban and not a keffiyeh. Show visible folds of the hood scarf, not a separate rigid hat.",
+      "spec": "Charcoal gray chokha, black fine wool hood scarf with narrow silver braid. Compact dark head wrap and one tail visible down left shoulder. Both hands relaxed in front at belt level without concealing chest.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "頭巻き",
+        "頭巻き・墨色チョハと黒"
+      ]
+    },
+    {
+      "id": "kabalakhi12-wrap-navy",
+      "name": "カバラヒ・頭巻き・深紅チョハと紺",
+      "style": "頭巻き",
+      "method": "Fold and wrap the ONE integrated kabalakhi hood scarf compactly over the crown and once around the temples, like a traditional Caucasian cloth head wrap: flat close-fitting folds, side tuck, one long tapered tail with a small tassel hanging down a shoulder. Face and forehead remain open, no face veil, no masks. This is not a large round turban and not a keffiyeh. Show visible folds of the hood scarf, not a separate rigid hat.",
+      "spec": "Burgundy chokha, deep navy thin wool scarf with a narrow dull-gold braid and little tassel. Compact folds around the crown with one tail draped backward over right shoulder. Left arm relaxed, right palm open.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "頭巻き",
+        "頭巻き・深紅チョハと紺"
+      ]
+    },
+    {
+      "id": "kabalakhi12-wrap-red",
+      "name": "カバラヒ・頭巻き・白チョハと赤黒",
+      "style": "頭巻き",
+      "method": "Fold and wrap the ONE integrated kabalakhi hood scarf compactly over the crown and once around the temples, like a traditional Caucasian cloth head wrap: flat close-fitting folds, side tuck, one long tapered tail with a small tassel hanging down a shoulder. Face and forehead remain open, no face veil, no masks. This is not a large round turban and not a keffiyeh. Show visible folds of the hood scarf, not a separate rigid hat.",
+      "spec": "Ivory white chokha, rust red and black scarf with restrained woven plant ornament inspired by input 2. Close-fitting folded cloth around crown, one long tail down the right shoulder. One hand resting lightly at waist, gentle front standing.",
+      "category": "正装・礼装",
+      "subgenres": [
+        "outfit:world",
+        "outfit:kabalakhi"
+      ],
+      "tags": [
+        "ジョージア",
+        "じょーじあ",
+        "グルジア",
+        "カバラヒ",
+        "かばらひ",
+        "カバラキ",
+        "カバラヒ追加12",
+        "スカーフ",
+        "チョハ",
+        "Chokha",
+        "Kabalakhi",
+        "Bashlyk",
+        "世界の衣装",
+        "伝統衣装",
+        "頭巻き",
+        "頭巻き・白チョハと赤黒"
+      ]
+    }
+  ]
+}

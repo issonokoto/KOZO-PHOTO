@@ -1,6 +1,6 @@
 import { renderTextCanvas } from './text.js';
-import { BUNDLED_POSES } from './poses.js?v=20261101-georgia';
-import { POSE_GENRES } from './pose-taxonomy.js?v=20261031-classification';
+import { BUNDLED_POSES } from './poses.js?v=20261101-kabalakhi12';
+import { POSE_GENRES } from './pose-taxonomy.js?v=20261101-kabalakhi12';
 import { BUNDLED_FRAMES, drawPhotoFrame } from './frames.js?v=20261027-frames';
 const ASSET_VERSION = '20261012-library';
 function assetUrl(src, version = ASSET_VERSION) {

@@ -121,6 +121,354 @@ export const BUNDLED_POSES = [
     ]
   },
   {
+    "id": "kabalakhi12-neck-red",
+    "name": "カバラヒ・首巻き・白チョハと赤黒",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "首巻き",
+      "首巻き・白チョハと赤黒"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-neck-red.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-neck-red.webp"
+  },
+  {
+    "id": "kabalakhi12-neck-black",
+    "name": "カバラヒ・首巻き・深紅チョハと黒金",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "首巻き",
+      "首巻き・深紅チョハと黒金"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-neck-black.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-neck-black.webp"
+  },
+  {
+    "id": "kabalakhi12-neck-gray",
+    "name": "カバラヒ・首巻き・紺チョハと銀灰",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "首巻き",
+      "首巻き・紺チョハと銀灰"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-neck-gray.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-neck-gray.webp"
+  },
+  {
+    "id": "kabalakhi12-shoulder-navy",
+    "name": "カバラヒ・肩掛け・白チョハと紺銀",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "肩掛け",
+      "肩掛け・白チョハと紺銀"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-shoulder-navy.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-shoulder-navy.webp"
+  },
+  {
+    "id": "kabalakhi12-shoulder-wine",
+    "name": "カバラヒ・肩掛け・墨色チョハと葡萄色",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "肩掛け",
+      "肩掛け・墨色チョハと葡萄色"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-shoulder-wine.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-shoulder-wine.webp"
+  },
+  {
+    "id": "kabalakhi12-shoulder-ivory",
+    "name": "カバラヒ・肩掛け・深紅チョハと生成り",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "肩掛け",
+      "肩掛け・深紅チョハと生成り"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-shoulder-ivory.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-shoulder-ivory.webp"
+  },
+  {
+    "id": "kabalakhi12-hood-gray",
+    "name": "カバラヒ・フード・黒チョハと灰色",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "フード",
+      "フード・黒チョハと灰色"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-hood-gray.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-hood-gray.webp"
+  },
+  {
+    "id": "kabalakhi12-hood-navy",
+    "name": "カバラヒ・フード・白チョハと紺色",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "フード",
+      "フード・白チョハと紺色"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-hood-navy.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-hood-navy.webp"
+  },
+  {
+    "id": "kabalakhi12-hood-green",
+    "name": "カバラヒ・フード・紺チョハと深緑",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "フード",
+      "フード・紺チョハと深緑"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-hood-green.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-hood-green.webp"
+  },
+  {
+    "id": "kabalakhi12-wrap-black",
+    "name": "カバラヒ・頭巻き・墨色チョハと黒",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "頭巻き",
+      "頭巻き・墨色チョハと黒"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-wrap-black.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-wrap-black.webp"
+  },
+  {
+    "id": "kabalakhi12-wrap-navy",
+    "name": "カバラヒ・頭巻き・深紅チョハと紺",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "頭巻き",
+      "頭巻き・深紅チョハと紺"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-wrap-navy.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-wrap-navy.webp"
+  },
+  {
+    "id": "kabalakhi12-wrap-red",
+    "name": "カバラヒ・頭巻き・白チョハと赤黒",
+    "category": "正装・礼装",
+    "tags": [
+      "ジョージア",
+      "じょーじあ",
+      "グルジア",
+      "カバラヒ",
+      "かばらひ",
+      "カバラキ",
+      "カバラヒ追加12",
+      "スカーフ",
+      "チョハ",
+      "Chokha",
+      "Kabalakhi",
+      "Bashlyk",
+      "世界の衣装",
+      "伝統衣装",
+      "頭巻き",
+      "頭巻き・白チョハと赤黒"
+    ],
+    "subgenres": [
+      "outfit:world",
+      "outfit:kabalakhi"
+    ],
+    "src": "./assets/library/kabalakhi12-wrap-red.webp",
+    "thumbnail": "./assets/thumbnails/kabalakhi12-wrap-red.webp"
+  },
+  {
     "id": "georgia-chokha-burgundy",
     "name": "ジョージア・深紅のチョハ",
     "category": "正装・礼装",

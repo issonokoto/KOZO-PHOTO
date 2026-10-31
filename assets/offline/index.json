@@ -3286,5 +3286,53 @@
   "assets/library/georgia-chokha-ivory.webp": {
     "src": "assets/offline/georgia-chokha-ivory.webp",
     "sha256": "20f5c21bae7839b2e030c64325b0010b0fddf10831d783f198dbd798630635be"
+  },
+  "assets/library/kabalakhi12-neck-red.webp": {
+    "src": "assets/offline/kabalakhi12-neck-red.webp",
+    "sha256": "39531bced5743188ae49ebbb47cbf06f5a532d1c863d8f5dc2574088cbeacdc7"
+  },
+  "assets/library/kabalakhi12-neck-black.webp": {
+    "src": "assets/offline/kabalakhi12-neck-black.webp",
+    "sha256": "da0020ec244e12eae9b450c63978049a1e4eecdc9bd822f867d433c6db2132dd"
+  },
+  "assets/library/kabalakhi12-neck-gray.webp": {
+    "src": "assets/offline/kabalakhi12-neck-gray.webp",
+    "sha256": "d6ea517857b8050ef8b2a68f839d039e238dec29ed2f139b1375e397f4594bff"
+  },
+  "assets/library/kabalakhi12-shoulder-navy.webp": {
+    "src": "assets/offline/kabalakhi12-shoulder-navy.webp",
+    "sha256": "ba972d21f3877efb1b927d911f712229544996faf193f16b0877c579f3d8df2c"
+  },
+  "assets/library/kabalakhi12-shoulder-wine.webp": {
+    "src": "assets/offline/kabalakhi12-shoulder-wine.webp",
+    "sha256": "9ce6e7f7d03b5649ecd0a06013c00171395decf6fa3712f09ad1ff3d0f346a4a"
+  },
+  "assets/library/kabalakhi12-shoulder-ivory.webp": {
+    "src": "assets/offline/kabalakhi12-shoulder-ivory.webp",
+    "sha256": "6a6696d65f719c8e8c41ef14a48414cc7fd00c1692c27c648571c6ee603cf53e"
+  },
+  "assets/library/kabalakhi12-hood-gray.webp": {
+    "src": "assets/offline/kabalakhi12-hood-gray.webp",
+    "sha256": "293f77cb418b112f108a76ac0bcd9b33237ce6391e9d6c91aa4f94f61f8d2fa6"
+  },
+  "assets/library/kabalakhi12-hood-navy.webp": {
+    "src": "assets/offline/kabalakhi12-hood-navy.webp",
+    "sha256": "4a7eaf0808d0a238fd6cd5b17cceae6911d86c597ad3d270e616ff6dadb2ccbd"
+  },
+  "assets/library/kabalakhi12-hood-green.webp": {
+    "src": "assets/offline/kabalakhi12-hood-green.webp",
+    "sha256": "03afa6acfaf6660b5060db1ca6550a34420570c2175e65ce877e7c94ecca5bd9"
+  },
+  "assets/library/kabalakhi12-wrap-black.webp": {
+    "src": "assets/offline/kabalakhi12-wrap-black.webp",
+    "sha256": "646e3d4563d49d0defa6ebcd32bfb094afa20c966a19fc3ef5ce1fd9ffec836b"
+  },
+  "assets/library/kabalakhi12-wrap-navy.webp": {
+    "src": "assets/offline/kabalakhi12-wrap-navy.webp",
+    "sha256": "67e106a5941b09ce003aadebe938ce80cc46e75b5963f09af6a9fd13a45882df"
+  },
+  "assets/library/kabalakhi12-wrap-red.webp": {
+    "src": "assets/offline/kabalakhi12-wrap-red.webp",
+    "sha256": "5340812b26ccffe2d95bb721d5ab827324a80d2023f85b834ab61f07833055db"
   }
 }

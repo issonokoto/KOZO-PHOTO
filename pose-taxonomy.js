@@ -105,6 +105,10 @@ export const POSE_GENRES = [
         "label": "世界の衣装"
       },
       {
+        "id": "outfit:kabalakhi",
+        "label": "カバラヒ"
+      },
+      {
         "id": "outfit:history-early",
         "label": "日本の歴史・古代中世"
       },

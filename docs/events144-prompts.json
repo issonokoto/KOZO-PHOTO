@@ -1,0 +1,2302 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "KOZO-PHOTO/assets/001.png",
+  "basePrompt": "Use case: identity-preserve.\nAsset type: ONE reusable photorealistic full-body transparent PNG cutout of Kohzo for visitors to place beside themselves in photographs. This is NOT a poster or comic.\nInput image: identity reference, the SAME friendly elderly Japanese man. Carefully preserve his recognizable facial features, age, wrinkles, grey hair and natural body proportions. Do not beautify or de-age, and do not substitute a generic old man.\nComposition: one person only, entire head, both hands, both feet, and ALL props fully inside frame with comfortable clear margins. Face toward camera, a warm natural smile. Realistic fabric, elderly hands and skin, clean photographic studio quality. GENUINELY TRANSPARENT alpha background including gaps between limbs and props. No floor, room, scene, landscape, backdrop, shadow outside silhouette, border, grid, speech bubble, comic art or watermark.\nWardrobe: specific outfit below. Preserve navy fishing cap unless the description specifies other headwear. If the original pale sage polo chest is visible, its embroidery is two navy lines, exactly \"徳島県\" above \"クラゲ漁業組合\". No other added text, captions, labels or logos. Small event props should have no writing. Keep anatomy believable and hands clearly distinguishable.\nSpecific event costume and pose: \nAdditional consistency: Keep the whole person at natural adult height, with head-to-body proportions like the reference. At least 2% clear padding on every side; all tips, hair, shoes and props entirely inside the image. One event-specific character per image, not a contact sheet. No background or floor. ",
+  "original24BasePrompt": "Use case: identity-preserve.\nAsset type: ONE reusable photorealistic full-body transparent PNG cutout of Kohzo for visitors to place beside themselves in photographs. This is NOT a poster or comic.\nInput image: identity reference, the SAME friendly elderly Japanese man. Carefully preserve his recognizable facial features, age, wrinkles, grey hair and natural body proportions. Do not beautify or de-age, and do not substitute a generic old man.\nComposition: one person only, entire head, both hands, both feet, and ALL props fully inside frame with comfortable clear margins. Face toward camera, a warm natural smile. Realistic fabric, elderly hands and skin, clean photographic studio quality. GENUINELY TRANSPARENT alpha background including gaps between limbs and props. No floor, room, scene, landscape, backdrop, shadow outside silhouette, border, grid, speech bubble, comic art or watermark.\nWardrobe: specific outfit below. Preserve navy fishing cap unless the description specifies other headwear. If the original pale sage polo chest is visible, its embroidery is two navy lines, exactly \"徳島県\" above \"クラゲ漁業組合\". No other added text, captions, labels or logos. Small event props should have no writing. Keep anatomy believable and hands clearly distinguishable.\nSpecific event costume and pose: ",
+  "events": [
+    "節分",
+    "ひな祭り",
+    "こどもの日",
+    "お月見",
+    "バレンタイン",
+    "母の日",
+    "クリスマス",
+    "お正月",
+    "卒業祝い",
+    "結婚祝い",
+    "七夕",
+    "夏祭り"
+  ],
+  "entries": [
+    {
+      "id": "event24-setsubun-beans",
+      "event": "節分",
+      "name": "節分・豆まき",
+      "spec": "Navy short haori over his sage polo, cream trousers, black shoes and navy fishing cap. Hold a wooden square masu filled with roasted soybeans in his left hand at waist height; right arm extended in the lively act of tossing a small handful of soybeans close to his body. A tiny red oni decorative mask hangs from his belt, never covering his face. Entire person and nearby beans visible.",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "節分・豆まき",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event24-setsubun-ehomaki",
+      "event": "節分",
+      "name": "節分・恵方巻",
+      "spec": "Purple festival haori over original polo and cream trousers, black shoes, cap. Cheerfully present a thick uncut ehomaki nori sushi roll horizontally with both hands at chest level, roll end showing rice and colorful fillings. Wooden bean masu in a small pouch clipped to waist. He is not eating, mouth smiling naturally. Entire body.",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "節分・恵方巻",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-oni-red",
+      "event": "節分",
+      "name": "節分・赤鬼の幸造",
+      "spec": "赤鬼をイメージした赤い和装と虎柄の腰布、頭には小さな角のカチューシャ。顔は隠さず、短く軽い張り子の金棒を片肩に立て、もう片手を腰に当てて笑顔。怖い表情や赤い顔の塗装はなし。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "赤鬼の幸造",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-oni-blue",
+      "event": "節分",
+      "name": "節分・青鬼の幸造",
+      "spec": "青い鬼風のゆったり衣装、虎柄の短い腰布、小さな青い角のカチューシャ。片手に大きな豆の飾りを一粒、もう片手に小さな福豆の升を持つ。顔は本人の肌色のまま、にっこり。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "青鬼の幸造",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-fukumame",
+      "event": "節分",
+      "name": "節分・福豆をどうぞ",
+      "spec": "紺の羽織と白い長袖シャツ、ベージュのズボン、黒い靴、いつもの紺帽子。小さな布袋に入った福豆を両手で差し出す。袋の口から炒り豆が見える。袋は無地。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "福豆をどうぞ",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-oni-mask",
+      "event": "節分",
+      "name": "節分・鬼のお面とピース",
+      "spec": "茶色の作務衣と黒い靴、紺帽子。片手で赤鬼のお面を顔から離して横に持ち、もう片手で小さなピース。本人の顔もお面もはっきり見える。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "鬼のお面とピース",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-okame",
+      "event": "節分",
+      "name": "節分・おかめのお面",
+      "spec": "えんじ色の羽織に淡いグレーの着物、足袋と草履、白髪の地毛。片手に小さなおかめのお面を体の横で持ち、もう片手で軽く手招き。本人の顔を覆わない。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "おかめのお面",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-hiiragi",
+      "event": "節分",
+      "name": "節分・柊の節分飾り",
+      "spec": "深緑の作務衣と黒い靴、紺帽子。柊の葉と小さな節分の鬼飾りを結んだ、短くコンパクトな枝飾りを片手で見せ、反対の手でその葉を指さす。魚の頭は入れない。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "柊の節分飾り",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-bean-roaster",
+      "event": "節分",
+      "name": "節分・福豆の支度",
+      "spec": "白シャツに紺の前掛け、クリーム色のズボン、黒靴、白い三角巾。浅い木盆に炒り豆と小さな木のしゃもじを載せ、両手で腰の高さに持つ。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "福豆の支度",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-ehomaki-mini",
+      "event": "節分",
+      "name": "節分・恵方巻のご案内",
+      "spec": "からし色の羽織と紺の着物、草履、紺帽子。左手に小さな黒い盆と普通サイズの恵方巻2本、右手を胸の横で開いて案内する。口元を食べ物で隠さない。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "恵方巻のご案内",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-fuku-fan",
+      "event": "節分",
+      "name": "節分・福を招く扇",
+      "spec": "青緑の法被とクリーム色のズボン、黒靴、紺帽子。片手に無地の金色の扇、もう片手に豆の升を持ち、扇を胸の横に開いて明るく歓迎。文字入りの扇は禁止。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "福を招く扇",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event120-setsubun-beans-catch",
+      "event": "節分",
+      "name": "節分・豆を受けとめて",
+      "spec": "薄いベージュの和風ベストと緑のポロシャツ、クリーム色ズボン、黒靴、紺帽子。両手で小さな竹ざるをお腹の前に持ち、ざるの中の少量の豆を楽しそうに見せる。",
+      "category": "イベント",
+      "tags": [
+        "節分",
+        "setsubun",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "豆を受けとめて",
+        "せつぶん"
+      ]
+    },
+    {
+      "id": "event24-hina-dolls",
+      "event": "ひな祭り",
+      "name": "ひな祭り・おひなさまをどうぞ",
+      "spec": "Peach pink haori, cream trousers, black shoes, navy cap. Hold a compact red lacquer tray at waist height with ONE small seated emperor doll and ONE small seated empress doll, recognizably traditional Japanese hina dolls with elegant tiny garments. Kohzo himself remains an elderly man. Complete tray and full body.",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "ひな祭り・おひなさまをどうぞ",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event24-hina-hishimochi",
+      "event": "ひな祭り",
+      "name": "ひな祭り・菱餅と扇",
+      "spec": "Pale lavender haori with subtle peach blossom pattern over cream trousers, black shoes, navy cap. Left hand supports a small red stand displaying a neatly layered pink-white-green diamond shaped hishimochi rice cake; right hand holds an open decorative folding fan beside shoulder. Face unobstructed and whole body visible.",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "ひな祭り・菱餅と扇",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-emperor",
+      "event": "ひな祭り",
+      "name": "ひな祭り・お内裏様の幸造",
+      "spec": "ひな人形のお内裏様をイメージした紺と金の小ぶりな平安装束、黒い烏帽子。木の笏を両手で胸より低く持ち、直立して穏やかな笑顔。顔と年齢は本人のまま。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お内裏様の幸造",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-empress",
+      "event": "ひな祭り",
+      "name": "ひな祭り・おひな様の幸造",
+      "spec": "おひな様をイメージした桃色と若草色の重ね着風の軽い装束。髪は白髪のまま小さな金の髪飾り、顔の前を隠さない小さな檜扇を両手で腰に持つ。女の子に若返らせない。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "おひな様の幸造",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-lantern",
+      "event": "ひな祭り",
+      "name": "ひな祭り・ぼんぼり",
+      "spec": "薄い桜色の着物、紺帯と草履、白髪。短い柄の小さなピンクのぼんぼり灯を片手で体の横に持ち、もう片手で軽く手を振る。照明器具全体が写る。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ぼんぼり",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-arare",
+      "event": "ひな祭り",
+      "name": "ひな祭り・ひなあられ",
+      "spec": "白シャツに桃色のエプロン、ベージュズボン、黒靴、紺帽子。透明の小さな菓子鉢に入ったピンク・白・緑のひなあられを両手で差し出す。文字や袋のラベルなし。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ひなあられ",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-peach",
+      "event": "ひな祭り",
+      "name": "ひな祭り・桃の花",
+      "spec": "淡い藤色の羽織とクリーム色ズボン、黒靴、紺帽子。満開の桃の花の短い枝束を片腕に抱え、反対の手で控えめなサムズアップ。桜ではなく濃淡ピンクの桃の花。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "桃の花",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-temari",
+      "event": "ひな祭り",
+      "name": "ひな祭り・ひな祭りの手まり",
+      "spec": "紅色の羽織に薄いグレーの着物、草履、白髪。刺繍糸で幾何学模様を施した小さな色鮮やかな手まりを両手で胸の下に持つ。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ひな祭りの手まり",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-shirozake",
+      "event": "ひな祭り",
+      "name": "ひな祭り・白酒の小さな杯",
+      "spec": "生成り色の和風上着と薄桃色の前掛け、紺ズボンと黒靴、紺帽子。片手に小さな朱塗りのお盆と白い徳利、もう片手に小さなお猪口を持ち、お祝いの笑顔。文字なし。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "白酒の小さな杯",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-sakura-mochi",
+      "event": "ひな祭り",
+      "name": "ひな祭り・桜餅のおもてなし",
+      "spec": "桜色の作務衣に白い前掛けと白い三角巾、黒靴。小ぶりな黒い盆に葉で巻いたピンク色の桜餅3個を載せ、両手で見せる。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "桜餅のおもてなし",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-hina-box",
+      "event": "ひな祭り",
+      "name": "ひな祭り・おひなさまの飾り箱",
+      "spec": "ペールブルーのカーディガンと白シャツ、クリーム色ズボン、黒靴、紺帽子。開いた小さな木の飾り箱にお雛様の小さい人形一対を入れ、片腕で抱えて反対の手で紹介する。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "おひなさまの飾り箱",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event120-hina-hina-heart",
+      "event": "ひな祭り",
+      "name": "ひな祭り・桃の節句のハート",
+      "spec": "薄桃色の花柄の羽織を普段着の上に着用、紺帽子と黒靴。胸の前で両手の指を合わせた小さなハートを作り、帯に小さな手まりの飾りを付ける。",
+      "category": "イベント",
+      "tags": [
+        "ひな祭り",
+        "hina",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "桃の節句のハート",
+        "ひなまつり"
+      ]
+    },
+    {
+      "id": "event24-children-carp",
+      "event": "こどもの日",
+      "name": "こどもの日・鯉のぼり",
+      "spec": "Indigo festival happi coat, light trousers and black shoes. Navy cap. Hold a short upright pole with two small colorful koi-shaped windsocks, blue and red, beside the body. Streamers are fabric props shaped like carp, not real fish. Pole and complete windsocks fit comfortably with full body. Proud warm smile.",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "こどもの日・鯉のぼり",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event24-children-kabuto",
+      "event": "こどもの日",
+      "name": "こどもの日・折り紙かぶと",
+      "spec": "Large folded gold origami kabuto paper helmet replacing cap, face fully visible, sage polo, cream trousers, black shoes. Hold a small round wooden tray with three kashiwa-mochi rice cakes wrapped in oak leaves at waist height, other hand makes a cheerful small raised fist. No armor. Whole body and helmet.",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "こどもの日・折り紙かぶと",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-warrior",
+      "event": "こどもの日",
+      "name": "こどもの日・五月人形風の幸造",
+      "spec": "五月人形風の軽く品のよい青と金の胴丸風衣装、顔が見える小ぶりな兜、黒い足袋靴。左手に畳んだ小さな陣扇、右手は腰に置いて頼もしい笑顔。刀や武器なし。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "五月人形風の幸造",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-carp-costume",
+      "event": "こどもの日",
+      "name": "こどもの日・鯉のぼりマント",
+      "spec": "青い鱗柄の布の短い鯉のぼり風マント、白いシャツとベージュズボン、黒靴、紺帽子。両手でマントの裾を少しだけ広げる。顔や手足を魚の中に隠さない。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "鯉のぼりマント",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-chimaki",
+      "event": "こどもの日",
+      "name": "こどもの日・ちまきをどうぞ",
+      "spec": "若草色の羽織に白シャツ、クリーム色ズボンと黒靴、紺帽子。笹の葉で包んだ細長いちまきを3本載せた竹ざるを両手で持つ。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ちまきをどうぞ",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-red-carp",
+      "event": "こどもの日",
+      "name": "こどもの日・赤い鯉のぼり",
+      "spec": "白地に青の波柄の作務衣、黒い足袋靴、紺帽子。短い手持ちの竿に赤い鯉のぼりを一匹だけ付け、斜め上に掲げる。竿と布の鯉のぼり全体を画面内に収める。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "赤い鯉のぼり",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-pinwheel",
+      "event": "こどもの日",
+      "name": "こどもの日・風車でお祝い",
+      "spec": "青緑の羽織、普段の緑ポロとクリームズボン、黒靴、紺帽子。片手に大きめのカラフルな折り紙の風車、もう片手で元気にピース。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "風車でお祝い",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-kabuto-display",
+      "event": "こどもの日",
+      "name": "こどもの日・小さな兜飾り",
+      "spec": "紺のきちんとしたベストと白シャツ、グレーのズボン、黒靴、白髪。小さな五月人形の金色の兜を木の台に載せ、両手で腰の高さに持つ。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "小さな兜飾り",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-kashiwa-gift",
+      "event": "こどもの日",
+      "name": "こどもの日・柏餅のおすそ分け",
+      "spec": "青い前掛けと白い半袖シャツ、クリーム色ズボン、黒靴、紺帽子。片手に柏餅の竹かごを持ち、もう片手で葉に包んだ一個を差し出す。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "柏餅のおすそ分け",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-drum",
+      "event": "こどもの日",
+      "name": "こどもの日・こどもの日の小太鼓",
+      "spec": "青い法被、白い鉢巻き、ベージュのズボン、黒い足袋靴。腰の前に小さな締太鼓を斜めに吊り、短いばちを両手で構える。太鼓と足全体を収める。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "こどもの日の小太鼓",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-helmet-maker",
+      "event": "こどもの日",
+      "name": "こどもの日・かぶと折り",
+      "spec": "白シャツにからし色のカーディガン、紺ズボン、黒靴、紺帽子。折りたての青い紙兜を両手で見せる。頭にはかぶらず、折り目がはっきりした紙工作。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "かぶと折り",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event120-children-carp-fan",
+      "event": "こどもの日",
+      "name": "こどもの日・鯉のぼりのうちわ",
+      "spec": "爽やかな白と青の浴衣、紺帯、草履、白髪。鯉のぼりの絵だけが入った小さな丸いうちわを片手で持ち、もう片手で軽いガッツポーズ。文字はなし。",
+      "category": "イベント",
+      "tags": [
+        "こどもの日",
+        "children",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "鯉のぼりのうちわ",
+        "こどものひ"
+      ]
+    },
+    {
+      "id": "event24-tsukimi-dango",
+      "event": "お月見",
+      "name": "お月見・月見団子",
+      "spec": "Muted indigo yukata, simple obi and traditional sandals. Navy fishing cap. Both hands naturally hold a small wooden sanbo offering stand bearing a tidy pyramid of white round tsukimi dango, below chin so face is clear. A short sprig of susuki pampas grass tucked diagonally into obi at side. Entire silhouette.",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "お月見・月見団子",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event24-tsukimi-susuki",
+      "event": "お月見",
+      "name": "お月見・すすきとお月さま",
+      "spec": "Warm ochre haori over deep navy yukata, sandals, navy cap. Right hand holds a small natural bundle of three susuki pampas stalks beside shoulder; left holds a compact round golden moon shaped decorative fan without writing. Keep all grass within frame and face clear. Whole body smiling.",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "お月見・すすきとお月さま",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-rabbit-ears",
+      "event": "お月見",
+      "name": "お月見・月うさぎの幸造",
+      "spec": "紺の作務衣と草履、頭に小さな白いうさぎ耳のカチューシャ。小さな木の杵を肩より低く片手で立て、もう片手に白い丸餅を一つ載せた小皿。顔を動物にしない。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "月うさぎの幸造",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-dumpling-skewer",
+      "event": "お月見",
+      "name": "お月見・お団子のおすそ分け",
+      "spec": "栗色の羽織と薄いグレーの着物、草履、紺帽子。片手に白い月見団子3個の小さな串、もう片手に同じ串を二本載せた小皿。食べずに見せる。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お団子のおすそ分け",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-moon-lantern",
+      "event": "お月見",
+      "name": "お月見・月あかりの提灯",
+      "spec": "藍色の浴衣に銀色の細い帯、草履、白髪。淡く光る丸い月形の小さな提灯を短い柄で持ち、反対の手を開いて案内する。背景や床の光はなし。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "月あかりの提灯",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-autumn-basket",
+      "event": "お月見",
+      "name": "お月見・秋の実り",
+      "spec": "えんじ色のカーディガンと白シャツ、クリームズボン、黒靴、紺帽子。栗・柿・小さなさつまいもを入れた小さな竹かごを両手で持ち、帯の横に短いすすき。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "秋の実り",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-moon-rabbit-fan",
+      "event": "お月見",
+      "name": "お月見・うさぎの月うちわ",
+      "spec": "淡いグレーの着物に深緑の羽織、草履、紺帽子。金色の満月に白いうさぎのシルエットだけを描いた小さな丸うちわを片手で掲げ、もう片手は腰。文字なし。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "うさぎの月うちわ",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-dango-chef",
+      "event": "お月見",
+      "name": "お月見・団子づくり",
+      "spec": "白シャツに藍色の和風前掛け、白い三角巾、グレーズボンと黒靴。小さな木の盆に丸めた白団子と竹べらを載せ、片手で一個の白団子を見せる。粉の飛散なし。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "団子づくり",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-moon-gaze",
+      "event": "お月見",
+      "name": "お月見・月を見上げて",
+      "spec": "からし色の着物と紺の羽織、草履、白髪。小さなすすき一束を片手で腰に持ち、もう片手の人さし指で斜め上を指す。顔はカメラ寄り、楽しそうに少し上を向く。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "月を見上げて",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-moon-cushion",
+      "event": "お月見",
+      "name": "お月見・お月さまのクッション",
+      "spec": "深い青のカーディガンと白シャツ、ベージュズボン、黒靴、紺帽子。手頃な大きさの丸い黄色い月のクッションを両腕で抱く。文字や顔の絵のない満月模様。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お月さまのクッション",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-rabbit-sweets",
+      "event": "お月見",
+      "name": "お月見・うさぎのおまんじゅう",
+      "spec": "生成りの作務衣と草履、紺帽子。朱塗りの小さな盆に白いうさぎ形の和菓子を三つ載せて持つ。うさぎは菓子の造形で生きた動物ではない。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "うさぎのおまんじゅう",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event120-tsukimi-moon-tea",
+      "event": "お月見",
+      "name": "お月見・お月見のお茶",
+      "spec": "濃緑の着物と薄茶の羽織、足袋と草履、白髪。片手に小さな木盆と団子一皿、反対の手に湯のみを持ち、ゆったりした笑顔。",
+      "category": "イベント",
+      "tags": [
+        "お月見",
+        "tsukimi",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お月見のお茶",
+        "おつきみ"
+      ]
+    },
+    {
+      "id": "event24-valentine-chocolate",
+      "event": "バレンタイン",
+      "name": "バレンタイン・ハートのチョコ",
+      "spec": "Burgundy cardigan over white shirt, dark brown trousers, black shoes, navy fishing cap. Present an OPEN heart-shaped red chocolate box with visibly individual chocolates arranged inside, tilted toward viewer at chest height, both hands supporting box. No packaging words. Warm gentle smile, complete body.",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "バレンタイン・ハートのチョコ",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event24-valentine-chocolatier",
+      "event": "バレンタイン",
+      "name": "バレンタイン・チョコ職人",
+      "spec": "Chocolate brown chef apron over white long sleeve shirt, dark trousers, black shoes and a short white chef hat replacing fishing cap. Hold a small metal tray with six heart shaped chocolate confections in left hand; right hand displays one heart chocolate between fingers near shoulder. Elderly face visible, whole body.",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "バレンタイン・チョコ職人",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-heart-balloon",
+      "event": "バレンタイン",
+      "name": "バレンタイン・ハートの風船",
+      "spec": "赤いニットベストに白シャツ、ブラウンズボン、黒靴、紺帽子。片手に小さな赤いハート風船一個の短い紐、もう片手を胸に添える。風船全体を含める。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ハートの風船",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-cocoa-mug",
+      "event": "バレンタイン",
+      "name": "バレンタイン・ホットチョコ",
+      "spec": "ココア色のカーディガン、白シャツ、クリームズボン、黒靴、紺帽子。ハートのラテアートが載ったココアの白いマグを両手で胸より下に持つ。文字のないマグ。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ホットチョコ",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-truffle",
+      "event": "バレンタイン",
+      "name": "バレンタイン・トリュフチョコ",
+      "spec": "えんじ色の菓子職人のエプロンと白シャツ、短い白コック帽、黒ズボンと黒靴。丸いトリュフチョコを並べた小さな四角い盆を左手に、右手で控えめにOKサイン。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "トリュフチョコ",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-heart-cookie",
+      "event": "バレンタイン",
+      "name": "バレンタイン・ハートのクッキー",
+      "spec": "薄いピンクのエプロン、白シャツ、ベージュズボンと黒靴、紺帽子。赤いアイシングのハート形クッキーを片手で差し出し、もう片手に小さな焼き菓子かごを持つ。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ハートのクッキー",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-choco-dip",
+      "event": "バレンタイン",
+      "name": "バレンタイン・チョコがけいちご",
+      "spec": "白い菓子職人ジャケット、チョコ色の前掛け、白コック帽、黒ズボンと黒靴。片手にチョコをかけたいちごの小皿、もう片手でいちごをひと粒持ち上げて見せる。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "チョコがけいちご",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-gift-ribbon",
+      "event": "バレンタイン",
+      "name": "バレンタイン・チョコの贈り物",
+      "spec": "ローズピンクのジャケットと白シャツ、黒ズボンと黒靴、白髪。赤いリボンを掛けた細長い無地のチョコレート箱を両手で差し出し、体を少し前に。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "チョコの贈り物",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-heart-hands",
+      "event": "バレンタイン",
+      "name": "バレンタイン・ハートを届けます",
+      "spec": "ワインレッドのカーディガンに白シャツ、グレーズボンと黒靴、紺帽子。胸の前で両手を合わせてハートを作る。胸元に小さな無地のチョコ色ハートのブローチ。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ハートを届けます",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-cacao",
+      "event": "バレンタイン",
+      "name": "バレンタイン・カカオの実",
+      "spec": "ブラウンの作務衣風エプロンと白シャツ、黒ズボンと黒靴、紺帽子。小さな割ったカカオポッドを浅い木盆に載せて持ち、片手で中の白い果肉を指して紹介。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "カカオの実",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-choco-rose",
+      "event": "バレンタイン",
+      "name": "バレンタイン・チョコのバラ",
+      "spec": "黒いベストにえんじ色のシャツ、グレーズボン、黒靴、白髪。食べられるチョコレートで作ったバラの小さな花束を両手で腰に持つ。茶色のチョコの質感、赤いリボン。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "チョコのバラ",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event120-valentine-macarons",
+      "event": "バレンタイン",
+      "name": "バレンタイン・ハートのマカロン",
+      "spec": "白いコック上着に薄桃の前掛け、短い白コック帽、黒ズボンと黒靴。小さなガラスの皿にハート形のピンクと茶色のマカロン4個を載せ、両手で見せる。",
+      "category": "イベント",
+      "tags": [
+        "バレンタイン",
+        "valentine",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ハートのマカロン",
+        "ばれんたいん"
+      ]
+    },
+    {
+      "id": "event24-mothers-carnations",
+      "event": "母の日",
+      "name": "母の日・カーネーション",
+      "spec": "Soft rose linen vest over white shirt, cream trousers, black shoes, navy fishing cap. Offer a modest beautiful bouquet of red and pink carnations in plain kraft wrapping, held diagonally with both hands at waist height. Detailed frilly carnation petals, not roses. Smile at camera, full body.",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "母の日・カーネーション",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event24-mothers-basket",
+      "event": "母の日",
+      "name": "母の日・お花の贈り物",
+      "spec": "Sage polo under light beige gardening apron, cream trousers, black shoes, navy fishing cap. Left hand holds a small wicker basket containing a potted pink carnation plant beside hip; right hand waves gently. Distinct loose pose and small potted plant rather than a bouquet. Full body and basket visible.",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "母の日・お花の贈り物",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-single-carnation",
+      "event": "母の日",
+      "name": "母の日・一輪のカーネーション",
+      "spec": "白シャツに淡いピンクのカーディガン、グレーズボン、黒靴、紺帽子。一本の赤いカーネーションを片手でそっと差し出し、もう片手は胸に添える。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "一輪のカーネーション",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-flower-apron",
+      "event": "母の日",
+      "name": "母の日・お花のお世話",
+      "spec": "若草色のガーデニングエプロンと白シャツ、ベージュズボン、黒靴、紺帽子。左手に小さな赤いカーネーションの鉢、右手に小さな銀色のじょうろ。注水はしない。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お花のお世話",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-carnation-wreath",
+      "event": "母の日",
+      "name": "母の日・カーネーションのリース",
+      "spec": "薄桃色のベストと白シャツ、クリームズボン、黒靴、白髪。赤とピンクのカーネーションで作った小ぶりな丸いリースを両手で持ち、顔より下に。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "カーネーションのリース",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-tea-tray",
+      "event": "母の日",
+      "name": "母の日・母の日のお茶",
+      "spec": "ライトグレーのカーディガンと白シャツ、ベージュズボン、黒靴、紺帽子。小さな木盆に白いティーカップと焼き菓子、一輪のピンクのカーネーションを載せ、両手で持つ。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "母の日のお茶",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-flower-box",
+      "event": "母の日",
+      "name": "母の日・お花のボックス",
+      "spec": "ローズ色のシャツにクリームのベスト、グレーズボン、黒靴、紺帽子。蓋のない小さな正方形の白い箱いっぱいにカーネーションを敷き詰めて、両手で見せる。文字なし。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お花のボックス",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-kitchen-help",
+      "event": "母の日",
+      "name": "母の日・母の日のお手伝い",
+      "spec": "ピンクのチェックのエプロンと白シャツ、黒ズボン、黒靴、紺帽子。片手に木のへら、もう片手に小さなフライパン。エプロンの胸に小さな布製のカーネーション一輪。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "母の日のお手伝い",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-flower-pin",
+      "event": "母の日",
+      "name": "母の日・カーネーションを胸に",
+      "spec": "紺のジャケットに白シャツと薄桃色ネクタイ、グレーズボン、黒靴、白髪。胸に赤いカーネーションを一輪挿し、右手で軽く会釈するように胸に手を添える。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "カーネーションを胸に",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-plant-wrap",
+      "event": "母の日",
+      "name": "母の日・鉢花のお届け",
+      "spec": "薄いサーモンピンクの羽織を白シャツの上に、ベージュズボン、黒靴、紺帽子。柔らかい布で包んだピンクのカーネーションの小さな鉢を両腕で抱く。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "鉢花のお届け",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-flower-brooch",
+      "event": "母の日",
+      "name": "母の日・ありがとうの笑顔",
+      "spec": "やわらかなラベンダーのニットベストと白シャツ、クリームズボン、黒靴、紺帽子。ピンクのカーネーションの布製ブローチ、両手を大きくしすぎず胸の横に開いた歓迎ポーズ。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ありがとうの笑顔",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event120-mothers-handmade-bouquet",
+      "event": "母の日",
+      "name": "母の日・手作りのお花",
+      "spec": "生成りのエプロンに淡いピンクのシャツ、黒ズボンと黒靴、紺帽子。紙工作で作った小さな赤いカーネーションの花束を片手に持ち、もう片手に工作用の細いリボン。ハサミなし。",
+      "category": "イベント",
+      "tags": [
+        "母の日",
+        "mothers",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "手作りのお花",
+        "ははのひ"
+      ]
+    },
+    {
+      "id": "event24-christmas-bell",
+      "event": "クリスマス",
+      "name": "クリスマス・ベルを鳴らして",
+      "spec": "Green velvet festive waistcoat over white shirt, red bow tie, dark trousers, black shoes. A red Santa hat replaces fishing cap. Right hand rings a small brass handbell raised beside shoulder; left holds a compact holly wreath at waist. No Santa beard, natural elderly face. Whole body, wreath and bell.",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "クリスマス・ベルを鳴らして",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event24-christmas-nutcracker",
+      "event": "クリスマス",
+      "name": "クリスマス・くるみ割り人形風",
+      "spec": "Elegant red-and-navy nutcracker-inspired toy soldier uniform with gold braid, black tall ceremonial hat, dark trousers, black boots. Face stays his own, no painted doll skin or fake beard. Hold a small gift wrapped in emerald paper with gold ribbon at waist with one hand, other hand gives a friendly salute. Full realistic human body.",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "クリスマス・くるみ割り人形風",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-elf",
+      "event": "クリスマス",
+      "name": "クリスマス・クリスマスのエルフ",
+      "spec": "深緑のベルベットのエルフ風ジャケット、赤い襟、グレーのズボンと黒い靴、小さな緑の尖り帽子。片手に星形の飾り、もう片手は腰。本人の年齢と顔、耳を尖らせない。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "クリスマスのエルフ",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-snowman",
+      "event": "クリスマス",
+      "name": "クリスマス・雪だるまの幸造",
+      "spec": "白いキルティングの雪だるま風コート、赤いマフラー、黒いズボンと黒い靴、小ぶりな黒いシルクハット。顔は白く塗らず、両手で小さな雪だるまのぬいぐるみを持つ。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "雪だるまの幸造",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-carol",
+      "event": "クリスマス",
+      "name": "クリスマス・クリスマスの歌",
+      "spec": "えんじ色のセーター、グレーのズボン、黒靴、サンタ帽。開いた小さな緑の歌集を両手で持ち、口は笑顔。ページは無地で文字を描かない。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "クリスマスの歌",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-stocking",
+      "event": "クリスマス",
+      "name": "クリスマス・靴下にプレゼント",
+      "spec": "白シャツに緑のカーディガン、黒ズボンと黒靴、紺帽子。小さな贈り物がのぞく赤いクリスマス靴下を片手で持ち、反対の手でそっと指さす。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "靴下にプレゼント",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-gingerbread",
+      "event": "クリスマス",
+      "name": "クリスマス・ジンジャークッキー",
+      "spec": "白コック上着、赤いエプロン、短い白コック帽、黒ズボンと黒靴。ジンジャーマンと星形のクッキーが載った小さな天板を両手で見せる。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ジンジャークッキー",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-ornament",
+      "event": "クリスマス",
+      "name": "クリスマス・ツリーの飾りつけ",
+      "spec": "深緑のニットベストと白シャツ、グレーズボンと黒靴、サンタ帽。片手に大きすぎない金色の球オーナメント、もう片手に赤い球を持つ。ツリー本体なし。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ツリーの飾りつけ",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-snowglobe",
+      "event": "クリスマス",
+      "name": "クリスマス・スノードーム",
+      "spec": "紺のタートルネックに赤チェックのベスト、ベージュズボンと黒靴、白髪。小さなツリーの入った透明なスノードームを両手で見せる。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "スノードーム",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-candy-cane",
+      "event": "クリスマス",
+      "name": "クリスマス・キャンディケーン",
+      "spec": "赤と白の縞のマフラー、紺コートとグレーズボン、黒靴、サンタ帽。短い杖形の赤白キャンディを片手で持ち、もう片手でサムズアップ。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "キャンディケーン",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-angel",
+      "event": "クリスマス",
+      "name": "クリスマス・クリスマスの天使",
+      "spec": "白と金の天使風の長い上着、白ズボンと白靴。小さな柔らかい白い羽根を背に、細い金の輪のカチューシャ。胸の下で小さな金の星を持つ。顔を若くしない。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "クリスマスの天使",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event120-christmas-gift-sack",
+      "event": "クリスマス",
+      "name": "クリスマス・贈り物のお届け",
+      "spec": "赤いチェックのシャツ、緑のベスト、グレーズボンと黒靴、サンタ帽。小さめの布の贈り物袋を片肩に担ぎ、もう片手で軽く手を振る。袋も全身も画面内。",
+      "category": "イベント",
+      "tags": [
+        "クリスマス",
+        "christmas",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "贈り物のお届け",
+        "くりすます"
+      ]
+    },
+    {
+      "id": "event24-newyear-kagamimochi",
+      "event": "お正月",
+      "name": "お正月・鏡餅",
+      "spec": "Deep navy kimono and haori, pale grey hakama, white tabi and zori, no cap, natural grey hair. Both hands hold a compact wooden stand with kagamimochi: two stacked white round rice cakes with one small orange on top and a red-white paper base. Cheerful dignified smile, full body.",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "お正月・鏡餅",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event24-newyear-hagoita",
+      "event": "お正月",
+      "name": "お正月・羽子板",
+      "spec": "Festive ivory haori over blue kimono and charcoal hakama, tabi and zori, no cap, natural grey hair. Right hand holds a decorative Japanese hagoita wooden paddle with a floral design, no human portrait or text; left hand lightly displays its small black-and-colored shuttlecock. Whole body, natural welcoming smile.",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "お正月・羽子板",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-otoshidama",
+      "event": "お正月",
+      "name": "お正月・お年玉をどうぞ",
+      "spec": "深緑の羽織と淡いグレーの着物、足袋と草履、白髪。片手に無地の小さな紅白のぽち袋、もう片手に同じ袋3枚を持ち、一枚をそっと差し出す。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お年玉をどうぞ",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-daruma",
+      "event": "お正月",
+      "name": "お正月・福だるま",
+      "spec": "紺の作務衣と黒い足袋靴、紺帽子。手頃な小さな赤いだるまを両手で抱く。だるまは目と眉のみで、お腹に文字を描かない。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "福だるま",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-hamaya",
+      "event": "お正月",
+      "name": "お正月・破魔矢",
+      "spec": "上品な薄茶色の羽織と紺の着物、足袋と草履、白髪。白い羽と小さな紅白の結び飾りの付いた短い破魔矢を、斜めに両手で持つ。文字なし。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "破魔矢",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-omikuji",
+      "event": "お正月",
+      "name": "お正月・おみくじ",
+      "spec": "紺の羽織と白シャツ、ベージュズボン、黒靴、紺帽子。片手に小さな木のおみくじ筒、もう片手に無地の細い紙一枚を見せる。文字や神社背景なし。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "おみくじ",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-osechi",
+      "event": "お正月",
+      "name": "お正月・おせちのおもてなし",
+      "spec": "白い割烹着を紺の着物の上に、足袋と草履、白髪。小さな開いた一段の黒い重箱に色鮮やかな正月料理を載せ、両手で見せる。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "おせちのおもてなし",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-tako",
+      "event": "お正月",
+      "name": "お正月・凧あげ",
+      "spec": "紺の法被とクリーム色ズボン、黒靴、紺帽子。赤と白の小さな菱形の凧を片手で体の横に持ち、もう片手に糸巻き。凧を空に飛ばさず手元で見せる。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "凧あげ",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-shimekazari",
+      "event": "お正月",
+      "name": "お正月・しめ飾り",
+      "spec": "生成りの羽織と深青の着物、草履、白髪。小さな丸い稲わらのしめ飾りに橙と赤白の紙垂を付け、両手で顔より低く持つ。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "しめ飾り",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-kadomatsu",
+      "event": "お正月",
+      "name": "お正月・ミニ門松",
+      "spec": "からし色の作務衣と黒い足袋靴、紺帽子。手で持てる小さな門松の鉢を片手で腰に持ち、反対の手を開いて案内する。鉢と竹を画面内に。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ミニ門松",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-kakizome",
+      "event": "お正月",
+      "name": "お正月・書き初め",
+      "spec": "白シャツと紺の和風前掛け、グレーズボン、黒靴、紺帽子。片手に太い毛筆、もう片手に小さな黒い硯を載せた盆。紙や文字は描かない。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "書き初め",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event120-newyear-mochi",
+      "event": "お正月",
+      "name": "お正月・お餅でお祝い",
+      "spec": "えんじ色の羽織、白シャツ、ベージュズボン、黒靴、紺帽子。小さな竹ざるに白い丸餅を5個載せて持ち、反対の手で一個を見せる。",
+      "category": "イベント",
+      "tags": [
+        "お正月",
+        "newyear",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お餅でお祝い",
+        "おしょうがつ"
+      ]
+    },
+    {
+      "id": "event24-graduation-certificate",
+      "event": "卒業祝い",
+      "name": "卒業祝い・卒業証書",
+      "spec": "Navy academic graduation gown with restrained gold stole, black mortarboard and tassel, dress trousers and black shoes. He is the same old man, not a young student. Both hands present a closed dark blue diploma tube tied with a small red ribbon at waist. No text on tube. Full body and hat.",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "卒業祝い・卒業証書",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event24-graduation-sakura",
+      "event": "卒業祝い",
+      "name": "卒業祝い・桜の花束",
+      "spec": "Charcoal formal suit, white shirt, pale pink tie, black dress shoes, no hat, natural grey hair. Hold a modest bouquet of small flowering sakura branches in simple white wrapping across one arm, other hand offers a warm thumbs up. Clearly cherry blossoms, not carnations. Complete body and branches.",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "卒業祝い・桜の花束",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-applause",
+      "event": "卒業祝い",
+      "name": "卒業祝い・卒業に拍手",
+      "spec": "紺のスーツ、白シャツ、薄い青のネクタイ、黒靴、白髪。胸に小さな桜のコサージュを付け、胸の前で自然に拍手する。両手を指で癒着させない。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "卒業に拍手",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-red-tube",
+      "event": "卒業祝い",
+      "name": "卒業祝い・証書筒を掲げて",
+      "spec": "チャコールグレーのスーツ、白シャツ、えんじのネクタイ、黒靴、白髪。片手に無地のえんじ色の卒業証書筒を縦に持ち、反対の手でサムズアップ。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "証書筒を掲げて",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-corsage",
+      "event": "卒業祝い",
+      "name": "卒業祝い・桜のコサージュ",
+      "spec": "黒いフォーマルスーツとシルバーのネクタイ、白シャツ、黒靴、白髪。片手で小さな桜色のコサージュを差し出し、胸にも同じ小さな桜の飾り。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "桜のコサージュ",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-academic-wave",
+      "event": "卒業祝い",
+      "name": "卒業祝い・卒業ガウンで手を振る",
+      "spec": "黒い卒業ガウンに青いストール、角帽、グレーズボン、黒靴。片手に閉じた無地の卒業証書ファイルを持ち、もう片手を高くしすぎず振る。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "卒業ガウンで手を振る",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-ribbon-bouquet",
+      "event": "卒業祝い",
+      "name": "卒業祝い・リボンの花束",
+      "spec": "薄いベージュのスーツと白シャツ、紺のネクタイ、黒靴、白髪。白と黄色の花を桜色リボンで束ねた小さな花束を両手で腰に持つ。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "リボンの花束",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-hakama",
+      "event": "卒業祝い",
+      "name": "卒業祝い・袴で卒業祝い",
+      "spec": "深緑の羽織と紺の着物、グレーの袴、足袋と草履、白髪。無地の黒い証書筒を左腕に抱え、右手をそっと胸に添える。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "袴で卒業祝い",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-sakura-fan",
+      "event": "卒業祝い",
+      "name": "卒業祝い・桜のうちわ",
+      "spec": "濃紺のきちんとしたジャケットと白シャツ、ベージュズボン、黒靴、紺帽子。桜の絵だけを描いた小さな丸うちわを片手で持ち、反対の手でピース。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "桜のうちわ",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-teddy",
+      "event": "卒業祝い",
+      "name": "卒業祝い・卒業くまの贈り物",
+      "spec": "グレーのカーディガンと白シャツ、紺ズボンと黒靴、紺帽子。小さな角帽とガウンを着た手頃なテディベアを両腕で抱えて見せる。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "卒業くまの贈り物",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-diploma-open",
+      "event": "卒業祝い",
+      "name": "卒業祝い・証書をひらいて",
+      "spec": "紺のスーツと白シャツ、金色の細いネクタイ、黒靴、白髪。内側が淡いクリームの無地の見開き証書ファイルを両手で胸より低く持つ。文字は一切なし。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "証書をひらいて",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event120-graduation-farewell",
+      "event": "卒業祝い",
+      "name": "卒業祝い・門出のエール",
+      "spec": "茶色のジャケットと白シャツ、薄緑ネクタイ、グレーズボン、黒靴、白髪。胸に小さな桜コサージュ、右手で控えめなガッツポーズ、左手に小さな赤リボンの花一輪。",
+      "category": "イベント",
+      "tags": [
+        "卒業祝い",
+        "graduation",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "門出のエール",
+        "そつぎょう"
+      ]
+    },
+    {
+      "id": "event24-wedding-toast",
+      "event": "結婚祝い",
+      "name": "結婚祝い・祝福の乾杯",
+      "spec": "Elegant black tuxedo with white shirt and champagne gold bow tie, white pocket square, black dress shoes, no cap, natural grey hair. Right hand raises one delicate champagne flute for a toast at shoulder height; left hand rests relaxed near waist. One glass only, no bottle or text. Whole body, welcoming smile.",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "結婚祝い・祝福の乾杯",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event24-wedding-rings",
+      "event": "結婚祝い",
+      "name": "結婚祝い・リングピロー",
+      "spec": "Ivory formal morning coat, pale blue waistcoat, striped grey trousers and black dress shoes, no cap, natural grey hair. Present a small ivory satin ring pillow with TWO gold wedding rings tied securely on it with ivory ribbon, both hands at chest height. No other people. Full body, face and pillow clear.",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "結婚祝い・リングピロー",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-petals",
+      "event": "結婚祝い",
+      "name": "結婚祝い・フラワーシャワー",
+      "spec": "紺の三つ揃いのスーツと白シャツ、淡い金ネクタイ、黒靴、白髪。小さな白い花びらのかごを片手で腰に持ち、もう片手から数枚の花びらを近くへ撒く。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "フラワーシャワー",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-bouquet",
+      "event": "結婚祝い",
+      "name": "結婚祝い・祝福のブーケ",
+      "spec": "ライトグレーのタキシードに白シャツ、紺の蝶ネクタイ、黒靴、白髪。白いバラと小さなグリーンのブーケを両手で胸より低く持つ。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "祝福のブーケ",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-ribbon-bell",
+      "event": "結婚祝い",
+      "name": "結婚祝い・ウエディングベル",
+      "spec": "黒いベストと白シャツ、シルバーのアスコットタイ、グレーズボン、黒靴、白髪。白いリボンで結んだ小さな金のベル二つを片手で見せ、反対の手で歓迎。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ウエディングベル",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-cake-server",
+      "event": "結婚祝い",
+      "name": "結婚祝い・ケーキのお祝い",
+      "spec": "白い菓子職人ジャケットに薄青色のエプロン、黒ズボン、黒靴、短い白コック帽。小さな丸盆に一人分の白いウエディングケーキを載せ、もう片手に小さなサーバー。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ケーキのお祝い",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-welcome",
+      "event": "結婚祝い",
+      "name": "結婚祝い・祝福のお出迎え",
+      "spec": "白いタキシードと黒い蝶ネクタイ、黒ズボン、黒靴、白髪。胸に白い花のブートニア、両手を少し横に開いて来客を迎えるポーズ。看板や文字なし。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "祝福のお出迎え",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-confetti-cone",
+      "event": "結婚祝い",
+      "name": "結婚祝い・花びらをどうぞ",
+      "spec": "ベージュの三つ揃いスーツと白シャツ、えんじのネクタイ、黒靴、白髪。花びらの入った無地の白い紙コーンを両手で差し出す。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "花びらをどうぞ",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-ring-box",
+      "event": "結婚祝い",
+      "name": "結婚祝い・リングボックス",
+      "spec": "ネイビーのタキシード、白シャツ、薄い金の蝶ネクタイ、黒靴、白髪。小さな開いた深紅のリング箱に金の指輪二つを入れ、両手で低く見せる。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "リングボックス",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-bridal-fan",
+      "event": "結婚祝い",
+      "name": "結婚祝い・扇で祝福",
+      "spec": "黒の紋付風羽織に灰色の袴、足袋と草履、白髪。文字のない金銀の小さな祝扇を片手で半分開き、反対の手をお腹に添えた控えめな会釈。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "扇で祝福",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-champagne-bottle",
+      "event": "結婚祝い",
+      "name": "結婚祝い・お祝いのボトル",
+      "spec": "チャコールのスーツと白シャツ、薄桃色の蝶ネクタイ、黒靴、白髪。ラベルのない緑色の祝酒ボトルを白いナプキンで包んで両手で持つ。栓は閉じておく。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お祝いのボトル",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event120-wedding-heart-wreath",
+      "event": "結婚祝い",
+      "name": "結婚祝い・ハートの花輪",
+      "spec": "白いジャケットと紺のベスト、グレーズボン、黒靴、白髪。白い小花と緑の葉で作った小さなハート形のリースを両手で胸より下に持つ。",
+      "category": "イベント",
+      "tags": [
+        "結婚祝い",
+        "wedding",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ハートの花輪",
+        "けっこん"
+      ]
+    },
+    {
+      "id": "event24-tanabata-tanzaku",
+      "event": "七夕",
+      "name": "七夕・短冊を飾ろう",
+      "spec": "Blue summer yukata with subtle small star textile pattern, white obi and geta sandals, navy fishing cap. Hold a compact leafy bamboo branch decorated with three blank brightly colored paper tanzaku strips in one hand; other hand holds one additional blank yellow strip near the branch. All leaves and strips fit inside image. Whole body, face unobstructed.",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "七夕・短冊を飾ろう",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event24-tanabata-hikoboshi",
+      "event": "七夕",
+      "name": "七夕・彦星の幸造",
+      "spec": "Tasteful Japanese fantasy Hikoboshi costume: indigo flowing robe, turquoise sash and small silver star accents, soft black traditional shoes, small traditional black court cap. Natural elderly Kohzo face, not young anime. Hold a small round starry folding fan at waist in left hand, right hand reaches out welcomingly. No bamboo, full costume and feet.",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "七夕・彦星の幸造",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-star-wand",
+      "event": "七夕",
+      "name": "七夕・星のステッキ",
+      "spec": "深い青の着物と薄青の羽織、草履、白髪。小さな金の星が先端に付いた短い飾り棒を片手で持ち、もう片手で軽く手招き。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "星のステッキ",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-origami-stars",
+      "event": "七夕",
+      "name": "七夕・折り紙の星",
+      "spec": "藍色の作務衣に黒い足袋靴、紺帽子。三つの小さな色紙の立体星を載せた小さな木盆を片手で持ち、もう片手で金色の星を一つ見せる。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "折り紙の星",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-ori-hime",
+      "event": "七夕",
+      "name": "七夕・織姫の幸造",
+      "spec": "七夕の織姫をイメージした淡い藤と桃色の軽い重ね着風のローブに青い細帯、白い靴。白髪に小さな星の髪飾り。巻いた小さな機織りの布を両手で見せる。顔と年齢は本人。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "織姫の幸造",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-weaving-shuttle",
+      "event": "七夕",
+      "name": "七夕・七夕の織りもの",
+      "spec": "深青色と銀色の彦星風ローブ、黒い布靴、白髪に小さな黒い烏帽子。片手に木の織り杼、もう片手に薄青の短い織布を持つ。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "七夕の織りもの",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-star-lantern",
+      "event": "七夕",
+      "name": "七夕・星の灯り",
+      "spec": "紺の星柄の浴衣と薄いグレーの帯、草履、紺帽子。小さく淡く光る五角星形の紙ランタンを短い紐で片手に吊り、もう片手でピース。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "星の灯り",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-paper-chain",
+      "event": "七夕",
+      "name": "七夕・七夕の輪飾り",
+      "spec": "水色の法被を白シャツの上に、ベージュズボン、黒靴、紺帽子。色紙を輪につないだ短い七夕飾りを両手の間で持つ。飾りが床に届かないコンパクトな長さ。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "七夕の輪飾り",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-tanzaku-heart",
+      "event": "七夕",
+      "name": "七夕・願いの短冊",
+      "spec": "深緑の浴衣と白帯、草履、白髪。両手で小さな無地の赤い短冊を胸の前に持つ。帯に小さな金の星飾り、短冊には文字を入れない。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "願いの短冊",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-star-sweets",
+      "event": "七夕",
+      "name": "七夕・星の和菓子",
+      "spec": "藍色の和菓子職人風の作務衣と白い前掛け、黒い足袋靴、紺帽子。星形の黄色と水色の和菓子三つを小さな朱塗り盆に載せて見せる。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "星の和菓子",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-milky-fan",
+      "event": "七夕",
+      "name": "七夕・天の川の扇",
+      "spec": "濃青の羽織と紺の着物、草履、白髪。青い地に細い銀の星の流れを描いた小さな扇を胸の横で開き、もう片手は腰に置く。文字なし。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "天の川の扇",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event120-tanabata-bamboo-basket",
+      "event": "七夕",
+      "name": "七夕・七夕飾りのかご",
+      "spec": "生成りのシャツと薄青色のベスト、クリームズボン、黒靴、紺帽子。折り紙の星や無地の短冊、短い笹の小枝を入れた小さな竹かごを両手で持つ。",
+      "category": "イベント",
+      "tags": [
+        "七夕",
+        "tanabata",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "七夕飾りのかご",
+        "たなばた"
+      ]
+    },
+    {
+      "id": "event24-summer-goldfish",
+      "event": "夏祭り",
+      "name": "夏祭り・ヨーヨー釣り",
+      "spec": "Bright navy-and-white patterned summer yukata, red obi, geta sandals and a neatly tied white hachimaki headband replacing cap. Right hand holds a short string with ONE colorful round water yo-yo balloon dangling close to side, left holds a round uchiwa fan with simple red-blue graphic, no writing. NO real fish. Full body and balloon.",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "夏祭り・ヨーヨー釣り",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event24-summer-kakigori",
+      "event": "夏祭り",
+      "name": "夏祭り・かき氷",
+      "spec": "Teal summer festival happi over white undershirt, lightweight cream trousers, traditional sandals, navy fishing cap. Left hand holds a small clear fluted bowl of strawberry shaved ice; right hand holds a small spoon raised slightly. Mouth smiling, not eating, face clear. No stand, stall or background. Full body and feet.",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "イベント",
+        "イベント初回24",
+        "イベント素材144",
+        "夏祭り・かき氷",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-jellyfish-yo",
+      "event": "夏祭り",
+      "name": "夏祭り・クラゲのヨーヨー",
+      "spec": "紺の法被と白い半袖、クリームズボン、黒い足袋靴、白い鉢巻き。短い紐の先に小さな透明のクラゲ形の水ヨーヨーを片手で下げ、反対の手でピース。実物の魚なし。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "クラゲのヨーヨー",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-ramune",
+      "event": "夏祭り",
+      "name": "夏祭り・ラムネでひと休み",
+      "spec": "水色の浴衣と紺の帯、草履、紺帽子。ラベルなしの透明なラムネ瓶を片手で胸の横に持ち、もう片手は腰に添える。瓶のビー玉が見える。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "ラムネでひと休み",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-apple-candy",
+      "event": "夏祭り",
+      "name": "夏祭り・りんご飴",
+      "spec": "赤い法被に白シャツとベージュズボン、黒い足袋靴、白い鉢巻き。赤いつやつやのりんご飴を片手で顔の横より低く見せ、もう片手でサムズアップ。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "りんご飴",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-cotton-candy",
+      "event": "夏祭り",
+      "name": "夏祭り・わたあめ",
+      "spec": "紺と白の幾何学柄の浴衣、えんじ帯と草履、白髪。淡いピンクと白の小さめのわたあめを一本、片手で持ち、反対の手で嬉しそうに紹介する。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "わたあめ",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-festival-lantern",
+      "event": "夏祭り",
+      "name": "夏祭り・お祭りの提灯",
+      "spec": "藍色の法被に白シャツ、グレーズボン、黒足袋靴、紺帽子。文字のない赤白の小さな提灯を短い柄で持ち、反対の手を胸の横に開く。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お祭りの提灯",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-takoyaki",
+      "event": "夏祭り",
+      "name": "夏祭り・たこ焼きをどうぞ",
+      "spec": "白シャツに紺の前掛け、クリームズボン、黒靴、紺帽子。小さな舟皿にたこ焼きを六個載せて片手に持ち、もう片手で木のつまようじを添えて紹介する。食べない。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "たこ焼きをどうぞ",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-dance-fan",
+      "event": "夏祭り",
+      "name": "夏祭り・盆踊りのうちわ",
+      "spec": "紫と白の浴衣に黄色の帯、草履、白い鉢巻き。片手に文字のない丸いうちわ、もう片手を肩より下に上げた軽い盆踊りのポーズ。両足は無理なく床に着く姿勢。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "盆踊りのうちわ",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-watermelon",
+      "event": "夏祭り",
+      "name": "夏祭り・すいかで夏祭り",
+      "spec": "緑の法被に白シャツ、ベージュズボン、黒靴、紺帽子。小さな黒い盆に赤いすいかの切り身を二つ載せ、両手で胸より低く持つ。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "すいかで夏祭り",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-jellyfish-mask",
+      "event": "夏祭り",
+      "name": "夏祭り・クラゲのお面",
+      "spec": "青緑の浴衣と白帯、草履、紺帽子。かわいい透明水色のクラゲ形の祭り用お面を顔から離して片手で持ち、もう片手で手を振る。顔を覆わない。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "クラゲのお面",
+        "なつまつり"
+      ]
+    },
+    {
+      "id": "event120-summer-festival-drum",
+      "event": "夏祭り",
+      "name": "夏祭り・お祭りの小太鼓",
+      "spec": "えんじ色の法被に白シャツ、紺ズボン、黒い足袋靴、白い鉢巻き。小さな締太鼓を腰の前に短い紐で下げ、両手に小ぶりなばちを持って楽しそうに構える。",
+      "category": "イベント",
+      "tags": [
+        "夏祭り",
+        "summer",
+        "イベント",
+        "イベント追加120",
+        "イベント素材144",
+        "お祭りの小太鼓",
+        "なつまつり"
+      ]
+    }
+  ]
+}

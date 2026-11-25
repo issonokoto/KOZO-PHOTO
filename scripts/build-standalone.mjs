@@ -24,8 +24,9 @@ function embed(file){
  if(!mime)throw new Error('Unsupported image: '+file);
  return 'data:'+mime+';base64,'+fs.readFileSync(path.join(root,file)).toString('base64');
 }
-const poses=BUNDLED_POSES.map(pose=>({...pose,src:embed(pose.src),thumbnail:pose.thumbnail?embed(pose.thumbnail):undefined}));
-const frames=BUNDLED_FRAMES.map(frame=>({...frame,src:embed(frame.src),thumbnail:embed(frame.thumbnail)}));
+// Standalone HTML embeds full offline images inline, so omit duplicate thumbnails.
+const poses=BUNDLED_POSES.map(pose=>({...pose,src:embed(pose.src),thumbnail:undefined}));
+const frames=BUNDLED_FRAMES.map(frame=>({...frame,src:embed(frame.src),thumbnail:undefined}));
 const frameSource=fs.readFileSync(path.join(root,'frames.js'),'utf8');
 const frameRenderer=frameSource.slice(frameSource.indexOf('export function drawPhotoFrame')).replace('export ', '');
 const text=fs.readFileSync(path.join(root,'text.js'),'utf8').replaceAll('export ','');
@@ -40,4 +41,5 @@ if(check.status!==0)throw new Error(check.stderr);
 html=html.replace(/<link rel="stylesheet" href="camera\.css(?:\?[^\"]*)?">/,'<style>'+css+'</style>').replace(/<script type="module" src="camera\.js(?:\?[^\"]*)?"><\/script>/,'');
 html=html.replace('</body>','<script type="module">'+script.replaceAll('</script','<\\/script')+'</script></body>');
 fs.writeFileSync(path.join(root,'KOHZO_PHOTO.html'),html);
-console.log('KOHZO_PHOTO.html を作成しました。人物素材: '+poses.length+'枚・フレーム: '+frames.length+'種類');
+const sizeMb=(Buffer.byteLength(html)/1024/1024).toFixed(1);
+console.log('KOHZO_PHOTO.html を作成しました（'+sizeMb+'MB）。人物素材: '+poses.length+'枚・フレーム: '+frames.length+'種類');

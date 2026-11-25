@@ -9,22 +9,32 @@ function assetUrl(src, version = ASSET_VERSION) {
   if (source.protocol === 'https:' || source.protocol === 'http:') source.searchParams.set('v', version);
   return source.href;
 }
+function searchKey(value) {
+  return value.normalize('NFKC').toLowerCase().replace(/[ァ-ヶ]/g, char => String.fromCharCode(char.charCodeAt(0) - 0x60));
+}
 const SUBGENRES = new Map(POSE_GENRES.flatMap(genre => genre.subgenres.map(subgenre => [subgenre.id, { ...subgenre, genreId: genre.id, genreLabel: genre.label }])));
 const CHARACTERS = BUNDLED_POSES.map(pose => {
+  const name = pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id;
+  const category = pose.category || '定番';
+  const tags = pose.tags || [];
+  const subgenres = pose.subgenres || [];
+  const classificationTerms = subgenres.map(id => SUBGENRES.get(id)).filter(Boolean).map(subgenre => `${subgenre.genreLabel} ${subgenre.label}`).join(' ');
   return {
     ...pose,
-    name: pose.name || ({ smile: '笑顔', peace: 'ピース', thumb: 'サムズアップ' })[pose.id] || pose.id,
-    category: pose.category || '定番',
-    tags: pose.tags || [],
-    subgenres: pose.subgenres || [],
-    genreIds: [...new Set((pose.subgenres || []).map(id => SUBGENRES.get(id)?.genreId).filter(Boolean))],
-    classificationTerms: (pose.subgenres || []).map(id => SUBGENRES.get(id)).filter(Boolean).map(subgenre => `${subgenre.genreLabel} ${subgenre.label}`).join(' '),
+    name,
+    category,
+    tags,
+    subgenres,
+    genreIds: [...new Set(subgenres.map(id => SUBGENRES.get(id)?.genreId).filter(Boolean))],
+    classificationTerms,
+    searchText: searchKey([name, pose.id, category, ...tags, classificationTerms].join(' ')),
+    version: 0,
     src: assetUrl(pose.src),
     thumbnail: assetUrl(pose.thumbnail || pose.src)
   };
 });
 const $ = id => document.getElementById(id);
-const FRAMES = BUNDLED_FRAMES.map(frame => ({ ...frame, src: assetUrl(frame.src, '20261027-frames'), thumbnail: assetUrl(frame.thumbnail, '20261027-frames') }));
+const FRAMES = BUNDLED_FRAMES.map(frame => ({ ...frame, src: assetUrl(frame.src, '20261027-frames'), thumbnail: assetUrl(frame.thumbnail || frame.src, '20261027-frames') }));
 const frameCanvas = $('frame-layer');
 let currentFrame = null;
 let frameImage = null;
@@ -385,14 +395,11 @@ function syncControls() {
   $('selected-name').textContent = state.selected === 'logo' ? '名前' : layers[state.selected]?.element.alt || '幸造さんを選んでね';
   for (const button of document.querySelectorAll('#placed-characters button, #placed-texts .placed-text-choice')) button.setAttribute('aria-pressed', String(button.dataset.layerId === state.selected));
 }
-function searchKey(value) {
-  return value.normalize('NFKC').toLowerCase().replace(/[ァ-ヶ]/g, char => String.fromCharCode(char.charCodeAt(0) - 0x60));
-}
 function filteredPoses() {
   const terms = searchKey($('pose-search').value).trim().split(/\s+/).filter(Boolean);
   const genre = $('pose-category').value;
   const subgenre = $('pose-subgenre').value;
-  return CHARACTERS.filter(pose => (!genre || pose.genreIds.includes(genre)) && (!subgenre || pose.subgenres.includes(subgenre)) && terms.every(term => searchKey([pose.name, pose.id, pose.category, ...pose.tags, pose.classificationTerms].join(' ')).includes(term)));
+  return CHARACTERS.filter(pose => (!genre || pose.genreIds.includes(genre)) && (!subgenre || pose.subgenres.includes(subgenre)) && terms.every(term => pose.searchText.includes(term)));
 }
 function renderCharacters() {
   const list = $('character-list');
@@ -405,7 +412,7 @@ function renderCharacters() {
   $('more-poses').hidden = visible.length >= matches.length;
   $('more-poses').textContent = `もっと見る（あと${matches.length - visible.length}種類）`;
   $('random-pose').disabled = matches.length === 0;
-  const signature = JSON.stringify(visible.map(pose => [pose.id, pose.src, pose.thumbnail]));
+  const signature = JSON.stringify(visible.map(pose => [pose.id, pose.version || 0, Boolean(pose.src)]));
   // Selecting a pose keeps the focused card, scroll position, and decoded thumbnails.
   if (signature === poseListSignature) {
     for (const button of list.children) button.setAttribute('aria-pressed', String(currentPose === button.dataset.characterId));
@@ -553,6 +560,11 @@ function removeCharacter(id = state.selected) {
   layers[id].element.remove();
   if (layers[id].objectUrl) URL.revokeObjectURL(layers[id].objectUrl);
   delete layers[id];
+  if (id === poseLayer) {
+    poseLayer = null;
+    currentPose = null;
+    renderCharacters();
+  }
   selectLayer(state.selected !== id ? state.selected : items[Math.min(index, items.length - 1)] || characters[0] || texts[0] || ($('show-logo').checked ? 'logo' : null));
   renderPlacements();
 }
@@ -1106,7 +1118,10 @@ async function selectPose(pose) {
   const selectedPose = pose.id;
   status(`${pose.name}の幸造さんを準備しています。`);
   const image = new Image(); image.src = pose.src;
-  try { await image.decode(); } catch { status('ポーズの画像を開けませんでした。素材を読み直してください。', true); return; }
+  try { await image.decode(); } catch {
+    if (selectionSequence === poseSelectionSequence) status('ポーズの画像を開けませんでした。素材を読み直してください。', true);
+    return;
+  }
   if (selectionSequence !== poseSelectionSequence) return;
   if (poseLayer && layers[poseLayer]) {
     const layer = layers[poseLayer];
@@ -1138,27 +1153,42 @@ async function rememberPose(id, file) {
 async function installPose(pose, file) {
   const {image, url} = await readLocalImage(file);
   if (poseUrls.has(pose.id)) URL.revokeObjectURL(poseUrls.get(pose.id));
-  poseUrls.set(pose.id, url); pose.src = url; pose.thumbnail = url;
+  poseUrls.set(pose.id, url); pose.src = url; pose.thumbnail = url; pose.version = (pose.version || 0) + 1;
   return image;
 }
 async function restorePoses() {
   try {
     const db = await openPoseDatabase();
-    const files = await Promise.all(CHARACTERS.map(pose => new Promise((resolve, reject) => {
-      const request = db.transaction('poses').objectStore('poses').get(pose.id);
-      request.onsuccess = () => resolve(request.result); request.onerror = () => reject(request.error);
-    })));
-    db.close();
-    for (let i = 0; i < files.length; i++) if (files[i]) await installPose(CHARACTERS[i], files[i]);
-    renderCharacters();
-    const first = CHARACTERS.find(pose => pose.src);
-    if (first) await selectPose(first);
+    const stored = new Map();
+    try {
+      await new Promise((resolve, reject) => {
+        const tx = db.transaction('poses', 'readonly');
+        const request = tx.objectStore('poses').openCursor();
+        request.onsuccess = () => {
+          const cursor = request.result;
+          if (cursor) {
+            stored.set(cursor.key, cursor.value);
+            cursor.continue();
+          }
+        };
+        tx.oncomplete = resolve;
+        tx.onerror = () => reject(tx.error);
+        tx.onabort = () => reject(tx.error || new Error('IndexedDB transaction aborted'));
+      });
+    } finally {
+      db.close();
+    }
+    for (const pose of CHARACTERS) {
+      const file = stored.get(pose.id);
+      if (!file) continue;
+      try { await installPose(pose, file); } catch { /* Ignore an unreadable stored override. */ }
+    }
   } catch {
     // Bundled portraits also work when browser storage is unavailable.
-    renderCharacters();
-    const first = CHARACTERS.find(pose => pose.src);
-    if (first) await selectPose(first);
   }
+  renderCharacters();
+  const first = CHARACTERS.find(pose => pose.src);
+  if (first) await selectPose(first);
 }
 $('pose-files').addEventListener('change', async event => {
   const files = [...event.target.files]; event.target.value = '';
